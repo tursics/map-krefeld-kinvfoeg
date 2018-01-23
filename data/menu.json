@@ -1,0 +1,26 @@
+[
+	{
+		"key": "berlin",
+		"title": "Berlin",
+		"data": "data-berlin",
+		"lat": 52.518413,
+		"lng": 13.408368,
+		"zoom": 11
+	},
+	{
+		"key": "hamburg",
+		"title": "Hamburg",
+		"data": "data-hamburg",
+		"lat": 53.551989,
+		"lng": 10.007282,
+		"zoom": 11
+	},
+	{
+		"key": "krefeld",
+		"title": "Krefeld",
+		"data": "data-krefeld",
+		"lat": 51.340164,
+		"lng": 6.602664,
+		"zoom": 12
+	}
+]
