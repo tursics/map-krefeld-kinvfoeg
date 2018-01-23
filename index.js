@@ -265,7 +265,7 @@ var search = {
 			onSelect: that.callbackOnSelect,
 			formatResult: that.callbackFormatResult,
 			showNoSuggestionNotice: true,
-			noSuggestionNotice: '<i class="fa fa-info-circle" aria-hidden="true"></i> Gebe den Namen einer Schule ein'
+			noSuggestionNotice: '<i class="fa fa-info-circle" aria-hidden="true"></i> Gebe einen Begriff ein'
 		});
 
 		this.show();
@@ -337,7 +337,7 @@ var data = {
 		try {
 			var str = '';
 
-			str += '<option selected disabled value="-">Wähle eine Stadt aus</option>';
+			str += '<option selected disabled value="-">Wähle eine Datenquelle aus</option>';
 
 			$.each(this.dataMenu, function (key, val) {
 				str += '<option value="' + val.key + '">' + val.title + '</option>';
@@ -459,8 +459,8 @@ $(document).on("pageshow", "#pageMap", function () {
 		}
 	}
 
-	// center of Germany
-	initMap('mapContainer', 51.220915, 9.357579, 6);
+	// center of Krefeld
+	initMap('mapContainer', 51.340164, 6.602664, 12);
 
 	receipt.initUI();
 	data.initUI();
