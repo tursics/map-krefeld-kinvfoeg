@@ -367,10 +367,10 @@ var data = {
 				receipt.hide();
 				marker.hide();
 				search.hide();
-				map.setView(new L.LatLng(city.lat, city.lng), city.zoom, {animation: true});
+//				map.setView(new L.LatLng(city.lat, city.lng), city.zoom, {animation: true});
 
 				$.ajax({
-					url: 'data/' + city.data + '-config.json',
+					url: 'data/' + city.config + '.json',
 					dataType: 'json',
 					mimeType: 'application/json',
 					success: function (data) {

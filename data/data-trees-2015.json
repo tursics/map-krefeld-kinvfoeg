@@ -1,0 +1,6372 @@
+[
+ {
+   "lng": 6.56878723917816,
+   "lat": 51.3609465286198,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7139,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64237917961045,
+   "lat": 51.3586069290651,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus hillerii Spire",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64256962231492,
+   "lat": 51.3586456847992,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus hillerii Spire",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53243016000868,
+   "lat": 51.3171600661665,
+   "OBJEKT_NR": "0170043",
+   "OBJEKTBEZ": "AM KONNERTZFELD",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53237488517472,
+   "lat": 51.3172266936911,
+   "OBJEKT_NR": "0170043",
+   "OBJEKTBEZ": "AM KONNERTZFELD",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64667057797406,
+   "lat": 51.3378207213712,
+   "OBJEKT_NR": "2778204",
+   "OBJEKTBEZ": "Kohlplatzweg 25, Grundschule",
+   "BAUMNUMMER": 40,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus  species",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5253519031326,
+   "lat": 51.3737557459371,
+   "OBJEKT_NR": "B3_16",
+   "OBJEKTBEZ": "Langen Dyk, mittig Hölschen- und Steegerdyk",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56671037027694,
+   "lat": 51.3600742579918,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 120,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56616785081985,
+   "lat": 51.3598102593304,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 124,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56603543924768,
+   "lat": 51.35974724912,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 125,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56576343180102,
+   "lat": 51.3596158625279,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 127,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56504791671997,
+   "lat": 51.3592715456256,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 132,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5676820372765,
+   "lat": 51.3605488982966,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 113,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56890295401196,
+   "lat": 51.3611296149248,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 104,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56904011457413,
+   "lat": 51.3611953285872,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 103,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56876563203635,
+   "lat": 51.3610669556118,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 105,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56862723786892,
+   "lat": 51.3610001367599,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 106,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56738826729266,
+   "lat": 51.3604024037467,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 115,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56711782575609,
+   "lat": 51.3602711428417,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 117,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5672542351074,
+   "lat": 51.3603373826596,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 116,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5694490766941,
+   "lat": 51.3613885489912,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 100,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55766212042408,
+   "lat": 51.3187488128505,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 149,
+   "BAUMART": "Feld-Ulme",
+   "BOTANISCHER_NAME": "Ulmus carpinifolia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56931590519943,
+   "lat": 51.3613261563621,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 101,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56917839974567,
+   "lat": 51.3612615151169,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 102,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56835370910151,
+   "lat": 51.360870073794,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 108,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56820776779879,
+   "lat": 51.3608020184638,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 109,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56439896024152,
+   "lat": 51.3589590075102,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 137,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56454031996322,
+   "lat": 51.3590180538671,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7136,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55778226628544,
+   "lat": 51.3187646673138,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 152,
+   "BAUMART": "Feld-Ulme",
+   "BOTANISCHER_NAME": "Ulmus carpinifolia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55610228608384,
+   "lat": 51.3167973851565,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 1250,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.564674901394,
+   "lat": 51.3590919181543,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 135,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56494718480557,
+   "lat": 51.3592234030095,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 133,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56535405110354,
+   "lat": 51.3594202818863,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 130,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56643993739779,
+   "lat": 51.3599429057275,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 122,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52488063826915,
+   "lat": 51.3734578114393,
+   "OBJEKT_NR": "B3_16",
+   "OBJEKTBEZ": "Langen Dyk, mittig Hölschen- und Steegerdyk",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52482011129282,
+   "lat": 51.373419044278,
+   "OBJEKT_NR": "B3_16",
+   "OBJEKTBEZ": "Langen Dyk, mittig Hölschen- und Steegerdyk",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52466416408262,
+   "lat": 51.3733322523359,
+   "OBJEKT_NR": "B3_16",
+   "OBJEKTBEZ": "Langen Dyk, mittig Hölschen- und Steegerdyk",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56657456566768,
+   "lat": 51.3600101885871,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 121,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52542058942013,
+   "lat": 51.3737946852292,
+   "OBJEKT_NR": "B3_16",
+   "OBJEKTBEZ": "Langen Dyk, mittig Hölschen- und Steegerdyk",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56562808896053,
+   "lat": 51.3595512619763,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 128,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52528104841692,
+   "lat": 51.3737065368172,
+   "OBJEKT_NR": "B3_16",
+   "OBJEKTBEZ": "Langen Dyk, mittig Hölschen- und Steegerdyk",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63814540237631,
+   "lat": 51.3586126987361,
+   "OBJEKT_NR": "4978208",
+   "OBJEKTBEZ": "Nikolaus-Groß-Straße 31, Gymnasium",
+   "BAUMNUMMER": 27,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63818169890914,
+   "lat": 51.3585474064592,
+   "OBJEKT_NR": "4978208",
+   "OBJEKTBEZ": "Nikolaus-Groß-Straße 31, Gymnasium",
+   "BAUMNUMMER": 28,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63822558257769,
+   "lat": 51.35848001901,
+   "OBJEKT_NR": "4978208",
+   "OBJEKTBEZ": "Nikolaus-Groß-Straße 31, Gymnasium",
+   "BAUMNUMMER": 29,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52496209449558,
+   "lat": 51.3735123568544,
+   "OBJEKT_NR": "B3_16",
+   "OBJEKTBEZ": "Langen Dyk, mittig Hölschen- und Steegerdyk",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56849329806684,
+   "lat": 51.3609360184143,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 107,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.61691180621813,
+   "lat": 51.3336629878788,
+   "OBJEKT_NR": "0770200",
+   "OBJEKTBEZ": "CRÖN",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Blasenesche",
+   "BOTANISCHER_NAME": "Koelreuteria paniculata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60117953756204,
+   "lat": 51.364496075496,
+   "OBJEKT_NR": "3878407",
+   "OBJEKTBEZ": "An Kalverpesch, Kindergarten",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Shirofugen",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58182943458631,
+   "lat": 51.3402000846561,
+   "OBJEKT_NR": "0470201",
+   "OBJEKTBEZ": "CROUSSTRAßE",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57374624910579,
+   "lat": 51.3406741735261,
+   "OBJEKT_NR": "0470134",
+   "OBJEKTBEZ": "BISMARCKSTRAßE",
+   "BAUMNUMMER": 31,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58090066923397,
+   "lat": 51.3399889023835,
+   "OBJEKT_NR": "0470201",
+   "OBJEKTBEZ": "CROUSSTRAßE",
+   "BAUMNUMMER": 25,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58051198889302,
+   "lat": 51.339899160194,
+   "OBJEKT_NR": "0470201",
+   "OBJEKTBEZ": "CROUSSTRAßE",
+   "BAUMNUMMER": 29,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58028705287373,
+   "lat": 51.3229418728088,
+   "OBJEKT_NR": "0570309",
+   "OBJEKTBEZ": "FÜTINGSWEG",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Scharlach-Eiche",
+   "BOTANISCHER_NAME": "Quercus coccinea",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58008965034721,
+   "lat": 51.3228736442015,
+   "OBJEKT_NR": "0570309",
+   "OBJEKTBEZ": "FÜTINGSWEG",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Scharlach-Eiche",
+   "BOTANISCHER_NAME": "Quercus coccinea",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58451101086167,
+   "lat": 51.3398883528741,
+   "OBJEKT_NR": "0870340",
+   "OBJEKTBEZ": "GRENZSTRAßE",
+   "BAUMNUMMER": 151,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54927554317676,
+   "lat": 51.3617251290962,
+   "OBJEKT_NR": "0370289",
+   "OBJEKTBEZ": "FLÜNNERTZDYK",
+   "BAUMNUMMER": 23,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59196135950286,
+   "lat": 51.3123027816265,
+   "OBJEKT_NR": "0670356",
+   "OBJEKTBEZ": "HAFELSSTRAßE",
+   "BAUMNUMMER": 44,
+   "BAUMART": "Hasel-Erle",
+   "BOTANISCHER_NAME": "Alnus serrulata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58089361734287,
+   "lat": 51.3231491888512,
+   "OBJEKT_NR": "0570309",
+   "OBJEKTBEZ": "FÜTINGSWEG",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Scharlach-Eiche",
+   "BOTANISCHER_NAME": "Quercus coccinea",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60133492921295,
+   "lat": 51.3646039255969,
+   "OBJEKT_NR": "3878407",
+   "OBJEKTBEZ": "An Kalverpesch, Kindergarten",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63120390579299,
+   "lat": 51.3608374885076,
+   "OBJEKT_NR": "0970487",
+   "OBJEKTBEZ": "KAMPSTRAßE",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63042586136428,
+   "lat": 51.3603530450381,
+   "OBJEKT_NR": "0970487",
+   "OBJEKTBEZ": "KAMPSTRAßE",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58066569624845,
+   "lat": 51.3443760323836,
+   "OBJEKT_NR": "0470469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 65,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63052951694497,
+   "lat": 51.3604766204756,
+   "OBJEKT_NR": "0970487",
+   "OBJEKTBEZ": "KAMPSTRAßE",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63065901349999,
+   "lat": 51.3605973829507,
+   "OBJEKT_NR": "0970487",
+   "OBJEKTBEZ": "KAMPSTRAßE",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63090515843503,
+   "lat": 51.3607382501911,
+   "OBJEKT_NR": "0970487",
+   "OBJEKTBEZ": "KAMPSTRAßE",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.62028891326061,
+   "lat": 51.3233331081319,
+   "OBJEKT_NR": "0770378",
+   "OBJEKTBEZ": "HECKSCHENSTRAßE",
+   "BAUMNUMMER": 40,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60096410984367,
+   "lat": 51.3646751192841,
+   "OBJEKT_NR": "3878407",
+   "OBJEKTBEZ": "An Kalverpesch, Kindergarten",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Gelbblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54388809131807,
+   "lat": 51.3235802833132,
+   "OBJEKT_NR": "0170645",
+   "OBJEKTBEZ": "MOYLANDSTRAßE",
+   "BAUMNUMMER": 31,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5440625314867,
+   "lat": 51.3236513957823,
+   "OBJEKT_NR": "0170645",
+   "OBJEKTBEZ": "MOYLANDSTRAßE",
+   "BAUMNUMMER": 33,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57747937037069,
+   "lat": 51.36123783692,
+   "OBJEKT_NR": "0870404",
+   "OBJEKTBEZ": "HEYENBAUMSTRAßE",
+   "BAUMNUMMER": 73,
+   "BAUMART": "Holländische Linde",
+   "BOTANISCHER_NAME": "Tilia x intermedia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57648817718262,
+   "lat": 51.3233724802606,
+   "OBJEKT_NR": "0570822",
+   "OBJEKTBEZ": "SIEMENSSTRAßE",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5768683922985,
+   "lat": 51.3222299908009,
+   "OBJEKT_NR": "0570822",
+   "OBJEKTBEZ": "SIEMENSSTRAßE",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57250267186416,
+   "lat": 51.3391717060028,
+   "OBJEKT_NR": "0470785",
+   "OBJEKTBEZ": "SCHILLERPLATZ",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Schindeleiche",
+   "BOTANISCHER_NAME": "Quercus imbricaria",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57529428744615,
+   "lat": 51.3437649202652,
+   "OBJEKT_NR": "0470756",
+   "OBJEKTBEZ": "RICHARD-WAGNER-STRAßE",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Sorte der Tulpenmagnolie",
+   "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57582107752576,
+   "lat": 51.3250801555702,
+   "OBJEKT_NR": "0570822",
+   "OBJEKTBEZ": "SIEMENSSTRAßE",
+   "BAUMNUMMER": 36,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57507563410702,
+   "lat": 51.3438424252399,
+   "OBJEKT_NR": "0470756",
+   "OBJEKTBEZ": "RICHARD-WAGNER-STRAßE",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Sorte der Tulpenmagnolie",
+   "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64156374503434,
+   "lat": 51.3586144858252,
+   "OBJEKT_NR": "0970712",
+   "OBJEKTBEZ": "PARKSTRAßE",
+   "BAUMNUMMER": 35,
+   "BAUMART": "Schwedische Mehlbeere",
+   "BOTANISCHER_NAME": "Sorbus intermedia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54936626158085,
+   "lat": 51.3326713384384,
+   "OBJEKT_NR": "0170730",
+   "OBJEKTBEZ": "PREUßENRING",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64190520380853,
+   "lat": 51.35793163081,
+   "OBJEKT_NR": "0970712",
+   "OBJEKTBEZ": "PARKSTRAßE",
+   "BAUMNUMMER": 31,
+   "BAUMART": "Stadt-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata Greenspire",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58777542896652,
+   "lat": 51.3411899371189,
+   "OBJEKT_NR": "0870926",
+   "OBJEKTBEZ": "WALDHOFSTRAßE",
+   "BAUMNUMMER": 42,
+   "BAUMART": "Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56874027569023,
+   "lat": 51.3100647778956,
+   "OBJEKT_NR": "0670923",
+   "OBJEKTBEZ": "VULKANSTRAßE",
+   "BAUMNUMMER": 24,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55851711550368,
+   "lat": 51.3327803622899,
+   "OBJEKT_NR": "0470947",
+   "OBJEKTBEZ": "WESTWALL",
+   "BAUMNUMMER": 126,
+   "BAUMART": "Gewöhnliche Platane",
+   "BOTANISCHER_NAME": "Platanus x acerifolia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57638078233596,
+   "lat": 51.3232732355663,
+   "OBJEKT_NR": "0570822",
+   "OBJEKTBEZ": "SIEMENSSTRAßE",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57631524348967,
+   "lat": 51.3234245733489,
+   "OBJEKT_NR": "0570822",
+   "OBJEKTBEZ": "SIEMENSSTRAßE",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58832411033972,
+   "lat": 51.3484327162012,
+   "OBJEKT_NR": "3878590",
+   "OBJEKTBEZ": "Kaiserstraße, Kaiserpark",
+   "BAUMNUMMER": 384,
+   "BAUMART": "Scharlach- Kirsche",
+   "BOTANISCHER_NAME": "Prunus sargentii",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58834884866762,
+   "lat": 51.3483570627519,
+   "OBJEKT_NR": "3878590",
+   "OBJEKTBEZ": "Kaiserstraße, Kaiserpark",
+   "BAUMNUMMER": 385,
+   "BAUMART": "Urwelt-Mammutbaum",
+   "BOTANISCHER_NAME": "Metasequoia glyptostroboides",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60537526674366,
+   "lat": 51.3245965002536,
+   "OBJEKT_NR": "0770890",
+   "OBJEKTBEZ": "UNTERGATH",
+   "BAUMNUMMER": 32,
+   "BAUMART": "Einblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58884641067138,
+   "lat": 51.3454530881629,
+   "OBJEKT_NR": "3878590",
+   "OBJEKTBEZ": "Kaiserstraße, Kaiserpark",
+   "BAUMNUMMER": 387,
+   "BAUMART": "Kalifornische Flußzeder",
+   "BOTANISCHER_NAME": "Calocedrus decurrens",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.62626841953297,
+   "lat": 51.3202926382766,
+   "OBJEKT_NR": "0771110",
+   "OBJEKTBEZ": "AM BÖTTERSHOF",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Schmalkronige Mehlbeere",
+   "BOTANISCHER_NAME": "Sorbus intermedia Brouwers",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56822903889106,
+   "lat": 51.2986941684151,
+   "OBJEKT_NR": "0671071",
+   "OBJEKTBEZ": "HÖFFGESHOFWEG",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Sumpf-Eiche",
+   "BOTANISCHER_NAME": "Quercus palustris",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5956297853504,
+   "lat": 51.3630041002752,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 342,
+   "BAUMART": "Japanischer Zierapfel",
+   "BOTANISCHER_NAME": "Malus toringo",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59445104215,
+   "lat": 51.3628412308215,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 328,
+   "BAUMART": "Japanischer Zierapfel",
+   "BOTANISCHER_NAME": "Malus toringo",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59478361620983,
+   "lat": 51.362889900841,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 332,
+   "BAUMART": "Japanischer Zierapfel",
+   "BOTANISCHER_NAME": "Malus toringo",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59470011330702,
+   "lat": 51.3628777345552,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 331,
+   "BAUMART": "Japanischer Zierapfel",
+   "BOTANISCHER_NAME": "Malus toringo",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59402929093507,
+   "lat": 51.3627858284014,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 323,
+   "BAUMART": "Japanischer Zierapfel",
+   "BOTANISCHER_NAME": "Malus toringo",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.62742744516514,
+   "lat": 51.3635965090803,
+   "OBJEKT_NR": "0970991",
+   "OBJEKTBEZ": "GÖRLITZER STRAßE",
+   "BAUMNUMMER": 51,
+   "BAUMART": "Schmalkronige Mehlbeere",
+   "BOTANISCHER_NAME": "Sorbus intermedia Brouwers",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.48673153575219,
+   "lat": 51.381191600346,
+   "OBJEKT_NR": "0371595",
+   "OBJEKTBEZ": "ST. HUBERTER LANDSTRAßE",
+   "BAUMNUMMER": 56,
+   "BAUMART": "Amerikanische Roteiche",
+   "BOTANISCHER_NAME": "Quercus rubra",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53280681440116,
+   "lat": 51.3876189327736,
+   "OBJEKT_NR": "0371421",
+   "OBJEKTBEZ": "BOOMDYK",
+   "BAUMNUMMER": 123,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52611398523717,
+   "lat": 51.3853996528611,
+   "OBJEKT_NR": "0371538",
+   "OBJEKTBEZ": "ROHRAMMERDYK",
+   "BAUMNUMMER": 90,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59689776915234,
+   "lat": 51.2998488161292,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 408,
+   "BAUMART": "Sumpfzypresse",
+   "BOTANISCHER_NAME": "Taxodium distichum",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59697123553259,
+   "lat": 51.3002339889379,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 6083,
+   "BAUMART": "Sumpfzypresse",
+   "BOTANISCHER_NAME": "Taxodium distichum",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59723819110311,
+   "lat": 51.2984048679553,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 966,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.50510789460201,
+   "lat": 51.3799772662353,
+   "OBJEKT_NR": "1375234",
+   "OBJEKTBEZ": "FDF Hüls, Am Strathof",
+   "BAUMNUMMER": 138,
+   "BAUMART": "Trauerweide",
+   "BOTANISCHER_NAME": "Salix alba Tristis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5465676803167,
+   "lat": 51.3104459502459,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 2922,
+   "BAUMART": "Ahorn",
+   "BOTANISCHER_NAME": "Acer  species",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58832865336509,
+   "lat": 51.3485721323194,
+   "OBJEKT_NR": "3878590",
+   "OBJEKTBEZ": "Kaiserstraße, Kaiserpark",
+   "BAUMNUMMER": 382,
+   "BAUMART": "Scharlach- Kirsche",
+   "BOTANISCHER_NAME": "Prunus sargentii",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54649824285269,
+   "lat": 51.3105064547411,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 2923,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54663742057346,
+   "lat": 51.3103797676553,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 2921,
+   "BAUMART": "Ahorn",
+   "BOTANISCHER_NAME": "Acer  species",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60094010040736,
+   "lat": 51.3645324965224,
+   "OBJEKT_NR": "3878407",
+   "OBJEKTBEZ": "An Kalverpesch, Kindergarten",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Gelbblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60095387002829,
+   "lat": 51.3646231553232,
+   "OBJEKT_NR": "3878407",
+   "OBJEKTBEZ": "An Kalverpesch, Kindergarten",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Gelbblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.61664119435288,
+   "lat": 51.3336268254111,
+   "OBJEKT_NR": "0770200",
+   "OBJEKTBEZ": "CRÖN",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Blasenesche",
+   "BOTANISCHER_NAME": "Koelreuteria paniculata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.49166927707885,
+   "lat": 51.3745092320529,
+   "OBJEKT_NR": "1378536",
+   "OBJEKTBEZ": "Dünkirchener Straße, Venloer Straße, Fläche - Baum des Jahres",
+   "BAUMNUMMER": 53,
+   "BAUMART": "Zerr-Eiche",
+   "BOTANISCHER_NAME": "Quercus cerris",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53015498610151,
+   "lat": 51.3367705700934,
+   "OBJEKT_NR": "1178211",
+   "OBJEKTBEZ": "Horkesgath 33, Gymnasium/Realschule",
+   "BAUMNUMMER": 59,
+   "BAUMART": "Sumpf-Eiche",
+   "BOTANISCHER_NAME": "Quercus palustris",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55992715379387,
+   "lat": 51.3273789558228,
+   "OBJEKT_NR": "1478208",
+   "OBJEKTBEZ": "Lindenstraße 52, Fichtegymnasium",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Hängende Silberlinde",
+   "BOTANISCHER_NAME": "Tilia tomentosa Pendula",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52952568640548,
+   "lat": 51.3366249515384,
+   "OBJEKT_NR": "1178211",
+   "OBJEKTBEZ": "Horkesgath 33, Gymnasium/Realschule",
+   "BAUMNUMMER": 67,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53870933242049,
+   "lat": 51.3103701248937,
+   "OBJEKT_NR": "1178517",
+   "OBJEKTBEZ": "Auf der Scholle",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Südlicher Zürgelbaum",
+   "BOTANISCHER_NAME": "Celtis australis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52826769535781,
+   "lat": 51.3240883698208,
+   "OBJEKT_NR": "1178513",
+   "OBJEKTBEZ": "Gatherhof, Grünanlage",
+   "BAUMNUMMER": 50,
+   "BAUMART": "Rot-Ahorn",
+   "BOTANISCHER_NAME": "Acer rubrum",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53879404486419,
+   "lat": 51.3104322250399,
+   "OBJEKT_NR": "1178517",
+   "OBJEKTBEZ": "Auf der Scholle",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Südlicher Zürgelbaum",
+   "BOTANISCHER_NAME": "Celtis australis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57506672574606,
+   "lat": 51.3389907286106,
+   "OBJEKT_NR": "1478524",
+   "OBJEKTBEZ": "Bismarckplatz",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64767065479812,
+   "lat": 51.3565682772466,
+   "OBJEKT_NR": "4978533",
+   "OBJEKTBEZ": "Kurfürstenstraße, Nord-West-Türmchen",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Armstrong",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55085791458285,
+   "lat": 51.3401014887025,
+   "OBJEKT_NR": "1178539",
+   "OBJEKTBEZ": "Westparkstraße, KAISER-WILHELM-PARK",
+   "BAUMNUMMER": 296,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65271717281027,
+   "lat": 51.3524494519666,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 46,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65218374044952,
+   "lat": 51.3536482843701,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 43,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6521765823073,
+   "lat": 51.3536951632071,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 39,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53892048751819,
+   "lat": 51.3103976818498,
+   "OBJEKT_NR": "1178517",
+   "OBJEKTBEZ": "Auf der Scholle",
+   "BAUMNUMMER": 17,
+   "BAUMART": "Südlicher Zürgelbaum",
+   "BOTANISCHER_NAME": "Celtis australis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.48645593912649,
+   "lat": 51.3812098751105,
+   "OBJEKT_NR": "0371595",
+   "OBJEKTBEZ": "ST. HUBERTER LANDSTRAßE",
+   "BAUMNUMMER": 57,
+   "BAUMART": "Amerikanische Roteiche",
+   "BOTANISCHER_NAME": "Quercus rubra",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.638681210631,
+   "lat": 51.3669474980527,
+   "OBJEKT_NR": "0971191",
+   "OBJEKTBEZ": "GRETE-SCHMITZ-STRAßE",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53179720204603,
+   "lat": 51.3645003793487,
+   "OBJEKT_NR": "B3_42",
+   "OBJEKTBEZ": "Am Flöthbach, südlich Plankerdyk",
+   "BAUMNUMMER": 26,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53179571480233,
+   "lat": 51.3644556969244,
+   "OBJEKT_NR": "B3_42",
+   "OBJEKTBEZ": "Am Flöthbach, südlich Plankerdyk",
+   "BAUMNUMMER": 27,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60102472956333,
+   "lat": 51.3644596888078,
+   "OBJEKT_NR": "3878407",
+   "OBJEKTBEZ": "An Kalverpesch, Kindergarten",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Shirofugen",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60121792540616,
+   "lat": 51.3644462663536,
+   "OBJEKT_NR": "3878407",
+   "OBJEKTBEZ": "An Kalverpesch, Kindergarten",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Sand-Birke",
+   "BOTANISCHER_NAME": "Betula pendula",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53156244857855,
+   "lat": 51.3645490122615,
+   "OBJEKT_NR": "B3_42",
+   "OBJEKTBEZ": "Am Flöthbach, südlich Plankerdyk",
+   "BAUMNUMMER": 28,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54512738057548,
+   "lat": 51.3097415813333,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6110,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60808405530566,
+   "lat": 51.341457729187,
+   "OBJEKT_NR": "3878603",
+   "OBJEKTBEZ": "Am Sonnenhof",
+   "BAUMNUMMER": 207,
+   "BAUMART": "Weißdorn",
+   "BOTANISCHER_NAME": "Crataegus  species",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60821612944646,
+   "lat": 51.3415102210688,
+   "OBJEKT_NR": "3878603",
+   "OBJEKTBEZ": "Am Sonnenhof",
+   "BAUMNUMMER": 208,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60814744421312,
+   "lat": 51.3416343847412,
+   "OBJEKT_NR": "3878603",
+   "OBJEKTBEZ": "Am Sonnenhof",
+   "BAUMNUMMER": 209,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58832904951361,
+   "lat": 51.3485269380539,
+   "OBJEKT_NR": "3878590",
+   "OBJEKTBEZ": "Kaiserstraße, Kaiserpark",
+   "BAUMNUMMER": 383,
+   "BAUMART": "Scharlach- Kirsche",
+   "BOTANISCHER_NAME": "Prunus sargentii",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52964836516923,
+   "lat": 51.3366540466132,
+   "OBJEKT_NR": "1178211",
+   "OBJEKTBEZ": "Horkesgath 33, Gymnasium/Realschule",
+   "BAUMNUMMER": 173,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64402116313567,
+   "lat": 51.3613116498113,
+   "OBJEKT_NR": "0970390",
+   "OBJEKTBEZ": "HEINRICHSPLATZ",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Silber-Linde",
+   "BOTANISCHER_NAME": "Tilia tomentosa",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64702665960617,
+   "lat": 51.3536564915066,
+   "OBJEKT_NR": "0970056",
+   "OBJEKTBEZ": "AM RÖTTGEN",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Rot-Ahorn",
+   "BOTANISCHER_NAME": "Acer rubrum",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64793762239155,
+   "lat": 51.3568163725432,
+   "OBJEKT_NR": "4978533",
+   "OBJEKTBEZ": "Kurfürstenstraße, Nord-West-Türmchen",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Armstrong",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57867376517224,
+   "lat": 51.3223909200801,
+   "OBJEKT_NR": "0570309",
+   "OBJEKTBEZ": "FÜTINGSWEG",
+   "BAUMNUMMER": 23,
+   "BAUMART": "Scharlach-Eiche",
+   "BOTANISCHER_NAME": "Quercus coccinea",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57486837523781,
+   "lat": 51.3439135848377,
+   "OBJEKT_NR": "0470756",
+   "OBJEKTBEZ": "RICHARD-WAGNER-STRAßE",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Sorte der Tulpenmagnolie",
+   "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56425845984038,
+   "lat": 51.3588915100043,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 138,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56481145193555,
+   "lat": 51.3591580738831,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 134,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55810843718051,
+   "lat": 51.3269098770969,
+   "OBJEKT_NR": "0470850",
+   "OBJEKTBEZ": "SÜDSTRAßE",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57327901844631,
+   "lat": 51.3364674832451,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 30,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57343226137962,
+   "lat": 51.3365183264149,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 29,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53224136670859,
+   "lat": 51.387299239659,
+   "OBJEKT_NR": "0371421",
+   "OBJEKTBEZ": "BOOMDYK",
+   "BAUMNUMMER": 252,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56356463250307,
+   "lat": 51.3585639136162,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 143,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56412604403548,
+   "lat": 51.358828677372,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 139,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56386725061638,
+   "lat": 51.3587083536354,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 141,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55574094367924,
+   "lat": 51.3255176275981,
+   "OBJEKT_NR": "0170765",
+   "OBJEKTBEZ": "ROßSTRAßE",
+   "BAUMNUMMER": 21,
+   "BAUMART": "Rotblättrige Sorte des Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides Schwedleri",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60130317765494,
+   "lat": 51.3644441504207,
+   "OBJEKT_NR": "3878407",
+   "OBJEKTBEZ": "An Kalverpesch, Kindergarten",
+   "BAUMNUMMER": 7,
+   "BAUMART": "Sand-Birke",
+   "BOTANISCHER_NAME": "Betula pendula",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55901092170972,
+   "lat": 51.3195732970659,
+   "OBJEKT_NR": "0570617",
+   "OBJEKTBEZ": "MARTINSTRAßE",
+   "BAUMNUMMER": 43,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63151537626992,
+   "lat": 51.360931027336,
+   "OBJEKT_NR": "0970487",
+   "OBJEKTBEZ": "KAMPSTRAßE",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64217543566573,
+   "lat": 51.3585706176233,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus hillerii Spire",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57685434198449,
+   "lat": 51.3402757434921,
+   "OBJEKT_NR": "1478524",
+   "OBJEKTBEZ": "Bismarckplatz",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65200319220169,
+   "lat": 51.3543721765973,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 31,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60135527164153,
+   "lat": 51.3722494143347,
+   "OBJEKT_NR": "3870741",
+   "OBJEKTBEZ": "Rather Straße",
+   "BAUMNUMMER": 9019,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6014670638957,
+   "lat": 51.3722219350051,
+   "OBJEKT_NR": "3870741",
+   "OBJEKTBEZ": "Rather Straße",
+   "BAUMNUMMER": 9020,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59521397060033,
+   "lat": 51.3629470356521,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 337,
+   "BAUMART": "Japanischer Zierapfel",
+   "BOTANISCHER_NAME": "Malus toringo",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63708075569216,
+   "lat": 51.3633904180153,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 381,
+   "BAUMART": "Himalaja-Birke",
+   "BOTANISCHER_NAME": "Betula jacquemontii",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55954905034683,
+   "lat": 51.3269160365822,
+   "OBJEKT_NR": "0470850",
+   "OBJEKTBEZ": "SÜDSTRAßE",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53226853594024,
+   "lat": 51.3173509852025,
+   "OBJEKT_NR": "0170043",
+   "OBJEKTBEZ": "AM KONNERTZFELD",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54800421553696,
+   "lat": 51.3345973951056,
+   "OBJEKT_NR": "0170354",
+   "OBJEKTBEZ": "GUTENBERGSTRAßE",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6360099840936,
+   "lat": 51.3637658848765,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 198,
+   "BAUMART": "Himalaja-Birke",
+   "BOTANISCHER_NAME": "Betula jacquemontii",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59349209724024,
+   "lat": 51.2931258576595,
+   "OBJEKT_NR": "0670543",
+   "OBJEKTBEZ": "KÜTTERWEG",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Gelbblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68863176539213,
+   "lat": 51.3233082331901,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 236,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68842768645827,
+   "lat": 51.3232883617774,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 237,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68737595577896,
+   "lat": 51.3232535084235,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 242,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68718663082188,
+   "lat": 51.3232568091388,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 243,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68678470280619,
+   "lat": 51.3232793783988,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 245,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69750826238711,
+   "lat": 51.3271385315428,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 187,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69567820997865,
+   "lat": 51.3256280513011,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 201,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69523208162063,
+   "lat": 51.3253552368828,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 204,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69475026094934,
+   "lat": 51.3250846515939,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 207,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69425148314736,
+   "lat": 51.3248348528908,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 210,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69390555644056,
+   "lat": 51.3246743136435,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 212,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5268524147975,
+   "lat": 51.3233673508568,
+   "OBJEKT_NR": "1178524",
+   "OBJEKTBEZ": "Hinsbecker Straße 1 - 9, Grünanlage",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Rot-Ahorn",
+   "BOTANISCHER_NAME": "Acer rubrum",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52697965270044,
+   "lat": 51.3234427384532,
+   "OBJEKT_NR": "1178524",
+   "OBJEKTBEZ": "Hinsbecker Straße 1 - 9, Grünanlage",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Rot-Ahorn",
+   "BOTANISCHER_NAME": "Acer rubrum",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52815089054229,
+   "lat": 51.3240337668691,
+   "OBJEKT_NR": "1178513",
+   "OBJEKTBEZ": "Gatherhof, Grünanlage",
+   "BAUMNUMMER": 64,
+   "BAUMART": "Rot-Ahorn",
+   "BOTANISCHER_NAME": "Acer rubrum",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6292812307934,
+   "lat": 51.311728823312,
+   "OBJEKT_NR": "4970372",
+   "OBJEKTBEZ": "Hauptstraße",
+   "BAUMNUMMER": 9022,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60053414403927,
+   "lat": 51.3722507602647,
+   "OBJEKT_NR": "3870741",
+   "OBJEKTBEZ": "Rather Straße",
+   "BAUMNUMMER": 9005,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60089854939456,
+   "lat": 51.3722727058175,
+   "OBJEKT_NR": "3870741",
+   "OBJEKTBEZ": "Rather Straße",
+   "BAUMNUMMER": 9007,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60090749415486,
+   "lat": 51.3722802638602,
+   "OBJEKT_NR": "3870741",
+   "OBJEKTBEZ": "Rather Straße",
+   "BAUMNUMMER": 9008,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.61105981606504,
+   "lat": 51.3492246612171,
+   "OBJEKT_NR": "3878402",
+   "OBJEKTBEZ": "Am Eickerhof, Kinderspielplatz",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Blutpflaume",
+   "BOTANISCHER_NAME": "Prunus cerasifera Nigra",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5323628779795,
+   "lat": 51.3194045261271,
+   "OBJEKT_NR": "1178207",
+   "OBJEKTBEZ": "Am Konnertzfeld 19, Berufskolleg Kaufmannsschule",
+   "BAUMNUMMER": 89,
+   "BAUMART": "Kegel-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Elsrijk",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53497690818249,
+   "lat": 51.3364076509732,
+   "OBJEKT_NR": "1178511",
+   "OBJEKTBEZ": "Ottostraße, Grünanlage u. Holthausens Kull",
+   "BAUMNUMMER": 142,
+   "BAUMART": "Trauerweide",
+   "BOTANISCHER_NAME": "Salix alba Tristis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60173019785356,
+   "lat": 51.3720948473903,
+   "OBJEKT_NR": "3870741",
+   "OBJEKTBEZ": "Rather Straße",
+   "BAUMNUMMER": 9021,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56402107605018,
+   "lat": 51.3587791866975,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 140,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56329128062012,
+   "lat": 51.3584310541779,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 145,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56316024475546,
+   "lat": 51.3583666302729,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 146,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5630201208493,
+   "lat": 51.3582975202104,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 147,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.562885350225,
+   "lat": 51.3582331081996,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 148,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56274773364565,
+   "lat": 51.3581654889864,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 149,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68594426655817,
+   "lat": 51.3234000658787,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 249,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69105882525311,
+   "lat": 51.3237216656092,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 224,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69046616556051,
+   "lat": 51.3235891068783,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 227,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68883289062689,
+   "lat": 51.3233309796308,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 235,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68821205738046,
+   "lat": 51.3232747160583,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 238,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68758030770448,
+   "lat": 51.3232493307468,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 241,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60116352725253,
+   "lat": 51.3722890161698,
+   "OBJEKT_NR": "3870741",
+   "OBJEKTBEZ": "Rather Straße",
+   "BAUMNUMMER": 9010,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60131889247227,
+   "lat": 51.3723158518427,
+   "OBJEKT_NR": "3870741",
+   "OBJEKTBEZ": "Rather Straße",
+   "BAUMNUMMER": 9012,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60130986462015,
+   "lat": 51.3723016368224,
+   "OBJEKT_NR": "3870741",
+   "OBJEKTBEZ": "Rather Straße",
+   "BAUMNUMMER": 9013,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53218100526933,
+   "lat": 51.321950774902,
+   "OBJEKT_NR": "1178562",
+   "OBJEKTBEZ": "Heimatplan",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57640664633793,
+   "lat": 51.3423739723331,
+   "OBJEKT_NR": "0470426",
+   "OBJEKTBEZ": "HOHENZOLLERNSTRAßE",
+   "BAUMNUMMER": 171,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64556845626771,
+   "lat": 51.3736339127164,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 799,
+   "BAUMART": "Amerikanische Roteiche",
+   "BOTANISCHER_NAME": "Quercus rubra",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59487141804392,
+   "lat": 51.3629011463156,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 333,
+   "BAUMART": "Japanischer Zierapfel",
+   "BOTANISCHER_NAME": "Malus toringo",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68985391536616,
+   "lat": 51.3234737607157,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 230,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68923402939772,
+   "lat": 51.3233799699634,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 233,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58443315999266,
+   "lat": 51.3679244020426,
+   "OBJEKT_NR": "3870525",
+   "OBJEKTBEZ": "Kornaue",
+   "BAUMNUMMER": 3,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58441912076465,
+   "lat": 51.3678881376913,
+   "OBJEKT_NR": "3870525",
+   "OBJEKTBEZ": "Kornaue",
+   "BAUMNUMMER": 4,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69633320590467,
+   "lat": 51.3286427606496,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52824588635071,
+   "lat": 51.369969215957,
+   "OBJEKT_NR": "B3_30",
+   "OBJEKTBEZ": "Langendyk, Floetbach Ausweitung 2010",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52848561127912,
+   "lat": 51.3697483611624,
+   "OBJEKT_NR": "B3_30",
+   "OBJEKTBEZ": "Langendyk, Floetbach Ausweitung 2010",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69965613414855,
+   "lat": 51.3322178992506,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 148,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70015152816477,
+   "lat": 51.3320322480912,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 149,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70067325092703,
+   "lat": 51.3313765483463,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 155,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69040844674236,
+   "lat": 51.3234842829816,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 329,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6910139963364,
+   "lat": 51.3236143162232,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 332,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69162372088133,
+   "lat": 51.3237665011925,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 335,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59461662228537,
+   "lat": 51.3628664679368,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 330,
+   "BAUMART": "Japanischer Zierapfel",
+   "BOTANISCHER_NAME": "Malus toringo",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69860228817702,
+   "lat": 51.3284847107756,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 179,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69829856899877,
+   "lat": 51.3281228550662,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 182,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6979017780181,
+   "lat": 51.3276209414697,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 183,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69761752461109,
+   "lat": 51.3272568545537,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 186,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6972847092416,
+   "lat": 51.326908827147,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 189,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69704344111049,
+   "lat": 51.3266776003497,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 191,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69298716443931,
+   "lat": 51.3241851656258,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 342,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69335225249913,
+   "lat": 51.3243336239723,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 344,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69353361598949,
+   "lat": 51.3244050703824,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 345,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69407063818301,
+   "lat": 51.324637478533,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 348,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69458324618079,
+   "lat": 51.3248826469293,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 351,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69508001738096,
+   "lat": 51.3251451592751,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 354,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69539946828901,
+   "lat": 51.3253258214109,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 356,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69389485627385,
+   "lat": 51.3245600729658,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 347,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69475325364752,
+   "lat": 51.3249698703854,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 352,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69555831247206,
+   "lat": 51.3254249638157,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 357,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69643885542937,
+   "lat": 51.3260261120147,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 363,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6968419553133,
+   "lat": 51.3263480248187,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 366,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69722308718391,
+   "lat": 51.3266866102946,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 369,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57414959850551,
+   "lat": 51.3619048586743,
+   "OBJEKT_NR": "0870404",
+   "OBJEKTBEZ": "HEYENBAUMSTRAßE",
+   "BAUMNUMMER": 72,
+   "BAUMART": "Holländische Linde",
+   "BOTANISCHER_NAME": "Tilia x intermedia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58249876287441,
+   "lat": 51.3610473864017,
+   "OBJEKT_NR": "0870404",
+   "OBJEKTBEZ": "HEYENBAUMSTRAßE",
+   "BAUMNUMMER": 74,
+   "BAUMART": "Holländische Linde",
+   "BOTANISCHER_NAME": "Tilia x intermedia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58566428335551,
+   "lat": 51.2945326800637,
+   "OBJEKT_NR": "0671214",
+   "OBJEKTBEZ": "WEIDENRÖSCHENWEG",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64282360615228,
+   "lat": 51.3586961957844,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus hillerii Spire",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64309430665725,
+   "lat": 51.3587470426783,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus hillerii Spire",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63161748378439,
+   "lat": 51.3664169891317,
+   "OBJEKT_NR": "E3_03",
+   "OBJEKTBEZ": "Löschenhofweg",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63180493226466,
+   "lat": 51.3664770108723,
+   "OBJEKT_NR": "E3_03",
+   "OBJEKTBEZ": "Löschenhofweg",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52916000449088,
+   "lat": 51.3367632035571,
+   "OBJEKT_NR": "1178211",
+   "OBJEKTBEZ": "Horkesgath 33, Gymnasium/Realschule",
+   "BAUMNUMMER": 176,
+   "BAUMART": "Sorte vom Japanischen Apfel",
+   "BOTANISCHER_NAME": "Malus floribunda Red Sentinel",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64365673008487,
+   "lat": 51.3588354183629,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64420733509748,
+   "lat": 51.3588917954072,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64430152405799,
+   "lat": 51.3587923343161,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64448825338796,
+   "lat": 51.3586607606273,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69625651832564,
+   "lat": 51.3260290271359,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 197,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69597622130806,
+   "lat": 51.3258293006397,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 199,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69553044695876,
+   "lat": 51.3255306778611,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 202,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69538952228418,
+   "lat": 51.3254463470957,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 203,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69458510324124,
+   "lat": 51.3249980824406,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 208,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69441883418153,
+   "lat": 51.3249150115944,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 209,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6940803317392,
+   "lat": 51.3247557925649,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 211,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69585785737751,
+   "lat": 51.3256162691057,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 359,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69616358702299,
+   "lat": 51.3258248015375,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 361,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69630731094546,
+   "lat": 51.3259269562254,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 362,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69670917425397,
+   "lat": 51.3262383607138,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 365,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69709935172905,
+   "lat": 51.3265721582538,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 368,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69746077063169,
+   "lat": 51.3269175287228,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 371,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69768421238933,
+   "lat": 51.3271514774526,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 373,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69743695470433,
+   "lat": 51.3282005247856,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69691719837561,
+   "lat": 51.3284144230058,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69674183387321,
+   "lat": 51.3284849949822,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 7,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69578708148792,
+   "lat": 51.3288312807774,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69541680705785,
+   "lat": 51.3289478779659,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67460627749219,
+   "lat": 51.3266055525972,
+   "OBJEKT_NR": "0971230",
+   "OBJEKTBEZ": "DAKERSTRAßE",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57376682731888,
+   "lat": 51.3361781018275,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 24,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63171792251882,
+   "lat": 51.3664454347123,
+   "OBJEKT_NR": "E3_03",
+   "OBJEKTBEZ": "Löschenhofweg",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60948492884291,
+   "lat": 51.3478253153875,
+   "OBJEKT_NR": "0870182",
+   "OBJEKTBEZ": "BUSCHSTRAßE",
+   "BAUMNUMMER": 17,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Red Sunset",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52949759574846,
+   "lat": 51.3369328626273,
+   "OBJEKT_NR": "1178211",
+   "OBJEKTBEZ": "Horkesgath 33, Gymnasium/Realschule",
+   "BAUMNUMMER": 174,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53105187455893,
+   "lat": 51.3362832196533,
+   "OBJEKT_NR": "1178211",
+   "OBJEKTBEZ": "Horkesgath 33, Gymnasium/Realschule",
+   "BAUMNUMMER": 175,
+   "BAUMART": "Ulme",
+   "BOTANISCHER_NAME": "Ulmus  species",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69354618174472,
+   "lat": 51.324520549275,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 214,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69318256720165,
+   "lat": 51.3243766747994,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 216,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6920549155714,
+   "lat": 51.3239883242691,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 219,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69085428590126,
+   "lat": 51.3236736258889,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 225,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69065530114002,
+   "lat": 51.3236268688578,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 226,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6902668575432,
+   "lat": 51.3235487969353,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 228,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6980127523547,
+   "lat": 51.3275028212953,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 376,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69811350454186,
+   "lat": 51.3276190276811,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 377,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70062650634338,
+   "lat": 51.3311315473791,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 157,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70038197449756,
+   "lat": 51.3307776356591,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 160,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69973030825777,
+   "lat": 51.3299316802381,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 167,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69888911889141,
+   "lat": 51.3288502177855,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 176,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67780544727517,
+   "lat": 51.3251497637108,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 19,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6745639822816,
+   "lat": 51.3269080670554,
+   "OBJEKT_NR": "0971230",
+   "OBJEKTBEZ": "DAKERSTRAßE",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67491031327917,
+   "lat": 51.3260891522901,
+   "OBJEKT_NR": "0971230",
+   "OBJEKTBEZ": "DAKERSTRAßE",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67429229110904,
+   "lat": 51.3271454076524,
+   "OBJEKT_NR": "0971230",
+   "OBJEKTBEZ": "DAKERSTRAßE",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67505032530582,
+   "lat": 51.3258497349085,
+   "OBJEKT_NR": "0971230",
+   "OBJEKTBEZ": "DAKERSTRAßE",
+   "BAUMNUMMER": 7,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69760998790667,
+   "lat": 51.3281278421256,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69708900048842,
+   "lat": 51.328343423946,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70055956712636,
+   "lat": 51.3310093647429,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 158,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70047365086738,
+   "lat": 51.3308920899085,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 159,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68619956627459,
+   "lat": 51.3232577006666,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 309,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68642926986718,
+   "lat": 51.323225820647,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 310,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68666127963036,
+   "lat": 51.3232006075254,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 311,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68791446369651,
+   "lat": 51.3231663202561,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 317,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68896685960529,
+   "lat": 51.3232544215291,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 322,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56248088210382,
+   "lat": 51.3580347415343,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 151,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64402462598765,
+   "lat": 51.3588745299229,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6443989204933,
+   "lat": 51.3585598726172,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70011291184603,
+   "lat": 51.3304273540504,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 163,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69991941993996,
+   "lat": 51.3301765411755,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 165,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69982338808389,
+   "lat": 51.3300555483346,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 166,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69963427435777,
+   "lat": 51.3298106883903,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 168,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69907274438475,
+   "lat": 51.3290920377777,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 174,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69897949925818,
+   "lat": 51.3289716849838,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 175,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69879134064667,
+   "lat": 51.3287268444934,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 177,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6893702379477,
+   "lat": 51.3233065290065,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 324,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68999407802442,
+   "lat": 51.3234054751546,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 327,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6902018129309,
+   "lat": 51.3234426828581,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 328,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6908155013578,
+   "lat": 51.3235684632023,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 331,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69141854597163,
+   "lat": 51.323713343905,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 334,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69202312661971,
+   "lat": 51.3238803243169,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 337,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69241530195551,
+   "lat": 51.3239978662405,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 339,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68686207950061,
+   "lat": 51.3231830544978,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 312,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68875576639318,
+   "lat": 51.3232314924929,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 321,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6891655247312,
+   "lat": 51.3232793121217,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 323,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65021579745029,
+   "lat": 51.3516718537191,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 162,
+   "BAUMART": "Trompetenbaum",
+   "BOTANISCHER_NAME": "Catalpa  species",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59855954880703,
+   "lat": 51.3172883790937,
+   "OBJEKT_NR": "2678522",
+   "OBJEKTBEZ": "Hafelsstraße, Bunker Ecke Langendonk",
+   "BAUMNUMMER": 56,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus  species",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56261444163262,
+   "lat": 51.3581002979971,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 150,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6266693053209,
+   "lat": 51.3531315137963,
+   "OBJEKT_NR": "4970592",
+   "OBJEKTBEZ": "Lübecker Weg, Grünanlage Bremerstraße",
+   "BAUMNUMMER": 1,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.62667771565704,
+   "lat": 51.353154977809,
+   "OBJEKT_NR": "4970592",
+   "OBJEKTBEZ": "Lübecker Weg, Grünanlage Bremerstraße",
+   "BAUMNUMMER": 2,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.62667889668882,
+   "lat": 51.3531765864998,
+   "OBJEKT_NR": "4970592",
+   "OBJEKTBEZ": "Lübecker Weg, Grünanlage Bremerstraße",
+   "BAUMNUMMER": 3,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52786373234952,
+   "lat": 51.3688250425835,
+   "OBJEKT_NR": "B3_33",
+   "OBJEKTBEZ": "Zwischen Flöthbach und Langendyk, Höhe Maasen",
+   "BAUMNUMMER": 28,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56892456632538,
+   "lat": 51.3610117961973,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7138,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56865186140198,
+   "lat": 51.3607821006073,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7140,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56837818648664,
+   "lat": 51.360747008354,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7141,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56824400837164,
+   "lat": 51.3606819853917,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7142,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56811399242241,
+   "lat": 51.3605248630577,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7143,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56810473133359,
+   "lat": 51.3606155972552,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7144,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56796958282979,
+   "lat": 51.3605499242572,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7145,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52394665720505,
+   "lat": 51.3773459705485,
+   "OBJEKT_NR": "B3_03",
+   "OBJEKTBEZ": "Hölschen Dyk, nördl. Hölschendyk, westl. Bachstelzendyk",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52372305428583,
+   "lat": 51.3772827904074,
+   "OBJEKT_NR": "B3_03",
+   "OBJEKTBEZ": "Hölschen Dyk, nördl. Hölschendyk, westl. Bachstelzendyk",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58083657963224,
+   "lat": 51.3099467622285,
+   "OBJEKT_NR": "2678548",
+   "OBJEKTBEZ": "Mühlenfeld, Stadtpark Fischeln I",
+   "BAUMNUMMER": 2455,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56742697113586,
+   "lat": 51.3601952728959,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7148,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56729826187639,
+   "lat": 51.3601246963861,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7149,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56729232545911,
+   "lat": 51.3602231442722,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7150,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52368738645125,
+   "lat": 51.377270670485,
+   "OBJEKT_NR": "B3_03",
+   "OBJEKTBEZ": "Hölschen Dyk, nördl. Hölschendyk, westl. Bachstelzendyk",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52364510859141,
+   "lat": 51.377260846291,
+   "OBJEKT_NR": "B3_03",
+   "OBJEKTBEZ": "Hölschen Dyk, nördl. Hölschendyk, westl. Bachstelzendyk",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52360037061402,
+   "lat": 51.3772485345479,
+   "OBJEKT_NR": "B3_03",
+   "OBJEKTBEZ": "Hölschen Dyk, nördl. Hölschendyk, westl. Bachstelzendyk",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52354807713432,
+   "lat": 51.3772320038288,
+   "OBJEKT_NR": "B3_03",
+   "OBJEKTBEZ": "Hölschen Dyk, nördl. Hölschendyk, westl. Bachstelzendyk",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52349820003837,
+   "lat": 51.3772187715346,
+   "OBJEKT_NR": "B3_03",
+   "OBJEKTBEZ": "Hölschen Dyk, nördl. Hölschendyk, westl. Bachstelzendyk",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67488538146205,
+   "lat": 51.3263606240032,
+   "OBJEKT_NR": "0971230",
+   "OBJEKTBEZ": "DAKERSTRAßE",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58207541920966,
+   "lat": 51.3095833792631,
+   "OBJEKT_NR": "2678548",
+   "OBJEKTBEZ": "Mühlenfeld, Stadtpark Fischeln I",
+   "BAUMNUMMER": 2450,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58114809245178,
+   "lat": 51.3099239703318,
+   "OBJEKT_NR": "2678548",
+   "OBJEKTBEZ": "Mühlenfeld, Stadtpark Fischeln I",
+   "BAUMNUMMER": 2453,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus  species",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67512964920993,
+   "lat": 51.3257118192573,
+   "OBJEKT_NR": "0971230",
+   "OBJEKTBEZ": "DAKERSTRAßE",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67518734508388,
+   "lat": 51.3259219765949,
+   "OBJEKT_NR": "0971230",
+   "OBJEKTBEZ": "DAKERSTRAßE",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57374551003286,
+   "lat": 51.3364675284484,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 27,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56756225579486,
+   "lat": 51.3603559230869,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7146,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56742974417292,
+   "lat": 51.3602893149176,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7147,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64346476716388,
+   "lat": 51.3588103730564,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 7,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67425135175008,
+   "lat": 51.3274409339091,
+   "OBJEKT_NR": "0971230",
+   "OBJEKTBEZ": "DAKERSTRAßE",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70065486850605,
+   "lat": 51.3315005756851,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 154,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70029138079068,
+   "lat": 51.330660268806,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 161,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69925594357672,
+   "lat": 51.3293233090148,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 172,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69869616057202,
+   "lat": 51.328605280073,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 178,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69850045030022,
+   "lat": 51.3283655180862,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 180,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69772088017901,
+   "lat": 51.3273809286832,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 185,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63016038540467,
+   "lat": 51.3600336862268,
+   "OBJEKT_NR": "0970487",
+   "OBJEKTBEZ": "KAMPSTRAßE",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63100479501679,
+   "lat": 51.3607755257679,
+   "OBJEKT_NR": "0970487",
+   "OBJEKTBEZ": "KAMPSTRAßE",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64430207312182,
+   "lat": 51.3605938337134,
+   "OBJEKT_NR": "4978529",
+   "OBJEKTBEZ": "Heinrichsplatz",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Gewöhnlicher Trompetenbaum",
+   "BOTANISCHER_NAME": "Catalpa bignonioides",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64418746012558,
+   "lat": 51.3606623128923,
+   "OBJEKT_NR": "4978529",
+   "OBJEKTBEZ": "Heinrichsplatz",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Gewöhnlicher Trompetenbaum",
+   "BOTANISCHER_NAME": "Catalpa bignonioides",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64420921272807,
+   "lat": 51.3607556941283,
+   "OBJEKT_NR": "4978529",
+   "OBJEKTBEZ": "Heinrichsplatz",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Gewöhnlicher Trompetenbaum",
+   "BOTANISCHER_NAME": "Catalpa bignonioides",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65268446119089,
+   "lat": 51.3521800194531,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 181,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63943583192328,
+   "lat": 51.3570821799341,
+   "OBJEKT_NR": "0970784",
+   "OBJEKTBEZ": "SCHENKENDORFSTRAßE",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70053649661454,
+   "lat": 51.3317323591759,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 152,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70020368245461,
+   "lat": 51.3305412002294,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 162,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69954177279841,
+   "lat": 51.3296938772595,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 169,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70030683868576,
+   "lat": 51.3319420075782,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 150,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6991652176237,
+   "lat": 51.3292088672386,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 173,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6967923202539,
+   "lat": 51.3264561537472,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 193,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69639261697256,
+   "lat": 51.3261349711893,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 196,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69582407312303,
+   "lat": 51.3257259738942,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 200,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69491802011286,
+   "lat": 51.3251753789013,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 206,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69372779868238,
+   "lat": 51.3245962961348,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 213,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69935105863674,
+   "lat": 51.3294437011805,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 171,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57383984606653,
+   "lat": 51.3362690128614,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 25,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69122197595243,
+   "lat": 51.323664218655,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 333,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69441653751319,
+   "lat": 51.3247999026977,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 350,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69740145502369,
+   "lat": 51.3270272975662,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 188,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6950774482206,
+   "lat": 51.3252641817226,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 205,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68800116491934,
+   "lat": 51.3232599900056,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 239,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52899081739791,
+   "lat": 51.3704244370616,
+   "OBJEKT_NR": "B3_30",
+   "OBJEKTBEZ": "Langendyk, Floetbach Ausweitung 2010",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52906399412175,
+   "lat": 51.3704625138285,
+   "OBJEKT_NR": "B3_30",
+   "OBJEKTBEZ": "Langendyk, Floetbach Ausweitung 2010",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52913229445936,
+   "lat": 51.3704948047958,
+   "OBJEKT_NR": "B3_30",
+   "OBJEKTBEZ": "Langendyk, Floetbach Ausweitung 2010",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52919532532591,
+   "lat": 51.3705286082152,
+   "OBJEKT_NR": "B3_30",
+   "OBJEKTBEZ": "Langendyk, Floetbach Ausweitung 2010",
+   "BAUMNUMMER": 17,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52925442594372,
+   "lat": 51.3705631405139,
+   "OBJEKT_NR": "B3_30",
+   "OBJEKTBEZ": "Langendyk, Floetbach Ausweitung 2010",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52932121265873,
+   "lat": 51.3705994586197,
+   "OBJEKT_NR": "B3_30",
+   "OBJEKTBEZ": "Langendyk, Floetbach Ausweitung 2010",
+   "BAUMNUMMER": 19,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70060865021453,
+   "lat": 51.3316193624498,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 153,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64606467629405,
+   "lat": 51.3345612576387,
+   "OBJEKT_NR": "2778535",
+   "OBJEKTBEZ": "Greiffenhorstpark, Am Mühlenhof bis Schloss",
+   "BAUMNUMMER": 539,
+   "BAUMART": "Kirsche",
+   "BOTANISCHER_NAME": "Prunus  species",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55230577427166,
+   "lat": 51.3301930173611,
+   "OBJEKT_NR": "0170466",
+   "OBJEKTBEZ": "JÄGERSTRAßE",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59836603411955,
+   "lat": 51.2945421270248,
+   "OBJEKT_NR": "0670516",
+   "OBJEKTBEZ": "KÖLNER STRAßE",
+   "BAUMNUMMER": 398,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52946515088898,
+   "lat": 51.3706723133799,
+   "OBJEKT_NR": "B3_30",
+   "OBJEKTBEZ": "Langendyk, Floetbach Ausweitung 2010",
+   "BAUMNUMMER": 21,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58442821094073,
+   "lat": 51.3678573869079,
+   "OBJEKT_NR": "3870525",
+   "OBJEKTBEZ": "Kornaue",
+   "BAUMNUMMER": 5,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54506513892441,
+   "lat": 51.3098026780111,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6109,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54518561208776,
+   "lat": 51.3096855762279,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6111,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54506941494757,
+   "lat": 51.3096944426795,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6113,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54470228917665,
+   "lat": 51.3100399758729,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6117,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54461147366852,
+   "lat": 51.3099956827675,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6118,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54453554179863,
+   "lat": 51.3097673493261,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6120,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6775961206615,
+   "lat": 51.3251789776245,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 20,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67794345961528,
+   "lat": 51.325222291657,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 21,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6781418309217,
+   "lat": 51.3251769411546,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 22,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67834166307215,
+   "lat": 51.3251310796722,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 23,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68210439749294,
+   "lat": 51.324282086012,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 26,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68230127408614,
+   "lat": 51.3242349001926,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 27,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55108628358578,
+   "lat": 51.3339445269509,
+   "OBJEKT_NR": "1178543",
+   "OBJEKTBEZ": "Steinstraße, STADTGARTEN",
+   "BAUMNUMMER": 324,
+   "BAUMART": "Säulenhainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55107976304614,
+   "lat": 51.333913707964,
+   "OBJEKT_NR": "1178543",
+   "OBJEKTBEZ": "Steinstraße, STADTGARTEN",
+   "BAUMNUMMER": 325,
+   "BAUMART": "Säulenhainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5510113713269,
+   "lat": 51.3337673873017,
+   "OBJEKT_NR": "1178543",
+   "OBJEKTBEZ": "Steinstraße, STADTGARTEN",
+   "BAUMNUMMER": 326,
+   "BAUMART": "Säulenhainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55093066036155,
+   "lat": 51.3335969446427,
+   "OBJEKT_NR": "1178543",
+   "OBJEKTBEZ": "Steinstraße, STADTGARTEN",
+   "BAUMNUMMER": 329,
+   "BAUMART": "Säulenhainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55086725185726,
+   "lat": 51.3334592510715,
+   "OBJEKT_NR": "1178543",
+   "OBJEKTBEZ": "Steinstraße, STADTGARTEN",
+   "BAUMNUMMER": 330,
+   "BAUMART": "Säulenhainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55109310073222,
+   "lat": 51.333714550136,
+   "OBJEKT_NR": "1178543",
+   "OBJEKTBEZ": "Steinstraße, STADTGARTEN",
+   "BAUMNUMMER": 331,
+   "BAUMART": "Säulenhainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70043834890591,
+   "lat": 51.3318407381534,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 151,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70001422085807,
+   "lat": 51.3303033764574,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 164,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69839542660844,
+   "lat": 51.328246892068,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 181,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69612366298884,
+   "lat": 51.3259331212992,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 198,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69336728373806,
+   "lat": 51.324446615916,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 215,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68964671185678,
+   "lat": 51.3234415082551,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 231,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68268812510825,
+   "lat": 51.3241322067628,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 29,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68288442987265,
+   "lat": 51.3240877966684,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 30,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68308978337197,
+   "lat": 51.3240404175688,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 32,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68273420592164,
+   "lat": 51.3240239365242,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 34,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68313673710925,
+   "lat": 51.3239318946454,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 36,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68329168589007,
+   "lat": 51.3239931496912,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 37,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69615133539542,
+   "lat": 51.328708501125,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69596870231251,
+   "lat": 51.328770560609,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69560106354265,
+   "lat": 51.3288898123744,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69522937861463,
+   "lat": 51.3290063322737,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69504476461609,
+   "lat": 51.3290645895564,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69485968841408,
+   "lat": 51.3291230131884,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 17,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67942037790318,
+   "lat": 51.3246991892141,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6526394808393,
+   "lat": 51.3528834258754,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 176,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65273418488508,
+   "lat": 51.3523335269162,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 175,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65250539881668,
+   "lat": 51.352786597477,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 177,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55103693818811,
+   "lat": 51.3335940541198,
+   "OBJEKT_NR": "1178543",
+   "OBJEKTBEZ": "Steinstraße, STADTGARTEN",
+   "BAUMNUMMER": 332,
+   "BAUMART": "Säulenhainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68978881666368,
+   "lat": 51.3233716267783,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 326,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69317097258885,
+   "lat": 51.3242605234811,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 343,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69601128615728,
+   "lat": 51.325718063362,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 360,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69696772556723,
+   "lat": 51.3264569990374,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 367,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68248792697349,
+   "lat": 51.3241826551086,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 28,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68293370566113,
+   "lat": 51.3239787801669,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 35,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68393838949213,
+   "lat": 51.3237470198126,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 44,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68333717343983,
+   "lat": 51.323885227228,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 38,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68349235931851,
+   "lat": 51.323947475996,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 39,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68353742522049,
+   "lat": 51.3238393652424,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 40,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68373639510631,
+   "lat": 51.3237932976815,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 42,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68389432386932,
+   "lat": 51.3238552404405,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 43,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68409285424412,
+   "lat": 51.3238093434522,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 45,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68414083177636,
+   "lat": 51.3237003907137,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 46,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67967645374596,
+   "lat": 51.32463384497,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68045757838363,
+   "lat": 51.3243926467168,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68051815133339,
+   "lat": 51.324475149075,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 7,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68018848364942,
+   "lat": 51.3245680862535,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68538667309946,
+   "lat": 51.3234053967047,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 56,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68000216616953,
+   "lat": 51.3246221330641,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67971386636043,
+   "lat": 51.3246945738555,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55152203893122,
+   "lat": 51.3138979727607,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 109,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55205459194356,
+   "lat": 51.3140948541073,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 101,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65256406726945,
+   "lat": 51.3526818244908,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 179,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6525792500996,
+   "lat": 51.3533107381927,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 180,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6849097278902,
+   "lat": 51.3236242234989,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 53,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68429485288892,
+   "lat": 51.3237629751182,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 47,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68434109104184,
+   "lat": 51.3236543476386,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 48,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68454266310466,
+   "lat": 51.3236078805082,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 49,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68469621807968,
+   "lat": 51.3236711746522,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 51,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68474494721866,
+   "lat": 51.3235615170514,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 52,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68511303528501,
+   "lat": 51.3235831858693,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 54,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68518640997899,
+   "lat": 51.323454409369,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 55,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67951237207147,
+   "lat": 51.3247449914562,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67900831636265,
+   "lat": 51.3248744901475,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67881654170385,
+   "lat": 51.3249228508553,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67859996590326,
+   "lat": 51.32497341755,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67840027354724,
+   "lat": 51.3250193721763,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67819217287234,
+   "lat": 51.3250669584273,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 17,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.67799020803217,
+   "lat": 51.3251124176088,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57002556616328,
+   "lat": 51.339033038853,
+   "OBJEKT_NR": "0470565",
+   "OBJEKTBEZ": "LESSINGSTRAßE",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Schindeleiche",
+   "BOTANISCHER_NAME": "Quercus imbricaria",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57360093634875,
+   "lat": 51.3365189443683,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 28,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54483213301013,
+   "lat": 51.3096348322651,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6122,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54494843051526,
+   "lat": 51.3096240842418,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6123,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54497496474458,
+   "lat": 51.3098026706001,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6126,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64798702628169,
+   "lat": 51.3654188944015,
+   "OBJEKT_NR": "4978516",
+   "OBJEKTBEZ": "Duisburgerstraße / Körnerstraße / Ahornstraße, Grünverb.",
+   "BAUMNUMMER": 32,
+   "BAUMART": "Zierapfel",
+   "BOTANISCHER_NAME": "Malus Evereste",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6836913251904,
+   "lat": 51.3239014983654,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 41,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68449395153946,
+   "lat": 51.3237171786313,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 50,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.53271825984601,
+   "lat": 51.3194386512638,
+   "OBJEKT_NR": "1178207",
+   "OBJEKTBEZ": "Am Konnertzfeld 19, Berufskolleg Kaufmannsschule",
+   "BAUMNUMMER": 90,
+   "BAUMART": "Kegel-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Elsrijk",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6977821324627,
+   "lat": 51.3280585592981,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69656606952865,
+   "lat": 51.3285550259851,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56780167597246,
+   "lat": 51.3606063350028,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 112,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69125883470356,
+   "lat": 51.3237666819381,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 223,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69006170116035,
+   "lat": 51.3235130651679,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 229,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68903208611849,
+   "lat": 51.3233548611094,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 234,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6877879887584,
+   "lat": 51.32325343282,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 240,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69779024238757,
+   "lat": 51.3272677879254,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 374,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69261242244406,
+   "lat": 51.3240536220823,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 340,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69221840340438,
+   "lat": 51.3239376999248,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 338,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69181982112403,
+   "lat": 51.323824997339,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 336,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6881269628193,
+   "lat": 51.3231787941039,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 318,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68748505898714,
+   "lat": 51.3231589424237,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 315,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63940327715131,
+   "lat": 51.3613954252114,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2012,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58831637359809,
+   "lat": 51.3485645759831,
+   "OBJEKT_NR": "3878590",
+   "OBJEKTBEZ": "Kaiserstraße, Kaiserpark",
+   "BAUMNUMMER": 376,
+   "BAUMART": "Scharlach- Kirsche",
+   "BOTANISCHER_NAME": "Prunus sargentii",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58832179633402,
+   "lat": 51.3484246211505,
+   "OBJEKT_NR": "3878590",
+   "OBJEKTBEZ": "Kaiserstraße, Kaiserpark",
+   "BAUMNUMMER": 377,
+   "BAUMART": "Scharlach- Kirsche",
+   "BOTANISCHER_NAME": "Prunus sargentii",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69946263773274,
+   "lat": 51.3322850925249,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 147,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63474474783594,
+   "lat": 51.3655095992646,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2000,
+   "BAUMART": "Holz-Apfel",
+   "BOTANISCHER_NAME": "Malus sylvestris",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63473218935124,
+   "lat": 51.3655441958878,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2001,
+   "BAUMART": "Holz-Apfel",
+   "BOTANISCHER_NAME": "Malus sylvestris",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6350366648517,
+   "lat": 51.3647772334609,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2002,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54515011179388,
+   "lat": 51.3098731211383,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6104,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54494079070586,
+   "lat": 51.3100204877559,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6106,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54479600684917,
+   "lat": 51.3100862136953,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6107,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54484681578345,
+   "lat": 51.3100072131365,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6108,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.61807895555468,
+   "lat": 51.3635800574217,
+   "OBJEKT_NR": "4878541",
+   "OBJEKTBEZ": "Breslauer Straße, Grünzug bis Stettiner Straße",
+   "BAUMNUMMER": 140,
+   "BAUMART": "Walnuß",
+   "BOTANISCHER_NAME": "Juglans regia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5452916464978,
+   "lat": 51.3096981615334,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6101,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54522381705034,
+   "lat": 51.3098144835861,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6103,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65275361541577,
+   "lat": 51.3520076772722,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 182,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69691617080319,
+   "lat": 51.3265636164203,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 192,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69653245851184,
+   "lat": 51.3262409887222,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 195,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69165803047856,
+   "lat": 51.3238731260258,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 221,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68943860261292,
+   "lat": 51.3234086508097,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 232,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68657104607987,
+   "lat": 51.3233009730012,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 246,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68613249722116,
+   "lat": 51.3233627146406,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 248,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69657537579233,
+   "lat": 51.3261314355021,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 364,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69524018244953,
+   "lat": 51.3252354991094,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 355,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69060301272222,
+   "lat": 51.3235206783497,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 330,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68958355561611,
+   "lat": 51.3233377780457,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 325,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69757221700321,
+   "lat": 51.3270311868649,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 372,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69734583286989,
+   "lat": 51.3268032499847,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 370,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69570948733238,
+   "lat": 51.3255189887218,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 358,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69491900073883,
+   "lat": 51.3250542506348,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 353,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69424284598192,
+   "lat": 51.3247159170651,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 349,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69371473107401,
+   "lat": 51.3244814779386,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 346,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69280296945511,
+   "lat": 51.3241175252497,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 341,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.6885481926653,
+   "lat": 51.3232086325643,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 320,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68727082041891,
+   "lat": 51.3231635392972,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 314,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58154396092155,
+   "lat": 51.3508437244531,
+   "OBJEKT_NR": "3878562",
+   "OBJEKTBEZ": "Hüttenallee, Stadtwaldwiese",
+   "BAUMNUMMER": 32,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58285492931702,
+   "lat": 51.3525509601463,
+   "OBJEKT_NR": "3878562",
+   "OBJEKTBEZ": "Hüttenallee, Stadtwaldwiese",
+   "BAUMNUMMER": 33,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58040558273076,
+   "lat": 51.3525200668355,
+   "OBJEKT_NR": "3878562",
+   "OBJEKTBEZ": "Hüttenallee, Stadtwaldwiese",
+   "BAUMNUMMER": 34,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63876531660089,
+   "lat": 51.361459675289,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2009,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63904734243535,
+   "lat": 51.3615777625004,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2010,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69225044930297,
+   "lat": 51.3240479191262,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 218,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69146313936971,
+   "lat": 51.3238194102298,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 222,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54380890301482,
+   "lat": 51.3235479628207,
+   "OBJEKT_NR": "0170645",
+   "OBJEKTBEZ": "MOYLANDSTRAßE",
+   "BAUMNUMMER": 36,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56589815816298,
+   "lat": 51.3596812595401,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 126,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56688923380364,
+   "lat": 51.3599303876603,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 7151,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68769726054995,
+   "lat": 51.3231598230695,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 316,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59764943037397,
+   "lat": 51.361285804758,
+   "OBJEKT_NR": "3875240",
+   "OBJEKTBEZ": "FDF Verberg, Hüttenallee",
+   "BAUMNUMMER": 142,
+   "BAUMART": "Kopfeiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.62001440448006,
+   "lat": 51.3366137731619,
+   "OBJEKT_NR": "0770334",
+   "OBJEKTBEZ": "GLOCKENSPITZ",
+   "BAUMNUMMER": 77,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.61960572520404,
+   "lat": 51.3759530748818,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 598,
+   "BAUMART": "Schwarzblättriger-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides Faassens Black",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.61889308092404,
+   "lat": 51.3490015144083,
+   "OBJEKT_NR": "3878595",
+   "OBJEKTBEZ": "Verberger Straße, Grünzug bis Bodelschwingh Str.",
+   "BAUMNUMMER": 37,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60769205367497,
+   "lat": 51.3427507704695,
+   "OBJEKT_NR": "3878603",
+   "OBJEKTBEZ": "Am Sonnenhof",
+   "BAUMNUMMER": 17,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60757781404709,
+   "lat": 51.341133227562,
+   "OBJEKT_NR": "3878603",
+   "OBJEKTBEZ": "Am Sonnenhof",
+   "BAUMNUMMER": 210,
+   "BAUMART": "Dornenlose Gleditschie",
+   "BOTANISCHER_NAME": "Gleditsia triacanthos Inermis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60796894905865,
+   "lat": 51.3412400226597,
+   "OBJEKT_NR": "3878603",
+   "OBJEKTBEZ": "Am Sonnenhof",
+   "BAUMNUMMER": 211,
+   "BAUMART": "Dornenlose Gleditschie",
+   "BOTANISCHER_NAME": "Gleditsia triacanthos Inermis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65173864005567,
+   "lat": 51.3555229999661,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 165,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65223472439147,
+   "lat": 51.3545071364348,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 173,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65185101184801,
+   "lat": 51.3553479893984,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 166,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65189943949473,
+   "lat": 51.3552661293787,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 167,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65187510033557,
+   "lat": 51.3549612975914,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 169,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65208751904184,
+   "lat": 51.3548746316361,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 170,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65214691519723,
+   "lat": 51.3547299462483,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 171,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65220287747904,
+   "lat": 51.3545878001268,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 172,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65215687852112,
+   "lat": 51.3544901965318,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 174,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55247046152892,
+   "lat": 51.3180947707739,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 978,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55264996107404,
+   "lat": 51.318060066421,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 992,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56630068906758,
+   "lat": 51.3598760663106,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 123,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64210446342337,
+   "lat": 51.3382901972723,
+   "OBJEKT_NR": "2775235",
+   "OBJEKTBEZ": "FDF Linn, Elbinger Straße",
+   "BAUMNUMMER": 100,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55685514223355,
+   "lat": 51.3174089348571,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 289,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55681874154473,
+   "lat": 51.317501282381,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 290,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55688312688108,
+   "lat": 51.3173078093653,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 350,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55763234317321,
+   "lat": 51.317659945935,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 254,
+   "BAUMART": "Kopferle",
+   "BOTANISCHER_NAME": "Alnus glutinosa",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57969202195042,
+   "lat": 51.3227381114777,
+   "OBJEKT_NR": "0570309",
+   "OBJEKTBEZ": "FÜTINGSWEG",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Scharlach-Eiche",
+   "BOTANISCHER_NAME": "Quercus coccinea",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65083917495314,
+   "lat": 51.3534982392047,
+   "OBJEKT_NR": "4978528",
+   "OBJEKTBEZ": "Burgstraße, Kirche St. Peter, Uerdingen",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Armstrong",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64790688632882,
+   "lat": 51.3717901409735,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 328,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64819173536675,
+   "lat": 51.371844391058,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 341,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64547280075081,
+   "lat": 51.3724331657001,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 419,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.63475697159463,
+   "lat": 51.3647857807539,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2017,
+   "BAUMART": "Weiße Maulbeere",
+   "BOTANISCHER_NAME": "Morus alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64443166473664,
+   "lat": 51.3730791183736,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 466,
+   "BAUMART": "Gemeine Esche",
+   "BOTANISCHER_NAME": "Fraxinus excelsior",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64458931876522,
+   "lat": 51.3730775928661,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 468,
+   "BAUMART": "Gemeine Esche",
+   "BOTANISCHER_NAME": "Fraxinus excelsior",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55852537042072,
+   "lat": 51.3175049905332,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 225,
+   "BAUMART": "Rosthaariger Streifen-Ahorn",
+   "BOTANISCHER_NAME": "Acer rufinerve",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55679426855793,
+   "lat": 51.3173540264235,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 356,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69790485099497,
+   "lat": 51.3273886814913,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 375,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65132910910227,
+   "lat": 51.3559893792346,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 163,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65164688128887,
+   "lat": 51.3556656870849,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 164,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56807868909149,
+   "lat": 51.3607383603339,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 110,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56698633981669,
+   "lat": 51.3602095919588,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 118,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60073113769876,
+   "lat": 51.3008975926303,
+   "OBJEKT_NR": "2678532",
+   "OBJEKTBEZ": "Hees / Raderfeld / Eichhornstr. Grünfläche",
+   "BAUMNUMMER": 200,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60013291319219,
+   "lat": 51.3015252041167,
+   "OBJEKT_NR": "2678532",
+   "OBJEKTBEZ": "Hees / Raderfeld / Eichhornstr. Grünfläche",
+   "BAUMNUMMER": 201,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60094358877575,
+   "lat": 51.3151892819685,
+   "OBJEKT_NR": "2678539",
+   "OBJEKTBEZ": "Langen Donk, Grünverbindung",
+   "BAUMNUMMER": 126,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60191996749176,
+   "lat": 51.3153825064335,
+   "OBJEKT_NR": "2678539",
+   "OBJEKTBEZ": "Langen Donk, Grünverbindung",
+   "BAUMNUMMER": 127,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58906015697417,
+   "lat": 51.316443306235,
+   "OBJEKT_NR": "2678551",
+   "OBJEKTBEZ": "Von-Ketteler-Straße, Grünanlage",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57518996899393,
+   "lat": 51.3438022986714,
+   "OBJEKT_NR": "0470756",
+   "OBJEKTBEZ": "RICHARD-WAGNER-STRAßE",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Sorte der Tulpenmagnolie",
+   "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58069335648161,
+   "lat": 51.3230809723424,
+   "OBJEKT_NR": "0570309",
+   "OBJEKTBEZ": "FÜTINGSWEG",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Scharlach-Eiche",
+   "BOTANISCHER_NAME": "Quercus coccinea",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55574162689788,
+   "lat": 51.3263509425934,
+   "OBJEKT_NR": "0170765",
+   "OBJEKTBEZ": "ROßSTRAßE",
+   "BAUMNUMMER": 29,
+   "BAUMART": "Rotblättrige Sorte des Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides Schwedleri",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56521988120621,
+   "lat": 51.3593552555533,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 131,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56750861861898,
+   "lat": 51.3604626436182,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 114,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56684636224554,
+   "lat": 51.3601402198109,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 119,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57356523079393,
+   "lat": 51.322451536465,
+   "OBJEKT_NR": "0578681",
+   "OBJEKTBEZ": "VIRCHOWSTRAßE, Parkplatz Fabrik Heeder",
+   "BAUMNUMMER": 30,
+   "BAUMART": "Einblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68035201347223,
+   "lat": 51.3245218617494,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55573931696862,
+   "lat": 51.3253890575773,
+   "OBJEKT_NR": "0170765",
+   "OBJEKTBEZ": "ROßSTRAßE",
+   "BAUMNUMMER": 20,
+   "BAUMART": "Rotblättrige Sorte des Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides Schwedleri",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68706169424853,
+   "lat": 51.3231715476729,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 313,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56548518530039,
+   "lat": 51.3594820224638,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 129,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56794348790363,
+   "lat": 51.3606736755247,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 111,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55277216808693,
+   "lat": 51.317384855775,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 1043,
+   "BAUMART": "Sand-Birke",
+   "BOTANISCHER_NAME": "Betula pendula",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54523979533057,
+   "lat": 51.3097404041139,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6102,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.61002461110152,
+   "lat": 51.3252081419252,
+   "OBJEKT_NR": "0770890",
+   "OBJEKTBEZ": "UNTERGATH",
+   "BAUMNUMMER": 193,
+   "BAUMART": "Einblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.59675676970574,
+   "lat": 51.2998505355648,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 433,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.60110124262771,
+   "lat": 51.365218405618,
+   "OBJEKT_NR": "3878407",
+   "OBJEKTBEZ": "An Kalverpesch, Kindergarten",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Gelbblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57589842410876,
+   "lat": 51.3380737613886,
+   "OBJEKT_NR": "0471145",
+   "OBJEKTBEZ": "FRITZ-HUHNEN-STRAßE",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Kastanien-Eiche",
+   "BOTANISCHER_NAME": "Quercus castaneifolia",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58526608434467,
+   "lat": 51.3642055112531,
+   "OBJEKT_NR": "0870525",
+   "OBJEKTBEZ": "KORNAUE",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Zerr-Eiche",
+   "BOTANISCHER_NAME": "Quercus cerris",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56370129950414,
+   "lat": 51.3586305227792,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 142,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65198626832864,
+   "lat": 51.3551018484859,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 168,
+   "BAUMART": "Blumen-Esche",
+   "BOTANISCHER_NAME": "Fraxinus ornus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57597510314194,
+   "lat": 51.3244402472467,
+   "OBJEKT_NR": "0570822",
+   "OBJEKTBEZ": "SIEMENSSTRAßE",
+   "BAUMNUMMER": 31,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55378003080209,
+   "lat": 51.3189345519039,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 60055,
+   "BAUMART": "Sand-Birke",
+   "BOTANISCHER_NAME": "Betula pendula",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.52939434626936,
+   "lat": 51.3706383461025,
+   "OBJEKT_NR": "B3_30",
+   "OBJEKTBEZ": "Langendyk, Floetbach Ausweitung 2010",
+   "BAUMNUMMER": 20,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.55097251097367,
+   "lat": 51.3336796403747,
+   "OBJEKT_NR": "1178543",
+   "OBJEKTBEZ": "Steinstraße, STADTGARTEN",
+   "BAUMNUMMER": 327,
+   "BAUMART": "Säulenhainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69726458915355,
+   "lat": 51.328271331673,
+   "OBJEKT_NR": "0970087",
+   "OBJEKTBEZ": "AN DER RÖMERSCHANZE",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Holländische Ulme",
+   "BOTANISCHER_NAME": "Ulmus x hollandica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68249115838334,
+   "lat": 51.3240758750415,
+   "OBJEKT_NR": "0970380",
+   "OBJEKTBEZ": "HEIDBERGSWEG",
+   "BAUMNUMMER": 33,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68698397285354,
+   "lat": 51.3232645400347,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 244,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.65249029414938,
+   "lat": 51.3527325990356,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 178,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.5883057417918,
+   "lat": 51.3485100208423,
+   "OBJEKT_NR": "3878590",
+   "OBJEKTBEZ": "Kaiserstraße, Kaiserpark",
+   "BAUMNUMMER": 375,
+   "BAUMART": "Scharlach- Kirsche",
+   "BOTANISCHER_NAME": "Prunus sargentii",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.64194005802047,
+   "lat": 51.3585230057127,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus hillerii Spire",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.57383354520915,
+   "lat": 51.336377436787,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 26,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.54834091557038,
+   "lat": 51.3336107917033,
+   "OBJEKT_NR": "0170619",
+   "OBJEKTBEZ": "MAURENBRECHERSTRAßE",
+   "BAUMNUMMER": 23,
+   "BAUMART": "Weiden-Eiche",
+   "BOTANISCHER_NAME": "Quercus phellos",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69185657580467,
+   "lat": 51.3239286737574,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 220,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69944597725996,
+   "lat": 51.3295681936692,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 170,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68833858225483,
+   "lat": 51.3231912501942,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 319,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69716594603229,
+   "lat": 51.3267932506137,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 190,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.56343181674466,
+   "lat": 51.3585005322351,
+   "OBJEKT_NR": "0270418",
+   "OBJEKTBEZ": "HÖKENDYK",
+   "BAUMNUMMER": 144,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.68634677407359,
+   "lat": 51.3233288115591,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 247,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69244372991018,
+   "lat": 51.3241150968484,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 217,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.70066338721939,
+   "lat": 51.3312554866061,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 156,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69781216167954,
+   "lat": 51.3275030050704,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 184,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.69666478676164,
+   "lat": 51.3263474450002,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 194,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2015
+ },
+ {
+   "lng": 6.58089903739045,
+   "lat": 51.3098165192131,
+   "OBJEKT_NR": "2678548",
+   "OBJEKTBEZ": "Mühlenfeld, Stadtpark Fischeln I",
+   "BAUMNUMMER": 2454,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2015
+ }
+]

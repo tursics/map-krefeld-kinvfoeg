@@ -1,0 +1,5312 @@
+[
+ {
+   "lng": 6.55638693155386,
+   "lat": 51.3247430647931,
+   "OBJEKT_NR": "0170213",
+   "OBJEKTBEZ": "DEUTSCHER RING",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53671693043572,
+   "lat": 51.339403556081,
+   "OBJEKT_NR": "0170210",
+   "OBJEKTBEZ": "DE-GREIFF-STRAßE",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Sorte der Schmalblättrigen Esche",
+   "BOTANISCHER_NAME": "Fraxinus angustifolia Raywood",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5454320551899,
+   "lat": 51.3281174539326,
+   "OBJEKT_NR": "0170311",
+   "OBJEKTBEZ": "GABELSBERGERSTRAßE",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Französischer Ahorn",
+   "BOTANISCHER_NAME": "Acer monspessulanum",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54626178286565,
+   "lat": 51.3274253372467,
+   "OBJEKT_NR": "0170311",
+   "OBJEKTBEZ": "GABELSBERGERSTRAßE",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Französischer Ahorn",
+   "BOTANISCHER_NAME": "Acer monspessulanum",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55317870041412,
+   "lat": 51.3258834821612,
+   "OBJEKT_NR": "0170358",
+   "OBJEKTBEZ": "HAGERWEG",
+   "BAUMNUMMER": 50,
+   "BAUMART": "Scharlach-Eiche",
+   "BOTANISCHER_NAME": "Quercus coccinea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54564019062099,
+   "lat": 51.3279457212414,
+   "OBJEKT_NR": "0170311",
+   "OBJEKTBEZ": "GABELSBERGERSTRAßE",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Französischer Ahorn",
+   "BOTANISCHER_NAME": "Acer monspessulanum",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5463498822564,
+   "lat": 51.3273520658438,
+   "OBJEKT_NR": "0170311",
+   "OBJEKTBEZ": "GABELSBERGERSTRAßE",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Französischer Ahorn",
+   "BOTANISCHER_NAME": "Acer monspessulanum",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55240275393304,
+   "lat": 51.3267101578868,
+   "OBJEKT_NR": "0170293",
+   "OBJEKTBEZ": "FRANKENRING",
+   "BAUMNUMMER": 130,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55336180596088,
+   "lat": 51.3261944911921,
+   "OBJEKT_NR": "0170293",
+   "OBJEKTBEZ": "FRANKENRING",
+   "BAUMNUMMER": 141,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55732223127899,
+   "lat": 51.3279253234554,
+   "OBJEKT_NR": "0170579",
+   "OBJEKTBEZ": "LINDENSTRAßE",
+   "BAUMNUMMER": 102,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59715292722155,
+   "lat": 51.3571668617086,
+   "OBJEKT_NR": "0870438",
+   "OBJEKTBEZ": "HÜTTENALLEE",
+   "BAUMNUMMER": 182,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59565799271123,
+   "lat": 51.2938256840437,
+   "OBJEKT_NR": "0670015",
+   "OBJEKTBEZ": "ALTE NEUSSER STRAßE",
+   "BAUMNUMMER": 40,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5656395345569,
+   "lat": 51.2968225009641,
+   "OBJEKT_NR": "0670095",
+   "OBJEKTBEZ": "ANRATHER STRAßE",
+   "BAUMNUMMER": 56,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56109784885803,
+   "lat": 51.2963545126515,
+   "OBJEKT_NR": "0670095",
+   "OBJEKTBEZ": "ANRATHER STRAßE",
+   "BAUMNUMMER": 77,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55307557173856,
+   "lat": 51.3179498671882,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 807,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59597287380826,
+   "lat": 51.2932227815273,
+   "OBJEKT_NR": "0670015",
+   "OBJEKTBEZ": "ALTE NEUSSER STRAßE",
+   "BAUMNUMMER": 36,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59591024262425,
+   "lat": 51.2933731901169,
+   "OBJEKT_NR": "0670015",
+   "OBJEKTBEZ": "ALTE NEUSSER STRAßE",
+   "BAUMNUMMER": 37,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55986459548826,
+   "lat": 51.3240568917642,
+   "OBJEKT_NR": "0470213",
+   "OBJEKTBEZ": "DEUTSCHER RING",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5626444660005,
+   "lat": 51.3234107463045,
+   "OBJEKT_NR": "0470213",
+   "OBJEKTBEZ": "DEUTSCHER RING",
+   "BAUMNUMMER": 78,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58324858699318,
+   "lat": 51.3405264336119,
+   "OBJEKT_NR": "0470201",
+   "OBJEKTBEZ": "CROUSSTRAßE",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia kobus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56015979291852,
+   "lat": 51.3240375383866,
+   "OBJEKT_NR": "0470213",
+   "OBJEKTBEZ": "DEUTSCHER RING",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57753535615885,
+   "lat": 51.3524022569081,
+   "OBJEKT_NR": "0270212",
+   "OBJEKTBEZ": "DEUßSTRAßE",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Himalaja-Birke",
+   "BOTANISCHER_NAME": "Betula utilis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58067704237102,
+   "lat": 51.3424842974981,
+   "OBJEKT_NR": "0470237",
+   "OBJEKTBEZ": "DÜRERPLATZ",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Sorte des Zierapfels",
+   "BOTANISCHER_NAME": "Malus Makamik",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5818993352164,
+   "lat": 51.3403831352304,
+   "OBJEKT_NR": "0470238",
+   "OBJEKTBEZ": "DÜRERSTRAßE",
+   "BAUMNUMMER": 67,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58141494649301,
+   "lat": 51.3409934685901,
+   "OBJEKT_NR": "0470238",
+   "OBJEKTBEZ": "DÜRERSTRAßE",
+   "BAUMNUMMER": 76,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56176650731817,
+   "lat": 51.334620749063,
+   "OBJEKT_NR": "0470191",
+   "OBJEKTBEZ": "CARL-WILHELM-STRAßE",
+   "BAUMNUMMER": 28,
+   "BAUMART": "Einblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57737491380114,
+   "lat": 51.3532933994585,
+   "OBJEKT_NR": "0270212",
+   "OBJEKTBEZ": "DEUßSTRAßE",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Himalaja-Birke",
+   "BOTANISCHER_NAME": "Betula utilis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58053905023026,
+   "lat": 51.3424567628586,
+   "OBJEKT_NR": "0470237",
+   "OBJEKTBEZ": "DÜRERPLATZ",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Sorte des Zierapfels",
+   "BOTANISCHER_NAME": "Malus Makamik",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56000931392066,
+   "lat": 51.3240463295567,
+   "OBJEKT_NR": "0470213",
+   "OBJEKTBEZ": "DEUTSCHER RING",
+   "BAUMNUMMER": 7,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58343397996452,
+   "lat": 51.3382711810349,
+   "OBJEKT_NR": "0470238",
+   "OBJEKTBEZ": "DÜRERSTRAßE",
+   "BAUMNUMMER": 119,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57752889168593,
+   "lat": 51.3524950347559,
+   "OBJEKT_NR": "0270212",
+   "OBJEKTBEZ": "DEUßSTRAßE",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Himalaja-Birke",
+   "BOTANISCHER_NAME": "Betula utilis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57743999734627,
+   "lat": 51.352984649675,
+   "OBJEKT_NR": "0270212",
+   "OBJEKTBEZ": "DEUßSTRAßE",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Himalaja-Birke",
+   "BOTANISCHER_NAME": "Betula utilis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55981333893447,
+   "lat": 51.3342479622565,
+   "OBJEKT_NR": "0470191",
+   "OBJEKTBEZ": "CARL-WILHELM-STRAßE",
+   "BAUMNUMMER": 7,
+   "BAUMART": "Einblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55984963749957,
+   "lat": 51.3341677887368,
+   "OBJEKT_NR": "0470191",
+   "OBJEKTBEZ": "CARL-WILHELM-STRAßE",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Einblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58231761323135,
+   "lat": 51.3403127689521,
+   "OBJEKT_NR": "0470201",
+   "OBJEKTBEZ": "CROUSSTRAßE",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia kobus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61637200246462,
+   "lat": 51.3335899486865,
+   "OBJEKT_NR": "0770200",
+   "OBJEKTBEZ": "CRÖN",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Blasenesche",
+   "BOTANISCHER_NAME": "Koelreuteria paniculata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63404142930197,
+   "lat": 51.3626264735122,
+   "OBJEKT_NR": "0970170",
+   "OBJEKTBEZ": "BRUCHWEG",
+   "BAUMNUMMER": 39,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57809715144117,
+   "lat": 51.3376327824934,
+   "OBJEKT_NR": "0470146",
+   "OBJEKTBEZ": "BOGENSTRAßE",
+   "BAUMNUMMER": 34,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60988146858209,
+   "lat": 51.3388436623664,
+   "OBJEKT_NR": "0770123",
+   "OBJEKTBEZ": "BERLINER STRAßE",
+   "BAUMNUMMER": 89,
+   "BAUMART": "Sorte der Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata Erecta",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56036803383156,
+   "lat": 51.3212847507594,
+   "OBJEKT_NR": "0570172",
+   "OBJEKTBEZ": "BUCHENSTRAßE",
+   "BAUMNUMMER": 42,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5485436496596,
+   "lat": 51.3480094688759,
+   "OBJEKT_NR": "0270141",
+   "OBJEKTBEZ": "BLUMENTALSTRAßE",
+   "BAUMNUMMER": 88,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60630746716806,
+   "lat": 51.3375403108546,
+   "OBJEKT_NR": "0770123",
+   "OBJEKTBEZ": "BERLINER STRAßE",
+   "BAUMNUMMER": 61,
+   "BAUMART": "Purpur-Erle",
+   "BOTANISCHER_NAME": "Alnus x spaethii",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5635997088696,
+   "lat": 51.2965435862762,
+   "OBJEKT_NR": "0670095",
+   "OBJEKTBEZ": "ANRATHER STRAßE",
+   "BAUMNUMMER": 157,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5760003726934,
+   "lat": 51.3374743650875,
+   "OBJEKT_NR": "0470146",
+   "OBJEKTBEZ": "BOGENSTRAßE",
+   "BAUMNUMMER": 46,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59361326227522,
+   "lat": 51.3482717363007,
+   "OBJEKT_NR": "0870345",
+   "OBJEKTBEZ": "GROTENBURGSTRAßE",
+   "BAUMNUMMER": 67,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59371957954336,
+   "lat": 51.348066132193,
+   "OBJEKT_NR": "0870345",
+   "OBJEKTBEZ": "GROTENBURGSTRAßE",
+   "BAUMNUMMER": 70,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5850242061623,
+   "lat": 51.3391648437462,
+   "OBJEKT_NR": "0870340",
+   "OBJEKTBEZ": "GRENZSTRAßE",
+   "BAUMNUMMER": 158,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58163090771105,
+   "lat": 51.3337171007579,
+   "OBJEKT_NR": "0470368",
+   "OBJEKTBEZ": "HARDENBERGSTRAßE",
+   "BAUMNUMMER": 51,
+   "BAUMART": "Blauglockenbaum",
+   "BOTANISCHER_NAME": "Paulownia tomentosa",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61857872589539,
+   "lat": 51.3220599993489,
+   "OBJEKT_NR": "0770372",
+   "OBJEKTBEZ": "HAUPTSTRAßE",
+   "BAUMNUMMER": 32,
+   "BAUMART": "Einblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6413863684257,
+   "lat": 51.336881652537,
+   "OBJEKT_NR": "0770357",
+   "OBJEKTBEZ": "HAFENSTRAßE",
+   "BAUMNUMMER": 21,
+   "BAUMART": "Gelbe Gleditschie",
+   "BOTANISCHER_NAME": "Gleditsia triacanthos Sunburst",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59242565904867,
+   "lat": 51.3500395639231,
+   "OBJEKT_NR": "0870345",
+   "OBJEKTBEZ": "GROTENBURGSTRAßE",
+   "BAUMNUMMER": 23,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61664611992608,
+   "lat": 51.3358294925251,
+   "OBJEKT_NR": "0770333",
+   "OBJEKTBEZ": "GLINDHOLZSTRAßE",
+   "BAUMNUMMER": 27,
+   "BAUMART": "Kegel-Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Bessoniana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58364213255416,
+   "lat": 51.3413059115563,
+   "OBJEKT_NR": "0470340",
+   "OBJEKTBEZ": "GRENZSTRAßE",
+   "BAUMNUMMER": 123,
+   "BAUMART": "Kegel- Linde Glenleven",
+   "BOTANISCHER_NAME": "Tilia cordata Glenleven",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5814395260149,
+   "lat": 51.3335697640513,
+   "OBJEKT_NR": "0470368",
+   "OBJEKTBEZ": "HARDENBERGSTRAßE",
+   "BAUMNUMMER": 55,
+   "BAUMART": "Blauglockenbaum",
+   "BOTANISCHER_NAME": "Paulownia tomentosa",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58154876334999,
+   "lat": 51.3335362109965,
+   "OBJEKT_NR": "0470368",
+   "OBJEKTBEZ": "HARDENBERGSTRAßE",
+   "BAUMNUMMER": 56,
+   "BAUMART": "Blauglockenbaum",
+   "BOTANISCHER_NAME": "Paulownia tomentosa",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59998508632342,
+   "lat": 51.319811509049,
+   "OBJEKT_NR": "0670356",
+   "OBJEKTBEZ": "HAFELSSTRAßE",
+   "BAUMNUMMER": 134,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58165644921805,
+   "lat": 51.3335830294581,
+   "OBJEKT_NR": "0470368",
+   "OBJEKTBEZ": "HARDENBERGSTRAßE",
+   "BAUMNUMMER": 57,
+   "BAUMART": "Blauglockenbaum",
+   "BOTANISCHER_NAME": "Paulownia tomentosa",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61654459993165,
+   "lat": 51.3353642093124,
+   "OBJEKT_NR": "0770333",
+   "OBJEKTBEZ": "GLINDHOLZSTRAßE",
+   "BAUMNUMMER": 23,
+   "BAUMART": "Kegel-Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Bessoniana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5864370870932,
+   "lat": 51.3402320698778,
+   "OBJEKT_NR": "0870335",
+   "OBJEKTBEZ": "GNEISENAUSTRAßE",
+   "BAUMNUMMER": 27,
+   "BAUMART": "Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58151099554348,
+   "lat": 51.3337351551926,
+   "OBJEKT_NR": "0470368",
+   "OBJEKTBEZ": "HARDENBERGSTRAßE",
+   "BAUMNUMMER": 52,
+   "BAUMART": "Blauglockenbaum",
+   "BOTANISCHER_NAME": "Paulownia tomentosa",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58718402394372,
+   "lat": 51.3390114147305,
+   "OBJEKT_NR": "0870335",
+   "OBJEKTBEZ": "GNEISENAUSTRAßE",
+   "BAUMNUMMER": 41,
+   "BAUMART": "Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6164663282965,
+   "lat": 51.3349914696838,
+   "OBJEKT_NR": "0770333",
+   "OBJEKTBEZ": "GLINDHOLZSTRAßE",
+   "BAUMNUMMER": 21,
+   "BAUMART": "Kegel-Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Bessoniana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5382800495289,
+   "lat": 51.3580354018672,
+   "OBJEKT_NR": "0270289",
+   "OBJEKTBEZ": "FLÜNNERTZDYK",
+   "BAUMNUMMER": 23,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61642357446763,
+   "lat": 51.3348019564959,
+   "OBJEKT_NR": "0770333",
+   "OBJEKTBEZ": "GLINDHOLZSTRAßE",
+   "BAUMNUMMER": 19,
+   "BAUMART": "Kegel-Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Bessoniana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59857780829149,
+   "lat": 51.3398267144322,
+   "OBJEKT_NR": "0770244",
+   "OBJEKTBEZ": "EICHENDORFFSTRAßE",
+   "BAUMNUMMER": 49,
+   "BAUMART": "Schmalkronige Platane",
+   "BOTANISCHER_NAME": "Platanus acerifolia Tremonia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5821226180048,
+   "lat": 51.3414511707813,
+   "OBJEKT_NR": "0470302",
+   "OBJEKTBEZ": "FRIEDRICH-EBERT-STRAßE",
+   "BAUMNUMMER": 39,
+   "BAUMART": "Schnurbaum",
+   "BOTANISCHER_NAME": "Sophora japonica Regent",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59410671837137,
+   "lat": 51.3437909582284,
+   "OBJEKT_NR": "0870489",
+   "OBJEKTBEZ": "KARL-HÜGEL-STRAßE",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57922997193509,
+   "lat": 51.3457748588083,
+   "OBJEKT_NR": "0870469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 106,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56267927880474,
+   "lat": 51.3559392428913,
+   "OBJEKT_NR": "0270511",
+   "OBJEKTBEZ": "KLIEDBRUCHSTRAßE",
+   "BAUMNUMMER": 69,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56314689099848,
+   "lat": 51.3497972278559,
+   "OBJEKT_NR": "0270536",
+   "OBJEKTBEZ": "KRÜLLSDYK",
+   "BAUMNUMMER": 42,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56306452655258,
+   "lat": 51.3555256316846,
+   "OBJEKT_NR": "0270511",
+   "OBJEKTBEZ": "KLIEDBRUCHSTRAßE",
+   "BAUMNUMMER": 63,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58296382640724,
+   "lat": 51.3424753672041,
+   "OBJEKT_NR": "0870469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 116,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57657749737749,
+   "lat": 51.3419488961701,
+   "OBJEKT_NR": "0470426",
+   "OBJEKTBEZ": "HOHENZOLLERNSTRAßE",
+   "BAUMNUMMER": 160,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57894742879828,
+   "lat": 51.3460243320748,
+   "OBJEKT_NR": "0870469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 108,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.580394642265,
+   "lat": 51.3446188510547,
+   "OBJEKT_NR": "0470469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 62,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58106861075059,
+   "lat": 51.3388197882823,
+   "OBJEKT_NR": "0470442",
+   "OBJEKTBEZ": "HUNZINGERSTRAßE",
+   "BAUMNUMMER": 53,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Armstrong",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57610390210153,
+   "lat": 51.3471983952524,
+   "OBJEKT_NR": "0470426",
+   "OBJEKTBEZ": "HOHENZOLLERNSTRAßE",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56986983848409,
+   "lat": 51.3550594698212,
+   "OBJEKT_NR": "0270425",
+   "OBJEKTBEZ": "HOHEN DYK",
+   "BAUMNUMMER": 25,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57870365223886,
+   "lat": 51.3463601178393,
+   "OBJEKT_NR": "0870469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 61,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58290749221819,
+   "lat": 51.3393003826298,
+   "OBJEKT_NR": "0470442",
+   "OBJEKTBEZ": "HUNZINGERSTRAßE",
+   "BAUMNUMMER": 24,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Armstrong",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58316150461233,
+   "lat": 51.3392982149825,
+   "OBJEKT_NR": "0470442",
+   "OBJEKTBEZ": "HUNZINGERSTRAßE",
+   "BAUMNUMMER": 43,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Armstrong",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5705935688342,
+   "lat": 51.3195216544309,
+   "OBJEKT_NR": "0570473",
+   "OBJEKTBEZ": "JOHANNESPLATZ",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Sorte des Tulpenbaums",
+   "BOTANISCHER_NAME": "Liriodendron tulip.Fastigiata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58025696540657,
+   "lat": 51.3447408938948,
+   "OBJEKT_NR": "0470469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 61,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59375286260217,
+   "lat": 51.3523747347215,
+   "OBJEKT_NR": "0870438",
+   "OBJEKTBEZ": "HÜTTENALLEE",
+   "BAUMNUMMER": 57,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57967909237915,
+   "lat": 51.3452417399982,
+   "OBJEKT_NR": "0470469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 58,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57073507420755,
+   "lat": 51.3192440961125,
+   "OBJEKT_NR": "0570473",
+   "OBJEKTBEZ": "JOHANNESPLATZ",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Sorte des Tulpenbaums",
+   "BOTANISCHER_NAME": "Liriodendron tulip.Fastigiata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58010823015051,
+   "lat": 51.3450122042652,
+   "OBJEKT_NR": "0870469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 97,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54395898121267,
+   "lat": 51.353067211177,
+   "OBJEKT_NR": "0270433",
+   "OBJEKTBEZ": "HORSTDYK",
+   "BAUMNUMMER": 31,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57924125646631,
+   "lat": 51.3456212105578,
+   "OBJEKT_NR": "0470469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 56,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57594369056073,
+   "lat": 51.3470050005065,
+   "OBJEKT_NR": "0470426",
+   "OBJEKTBEZ": "HOHENZOLLERNSTRAßE",
+   "BAUMNUMMER": 30,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56976758640454,
+   "lat": 51.3549189207207,
+   "OBJEKT_NR": "0270425",
+   "OBJEKTBEZ": "HOHEN DYK",
+   "BAUMNUMMER": 23,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58507215449862,
+   "lat": 51.3390980809782,
+   "OBJEKT_NR": "0870340",
+   "OBJEKTBEZ": "GRENZSTRAßE",
+   "BAUMNUMMER": 159,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60236201193918,
+   "lat": 51.2995774665409,
+   "OBJEKT_NR": "0670349",
+   "OBJEKTBEZ": "GRUNDEND",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.62393965900102,
+   "lat": 51.3201451693197,
+   "OBJEKT_NR": "0770372",
+   "OBJEKTBEZ": "HAUPTSTRAßE",
+   "BAUMNUMMER": 118,
+   "BAUMART": "Einblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56590845225462,
+   "lat": 51.3392086413061,
+   "OBJEKT_NR": "0470637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 9016,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57503795171855,
+   "lat": 51.3497196257469,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1139,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61792133730432,
+   "lat": 51.3707189721925,
+   "OBJEKT_NR": "0870665",
+   "OBJEKTBEZ": "NEUKIRCHENER STRAßE",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Sumpf-Eiche",
+   "BOTANISCHER_NAME": "Quercus palustris",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54691036894239,
+   "lat": 51.3381111770069,
+   "OBJEKT_NR": "0170663",
+   "OBJEKTBEZ": "NEUER WEG",
+   "BAUMNUMMER": 43,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54680195659656,
+   "lat": 51.3380442788764,
+   "OBJEKT_NR": "0170663",
+   "OBJEKTBEZ": "NEUER WEG",
+   "BAUMNUMMER": 44,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57293284257313,
+   "lat": 51.3461978396687,
+   "OBJEKT_NR": "0470637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 68,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55594621199122,
+   "lat": 51.3299970560398,
+   "OBJEKT_NR": "0170140",
+   "OBJEKTBEZ": "BLUMENSTRAßE",
+   "BAUMNUMMER": 112,
+   "BAUMART": "Rotdorn",
+   "BOTANISCHER_NAME": "Crataegus laevigata Pauls Scarlet",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57496027675759,
+   "lat": 51.3517168390367,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1133,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56614697351626,
+   "lat": 51.3394538019589,
+   "OBJEKT_NR": "0470637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 294,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5701273376948,
+   "lat": 51.3379558150306,
+   "OBJEKT_NR": "0470569",
+   "OBJEKTBEZ": "LEYENTALSTRAßE",
+   "BAUMNUMMER": 24,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia kobus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5694415817525,
+   "lat": 51.3415732105699,
+   "OBJEKT_NR": "0270637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 270,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56936498521768,
+   "lat": 51.3415313333047,
+   "OBJEKT_NR": "0270637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 271,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56928982192716,
+   "lat": 51.3414894495187,
+   "OBJEKT_NR": "0270637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 272,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5616651814387,
+   "lat": 51.3172782303612,
+   "OBJEKT_NR": "0570571",
+   "OBJEKTBEZ": "LEYSNERSTRAßE",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Säulenförmige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Pyramidalis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56839672403195,
+   "lat": 51.3409957019867,
+   "OBJEKT_NR": "0270637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 276,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56205542966586,
+   "lat": 51.3490546274087,
+   "OBJEKT_NR": "0270536",
+   "OBJEKTBEZ": "KRÜLLSDYK",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5645913783844,
+   "lat": 51.3504032949883,
+   "OBJEKT_NR": "0270536",
+   "OBJEKTBEZ": "KRÜLLSDYK",
+   "BAUMNUMMER": 17,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5622279423026,
+   "lat": 51.3564123779285,
+   "OBJEKT_NR": "0270511",
+   "OBJEKTBEZ": "KLIEDBRUCHSTRAßE",
+   "BAUMNUMMER": 79,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57086698424764,
+   "lat": 51.3377089772592,
+   "OBJEKT_NR": "0470569",
+   "OBJEKTBEZ": "LEYENTALSTRAßE",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Schwedische Mehlbeere",
+   "BOTANISCHER_NAME": "Sorbus intermedia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57075273522127,
+   "lat": 51.3391078636763,
+   "OBJEKT_NR": "0470565",
+   "OBJEKTBEZ": "LESSINGSTRAßE",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Kegel-Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Bessoniana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5669736946024,
+   "lat": 51.3400242874445,
+   "OBJEKT_NR": "0470637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 283,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54892405300529,
+   "lat": 51.323899912096,
+   "OBJEKT_NR": "0170654",
+   "OBJEKTBEZ": "NAUENWEG",
+   "BAUMNUMMER": 79,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56036937749357,
+   "lat": 51.3172416814485,
+   "OBJEKT_NR": "0570571",
+   "OBJEKTBEZ": "LEYSNERSTRAßE",
+   "BAUMNUMMER": 30,
+   "BAUMART": "Säulenförmige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Pyramidalis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57122469194213,
+   "lat": 51.3390976611715,
+   "OBJEKT_NR": "0470565",
+   "OBJEKTBEZ": "LESSINGSTRAßE",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Kegel-Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Bessoniana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57102372883782,
+   "lat": 51.3376165386131,
+   "OBJEKT_NR": "0470569",
+   "OBJEKTBEZ": "LEYENTALSTRAßE",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Schwedische Mehlbeere",
+   "BOTANISCHER_NAME": "Sorbus intermedia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57095245705116,
+   "lat": 51.3376564308602,
+   "OBJEKT_NR": "0470569",
+   "OBJEKTBEZ": "LEYENTALSTRAßE",
+   "BAUMNUMMER": 17,
+   "BAUMART": "Schwedische Mehlbeere",
+   "BOTANISCHER_NAME": "Sorbus intermedia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5717113942383,
+   "lat": 51.3555505250867,
+   "OBJEKT_NR": "0270655",
+   "OBJEKTBEZ": "NASSAUERRING",
+   "BAUMNUMMER": 548,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56816552251199,
+   "lat": 51.3408646372981,
+   "OBJEKT_NR": "0270637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 277,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56917383058843,
+   "lat": 51.341275188653,
+   "OBJEKT_NR": "0470637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 26,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56955541192922,
+   "lat": 51.3414899609528,
+   "OBJEKT_NR": "0470637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 31,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56823922188289,
+   "lat": 51.340910121552,
+   "OBJEKT_NR": "0270637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 9006,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54928980006607,
+   "lat": 51.3224878347689,
+   "OBJEKT_NR": "0170654",
+   "OBJEKTBEZ": "NAUENWEG",
+   "BAUMNUMMER": 68,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56802807449795,
+   "lat": 51.3407682187359,
+   "OBJEKT_NR": "0270637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 279,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56624598358733,
+   "lat": 51.3512641584248,
+   "OBJEKT_NR": "0270536",
+   "OBJEKTBEZ": "KRÜLLSDYK",
+   "BAUMNUMMER": 26,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57259073618122,
+   "lat": 51.3171876883199,
+   "OBJEKT_NR": "0570563",
+   "OBJEKTBEZ": "LERCHENFELDSTRAßE",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57321616175434,
+   "lat": 51.3718055558462,
+   "OBJEKT_NR": "0870599",
+   "OBJEKTBEZ": "LUITER WEG",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6028917764976,
+   "lat": 51.3477071650977,
+   "OBJEKT_NR": "0870782",
+   "OBJEKTBEZ": "SCHEIBLERSTRAßE",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Weiße Maulbeere",
+   "BOTANISCHER_NAME": "Morus alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57438070328968,
+   "lat": 51.325200735777,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57317765867378,
+   "lat": 51.3247487696053,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 7,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54959750988341,
+   "lat": 51.3578887253457,
+   "OBJEKT_NR": "0270798",
+   "OBJEKTBEZ": "SCHROERSDYK",
+   "BAUMNUMMER": 39,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60650632810619,
+   "lat": 51.3302416361848,
+   "OBJEKT_NR": "0770792",
+   "OBJEKTBEZ": "SCHMIEDESTRAßE",
+   "BAUMNUMMER": 44,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56601165986685,
+   "lat": 51.3229369831877,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 21,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60544660195726,
+   "lat": 51.3310989589344,
+   "OBJEKT_NR": "0770792",
+   "OBJEKTBEZ": "SCHMIEDESTRAßE",
+   "BAUMNUMMER": 31,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54976087941095,
+   "lat": 51.3579886316013,
+   "OBJEKT_NR": "0270798",
+   "OBJEKTBEZ": "SCHROERSDYK",
+   "BAUMNUMMER": 37,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60294983864492,
+   "lat": 51.3474635100172,
+   "OBJEKT_NR": "0870782",
+   "OBJEKTBEZ": "SCHEIBLERSTRAßE",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Weiße Maulbeere",
+   "BOTANISCHER_NAME": "Morus alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56766273624431,
+   "lat": 51.3230862421031,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 44,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55171872986733,
+   "lat": 51.3305046561027,
+   "OBJEKT_NR": "0170732",
+   "OBJEKTBEZ": "PRINZ-FERDINAND-STRAßE",
+   "BAUMNUMMER": 76,
+   "BAUMART": "Ginkgobaum (männliche Form)",
+   "BOTANISCHER_NAME": "Ginkgo biloba (m)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55099083343242,
+   "lat": 51.3322293748201,
+   "OBJEKT_NR": "0170732",
+   "OBJEKTBEZ": "PRINZ-FERDINAND-STRAßE",
+   "BAUMNUMMER": 26,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56403814085328,
+   "lat": 51.3226227439944,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 33,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56414211314737,
+   "lat": 51.3227092530707,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 28,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56422761615501,
+   "lat": 51.3226873243315,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 29,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57379001431348,
+   "lat": 51.3248619514967,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 60,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56561923890302,
+   "lat": 51.3228761738934,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 22,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56712314829482,
+   "lat": 51.3305203032729,
+   "OBJEKT_NR": "0470707",
+   "OBJEKTBEZ": "OSTWALL",
+   "BAUMNUMMER": 62,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56716165230172,
+   "lat": 51.3188999996954,
+   "OBJEKT_NR": "0570716",
+   "OBJEKTBEZ": "PEMPELFURTSTRAßE",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Kegel-Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Bessoniana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56719578639214,
+   "lat": 51.3231161066279,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58425311059817,
+   "lat": 51.332779234888,
+   "OBJEKT_NR": "0470701",
+   "OBJEKTBEZ": "OPPUMER STRAßE",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Schmalkronige Platane",
+   "BOTANISCHER_NAME": "Platanus acerifolia Tremonia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56686659407666,
+   "lat": 51.3230658969953,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 19,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56624442563797,
+   "lat": 51.3229730955548,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 20,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5660343553958,
+   "lat": 51.3228360513619,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 40,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54603746987658,
+   "lat": 51.3375796100255,
+   "OBJEKT_NR": "0170663",
+   "OBJEKTBEZ": "NEUER WEG",
+   "BAUMNUMMER": 47,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57288359420705,
+   "lat": 51.3191060017127,
+   "OBJEKT_NR": "0570871",
+   "OBJEKTBEZ": "THYWISSENSTRAßE",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Sorte des Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre Lienco",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57569956221355,
+   "lat": 51.3526367558772,
+   "OBJEKT_NR": "0270911",
+   "OBJEKTBEZ": "VOGELSANGSTRAßE",
+   "BAUMNUMMER": 23,
+   "BAUMART": "Sorte des Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre Lienco",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57729450318452,
+   "lat": 51.3527011060917,
+   "OBJEKT_NR": "0270911",
+   "OBJEKTBEZ": "VOGELSANGSTRAßE",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Sorte des Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre Lienco",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55758534413618,
+   "lat": 51.3351822311405,
+   "OBJEKT_NR": "0470947",
+   "OBJEKTBEZ": "WESTWALL",
+   "BAUMNUMMER": 57,
+   "BAUMART": "Gewöhnliche Platane",
+   "BOTANISCHER_NAME": "Platanus x acerifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60895155790801,
+   "lat": 51.3276465172779,
+   "OBJEKT_NR": "0770934",
+   "OBJEKTBEZ": "WEETEKAMP",
+   "BAUMNUMMER": 17,
+   "BAUMART": "Sorte der Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5732558750839,
+   "lat": 51.3364076805088,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57350657733554,
+   "lat": 51.3362573030921,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5735935352212,
+   "lat": 51.3362065562888,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58983858457929,
+   "lat": 51.3363993462367,
+   "OBJEKT_NR": "0770872",
+   "OBJEKTBEZ": "TIERGARTENSTRAßE",
+   "BAUMNUMMER": 66,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.548929261555,
+   "lat": 51.3409103672127,
+   "OBJEKT_NR": "0170799",
+   "OBJEKTBEZ": "SCHROERSSTRAßE",
+   "BAUMNUMMER": 32,
+   "BAUMART": "Kugelahorn",
+   "BOTANISCHER_NAME": "Acer platanoides Globosum",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60331524263812,
+   "lat": 51.3561478409914,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60336335887533,
+   "lat": 51.3561836395288,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58242218019683,
+   "lat": 51.3364533898925,
+   "OBJEKT_NR": "0470828",
+   "OBJEKTBEZ": "SPRÖDENTALSTRAßE",
+   "BAUMNUMMER": 38,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57333989878114,
+   "lat": 51.3363578555693,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57136369678242,
+   "lat": 51.3188014409337,
+   "OBJEKT_NR": "0570871",
+   "OBJEKTBEZ": "THYWISSENSTRAßE",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Sorte des Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre Lienco",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58844142726175,
+   "lat": 51.3362015784038,
+   "OBJEKT_NR": "0770872",
+   "OBJEKTBEZ": "TIERGARTENSTRAßE",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58929613602773,
+   "lat": 51.3363931477513,
+   "OBJEKT_NR": "0770872",
+   "OBJEKTBEZ": "TIERGARTENSTRAßE",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57246082236021,
+   "lat": 51.3190208616112,
+   "OBJEKT_NR": "0570871",
+   "OBJEKTBEZ": "THYWISSENSTRAßE",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Sorte des Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre Lienco",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61130773041276,
+   "lat": 51.3452892393917,
+   "OBJEKT_NR": "0870843",
+   "OBJEKTBEZ": "STIPPERGATH",
+   "BAUMNUMMER": 31,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59674325090141,
+   "lat": 51.3379518630257,
+   "OBJEKT_NR": "0770872",
+   "OBJEKTBEZ": "TIERGARTENSTRAßE",
+   "BAUMNUMMER": 169,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59678435034707,
+   "lat": 51.3381367421023,
+   "OBJEKT_NR": "0770872",
+   "OBJEKTBEZ": "TIERGARTENSTRAßE",
+   "BAUMNUMMER": 121,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58748861895996,
+   "lat": 51.3478873104124,
+   "OBJEKT_NR": "3878590",
+   "OBJEKTBEZ": "Kaiserstraße, Kaiserpark",
+   "BAUMNUMMER": 386,
+   "BAUMART": "Libanon-Zeder",
+   "BOTANISCHER_NAME": "Cedrus libani",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57966274251845,
+   "lat": 51.3402360184669,
+   "OBJEKT_NR": "0470762",
+   "OBJEKTBEZ": "ROONSTRAßE",
+   "BAUMNUMMER": 46,
+   "BAUMART": "Ungarische Eiche",
+   "BOTANISCHER_NAME": "Quercus frainetto",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.51173593171976,
+   "lat": 51.3724874281751,
+   "OBJEKT_NR": "0371417",
+   "OBJEKTBEZ": "AUF DEM GRABEN",
+   "BAUMNUMMER": 17,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia kobus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60185678551441,
+   "lat": 51.3622040943198,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 160,
+   "BAUMART": "Sorte der Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium Landscape Bloom",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5920017468362,
+   "lat": 51.3093285525765,
+   "OBJEKT_NR": "0670958",
+   "OBJEKTBEZ": "WILHELMSTRAßE",
+   "BAUMNUMMER": 30,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60185206931061,
+   "lat": 51.3621137589261,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 209,
+   "BAUMART": "Sorte der Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium Landscape Bloom",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60170927989311,
+   "lat": 51.3621774345549,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 207,
+   "BAUMART": "Sorte der Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium Landscape Bloom",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57474599097853,
+   "lat": 51.3456740553049,
+   "OBJEKT_NR": "0470956",
+   "OBJEKTBEZ": "WILHELMSHOFALLEE",
+   "BAUMNUMMER": 46,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58869312230346,
+   "lat": 51.3104336433704,
+   "OBJEKT_NR": "0670958",
+   "OBJEKTBEZ": "WILHELMSTRAßE",
+   "BAUMNUMMER": 56,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60205477677545,
+   "lat": 51.3620183053486,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 212,
+   "BAUMART": "Sorte der Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium Landscape Bloom",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60149765860808,
+   "lat": 51.3623610448018,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 165,
+   "BAUMART": "Sorte der Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium Landscape Bloom",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60135622723861,
+   "lat": 51.3624166197019,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 167,
+   "BAUMART": "Sorte der Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium Landscape Bloom",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55941478865507,
+   "lat": 51.3313631586672,
+   "OBJEKT_NR": "0470947",
+   "OBJEKTBEZ": "WESTWALL",
+   "BAUMNUMMER": 29,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.51164132074005,
+   "lat": 51.3782400673196,
+   "OBJEKT_NR": "0371527",
+   "OBJEKTBEZ": "KRETENBÄSKESWEG",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Wald-Tupelobaum",
+   "BOTANISCHER_NAME": "Nyssa sylvatica",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.51954116839295,
+   "lat": 51.3936474301285,
+   "OBJEKT_NR": "0371538",
+   "OBJEKTBEZ": "ROHRAMMERDYK",
+   "BAUMNUMMER": 184,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.511362187911,
+   "lat": 51.370991471624,
+   "OBJEKT_NR": "0371525",
+   "OBJEKTBEZ": "KREFELDER STRAßE",
+   "BAUMNUMMER": 24,
+   "BAUMART": "Säulen-Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides Columnare 2",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59193638889172,
+   "lat": 51.3613020182043,
+   "OBJEKT_NR": "0871233/1",
+   "OBJEKTBEZ": "EUROPARING, Mittelstreifen; Einzelbäume",
+   "BAUMNUMMER": 218,
+   "BAUMART": "Sorte der Rotesche",
+   "BOTANISCHER_NAME": "Fraxinus pennsylvanica Patmore",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.50931689847424,
+   "lat": 51.3678719894562,
+   "OBJEKT_NR": "0371503",
+   "OBJEKTBEZ": "JOEPPENSTRAßE",
+   "BAUMNUMMER": 17,
+   "BAUMART": "Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.51502132905282,
+   "lat": 51.3772940448159,
+   "OBJEKT_NR": "0371425",
+   "OBJEKTBEZ": "AM KÖNIGSPARK",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Himalaja-Birke",
+   "BOTANISCHER_NAME": "Betula utilis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59538381445771,
+   "lat": 51.3621960620351,
+   "OBJEKT_NR": "0871233/1",
+   "OBJEKTBEZ": "EUROPARING, Mittelstreifen; Einzelbäume",
+   "BAUMNUMMER": 181,
+   "BAUMART": "Sorte der Rotesche",
+   "BOTANISCHER_NAME": "Fraxinus pennsylvanica Patmore",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.50909116673395,
+   "lat": 51.367974535709,
+   "OBJEKT_NR": "0371503",
+   "OBJEKTBEZ": "JOEPPENSTRAßE",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58737724096296,
+   "lat": 51.3601383628813,
+   "OBJEKT_NR": "0871233/1",
+   "OBJEKTBEZ": "EUROPARING, Mittelstreifen; Einzelbäume",
+   "BAUMNUMMER": 215,
+   "BAUMART": "Sorte der Rotesche",
+   "BOTANISCHER_NAME": "Fraxinus pennsylvanica Patmore",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58781748975565,
+   "lat": 51.3602454711026,
+   "OBJEKT_NR": "0871233/1",
+   "OBJEKTBEZ": "EUROPARING, Mittelstreifen; Einzelbäume",
+   "BAUMNUMMER": 159,
+   "BAUMART": "Sorte der Rotesche",
+   "BOTANISCHER_NAME": "Fraxinus pennsylvanica Patmore",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.51761008787539,
+   "lat": 51.3732946307284,
+   "OBJEKT_NR": "0371409",
+   "OBJEKTBEZ": "AN DER ALTEN BURG",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Kegel- Linde Glenleven",
+   "BOTANISCHER_NAME": "Tilia cordata Glenleven",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.52784279345688,
+   "lat": 51.388851834725,
+   "OBJEKT_NR": "0371539",
+   "OBJEKTBEZ": "SPERBERDYK",
+   "BAUMNUMMER": 25,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58723007986759,
+   "lat": 51.3600983815922,
+   "OBJEKT_NR": "0871233/1",
+   "OBJEKTBEZ": "EUROPARING, Mittelstreifen; Einzelbäume",
+   "BAUMNUMMER": 156,
+   "BAUMART": "Sorte der Rotesche",
+   "BOTANISCHER_NAME": "Fraxinus pennsylvanica Patmore",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59724031084346,
+   "lat": 51.2981629787036,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 6095,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.595663118386,
+   "lat": 51.2989256056395,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 6085,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5957451171252,
+   "lat": 51.2988455471226,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 6086,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6001565486801,
+   "lat": 51.298337514521,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 6092,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59533577334039,
+   "lat": 51.2978808072319,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 6094,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59952797627289,
+   "lat": 51.2968216091838,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 988,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59654093827741,
+   "lat": 51.2989297915754,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 6087,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59968385822874,
+   "lat": 51.296796459876,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 989,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59923783557899,
+   "lat": 51.2987544157956,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 629,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.52039085064547,
+   "lat": 51.369002802456,
+   "OBJEKT_NR": "0371599",
+   "OBJEKTBEZ": "STEEGER DYK",
+   "BAUMNUMMER": 494,
+   "BAUMART": "Sorte der Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.50503843411084,
+   "lat": 51.3773458537301,
+   "OBJEKT_NR": "0371615",
+   "OBJEKTBEZ": "CYRIAKUSSTRAßE",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Zwerg- oder Kugelesche",
+   "BOTANISCHER_NAME": "Fraxinus excelsior Nana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5924712499338,
+   "lat": 51.361445748005,
+   "OBJEKT_NR": "0871233/1",
+   "OBJEKTBEZ": "EUROPARING, Mittelstreifen; Einzelbäume",
+   "BAUMNUMMER": 244,
+   "BAUMART": "Sorte der Rotesche",
+   "BOTANISCHER_NAME": "Fraxinus pennsylvanica Patmore",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.50224093838233,
+   "lat": 51.3784380277579,
+   "OBJEKT_NR": "1375234",
+   "OBJEKTBEZ": "FDF Hüls, Am Strathof",
+   "BAUMNUMMER": 217,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.50465781472148,
+   "lat": 51.3815496611854,
+   "OBJEKT_NR": "1375234",
+   "OBJEKTBEZ": "FDF Hüls, Am Strathof",
+   "BAUMNUMMER": 375,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.50305977531976,
+   "lat": 51.3830982029597,
+   "OBJEKT_NR": "1375234",
+   "OBJEKTBEZ": "FDF Hüls, Am Strathof",
+   "BAUMNUMMER": 412,
+   "BAUMART": "Berg-Ulme",
+   "BOTANISCHER_NAME": "Ulmus glabra",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.50331688066394,
+   "lat": 51.3830937930517,
+   "OBJEKT_NR": "1375234",
+   "OBJEKTBEZ": "FDF Hüls, Am Strathof",
+   "BAUMNUMMER": 419,
+   "BAUMART": "Gewöhnlicher Trompetenbaum",
+   "BOTANISCHER_NAME": "Catalpa bignonioides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54645904187467,
+   "lat": 51.3128811441257,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 1779,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58615674064839,
+   "lat": 51.3408671827203,
+   "OBJEKT_NR": "0870335",
+   "OBJEKTBEZ": "GNEISENAUSTRAßE",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54597640791978,
+   "lat": 51.3119484482625,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 1892,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5493204467396,
+   "lat": 51.312932833785,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 2341,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54782505622024,
+   "lat": 51.3109631467472,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 2775,
+   "BAUMART": "Sorte vom Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus Atropurpureum",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54552484137107,
+   "lat": 51.3099329544693,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 2957,
+   "BAUMART": "Rotdorn",
+   "BOTANISCHER_NAME": "Crataegus laevigata Pauls Scarlet",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55622589387086,
+   "lat": 51.314968871409,
+   "OBJEKT_NR": "0571285",
+   "OBJEKTBEZ": "JOHANNES-BAUSCH-Straße",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Gemeine Esche",
+   "BOTANISCHER_NAME": "Fraxinus excelsior",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61767801192674,
+   "lat": 51.3538072603396,
+   "OBJEKT_NR": "3875231",
+   "OBJEKTBEZ": "FDF Bockum, Am Badezentrum",
+   "BAUMNUMMER": 397,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55433979741074,
+   "lat": 51.3340317951884,
+   "OBJEKT_NR": "1178402",
+   "OBJEKTBEZ": "Gartenstraße 147, Villa K",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Sorte der Tulpenmagnolie",
+   "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55427310560957,
+   "lat": 51.3340189385897,
+   "OBJEKT_NR": "1178402",
+   "OBJEKTBEZ": "Gartenstraße 147, Villa K",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Sorte der Tulpenmagnolie",
+   "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55441108321284,
+   "lat": 51.3340475746932,
+   "OBJEKT_NR": "1178402",
+   "OBJEKTBEZ": "Gartenstraße 147, Villa K",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Sorte der Tulpenmagnolie",
+   "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59118444837287,
+   "lat": 51.3145907015944,
+   "OBJEKT_NR": "0671054",
+   "OBJEKTBEZ": "AM BELLERSHOF",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Sorte der Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55696079681113,
+   "lat": 51.3153650992419,
+   "OBJEKT_NR": "0571285",
+   "OBJEKTBEZ": "JOHANNES-BAUSCH-Straße",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Gemeine Esche",
+   "BOTANISCHER_NAME": "Fraxinus excelsior",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61720217241568,
+   "lat": 51.3540796227843,
+   "OBJEKT_NR": "3875231",
+   "OBJEKTBEZ": "FDF Bockum, Am Badezentrum",
+   "BAUMNUMMER": 304,
+   "BAUMART": "Rotblättrige Sorte des Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus Purpurascens",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55670282855676,
+   "lat": 51.3156823673248,
+   "OBJEKT_NR": "0571285",
+   "OBJEKTBEZ": "JOHANNES-BAUSCH-Straße",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Gemeine Esche",
+   "BOTANISCHER_NAME": "Fraxinus excelsior",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61871800614072,
+   "lat": 51.3528259815261,
+   "OBJEKT_NR": "3875231",
+   "OBJEKTBEZ": "FDF Bockum, Am Badezentrum",
+   "BAUMNUMMER": 350,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.49169117358604,
+   "lat": 51.373960122963,
+   "OBJEKT_NR": "1378536",
+   "OBJEKTBEZ": "Dünkirchener Straße, Venloer Straße, Fläche - Baum des Jahres",
+   "BAUMNUMMER": 52,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55590645185106,
+   "lat": 51.3149779409962,
+   "OBJEKT_NR": "0571285",
+   "OBJEKTBEZ": "JOHANNES-BAUSCH-Straße",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Gemeine Esche",
+   "BOTANISCHER_NAME": "Fraxinus excelsior",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5555644351694,
+   "lat": 51.3152226254938,
+   "OBJEKT_NR": "0571285",
+   "OBJEKTBEZ": "JOHANNES-BAUSCH-Straße",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Gemeine Esche",
+   "BOTANISCHER_NAME": "Fraxinus excelsior",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61821937286011,
+   "lat": 51.3522899441653,
+   "OBJEKT_NR": "3875231",
+   "OBJEKTBEZ": "FDF Bockum, Am Badezentrum",
+   "BAUMNUMMER": 332,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61874754812864,
+   "lat": 51.3527449068991,
+   "OBJEKT_NR": "3875231",
+   "OBJEKTBEZ": "FDF Bockum, Am Badezentrum",
+   "BAUMNUMMER": 351,
+   "BAUMART": "Schwarzblättriger-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides Faassens Black",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56312103326689,
+   "lat": 51.3293134072668,
+   "OBJEKT_NR": "1478419",
+   "OBJEKTBEZ": "Anne-Frank-Platz, Kinderspielplatz",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Schwedische Mehlbeere",
+   "BOTANISCHER_NAME": "Sorbus intermedia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57591753942671,
+   "lat": 51.3351564730358,
+   "OBJEKT_NR": "1478421",
+   "OBJEKTBEZ": "Viktoriastraße 96, Kindergarten",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Scanlon",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55894227061983,
+   "lat": 51.3060031855088,
+   "OBJEKT_NR": "2678515",
+   "OBJEKTBEZ": "Vulkanstraße, Stadtpark Fischeln II",
+   "BAUMNUMMER": 485,
+   "BAUMART": "Pyramiden-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur Fastigiata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5482134918908,
+   "lat": 51.3230565613112,
+   "OBJEKT_NR": "0171270",
+   "OBJEKTBEZ": "LEVENSTRAßE",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61548899433342,
+   "lat": 51.3195661288373,
+   "OBJEKT_NR": "0770165",
+   "OBJEKTBEZ": "BROMELEDONK",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Schwedische Mehlbeere",
+   "BOTANISCHER_NAME": "Sorbus intermedia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57650106309009,
+   "lat": 51.3104497726721,
+   "OBJEKT_NR": "2678520",
+   "OBJEKTBEZ": "Camesstraße - Kölner Straße / Vulkanstraße",
+   "BAUMNUMMER": 53,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar  species",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63777528168989,
+   "lat": 51.3598256420697,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 1728,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57583927430766,
+   "lat": 51.3439509805437,
+   "OBJEKT_NR": "1478527",
+   "OBJEKTBEZ": "Hohenzollernstraße",
+   "BAUMNUMMER": 30,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57656489368598,
+   "lat": 51.3459420587158,
+   "OBJEKT_NR": "1478527",
+   "OBJEKTBEZ": "Hohenzollernstraße",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57594680957673,
+   "lat": 51.3442785502716,
+   "OBJEKT_NR": "1478527",
+   "OBJEKTBEZ": "Hohenzollernstraße",
+   "BAUMNUMMER": 27,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58606113398715,
+   "lat": 51.3410222754607,
+   "OBJEKT_NR": "0870335",
+   "OBJEKTBEZ": "GNEISENAUSTRAßE",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.50362390382011,
+   "lat": 51.3806343219157,
+   "OBJEKT_NR": "1375234",
+   "OBJEKTBEZ": "FDF Hüls, Am Strathof",
+   "BAUMNUMMER": 60,
+   "BAUMART": "Sand-Birke",
+   "BOTANISCHER_NAME": "Betula pendula",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60765653717584,
+   "lat": 51.3254899301384,
+   "OBJEKT_NR": "2778552",
+   "OBJEKTBEZ": "Neue Flur, Grünfläche bis Korekamp",
+   "BAUMNUMMER": 79,
+   "BAUMART": "Weiß- Esche",
+   "BOTANISCHER_NAME": "Fraxinus americana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57612433099521,
+   "lat": 51.3350400122356,
+   "OBJEKT_NR": "1478421",
+   "OBJEKTBEZ": "Viktoriastraße 96, Kindergarten",
+   "BAUMNUMMER": 32,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Scanlon",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57631746622521,
+   "lat": 51.334928811512,
+   "OBJEKT_NR": "1478421",
+   "OBJEKTBEZ": "Viktoriastraße 96, Kindergarten",
+   "BAUMNUMMER": 33,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Scanlon",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5763712795906,
+   "lat": 51.3349502961522,
+   "OBJEKT_NR": "1478421",
+   "OBJEKTBEZ": "Viktoriastraße 96, Kindergarten",
+   "BAUMNUMMER": 34,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Scanlon",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60605578009658,
+   "lat": 51.3188277789891,
+   "OBJEKT_NR": "2778551",
+   "OBJEKTBEZ": "Buschdonk bis Fungendonk",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Kopfeiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.52661328867551,
+   "lat": 51.3847626173079,
+   "OBJEKT_NR": "0371538",
+   "OBJEKTBEZ": "ROHRAMMERDYK",
+   "BAUMNUMMER": 95,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6045990086855,
+   "lat": 51.3196269117283,
+   "OBJEKT_NR": "2778551",
+   "OBJEKTBEZ": "Buschdonk bis Fungendonk",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64258979106801,
+   "lat": 51.3446841889917,
+   "OBJEKT_NR": "2778538",
+   "OBJEKTBEZ": "Carl-Sonnenschein-Straße",
+   "BAUMNUMMER": 42,
+   "BAUMART": "Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64457450099879,
+   "lat": 51.3711171819723,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 124,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60921135607162,
+   "lat": 51.3275272776633,
+   "OBJEKT_NR": "0770934",
+   "OBJEKTBEZ": "WEETEKAMP",
+   "BAUMNUMMER": 33,
+   "BAUMART": "Sorte der Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57018382438932,
+   "lat": 51.3420550188214,
+   "OBJEKT_NR": "0270637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 306,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56621215621307,
+   "lat": 51.3394993390076,
+   "OBJEKT_NR": "0470637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 293,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56732607569612,
+   "lat": 51.3175365370673,
+   "OBJEKT_NR": "0570913",
+   "OBJEKTBEZ": "VOM-BRUCK-PLATZ",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Kugelrobinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Umbraculifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55985713998614,
+   "lat": 51.3422560923918,
+   "OBJEKT_NR": "0270141",
+   "OBJEKTBEZ": "BLUMENTALSTRAßE",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55975992303686,
+   "lat": 51.2962125553946,
+   "OBJEKT_NR": "0670095",
+   "OBJEKTBEZ": "ANRATHER STRAßE",
+   "BAUMNUMMER": 83,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55249115010121,
+   "lat": 51.3266630218647,
+   "OBJEKT_NR": "0170293",
+   "OBJEKTBEZ": "FRANKENRING",
+   "BAUMNUMMER": 131,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59945844675749,
+   "lat": 51.3271591979171,
+   "OBJEKT_NR": "0770938",
+   "OBJEKTBEZ": "WEIDEN",
+   "BAUMNUMMER": 31,
+   "BAUMART": "Kegel-Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Bessoniana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55342175067058,
+   "lat": 51.3259452957449,
+   "OBJEKT_NR": "0170358",
+   "OBJEKTBEZ": "HAGERWEG",
+   "BAUMNUMMER": 48,
+   "BAUMART": "Scharlach-Eiche",
+   "BOTANISCHER_NAME": "Quercus coccinea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56575772362641,
+   "lat": 51.3031915141909,
+   "OBJEKT_NR": "0671045",
+   "OBJEKTBEZ": "BREUERSHOFSTRAßE",
+   "BAUMNUMMER": 22,
+   "BAUMART": "Sumpf-Eiche",
+   "BOTANISCHER_NAME": "Quercus palustris",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58138150581932,
+   "lat": 51.3336347843,
+   "OBJEKT_NR": "0470368",
+   "OBJEKTBEZ": "HARDENBERGSTRAßE",
+   "BAUMNUMMER": 54,
+   "BAUMART": "Blauglockenbaum",
+   "BOTANISCHER_NAME": "Paulownia tomentosa",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57595136999882,
+   "lat": 51.3438788979033,
+   "OBJEKT_NR": "1478527",
+   "OBJEKTBEZ": "Hohenzollernstraße",
+   "BAUMNUMMER": 36,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia kobus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56857010502516,
+   "lat": 51.3410875065118,
+   "OBJEKT_NR": "0270637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 9010,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63957888865841,
+   "lat": 51.3598023686855,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2015,
+   "BAUMART": "Immergrüne-Eiche",
+   "BOTANISCHER_NAME": "Quercus x turneri Pseudoturneri",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63490842123033,
+   "lat": 51.3640278437714,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2013,
+   "BAUMART": "Kaiser-Eiche",
+   "BOTANISCHER_NAME": "Quercus dentata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.67896594961481,
+   "lat": 51.3241116189437,
+   "OBJEKT_NR": "4975233",
+   "OBJEKTBEZ": "FDF Gellep-Stratum, Heidbergsweg",
+   "BAUMNUMMER": 218,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57342250372313,
+   "lat": 51.3363071345599,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5049269077352,
+   "lat": 51.3807436926658,
+   "OBJEKT_NR": "1375234",
+   "OBJEKTBEZ": "FDF Hüls, Am Strathof",
+   "BAUMNUMMER": 85,
+   "BAUMART": "Sand-Birke",
+   "BOTANISCHER_NAME": "Betula pendula",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53783290903922,
+   "lat": 51.3549441348491,
+   "OBJEKT_NR": "0271228",
+   "OBJEKTBEZ": "HÖCHTERDYK",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.50127545037102,
+   "lat": 51.3887876096696,
+   "OBJEKT_NR": "0371557",
+   "OBJEKTBEZ": "KLEVER STRAßE",
+   "BAUMNUMMER": 103,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54836291151348,
+   "lat": 51.3412061738153,
+   "OBJEKT_NR": "0170799",
+   "OBJEKTBEZ": "SCHROERSSTRAßE",
+   "BAUMNUMMER": 25,
+   "BAUMART": "Kugelahorn",
+   "BOTANISCHER_NAME": "Acer platanoides Globosum",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54876228830879,
+   "lat": 51.3447061308836,
+   "OBJEKT_NR": "0270643",
+   "OBJEKTBEZ": "MORITZPLATZ",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Zierapfel",
+   "BOTANISCHER_NAME": "Malus Evereste",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.62632447889508,
+   "lat": 51.3192798273177,
+   "OBJEKT_NR": "0770372",
+   "OBJEKTBEZ": "HAUPTSTRAßE",
+   "BAUMNUMMER": 231,
+   "BAUMART": "Einblättrige Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53781083837822,
+   "lat": 51.3573807427566,
+   "OBJEKT_NR": "0270289",
+   "OBJEKTBEZ": "FLÜNNERTZDYK",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58168683147658,
+   "lat": 51.3336573043895,
+   "OBJEKT_NR": "0470368",
+   "OBJEKTBEZ": "HARDENBERGSTRAßE",
+   "BAUMNUMMER": 50,
+   "BAUMART": "Blauglockenbaum",
+   "BOTANISCHER_NAME": "Paulownia tomentosa",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56952538608313,
+   "lat": 51.3416177501023,
+   "OBJEKT_NR": "0270637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 269,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55294082389625,
+   "lat": 51.3283912510458,
+   "OBJEKT_NR": "0170732",
+   "OBJEKTBEZ": "PRINZ-FERDINAND-STRAßE",
+   "BAUMNUMMER": 90,
+   "BAUMART": "Ginkgobaum (männliche Form)",
+   "BOTANISCHER_NAME": "Ginkgo biloba (m)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59755862927765,
+   "lat": 51.3425163350873,
+   "OBJEKT_NR": "0870323",
+   "OBJEKTBEZ": "GERMANIASTRAßE",
+   "BAUMNUMMER": 105,
+   "BAUMART": "Schnurbaum",
+   "BOTANISCHER_NAME": "Sophora japonica Regent",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56200653967724,
+   "lat": 51.3314756400945,
+   "OBJEKT_NR": "0470808",
+   "OBJEKTBEZ": "SCHWANENMARKT",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Schmalkronige Platane",
+   "BOTANISCHER_NAME": "Platanus acerifolia Tremonia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63336360468665,
+   "lat": 51.3638814258126,
+   "OBJEKT_NR": "0970170",
+   "OBJEKTBEZ": "BRUCHWEG",
+   "BAUMNUMMER": 113,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57192178891072,
+   "lat": 51.3242816732592,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58313456063618,
+   "lat": 51.3420223178933,
+   "OBJEKT_NR": "0470469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 114,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56490527506683,
+   "lat": 51.3506166160715,
+   "OBJEKT_NR": "0270536",
+   "OBJEKTBEZ": "KRÜLLSDYK",
+   "BAUMNUMMER": 23,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53752213310367,
+   "lat": 51.3398928444677,
+   "OBJEKT_NR": "0170627",
+   "OBJEKTBEZ": "MENGELBERGSTRAßE",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55756456587482,
+   "lat": 51.3347706026067,
+   "OBJEKT_NR": "0470947",
+   "OBJEKTBEZ": "WESTWALL",
+   "BAUMNUMMER": 112,
+   "BAUMART": "Gewöhnliche Platane",
+   "BOTANISCHER_NAME": "Platanus x acerifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60127900256526,
+   "lat": 51.3624403946273,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 168,
+   "BAUMART": "Sorte der Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium Landscape Bloom",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.51200375377412,
+   "lat": 51.3882200596798,
+   "OBJEKT_NR": "0371547",
+   "OBJEKTBEZ": "LOOKDYK",
+   "BAUMNUMMER": 26,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54674366642159,
+   "lat": 51.3114876692501,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 2153,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57581962335581,
+   "lat": 51.3374833304531,
+   "OBJEKT_NR": "0470902",
+   "OBJEKTBEZ": "VIKTORIASTRAßE",
+   "BAUMNUMMER": 72,
+   "BAUMART": "Sorte der Pyramiden-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur Fastigiata 'Koster'",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57609902789076,
+   "lat": 51.3350722499497,
+   "OBJEKT_NR": "1478421",
+   "OBJEKTBEZ": "Viktoriastraße 96, Kindergarten",
+   "BAUMNUMMER": 22,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Scanlon",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56183233653624,
+   "lat": 51.3369761537195,
+   "OBJEKT_NR": "0470682",
+   "OBJEKTBEZ": "NORDWALL",
+   "BAUMNUMMER": 50,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60641611997523,
+   "lat": 51.3240190862346,
+   "OBJEKT_NR": "0770145",
+   "OBJEKTBEZ": "BÖKENDONK",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54618275182958,
+   "lat": 51.3274931760858,
+   "OBJEKT_NR": "0170311",
+   "OBJEKTBEZ": "GABELSBERGERSTRAßE",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Französischer Ahorn",
+   "BOTANISCHER_NAME": "Acer monspessulanum",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56969515047178,
+   "lat": 51.3415680013115,
+   "OBJEKT_NR": "0470637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 33,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.62028664532206,
+   "lat": 51.3620379000733,
+   "OBJEKT_NR": "0870878",
+   "OBJEKTBEZ": "TRAARER STRAßE",
+   "BAUMNUMMER": 35,
+   "BAUMART": "Spanische Eiche",
+   "BOTANISCHER_NAME": "Quercus hispanica Ambroziana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61910303685567,
+   "lat": 51.3623326243564,
+   "OBJEKT_NR": "0870878",
+   "OBJEKTBEZ": "TRAARER STRAßE",
+   "BAUMNUMMER": 30,
+   "BAUMART": "Spanische Eiche",
+   "BOTANISCHER_NAME": "Quercus hispanica Ambroziana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57159025188127,
+   "lat": 51.3370016975594,
+   "OBJEKT_NR": "0470199",
+   "OBJEKTBEZ": "CRACAUER STRAßE",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Rotblättrige Sorte des Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides Schwedleri",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60129794644641,
+   "lat": 51.3623494888037,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 201,
+   "BAUMART": "Sorte der Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium Landscape Bloom",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53204872984446,
+   "lat": 51.3176078056581,
+   "OBJEKT_NR": "0170043",
+   "OBJEKTBEZ": "AM KONNERTZFELD",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57517104500588,
+   "lat": 51.3496843387309,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1124,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57514113227249,
+   "lat": 51.3499722559719,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1125,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57723885749124,
+   "lat": 51.3538730784675,
+   "OBJEKT_NR": "0270212",
+   "OBJEKTBEZ": "DEUßSTRAßE",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Himalaja-Birke",
+   "BOTANISCHER_NAME": "Betula utilis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58257930532377,
+   "lat": 51.3324536826194,
+   "OBJEKT_NR": "0470701",
+   "OBJEKTBEZ": "OPPUMER STRAßE",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Schmalkronige Platane",
+   "BOTANISCHER_NAME": "Platanus acerifolia Tremonia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56057847115676,
+   "lat": 51.3481874436882,
+   "OBJEKT_NR": "0270536",
+   "OBJEKTBEZ": "KRÜLLSDYK",
+   "BAUMNUMMER": 54,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5775699814323,
+   "lat": 51.3521952122059,
+   "OBJEKT_NR": "0270212",
+   "OBJEKTBEZ": "DEUßSTRAßE",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Himalaja-Birke",
+   "BOTANISCHER_NAME": "Betula utilis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57495930255087,
+   "lat": 51.350536122721,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1136,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57512212654345,
+   "lat": 51.3501569095469,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1126,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54572602366167,
+   "lat": 51.3278734152831,
+   "OBJEKT_NR": "0170311",
+   "OBJEKTBEZ": "GABELSBERGERSTRAßE",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Französischer Ahorn",
+   "BOTANISCHER_NAME": "Acer monspessulanum",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57520336612154,
+   "lat": 51.3494438169175,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1123,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57509071209732,
+   "lat": 51.3505472907049,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1128,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57484396791931,
+   "lat": 51.3530735318172,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1129,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57487369667758,
+   "lat": 51.3529710003472,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1130,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57496541315563,
+   "lat": 51.3519953666118,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1132,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5749514052894,
+   "lat": 51.3511306525129,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1134,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57524590157426,
+   "lat": 51.3492740585351,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1122,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57494947619214,
+   "lat": 51.3508173328585,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1135,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64384114420952,
+   "lat": 51.3588547005507,
+   "OBJEKT_NR": "4878518",
+   "OBJEKTBEZ": "An der Kesselschmiede, Grünanlage",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus hillerii Spire",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57501570380504,
+   "lat": 51.3499115074341,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1138,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57506139766012,
+   "lat": 51.3494977530794,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1140,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.69867881870213,
+   "lat": 51.3276789425558,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 379,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.69842702505176,
+   "lat": 51.3280143997161,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 381,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5914933265322,
+   "lat": 51.3368893317489,
+   "OBJEKT_NR": "0770872",
+   "OBJEKTBEZ": "TIERGARTENSTRAßE",
+   "BAUMNUMMER": 27,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.51173916056301,
+   "lat": 51.3663331106056,
+   "OBJEKT_NR": "0371603",
+   "OBJEKTBEZ": "TÖNISVORSTER STRAßE",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63532859595311,
+   "lat": 51.3648175444366,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2018,
+   "BAUMART": "Weißbunte Sorte vom Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus Leopoldii",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64399926691636,
+   "lat": 51.3606917500022,
+   "OBJEKT_NR": "4978529",
+   "OBJEKTBEZ": "Heinrichsplatz",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia kobus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63107241452904,
+   "lat": 51.3662961889723,
+   "OBJEKT_NR": "E3_03",
+   "OBJEKTBEZ": "Löschenhofweg",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56721960490059,
+   "lat": 51.3175128413416,
+   "OBJEKT_NR": "0570913",
+   "OBJEKTBEZ": "VOM-BRUCK-PLATZ",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Kugelrobinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Umbraculifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54780104334928,
+   "lat": 51.3614723778139,
+   "OBJEKT_NR": "1370289",
+   "OBJEKTBEZ": "Flünnertzdyk",
+   "BAUMNUMMER": 1017,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54894298631272,
+   "lat": 51.3615737499663,
+   "OBJEKT_NR": "1370289",
+   "OBJEKTBEZ": "Flünnertzdyk",
+   "BAUMNUMMER": 1018,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59352391655505,
+   "lat": 51.3486811170666,
+   "OBJEKT_NR": "0870345",
+   "OBJEKTBEZ": "GROTENBURGSTRAßE",
+   "BAUMNUMMER": 46,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54659741396353,
+   "lat": 51.3210713274998,
+   "OBJEKT_NR": "0170107",
+   "OBJEKTBEZ": "BAACKESWEG",
+   "BAUMNUMMER": 50,
+   "BAUMART": "Sand-Birke",
+   "BOTANISCHER_NAME": "Betula pendula",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56805806735697,
+   "lat": 51.3231210101655,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 45,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57606520992545,
+   "lat": 51.3439038272119,
+   "OBJEKT_NR": "1478527",
+   "OBJEKTBEZ": "Hohenzollernstraße",
+   "BAUMNUMMER": 37,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia kobus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6307629394818,
+   "lat": 51.370306688968,
+   "OBJEKT_NR": "4978515",
+   "OBJEKTBEZ": "Bruchweg 15, Betriebshof",
+   "BAUMNUMMER": 107,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53911179920432,
+   "lat": 51.3386829369781,
+   "OBJEKT_NR": "0170187",
+   "OBJEKTBEZ": "CANISIUSSTRAßE",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.62634440646375,
+   "lat": 51.3350354668211,
+   "OBJEKT_NR": "2778518",
+   "OBJEKTBEZ": "Crön",
+   "BAUMNUMMER": 645,
+   "BAUMART": "Pyramiden-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur Fastigiata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.62652253891207,
+   "lat": 51.3346572841572,
+   "OBJEKT_NR": "2778518",
+   "OBJEKTBEZ": "Crön",
+   "BAUMNUMMER": 646,
+   "BAUMART": "Pyramiden-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur Fastigiata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54542156613185,
+   "lat": 51.3098826837354,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 2955,
+   "BAUMART": "Rotdorn",
+   "BOTANISCHER_NAME": "Crataegus laevigata Pauls Scarlet",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54424757018798,
+   "lat": 51.3104496071791,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 6009,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6984334061549,
+   "lat": 51.327886996217,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 380,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53918803691866,
+   "lat": 51.3386556673029,
+   "OBJEKT_NR": "0170187",
+   "OBJEKTBEZ": "CANISIUSSTRAßE",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5389666575141,
+   "lat": 51.3387344223273,
+   "OBJEKT_NR": "0170187",
+   "OBJEKTBEZ": "CANISIUSSTRAßE",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53874630054895,
+   "lat": 51.3388131984322,
+   "OBJEKT_NR": "0170187",
+   "OBJEKTBEZ": "CANISIUSSTRAßE",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53866590087307,
+   "lat": 51.3388416635303,
+   "OBJEKT_NR": "0170187",
+   "OBJEKTBEZ": "CANISIUSSTRAßE",
+   "BAUMNUMMER": 19,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61832062664629,
+   "lat": 51.3760929049025,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 119,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63474858938906,
+   "lat": 51.3490937008647,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3446,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5394783189965,
+   "lat": 51.3385526958564,
+   "OBJEKT_NR": "0170187",
+   "OBJEKTBEZ": "CANISIUSSTRAßE",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53933109741505,
+   "lat": 51.3386047795434,
+   "OBJEKT_NR": "0170187",
+   "OBJEKTBEZ": "CANISIUSSTRAßE",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53925905561336,
+   "lat": 51.3386302126926,
+   "OBJEKT_NR": "0170187",
+   "OBJEKTBEZ": "CANISIUSSTRAßE",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61904722219873,
+   "lat": 51.3760933047286,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 166,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61961381377294,
+   "lat": 51.3766824056613,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 188,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61788548177803,
+   "lat": 51.3761493923246,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 279,
+   "BAUMART": "Rotblättrige Sorte des Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus Purpurascens",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61678975698318,
+   "lat": 51.3765021373908,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 334,
+   "BAUMART": "Baum-Hasel",
+   "BOTANISCHER_NAME": "Corylus colurna",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61686285913361,
+   "lat": 51.3762605693902,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 362,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61689997807809,
+   "lat": 51.3761489441798,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 368,
+   "BAUMART": "Baum-Hasel",
+   "BOTANISCHER_NAME": "Corylus colurna",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61114860204572,
+   "lat": 51.3492444402841,
+   "OBJEKT_NR": "3878402",
+   "OBJEKTBEZ": "Am Eickerhof, Kinderspielplatz",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Blutpflaume",
+   "BOTANISCHER_NAME": "Prunus cerasifera Nigra",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61228248444811,
+   "lat": 51.348919321427,
+   "OBJEKT_NR": "3878575",
+   "OBJEKTBEZ": "Kreuzbergstraße, Grünzug entlang Badezentrum",
+   "BAUMNUMMER": 179,
+   "BAUMART": "Birke",
+   "BOTANISCHER_NAME": "Betula  species",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61219943090116,
+   "lat": 51.3489519196936,
+   "OBJEKT_NR": "3878575",
+   "OBJEKTBEZ": "Kreuzbergstraße, Grünzug entlang Badezentrum",
+   "BAUMNUMMER": 180,
+   "BAUMART": "Birke",
+   "BOTANISCHER_NAME": "Betula  species",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61211642813691,
+   "lat": 51.3489835391674,
+   "OBJEKT_NR": "3878575",
+   "OBJEKTBEZ": "Kreuzbergstraße, Grünzug entlang Badezentrum",
+   "BAUMNUMMER": 181,
+   "BAUMART": "Ahorn",
+   "BOTANISCHER_NAME": "Acer  species",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61206544734226,
+   "lat": 51.3490011150976,
+   "OBJEKT_NR": "3878575",
+   "OBJEKTBEZ": "Kreuzbergstraße, Grünzug entlang Badezentrum",
+   "BAUMNUMMER": 182,
+   "BAUMART": "Birke",
+   "BOTANISCHER_NAME": "Betula  species",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61646088086341,
+   "lat": 51.3752881998503,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 63,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59283599645679,
+   "lat": 51.3371937417185,
+   "OBJEKT_NR": "0770872",
+   "OBJEKTBEZ": "TIERGARTENSTRAßE",
+   "BAUMNUMMER": 37,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57435160172088,
+   "lat": 51.359196924421,
+   "OBJEKT_NR": "3878415",
+   "OBJEKTBEZ": "Am Flohbusch, Kinderspielplatz Holzmörs",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Red Sunset",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57469634818869,
+   "lat": 51.3590397501566,
+   "OBJEKT_NR": "3878415",
+   "OBJEKTBEZ": "Am Flohbusch, Kinderspielplatz Holzmörs",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64787038755763,
+   "lat": 51.3660397962459,
+   "OBJEKT_NR": "4978516",
+   "OBJEKTBEZ": "Duisburgerstraße / Körnerstraße / Ahornstraße, Grünverb.",
+   "BAUMNUMMER": 112,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.49928703246152,
+   "lat": 51.3701066934285,
+   "OBJEKT_NR": "0371075",
+   "OBJEKTBEZ": "LEIDENER STRAßE",
+   "BAUMNUMMER": 115,
+   "BAUMART": "Baum-Hasel",
+   "BOTANISCHER_NAME": "Corylus colurna",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5690978992745,
+   "lat": 51.3391224574268,
+   "OBJEKT_NR": "0470336",
+   "OBJEKTBEZ": "GOETHESTRAßE",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia kobus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5397748761885,
+   "lat": 51.3384472891511,
+   "OBJEKT_NR": "0170187",
+   "OBJEKTBEZ": "CANISIUSSTRAßE",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53962765527256,
+   "lat": 51.3384993732209,
+   "OBJEKT_NR": "0170187",
+   "OBJEKTBEZ": "CANISIUSSTRAßE",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58874701197775,
+   "lat": 51.3462150126002,
+   "OBJEKT_NR": "3878590",
+   "OBJEKTBEZ": "Kaiserstraße, Kaiserpark",
+   "BAUMNUMMER": 292,
+   "BAUMART": "Urwelt-Mammutbaum",
+   "BOTANISCHER_NAME": "Metasequoia glyptostroboides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58750861345605,
+   "lat": 51.3478645072421,
+   "OBJEKT_NR": "3878590",
+   "OBJEKTBEZ": "Kaiserstraße, Kaiserpark",
+   "BAUMNUMMER": 381,
+   "BAUMART": "Libanon-Zeder",
+   "BOTANISCHER_NAME": "Cedrus libani",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53307831375254,
+   "lat": 51.3744536813507,
+   "OBJEKT_NR": "B3_25",
+   "OBJEKTBEZ": "Steeger Dyk, südliche Seite rechts von Vobis",
+   "BAUMNUMMER": 68,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53300706453309,
+   "lat": 51.3744278253411,
+   "OBJEKT_NR": "B3_25",
+   "OBJEKTBEZ": "Steeger Dyk, südliche Seite rechts von Vobis",
+   "BAUMNUMMER": 69,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53293322405712,
+   "lat": 51.3744019146983,
+   "OBJEKT_NR": "B3_25",
+   "OBJEKTBEZ": "Steeger Dyk, südliche Seite rechts von Vobis",
+   "BAUMNUMMER": 70,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53285437544708,
+   "lat": 51.3743726511543,
+   "OBJEKT_NR": "B3_25",
+   "OBJEKTBEZ": "Steeger Dyk, südliche Seite rechts von Vobis",
+   "BAUMNUMMER": 71,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63530755494952,
+   "lat": 51.3623681371781,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2004,
+   "BAUMART": "Dachförmige Platane",
+   "BOTANISCHER_NAME": "Platanus x acerifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5327625702679,
+   "lat": 51.3743431145863,
+   "OBJEKT_NR": "B3_25",
+   "OBJEKTBEZ": "Steeger Dyk, südliche Seite rechts von Vobis",
+   "BAUMNUMMER": 72,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53257948368769,
+   "lat": 51.3742743102287,
+   "OBJEKT_NR": "B3_25",
+   "OBJEKTBEZ": "Steeger Dyk, südliche Seite rechts von Vobis",
+   "BAUMNUMMER": 74,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53249813143906,
+   "lat": 51.3742433700167,
+   "OBJEKT_NR": "B3_25",
+   "OBJEKTBEZ": "Steeger Dyk, südliche Seite rechts von Vobis",
+   "BAUMNUMMER": 75,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53239907623121,
+   "lat": 51.3742039383592,
+   "OBJEKT_NR": "B3_25",
+   "OBJEKTBEZ": "Steeger Dyk, südliche Seite rechts von Vobis",
+   "BAUMNUMMER": 76,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53232281963412,
+   "lat": 51.3741747290681,
+   "OBJEKT_NR": "B3_25",
+   "OBJEKTBEZ": "Steeger Dyk, südliche Seite rechts von Vobis",
+   "BAUMNUMMER": 77,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63533959880117,
+   "lat": 51.3623125741047,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2005,
+   "BAUMART": "Dachförmige Platane",
+   "BOTANISCHER_NAME": "Platanus x acerifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63544932835486,
+   "lat": 51.3620997860384,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2007,
+   "BAUMART": "Dachförmige Platane",
+   "BOTANISCHER_NAME": "Platanus x acerifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63558191375353,
+   "lat": 51.3618354649736,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2008,
+   "BAUMART": "Dachförmige Platane",
+   "BOTANISCHER_NAME": "Platanus x acerifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56873772176171,
+   "lat": 51.341178431504,
+   "OBJEKT_NR": "0270637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 273,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55205623682966,
+   "lat": 51.3268932863957,
+   "OBJEKT_NR": "0170293",
+   "OBJEKTBEZ": "FRANKENRING",
+   "BAUMNUMMER": 126,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6026278510554,
+   "lat": 51.3557070233913,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.49953483997905,
+   "lat": 51.3700259575076,
+   "OBJEKT_NR": "0371075",
+   "OBJEKTBEZ": "LEIDENER STRAßE",
+   "BAUMNUMMER": 113,
+   "BAUMART": "Baum-Hasel",
+   "BOTANISCHER_NAME": "Corylus colurna",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.49939409156164,
+   "lat": 51.370053174814,
+   "OBJEKT_NR": "0371075",
+   "OBJEKTBEZ": "LEIDENER STRAßE",
+   "BAUMNUMMER": 114,
+   "BAUMART": "Baum-Hasel",
+   "BOTANISCHER_NAME": "Corylus colurna",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6025712339361,
+   "lat": 51.3556745626922,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 14,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60240365877173,
+   "lat": 51.3555876181854,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5118332987413,
+   "lat": 51.3725026667475,
+   "OBJEKT_NR": "0371417",
+   "OBJEKTBEZ": "AUF DEM GRABEN",
+   "BAUMNUMMER": 18,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia kobus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63469049850224,
+   "lat": 51.3490499283621,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3449,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6347333506801,
+   "lat": 51.34904873276,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3450,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63477927888374,
+   "lat": 51.3490517217653,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3451,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60325921539526,
+   "lat": 51.3561032079575,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60320844858433,
+   "lat": 51.3560655950369,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60310209507446,
+   "lat": 51.3559763602863,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60304335669573,
+   "lat": 51.3559316260927,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 7,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60297595191942,
+   "lat": 51.3558936471972,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60289470405294,
+   "lat": 51.3558553722558,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 9,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60284917902369,
+   "lat": 51.3558248090154,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60277376211767,
+   "lat": 51.355783129271,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 11,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60270342302763,
+   "lat": 51.3557486029833,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 12,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5751037009237,
+   "lat": 51.3503478244882,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1127,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5749183836975,
+   "lat": 51.3527865196873,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1131,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5749840442936,
+   "lat": 51.3502199660842,
+   "OBJEKT_NR": "0870637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 1137,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.49489750739612,
+   "lat": 51.3749117532208,
+   "OBJEKT_NR": "1378410",
+   "OBJEKTBEZ": "Waldnieler Straße, Kinderspielplatz",
+   "BAUMNUMMER": 24,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57367764113563,
+   "lat": 51.3361549196934,
+   "OBJEKT_NR": "0470915",
+   "OBJEKTBEZ": "VON-BECKERATH-PLATZ",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60585209260625,
+   "lat": 51.3373941639578,
+   "OBJEKT_NR": "0770123",
+   "OBJEKTBEZ": "BERLINER STRAßE",
+   "BAUMNUMMER": 56,
+   "BAUMART": "Purpur-Erle",
+   "BOTANISCHER_NAME": "Alnus x spaethii",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61982777918377,
+   "lat": 51.3758987842724,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 599,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63552320869133,
+   "lat": 51.3506703939257,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3440,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63537548326617,
+   "lat": 51.350641301671,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3441,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63461020358737,
+   "lat": 51.3490964019948,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3443,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63465751074543,
+   "lat": 51.3490939222549,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3444,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6347036157731,
+   "lat": 51.3490934794558,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3445,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63460246059965,
+   "lat": 51.3490550207027,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3447,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63464548957238,
+   "lat": 51.3490503932984,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3448,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56925764823899,
+   "lat": 51.3413215218799,
+   "OBJEKT_NR": "0470637",
+   "OBJEKTBEZ": "MOERSER STRAßE",
+   "BAUMNUMMER": 27,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63245587468435,
+   "lat": 51.351700592482,
+   "OBJEKT_NR": "0870393",
+   "OBJEKTBEZ": "HELGOLÄNDER STEIG",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Himalaja-Birke",
+   "BOTANISCHER_NAME": "Betula utilis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60745491781865,
+   "lat": 51.3426984854928,
+   "OBJEKT_NR": "3878603",
+   "OBJEKTBEZ": "Am Sonnenhof",
+   "BAUMNUMMER": 16,
+   "BAUMART": "Zucker-Ahorn",
+   "BOTANISCHER_NAME": "Acer saccharum",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54250856173821,
+   "lat": 51.3354058286857,
+   "OBJEKT_NR": "0170663",
+   "OBJEKTBEZ": "NEUER WEG",
+   "BAUMNUMMER": 70,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60820375794312,
+   "lat": 51.3420342235257,
+   "OBJEKT_NR": "3878603",
+   "OBJEKTBEZ": "Am Sonnenhof",
+   "BAUMNUMMER": 212,
+   "BAUMART": "Katsurabaum",
+   "BOTANISCHER_NAME": "Ceridiphyllum japonicum",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64489713434868,
+   "lat": 51.3709882940473,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 120,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64665445956348,
+   "lat": 51.3715077697633,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 157,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57880273844102,
+   "lat": 51.3461482770701,
+   "OBJEKT_NR": "0870469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 109,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59423205813165,
+   "lat": 51.3438253928716,
+   "OBJEKT_NR": "0870489",
+   "OBJEKTBEZ": "KARL-HÜGEL-STRAßE",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64064832419562,
+   "lat": 51.3393834644648,
+   "OBJEKT_NR": "2775235",
+   "OBJEKTBEZ": "FDF Linn, Elbinger Straße",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64150032277125,
+   "lat": 51.3380730446509,
+   "OBJEKT_NR": "2775235",
+   "OBJEKTBEZ": "FDF Linn, Elbinger Straße",
+   "BAUMNUMMER": 213,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58056934158937,
+   "lat": 51.3425486665135,
+   "OBJEKT_NR": "0470237",
+   "OBJEKTBEZ": "DÜRERPLATZ",
+   "BAUMNUMMER": 19,
+   "BAUMART": "Sorte des Zierapfels",
+   "BOTANISCHER_NAME": "Malus Makamik",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64778632296483,
+   "lat": 51.3724342573505,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 614,
+   "BAUMART": "Sand-Birke",
+   "BOTANISCHER_NAME": "Betula pendula",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64674783618168,
+   "lat": 51.3735655783573,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 720,
+   "BAUMART": "Amerikanische Roteiche",
+   "BOTANISCHER_NAME": "Quercus rubra",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64583706515909,
+   "lat": 51.3736693804,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 730,
+   "BAUMART": "Amerikanische Roteiche",
+   "BOTANISCHER_NAME": "Quercus rubra",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64663604834642,
+   "lat": 51.3732580660061,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 752,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6457798303332,
+   "lat": 51.3732737321541,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 771,
+   "BAUMART": "Amerikanische Roteiche",
+   "BOTANISCHER_NAME": "Quercus rubra",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64633634961139,
+   "lat": 51.3734931251599,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 775,
+   "BAUMART": "Amerikanische Roteiche",
+   "BOTANISCHER_NAME": "Quercus rubra",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54876644572438,
+   "lat": 51.3478850186254,
+   "OBJEKT_NR": "0270141",
+   "OBJEKTBEZ": "BLUMENTALSTRAßE",
+   "BAUMNUMMER": 41,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56836473150838,
+   "lat": 51.3515077524406,
+   "OBJEKT_NR": "0270511",
+   "OBJEKTBEZ": "KLIEDBRUCHSTRAßE",
+   "BAUMNUMMER": 10,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5603973819298,
+   "lat": 51.3497398460982,
+   "OBJEKT_NR": "0271147",
+   "OBJEKTBEZ": "JOSEF-BROCKER-DYK",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Scharlach-Eiche",
+   "BOTANISCHER_NAME": "Quercus coccinea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58601383241023,
+   "lat": 51.3409146376236,
+   "OBJEKT_NR": "0870335",
+   "OBJEKTBEZ": "GNEISENAUSTRAßE",
+   "BAUMNUMMER": 19,
+   "BAUMART": "Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64775902908765,
+   "lat": 51.3717834044345,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 323,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5744755405992,
+   "lat": 51.3593037139243,
+   "OBJEKT_NR": "3878415",
+   "OBJEKTBEZ": "Am Flohbusch, Kinderspielplatz Holzmörs",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Red Sunset",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57428665003115,
+   "lat": 51.3592684763198,
+   "OBJEKT_NR": "3878415",
+   "OBJEKTBEZ": "Am Flohbusch, Kinderspielplatz Holzmörs",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Red Sunset",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64475923944856,
+   "lat": 51.3732856512039,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 488,
+   "BAUMART": "Sand-Birke",
+   "BOTANISCHER_NAME": "Betula pendula",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55443085598793,
+   "lat": 51.315192926225,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 1199,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55432038220753,
+   "lat": 51.3175653619433,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 472,
+   "BAUMART": "Gewöhnlicher Trompetenbaum",
+   "BOTANISCHER_NAME": "Catalpa bignonioides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55546184614526,
+   "lat": 51.3181128005021,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 444,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55566696084539,
+   "lat": 51.3181375085593,
+   "OBJEKT_NR": "2575230/A",
+   "OBJEKTBEZ": "FDF Hauptfriedhof ALT, Heideckstraße",
+   "BAUMNUMMER": 445,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59350607099779,
+   "lat": 51.3523903614978,
+   "OBJEKT_NR": "0870438",
+   "OBJEKTBEZ": "HÜTTENALLEE",
+   "BAUMNUMMER": 37,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64233774043364,
+   "lat": 51.3378488803208,
+   "OBJEKT_NR": "2775235",
+   "OBJEKTBEZ": "FDF Linn, Elbinger Straße",
+   "BAUMNUMMER": 269,
+   "BAUMART": "",
+   "BOTANISCHER_NAME": "",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57742643919911,
+   "lat": 51.3530521718611,
+   "OBJEKT_NR": "0270212",
+   "OBJEKTBEZ": "DEUßSTRAßE",
+   "BAUMNUMMER": 6,
+   "BAUMART": "Himalaja-Birke",
+   "BOTANISCHER_NAME": "Betula utilis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.62104021052107,
+   "lat": 51.3258418820792,
+   "OBJEKT_NR": "2775236",
+   "OBJEKTBEZ": "FDF Oppum, Heckschenstraße",
+   "BAUMNUMMER": 345,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6444770747282,
+   "lat": 51.3736561237658,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 855,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6439634143221,
+   "lat": 51.3737224991983,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 887,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64430170873665,
+   "lat": 51.3706711933915,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 893,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64431329773401,
+   "lat": 51.3705877947806,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 894,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64432054408069,
+   "lat": 51.370487321121,
+   "OBJEKT_NR": "4975239",
+   "OBJEKTBEZ": "FDF Uerdingen, Friedensstraße",
+   "BAUMNUMMER": 897,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58937819582575,
+   "lat": 51.3147500815817,
+   "OBJEKT_NR": "2678542",
+   "OBJEKTBEZ": "Hafelsstraße, Grünzug K-Bahn 2,v.Ketteler/Hafels Königs",
+   "BAUMNUMMER": 277,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58918536612147,
+   "lat": 51.3149190468844,
+   "OBJEKT_NR": "2678542",
+   "OBJEKTBEZ": "Hafelsstraße, Grünzug K-Bahn 2,v.Ketteler/Hafels Königs",
+   "BAUMNUMMER": 278,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58896159933653,
+   "lat": 51.3151322100647,
+   "OBJEKT_NR": "2678542",
+   "OBJEKTBEZ": "Hafelsstraße, Grünzug K-Bahn 2,v.Ketteler/Hafels Königs",
+   "BAUMNUMMER": 279,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5884449229802,
+   "lat": 51.3137201397286,
+   "OBJEKT_NR": "2678542",
+   "OBJEKTBEZ": "Hafelsstraße, Grünzug K-Bahn 2,v.Ketteler/Hafels Königs",
+   "BAUMNUMMER": 284,
+   "BAUMART": "Sand-Birke",
+   "BOTANISCHER_NAME": "Betula pendula",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55855824668832,
+   "lat": 51.3057160257549,
+   "OBJEKT_NR": "2678515",
+   "OBJEKTBEZ": "Vulkanstraße, Stadtpark Fischeln II",
+   "BAUMNUMMER": 648,
+   "BAUMART": "Sorte der Pyramiden-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur Fastigiata 'Koster'",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55995516846717,
+   "lat": 51.3058471632499,
+   "OBJEKT_NR": "2678515",
+   "OBJEKTBEZ": "Vulkanstraße, Stadtpark Fischeln II",
+   "BAUMNUMMER": 649,
+   "BAUMART": "Pyramiden-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur Fastigiata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56022306238894,
+   "lat": 51.3065999830439,
+   "OBJEKT_NR": "2678515",
+   "OBJEKTBEZ": "Vulkanstraße, Stadtpark Fischeln II",
+   "BAUMNUMMER": 650,
+   "BAUMART": "Pyramiden-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur Fastigiata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60150511494383,
+   "lat": 51.3622692986623,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 204,
+   "BAUMART": "Sorte der Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium Landscape Bloom",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61601013788755,
+   "lat": 51.3754728849145,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 409,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6173897938805,
+   "lat": 51.3772579599628,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 415,
+   "BAUMART": "Baum-Hasel",
+   "BOTANISCHER_NAME": "Corylus colurna",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61498512859223,
+   "lat": 51.3755297667594,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 580,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6151319768529,
+   "lat": 51.3755967880239,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 582,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61914297361309,
+   "lat": 51.3768231109996,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 594,
+   "BAUMART": "Amberbaum",
+   "BOTANISCHER_NAME": "Liquidambar styraciflua",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61950954124954,
+   "lat": 51.3764385375458,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 595,
+   "BAUMART": "Europäische Hopfenbuche",
+   "BOTANISCHER_NAME": "Ostrya carpinifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61740198821155,
+   "lat": 51.3773068223346,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 416,
+   "BAUMART": "Baum-Hasel",
+   "BOTANISCHER_NAME": "Corylus colurna",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61746408647809,
+   "lat": 51.3773231728412,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 417,
+   "BAUMART": "Gemeine Hainbuche",
+   "BOTANISCHER_NAME": "Carpinus betulus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6195109320946,
+   "lat": 51.3774578305686,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 418,
+   "BAUMART": "Schwarzblättriger-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides Faassens Black",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61664968689593,
+   "lat": 51.3768611109027,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 420,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61472693744582,
+   "lat": 51.3755160145308,
+   "OBJEKT_NR": "3875238",
+   "OBJEKTBEZ": "FDF Elfrath, An der Elfrather Mühle",
+   "BAUMNUMMER": 578,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63576774449061,
+   "lat": 51.3507158694635,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3438,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63565028524455,
+   "lat": 51.3506956336403,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3439,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58498336522133,
+   "lat": 51.3392261769564,
+   "OBJEKT_NR": "0870340",
+   "OBJEKTBEZ": "GRENZSTRAßE",
+   "BAUMNUMMER": 157,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58960290046854,
+   "lat": 51.3407953297698,
+   "OBJEKT_NR": "0870323",
+   "OBJEKTBEZ": "GERMANIASTRAßE",
+   "BAUMNUMMER": 52,
+   "BAUMART": "Sorte des Rot-Ahorns",
+   "BOTANISCHER_NAME": "Acer rubrum Red Sunset",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54983899201544,
+   "lat": 51.3580395015365,
+   "OBJEKT_NR": "0270798",
+   "OBJEKTBEZ": "SCHROERSDYK",
+   "BAUMNUMMER": 36,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56228171117679,
+   "lat": 51.3563537019778,
+   "OBJEKT_NR": "0270511",
+   "OBJEKTBEZ": "KLIEDBRUCHSTRAßE",
+   "BAUMNUMMER": 78,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57895278149686,
+   "lat": 51.3458750872749,
+   "OBJEKT_NR": "0470469",
+   "OBJEKTBEZ": "JENTGESALLEE",
+   "BAUMNUMMER": 54,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58331453954123,
+   "lat": 51.3384704414192,
+   "OBJEKT_NR": "0470238",
+   "OBJEKTBEZ": "DÜRERSTRAßE",
+   "BAUMNUMMER": 122,
+   "BAUMART": "Papier-Birke",
+   "BOTANISCHER_NAME": "Betula papyrifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54824873583609,
+   "lat": 51.3298263452381,
+   "OBJEKT_NR": "0170293",
+   "OBJEKTBEZ": "FRANKENRING",
+   "BAUMNUMMER": 88,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54971542008477,
+   "lat": 51.3139498104431,
+   "OBJEKT_NR": "2575230/N",
+   "OBJEKTBEZ": "FDF Hauptfriedhof NEU, Heideckstraße",
+   "BAUMNUMMER": 862,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.55420309224089,
+   "lat": 51.3340058038475,
+   "OBJEKT_NR": "1178402",
+   "OBJEKTBEZ": "Gartenstraße 147, Villa K",
+   "BAUMNUMMER": 8,
+   "BAUMART": "Sorte der Tulpenmagnolie",
+   "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60123362306793,
+   "lat": 51.3351090647502,
+   "OBJEKT_NR": "0770929",
+   "OBJEKTBEZ": "WALTER-FLEX-STRAßE",
+   "BAUMNUMMER": 21,
+   "BAUMART": "Italienische Erle",
+   "BOTANISCHER_NAME": "Alnus cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59813100404583,
+   "lat": 51.2964099436293,
+   "OBJEKT_NR": "2675232",
+   "OBJEKTBEZ": "FDF Fischeln, Kölner Straße",
+   "BAUMNUMMER": 968,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.62687528385863,
+   "lat": 51.3351728442302,
+   "OBJEKT_NR": "2778518",
+   "OBJEKTBEZ": "Crön",
+   "BAUMNUMMER": 644,
+   "BAUMART": "Pyramiden-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur Fastigiata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57725530031591,
+   "lat": 51.3538109482988,
+   "OBJEKT_NR": "0270212",
+   "OBJEKTBEZ": "DEUßSTRAßE",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Himalaja-Birke",
+   "BOTANISCHER_NAME": "Betula utilis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57173520644889,
+   "lat": 51.3371214490728,
+   "OBJEKT_NR": "0470199",
+   "OBJEKTBEZ": "CRACAUER STRAßE",
+   "BAUMNUMMER": 3,
+   "BAUMART": "Rotblättrige Sorte des Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides Schwedleri",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63613386084163,
+   "lat": 51.3587467197348,
+   "OBJEKT_NR": "0970170",
+   "OBJEKTBEZ": "BRUCHWEG",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.61684909675004,
+   "lat": 51.3361798135004,
+   "OBJEKT_NR": "0770333",
+   "OBJEKTBEZ": "GLINDHOLZSTRAßE",
+   "BAUMNUMMER": 2,
+   "BAUMART": "Kegel-Robinie",
+   "BOTANISCHER_NAME": "Robinia pseudoacacia Bessoniana",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56895710307008,
+   "lat": 51.3196653025553,
+   "OBJEKT_NR": "0570474",
+   "OBJEKTBEZ": "JOHANNESSTRAßE",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Spitz-Ahorn",
+   "BOTANISCHER_NAME": "Acer platanoides",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60312276888029,
+   "lat": 51.2994660874299,
+   "OBJEKT_NR": "0670847",
+   "OBJEKTBEZ": "STRÜMPER WEG",
+   "BAUMNUMMER": 4,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.50372819067006,
+   "lat": 51.3834870836365,
+   "OBJEKT_NR": "1375234",
+   "OBJEKTBEZ": "FDF Hüls, Am Strathof",
+   "BAUMNUMMER": 557,
+   "BAUMART": "Winter-Linde",
+   "BOTANISCHER_NAME": "Tilia cordata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57711043803311,
+   "lat": 51.3461993375272,
+   "OBJEKT_NR": "0470956",
+   "OBJEKTBEZ": "WILHELMSHOFALLEE",
+   "BAUMNUMMER": 35,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.54015733520472,
+   "lat": 51.3472926131552,
+   "OBJEKT_NR": "0271250",
+   "OBJEKTBEZ": "VOITHSTRAßE",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Feld-Ahorn",
+   "BOTANISCHER_NAME": "Acer campestre",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6017161663573,
+   "lat": 51.3622686575161,
+   "OBJEKT_NR": "0870978",
+   "OBJEKTBEZ": "ZWINGENBERGSTRAßE",
+   "BAUMNUMMER": 162,
+   "BAUMART": "Sorte der Vogel-Kirsche",
+   "BOTANISCHER_NAME": "Prunus avium Landscape Bloom",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.5239232563206,
+   "lat": 51.3881305210845,
+   "OBJEKT_NR": "0371538",
+   "OBJEKTBEZ": "ROHRAMMERDYK",
+   "BAUMNUMMER": 59,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.51163333885617,
+   "lat": 51.3724758044295,
+   "OBJEKT_NR": "0371417",
+   "OBJEKTBEZ": "AUF DEM GRABEN",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia kobus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57045915620932,
+   "lat": 51.3237894956807,
+   "OBJEKT_NR": "0570758",
+   "OBJEKTBEZ": "RITTERSTRAßE",
+   "BAUMNUMMER": 13,
+   "BAUMART": "Säulen-Feldahorn",
+   "BOTANISCHER_NAME": "Acer campestre Green Column",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57003959791514,
+   "lat": 51.3379049768351,
+   "OBJEKT_NR": "0470569",
+   "OBJEKTBEZ": "LEYENTALSTRAßE",
+   "BAUMNUMMER": 25,
+   "BAUMART": "Baum-Magnolie",
+   "BOTANISCHER_NAME": "Magnolia kobus",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.65146016981683,
+   "lat": 51.3516068360636,
+   "OBJEKT_NR": "4978535",
+   "OBJEKTBEZ": "Rheinanlagen",
+   "BAUMNUMMER": 183,
+   "BAUMART": "Taschentuchbaum",
+   "BOTANISCHER_NAME": "Davidia involukrata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57614718456413,
+   "lat": 51.3375050924322,
+   "OBJEKT_NR": "0470146",
+   "OBJEKTBEZ": "BOGENSTRAßE",
+   "BAUMNUMMER": 45,
+   "BAUMART": "Yoshino-Kirsche",
+   "BOTANISCHER_NAME": "Prunus x yedoensis",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.59425601095403,
+   "lat": 51.3525589527041,
+   "OBJEKT_NR": "0870438",
+   "OBJEKTBEZ": "HÜTTENALLEE",
+   "BAUMNUMMER": 32,
+   "BAUMART": "Rotbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57604129568577,
+   "lat": 51.3467753176146,
+   "OBJEKT_NR": "0470426",
+   "OBJEKTBEZ": "HOHENZOLLERNSTRAßE",
+   "BAUMNUMMER": 27,
+   "BAUMART": "Blutbuche",
+   "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63455727471271,
+   "lat": 51.3491015164707,
+   "OBJEKT_NR": "4978209",
+   "OBJEKTBEZ": "Alte Krefelder Straße 93, Berufschulzentrum",
+   "BAUMNUMMER": 3442,
+   "BAUMART": "Apfel",
+   "BOTANISCHER_NAME": "Malus communis * (MAsy)",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.58082635311555,
+   "lat": 51.2996007207257,
+   "OBJEKT_NR": "0671139",
+   "OBJEKTBEZ": "FRANZ-HECKMANNS-STRAßE",
+   "BAUMNUMMER": 20,
+   "BAUMART": "Stiel-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53267120137469,
+   "lat": 51.3743054687723,
+   "OBJEKT_NR": "B3_25",
+   "OBJEKTBEZ": "Steeger Dyk, südliche Seite rechts von Vobis",
+   "BAUMNUMMER": 73,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.63541959946915,
+   "lat": 51.3621539906328,
+   "OBJEKT_NR": "4978520",
+   "OBJEKTBEZ": "Parkstraße, Stadtpark",
+   "BAUMNUMMER": 2006,
+   "BAUMART": "Dachförmige Platane",
+   "BOTANISCHER_NAME": "Platanus x acerifolia",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.64157775674668,
+   "lat": 51.3376939487148,
+   "OBJEKT_NR": "2775235",
+   "OBJEKTBEZ": "FDF Linn, Elbinger Straße",
+   "BAUMNUMMER": 246,
+   "BAUMART": "Tulpenbaum",
+   "BOTANISCHER_NAME": "Liriodendron tulipifera",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.56160220198884,
+   "lat": 51.3063644864261,
+   "OBJEKT_NR": "2678515",
+   "OBJEKTBEZ": "Vulkanstraße, Stadtpark Fischeln II",
+   "BAUMNUMMER": 651,
+   "BAUMART": "Pyramiden-Eiche",
+   "BOTANISCHER_NAME": "Quercus robur Fastigiata",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.6120156731262,
+   "lat": 51.3490255740059,
+   "OBJEKT_NR": "3878575",
+   "OBJEKTBEZ": "Kreuzbergstraße, Grünzug entlang Badezentrum",
+   "BAUMNUMMER": 183,
+   "BAUMART": "Ahorn",
+   "BOTANISCHER_NAME": "Acer  species",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60249852903564,
+   "lat": 51.355631325081,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 15,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.53970174303436,
+   "lat": 51.3384739828428,
+   "OBJEKT_NR": "0170187",
+   "OBJEKTBEZ": "CANISIUSSTRAßE",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Selektion der Felsenbirne",
+   "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60316388662602,
+   "lat": 51.3560159322461,
+   "OBJEKT_NR": "E4_03",
+   "OBJEKTBEZ": "Engerstraße, bei Peltzers",
+   "BAUMNUMMER": 5,
+   "BAUMART": "Kopfweide",
+   "BOTANISCHER_NAME": "Salix alba",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.60963665272991,
+   "lat": 51.3269621368735,
+   "OBJEKT_NR": "0770934",
+   "OBJEKTBEZ": "WEETEKAMP",
+   "BAUMNUMMER": 1,
+   "BAUMART": "Sorte der Japanische Zierkirsche",
+   "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.57009480142348,
+   "lat": 51.2979330806238,
+   "OBJEKT_NR": "0670095",
+   "OBJEKTBEZ": "ANRATHER STRAßE",
+   "BAUMNUMMER": 33,
+   "BAUMART": "Kaiserlinde",
+   "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
+   "PFLANZJAHR": 2016
+ },
+ {
+   "lng": 6.69871430958347,
+   "lat": 51.327491944208,
+   "OBJEKT_NR": "0971024",
+   "OBJEKTBEZ": "BATAVERSTRAßE",
+   "BAUMNUMMER": 378,
+   "BAUMART": "Berg-Ahorn",
+   "BOTANISCHER_NAME": "Acer pseudoplatanus",
+   "PFLANZJAHR": 2016
+ }
+]

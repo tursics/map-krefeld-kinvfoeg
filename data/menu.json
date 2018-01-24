@@ -1,24 +1,36 @@
 [
 	{
-		"key": "berlin",
-		"title": "Berlin",
-		"data": "data-berlin",
-		"lat": 52.518413,
-		"lng": 13.408368,
-		"zoom": 11
-	},
-	{
-		"key": "hamburg",
-		"title": "Hamburg",
-		"data": "data-hamburg",
-		"lat": 53.551989,
-		"lng": 10.007282,
-		"zoom": 11
-	},
-	{
 		"key": "krefeld",
-		"title": "Krefeld",
+		"title": "KInvFöG-Maßnahmen",
 		"data": "data-krefeld",
+		"config": "config-krefeld",
+		"lat": 51.340164,
+		"lng": 6.602664,
+		"zoom": 12
+	},
+	{
+		"key": "trees2015",
+		"title": "Neue Bäume in 2015",
+		"data": "data-trees-2015",
+		"config": "config-trees",
+		"lat": 51.340164,
+		"lng": 6.602664,
+		"zoom": 12
+	},
+	{
+		"key": "trees2016",
+		"title": "Neue Bäume in 2016",
+		"data": "data-trees-2016",
+		"config": "config-trees",
+		"lat": 51.340164,
+		"lng": 6.602664,
+		"zoom": 12
+	},
+	{
+		"key": "trees2017",
+		"title": "Neue Bäume in 2017",
+		"data": "data-trees-2017",
+		"config": "config-trees",
 		"lat": 51.340164,
 		"lng": 6.602664,
 		"zoom": 12

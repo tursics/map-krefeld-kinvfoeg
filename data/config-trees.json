@@ -1,0 +1,32 @@
+{
+	"receipt": {
+		"body": [
+			"<div class='full center' id='recBOTANISCHER_NAME'></div>",
+			"<div class='full center' id='recOBJEKTBEZ'></div>",
+			"<div class='empty'></div>",
+			"<div class='full'>--------------------------------------------</div>",
+			"<div class='full center bold' id='recBAUMART'></div>",
+			"<div class='full'>--------------------------------------------</div>",
+			"<div class='empty'></div>",
+			"<div class='full center'>Dieser Baum wurde im Jahr</div>",
+			"<div class='full center'><span id='recPFLANZJAHR'></span> neu gepflanzt</div>"
+		],
+		"info": false
+	},
+	"marker": {
+		"color": "color",
+		"icon": "icon"
+	},
+	"printerlabel": {
+		"top": "BAUMART",
+		"middle": "costs",
+		"bottom": "PFLANZJAHR"
+	},
+	"search": {
+		"pattern": "BAUMART",
+		"description": "OBJEKTBEZ",
+		"data": "OBJEKT_NR",
+		"color": "color",
+		"icon": "icon"
+	}
+}
