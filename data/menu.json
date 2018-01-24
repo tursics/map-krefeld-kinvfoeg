@@ -1,9 +1,9 @@
 [
 	{
-		"key": "krefeld",
+		"key": "kinvfog",
 		"title": "KInvFöG-Maßnahmen",
-		"data": "data-krefeld",
-		"config": "config-krefeld",
+		"data": "data-kinvfog",
+		"config": "config-kinvfog",
 		"lat": 51.340164,
 		"lng": 6.602664,
 		"zoom": 12
