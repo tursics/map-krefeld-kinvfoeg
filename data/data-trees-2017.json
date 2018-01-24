@@ -7,7 +7,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Schnurbaum",
    "BOTANISCHER_NAME": "Sophora japonica Regent",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58216179226996,
@@ -17,7 +19,9 @@
    "BAUMNUMMER": 1018,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58472807189809,
@@ -27,7 +31,9 @@
    "BAUMNUMMER": 1026,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58887044047949,
@@ -37,7 +43,9 @@
    "BAUMNUMMER": 1041,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58985993721769,
@@ -47,7 +55,9 @@
    "BAUMNUMMER": 1044,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57960369569478,
@@ -57,7 +67,9 @@
    "BAUMNUMMER": 1009,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58023317108373,
@@ -67,7 +79,9 @@
    "BAUMNUMMER": 1012,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52913691260966,
@@ -77,7 +91,9 @@
    "BAUMNUMMER": 25,
    "BAUMART": "Riesenblättrige Linde",
    "BOTANISCHER_NAME": "Tilia americana Nova",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55738767170908,
@@ -87,7 +103,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Wald-Tupelobaum",
    "BOTANISCHER_NAME": "Nyssa sylvatica",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54602489188922,
@@ -97,7 +115,9 @@
    "BAUMNUMMER": 93,
    "BAUMART": "Gewöhnliche Platane",
    "BOTANISCHER_NAME": "Platanus x acerifolia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54074021160137,
@@ -107,7 +127,9 @@
    "BAUMNUMMER": 208,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54724598911173,
@@ -117,7 +139,9 @@
    "BAUMNUMMER": 52,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54699779272227,
@@ -127,7 +151,9 @@
    "BAUMNUMMER": 56,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54000946790703,
@@ -137,7 +163,9 @@
    "BAUMNUMMER": 216,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55647855501406,
@@ -147,7 +175,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Stadt-Linde",
    "BOTANISCHER_NAME": "Tilia cordata Greenspire",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64792732084887,
@@ -157,7 +187,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56795214990324,
@@ -167,7 +199,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Gelbe Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Sunburst",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64758295307649,
@@ -177,7 +211,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55572561674463,
@@ -187,7 +223,9 @@
    "BAUMNUMMER": 28,
    "BAUMART": "Rotblättrige Sorte des Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides Schwedleri",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64827802472061,
@@ -197,7 +235,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64844144728141,
@@ -207,7 +247,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64571103375276,
@@ -217,7 +259,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64712972186216,
@@ -227,7 +271,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61515981775596,
@@ -237,7 +283,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Blasenesche",
    "BOTANISCHER_NAME": "Koelreuteria paniculata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64836732503235,
@@ -247,7 +295,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64838259555278,
@@ -257,7 +307,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61270981879012,
@@ -267,7 +319,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Blasenesche",
    "BOTANISCHER_NAME": "Koelreuteria paniculata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56278315602871,
@@ -277,7 +331,9 @@
    "BAUMNUMMER": 79,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58305366555572,
@@ -287,7 +343,9 @@
    "BAUMNUMMER": 128,
    "BAUMART": "Gelbe Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Sunburst",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61364538170708,
@@ -297,7 +355,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Blasenesche",
    "BOTANISCHER_NAME": "Koelreuteria paniculata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67505902767453,
@@ -307,7 +367,9 @@
    "BAUMNUMMER": 163,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5801232696218,
@@ -317,7 +379,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Gelbe Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Sunburst",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59715078548889,
@@ -327,7 +391,9 @@
    "BAUMNUMMER": 119,
    "BAUMART": "Gewöhnliche Platane",
    "BOTANISCHER_NAME": "Platanus x acerifolia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65136076318255,
@@ -337,7 +403,9 @@
    "BAUMNUMMER": 175,
    "BAUMART": "Ginkgobaum",
    "BOTANISCHER_NAME": "Ginkgo biloba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.648332142574,
@@ -347,7 +415,9 @@
    "BAUMNUMMER": 20,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64832126404205,
@@ -357,7 +427,9 @@
    "BAUMNUMMER": 21,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65132511579425,
@@ -367,7 +439,9 @@
    "BAUMNUMMER": 176,
    "BAUMART": "Ginkgobaum",
    "BOTANISCHER_NAME": "Ginkgo biloba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64931013802471,
@@ -377,7 +451,9 @@
    "BAUMNUMMER": 35,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6493417366553,
@@ -387,7 +463,9 @@
    "BAUMNUMMER": 36,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58001764076206,
@@ -397,7 +475,9 @@
    "BAUMNUMMER": 17,
    "BAUMART": "Gelbe Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Sunburst",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67536090452465,
@@ -407,7 +487,9 @@
    "BAUMNUMMER": 168,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67385191852708,
@@ -417,7 +499,9 @@
    "BAUMNUMMER": 209,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5810314185313,
@@ -427,7 +511,9 @@
    "BAUMNUMMER": 33,
    "BAUMART": "Gelbe Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Sunburst",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56601197575925,
@@ -437,7 +523,9 @@
    "BAUMNUMMER": 168,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61248761237768,
@@ -447,7 +535,9 @@
    "BAUMNUMMER": 183,
    "BAUMART": "Purpur-Erle",
    "BOTANISCHER_NAME": "Alnus x spaethii",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55823988644662,
@@ -457,7 +547,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Rotdorn",
    "BOTANISCHER_NAME": "Crataegus laevigata Rubra Plena",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6351960296915,
@@ -467,7 +559,9 @@
    "BAUMNUMMER": 61,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6359013800122,
@@ -477,7 +571,9 @@
    "BAUMNUMMER": 65,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63508154652587,
@@ -487,7 +583,9 @@
    "BAUMNUMMER": 15,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61788406167502,
@@ -497,7 +595,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Baum-Hasel",
    "BOTANISCHER_NAME": "Corylus colurna",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58629643511771,
@@ -507,7 +607,9 @@
    "BAUMNUMMER": 24,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58629447715382,
@@ -517,7 +619,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61653766917902,
@@ -527,7 +631,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Kegel-Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Bessoniana",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58638639604473,
@@ -537,7 +643,9 @@
    "BAUMNUMMER": 26,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58242464029676,
@@ -547,7 +655,9 @@
    "BAUMNUMMER": 48,
    "BAUMART": "Schnurbaum",
    "BOTANISCHER_NAME": "Sophora japonica Regent",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58026306025697,
@@ -557,7 +667,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Schnurbaum",
    "BOTANISCHER_NAME": "Sophora japonica Regent",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58187054135987,
@@ -567,7 +679,9 @@
    "BAUMNUMMER": 45,
    "BAUMART": "Schnurbaum",
    "BOTANISCHER_NAME": "Sophora japonica Regent",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64839061357912,
@@ -577,7 +691,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58103173430111,
@@ -587,7 +703,9 @@
    "BAUMNUMMER": 19,
    "BAUMART": "Schnurbaum",
    "BOTANISCHER_NAME": "Sophora japonica Regent",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58481806528147,
@@ -597,7 +715,9 @@
    "BAUMNUMMER": 31,
    "BAUMART": "Gelbe Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Sunburst",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64841070312687,
@@ -607,7 +727,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64841683521628,
@@ -617,7 +739,9 @@
    "BAUMNUMMER": 17,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67383393422544,
@@ -627,7 +751,9 @@
    "BAUMNUMMER": 143,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64838595434,
@@ -637,7 +763,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5899720905812,
@@ -647,7 +775,9 @@
    "BAUMNUMMER": 21,
    "BAUMART": "Schmalkronige Platane",
    "BOTANISCHER_NAME": "Platanus acerifolia Tremonia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59001692435052,
@@ -657,7 +787,9 @@
    "BAUMNUMMER": 22,
    "BAUMART": "Schmalkronige Platane",
    "BOTANISCHER_NAME": "Platanus acerifolia Tremonia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58956125933412,
@@ -667,7 +799,9 @@
    "BAUMNUMMER": 54,
    "BAUMART": "Sorte der Eberesche",
    "BOTANISCHER_NAME": "Sorbus aucuparia Sheerwaters Seedling",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60910517957546,
@@ -677,7 +811,9 @@
    "BAUMNUMMER": 24,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64668390753844,
@@ -687,7 +823,9 @@
    "BAUMNUMMER": 60,
    "BAUMART": "Zerr-Eiche",
    "BOTANISCHER_NAME": "Quercus cerris",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64600221995702,
@@ -697,7 +835,9 @@
    "BAUMNUMMER": 24,
    "BAUMART": "Schnurbaum",
    "BOTANISCHER_NAME": "Sophora japonica Regent",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55466311389752,
@@ -707,7 +847,9 @@
    "BAUMNUMMER": 32,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59498562415412,
@@ -717,7 +859,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5952335639359,
@@ -727,7 +871,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58065387605262,
@@ -737,7 +883,9 @@
    "BAUMNUMMER": 22,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62804061409143,
@@ -747,7 +895,9 @@
    "BAUMNUMMER": 17,
    "BAUMART": "Katsurabaum",
    "BOTANISCHER_NAME": "Ceridiphyllum japonicum",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64595744045288,
@@ -757,7 +907,9 @@
    "BAUMNUMMER": 29,
    "BAUMART": "Schnurbaum",
    "BOTANISCHER_NAME": "Sophora japonica Regent",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59122197357636,
@@ -767,7 +919,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Schmalkronige Platane",
    "BOTANISCHER_NAME": "Platanus acerifolia Tremonia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64713292683593,
@@ -777,7 +931,9 @@
    "BAUMNUMMER": 64,
    "BAUMART": "Zerr-Eiche",
    "BOTANISCHER_NAME": "Quercus cerris",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5628805147785,
@@ -787,7 +943,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5632995633387,
@@ -797,7 +955,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56356463908249,
@@ -807,7 +967,9 @@
    "BAUMNUMMER": 43,
    "BAUMART": "Kugelahorn",
    "BOTANISCHER_NAME": "Acer platanoides Globosum",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56344687184878,
@@ -817,7 +979,9 @@
    "BAUMNUMMER": 44,
    "BAUMART": "Kugelahorn",
    "BOTANISCHER_NAME": "Acer platanoides Globosum",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62824266008165,
@@ -827,7 +991,9 @@
    "BAUMNUMMER": 18,
    "BAUMART": "Katsurabaum",
    "BOTANISCHER_NAME": "Ceridiphyllum japonicum",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59364021228701,
@@ -837,7 +1003,9 @@
    "BAUMNUMMER": 84,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59360377654466,
@@ -847,7 +1015,9 @@
    "BAUMNUMMER": 85,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58238061470463,
@@ -857,7 +1027,9 @@
    "BAUMNUMMER": 22,
    "BAUMART": "Sorte des Rot-Ahorns",
    "BOTANISCHER_NAME": "Acer rubrum Armstrong",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52580661839524,
@@ -867,7 +1039,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53551297759398,
@@ -877,7 +1051,9 @@
    "BAUMNUMMER": 28,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60831607872147,
@@ -887,7 +1063,9 @@
    "BAUMNUMMER": 28,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6439691333852,
@@ -897,7 +1075,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Kegel-Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Bessoniana",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5494716707332,
@@ -907,7 +1087,9 @@
    "BAUMNUMMER": 15,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54948804297287,
@@ -917,7 +1099,9 @@
    "BAUMNUMMER": 39,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55698902617999,
@@ -927,7 +1111,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Sorte der Stechpalme",
    "BOTANISCHER_NAME": "Ilex mutchagara 'Nellie R. Stevens'",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55746928760222,
@@ -937,7 +1123,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Sorte der Stechpalme",
    "BOTANISCHER_NAME": "Ilex mutchagara 'Nellie R. Stevens'",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54789193709724,
@@ -947,7 +1135,9 @@
    "BAUMNUMMER": 86,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5630408284686,
@@ -957,7 +1147,9 @@
    "BAUMNUMMER": 49,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56315007719243,
@@ -967,7 +1159,9 @@
    "BAUMNUMMER": 50,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64321148934069,
@@ -977,7 +1171,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64340220871391,
@@ -987,7 +1183,9 @@
    "BAUMNUMMER": 19,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64342429544839,
@@ -997,7 +1195,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56371959650809,
@@ -1007,7 +1207,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65201912304317,
@@ -1017,7 +1219,9 @@
    "BAUMNUMMER": 39,
    "BAUMART": "Schwedische Mehlbeere",
    "BOTANISCHER_NAME": "Sorbus intermedia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56371317240744,
@@ -1027,7 +1231,9 @@
    "BAUMNUMMER": 55,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55662029308118,
@@ -1037,7 +1243,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Sorte der Stechpalme",
    "BOTANISCHER_NAME": "Ilex mutchagara 'Nellie R. Stevens'",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55632551162748,
@@ -1047,7 +1255,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Sorte der Stechpalme",
    "BOTANISCHER_NAME": "Ilex mutchagara 'Nellie R. Stevens'",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55682590118798,
@@ -1057,7 +1267,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Sorte der Stechpalme",
    "BOTANISCHER_NAME": "Ilex mutchagara 'Nellie R. Stevens'",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55740569697211,
@@ -1067,7 +1279,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Sorte der Stechpalme",
    "BOTANISCHER_NAME": "Ilex mutchagara 'Nellie R. Stevens'",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55733931069904,
@@ -1077,7 +1291,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Sorte der Stechpalme",
    "BOTANISCHER_NAME": "Ilex mutchagara 'Nellie R. Stevens'",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55487210338435,
@@ -1087,7 +1303,9 @@
    "BAUMNUMMER": 24,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55733703196888,
@@ -1097,7 +1315,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Sorte der Stechpalme",
    "BOTANISCHER_NAME": "Ilex mutchagara 'Nellie R. Stevens'",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5639515648363,
@@ -1107,7 +1327,9 @@
    "BAUMNUMMER": 57,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64339724285064,
@@ -1117,7 +1339,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56292295824078,
@@ -1127,7 +1351,9 @@
    "BAUMNUMMER": 48,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54884582970229,
@@ -1137,7 +1363,9 @@
    "BAUMNUMMER": 81,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56417702268014,
@@ -1147,7 +1375,9 @@
    "BAUMNUMMER": 59,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56326214334154,
@@ -1157,7 +1387,9 @@
    "BAUMNUMMER": 51,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56337562672668,
@@ -1167,7 +1399,9 @@
    "BAUMNUMMER": 52,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64347304081088,
@@ -1177,7 +1411,9 @@
    "BAUMNUMMER": 21,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56414401919293,
@@ -1187,7 +1423,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54926901989994,
@@ -1197,7 +1435,9 @@
    "BAUMNUMMER": 15,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6025250570858,
@@ -1207,7 +1447,9 @@
    "BAUMNUMMER": 26,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60250927955531,
@@ -1217,7 +1459,9 @@
    "BAUMNUMMER": 27,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6026021745102,
@@ -1227,7 +1471,9 @@
    "BAUMNUMMER": 23,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56295738345522,
@@ -1237,7 +1483,9 @@
    "BAUMNUMMER": 18,
    "BAUMART": "Sumpf-Eiche",
    "BOTANISCHER_NAME": "Quercus palustris",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60255209854936,
@@ -1247,7 +1495,9 @@
    "BAUMNUMMER": 25,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60265156487391,
@@ -1257,7 +1507,9 @@
    "BAUMNUMMER": 21,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55560912298956,
@@ -1267,7 +1519,9 @@
    "BAUMNUMMER": 31,
    "BAUMART": "Rotblättrige Sorte des Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides Schwedleri",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6025754968473,
@@ -1277,7 +1531,9 @@
    "BAUMNUMMER": 24,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63429310514022,
@@ -1287,7 +1543,9 @@
    "BAUMNUMMER": 112,
    "BAUMART": "Schmalkronige Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Skyline",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60271516959051,
@@ -1297,7 +1555,9 @@
    "BAUMNUMMER": 19,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53778079344345,
@@ -1307,7 +1567,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Stiel-Eiche",
    "BOTANISCHER_NAME": "Quercus robur",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64534005562989,
@@ -1317,7 +1579,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Weißbunte Sorte vom Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus Leopoldii",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64294651056652,
@@ -1327,7 +1591,9 @@
    "BAUMNUMMER": 53,
    "BAUMART": "Stadt-Linde",
    "BOTANISCHER_NAME": "Tilia cordata Greenspire",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64524130164852,
@@ -1337,7 +1603,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Weißbunte Sorte vom Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus Leopoldii",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55879745921557,
@@ -1347,7 +1615,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Sorte des Amberbaums",
    "BOTANISCHER_NAME": "Liquidambar styraciflua Paarl",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64318221067224,
@@ -1357,7 +1627,9 @@
    "BAUMNUMMER": 51,
    "BAUMART": "Stadt-Linde",
    "BOTANISCHER_NAME": "Tilia cordata Greenspire",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55487260954954,
@@ -1367,7 +1639,9 @@
    "BAUMNUMMER": 23,
    "BAUMART": "Wollapfel",
    "BOTANISCHER_NAME": "Malus tschonskii",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65246381037095,
@@ -1377,7 +1651,9 @@
    "BAUMNUMMER": 17,
    "BAUMART": "Schwedische Mehlbeere",
    "BOTANISCHER_NAME": "Sorbus intermedia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56752892582368,
@@ -1387,7 +1663,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Kugelrobinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Umbraculifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56743254535759,
@@ -1397,7 +1675,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Kugelrobinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Umbraculifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64020750636644,
@@ -1407,7 +1687,9 @@
    "BAUMNUMMER": 25,
    "BAUMART": "Rotdorn",
    "BOTANISCHER_NAME": "Crataegus laevigata Pauls Scarlet",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5575417436648,
@@ -1417,7 +1699,9 @@
    "BAUMNUMMER": 58,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55689348121893,
@@ -1427,7 +1711,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Sorte der Stechpalme",
    "BOTANISCHER_NAME": "Ilex mutchagara 'Nellie R. Stevens'",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59143141452405,
@@ -1437,7 +1723,9 @@
    "BAUMNUMMER": 54,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58789869140901,
@@ -1447,7 +1735,9 @@
    "BAUMNUMMER": 80,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60249521033942,
@@ -1457,7 +1747,9 @@
    "BAUMNUMMER": 28,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5908270744262,
@@ -1467,7 +1759,9 @@
    "BAUMNUMMER": 59,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62872163743564,
@@ -1477,7 +1771,9 @@
    "BAUMNUMMER": 51,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5942314998852,
@@ -1487,7 +1783,9 @@
    "BAUMNUMMER": 142,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56482266353412,
@@ -1497,7 +1795,9 @@
    "BAUMNUMMER": 48,
    "BAUMART": "Sumpf-Eiche",
    "BOTANISCHER_NAME": "Quercus palustris",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59392661286476,
@@ -1507,7 +1807,9 @@
    "BAUMNUMMER": 64,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58911195544841,
@@ -1517,7 +1819,9 @@
    "BAUMNUMMER": 71,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59410048524304,
@@ -1527,7 +1831,9 @@
    "BAUMNUMMER": 143,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5969037048825,
@@ -1537,7 +1843,9 @@
    "BAUMNUMMER": 120,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59652697686974,
@@ -1547,7 +1855,9 @@
    "BAUMNUMMER": 123,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6238133791106,
@@ -1557,7 +1867,9 @@
    "BAUMNUMMER": 39,
    "BAUMART": "Schmalkronige Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Skyline",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62383121387236,
@@ -1567,7 +1879,9 @@
    "BAUMNUMMER": 40,
    "BAUMART": "Schmalkronige Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Skyline",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55926470478952,
@@ -1577,7 +1891,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Sorte des Amberbaums",
    "BOTANISCHER_NAME": "Liquidambar styraciflua Paarl",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55865304698808,
@@ -1587,7 +1903,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Sorte des Amberbaums",
    "BOTANISCHER_NAME": "Liquidambar styraciflua Paarl",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58882469370659,
@@ -1597,7 +1915,9 @@
    "BAUMNUMMER": 26,
    "BAUMART": "Sorte der Blumenesche",
    "BOTANISCHER_NAME": "Fraxinus ornus Obelisk",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62384700315556,
@@ -1607,7 +1927,9 @@
    "BAUMNUMMER": 41,
    "BAUMART": "Schmalkronige Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Skyline",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58529092392829,
@@ -1617,7 +1939,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Schmalkronige Stadt- Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica Lobel",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55899111047635,
@@ -1627,7 +1951,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Sorte des Amberbaums",
    "BOTANISCHER_NAME": "Liquidambar styraciflua Paarl",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55983642107699,
@@ -1637,7 +1963,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Sorte des Amberbaums",
    "BOTANISCHER_NAME": "Liquidambar styraciflua Paarl",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58893886261757,
@@ -1647,7 +1975,9 @@
    "BAUMNUMMER": 23,
    "BAUMART": "Sorte der Blumenesche",
    "BOTANISCHER_NAME": "Fraxinus ornus Obelisk",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55956932571096,
@@ -1657,7 +1987,9 @@
    "BAUMNUMMER": 25,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53266958673485,
@@ -1667,7 +1999,9 @@
    "BAUMNUMMER": 36,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57408245949321,
@@ -1677,7 +2011,9 @@
    "BAUMNUMMER": 51,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55944845787832,
@@ -1687,7 +2023,9 @@
    "BAUMNUMMER": 28,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60937938929112,
@@ -1697,7 +2035,9 @@
    "BAUMNUMMER": 29,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60891692157844,
@@ -1707,7 +2047,9 @@
    "BAUMNUMMER": 18,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6091426208446,
@@ -1717,7 +2059,9 @@
    "BAUMNUMMER": 23,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.514652336633,
@@ -1727,7 +2071,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Sand-Birke",
    "BOTANISCHER_NAME": "Betula pendula",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5144693608024,
@@ -1737,7 +2083,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Sand-Birke",
    "BOTANISCHER_NAME": "Betula pendula",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.50939555922349,
@@ -1747,7 +2095,9 @@
    "BAUMNUMMER": 67,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.50663946650537,
@@ -1757,7 +2107,9 @@
    "BAUMNUMMER": 196,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.49632226300993,
@@ -1767,7 +2119,9 @@
    "BAUMNUMMER": 303,
    "BAUMART": "Sorte der Rotesche",
    "BOTANISCHER_NAME": "Fraxinus pennsylvanica Patmore",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.51475727360291,
@@ -1777,7 +2131,9 @@
    "BAUMNUMMER": 129,
    "BAUMART": "Eßkastanie",
    "BOTANISCHER_NAME": "Castanea sativa",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.51472295608537,
@@ -1787,7 +2143,9 @@
    "BAUMNUMMER": 128,
    "BAUMART": "Eßkastanie",
    "BOTANISCHER_NAME": "Castanea sativa",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.51412238905851,
@@ -1797,7 +2155,9 @@
    "BAUMNUMMER": 122,
    "BAUMART": "Eßkastanie",
    "BOTANISCHER_NAME": "Castanea sativa",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.51478618059261,
@@ -1807,7 +2167,9 @@
    "BAUMNUMMER": 130,
    "BAUMART": "Eßkastanie",
    "BOTANISCHER_NAME": "Castanea sativa",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52658109863347,
@@ -1817,7 +2179,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Säulenhainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.50531725829824,
@@ -1827,7 +2191,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Geweihbaum",
    "BOTANISCHER_NAME": "Gymnocladus dioicus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52854770988241,
@@ -1837,7 +2203,9 @@
    "BAUMNUMMER": 85,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.50727364101459,
@@ -1847,7 +2215,9 @@
    "BAUMNUMMER": 154,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6239170653379,
@@ -1857,7 +2227,9 @@
    "BAUMNUMMER": 44,
    "BAUMART": "Schmalkronige Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Skyline",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63561612319285,
@@ -1867,7 +2239,9 @@
    "BAUMNUMMER": 2019,
    "BAUMART": "Dachförmige Platane",
    "BOTANISCHER_NAME": "Platanus x acerifolia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61852144072813,
@@ -1877,7 +2251,9 @@
    "BAUMNUMMER": 150,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61862251612689,
@@ -1887,7 +2263,9 @@
    "BAUMNUMMER": 148,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61841302655389,
@@ -1897,7 +2275,9 @@
    "BAUMNUMMER": 152,
    "BAUMART": "Amberbaum",
    "BOTANISCHER_NAME": "Liquidambar styraciflua",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58164525012623,
@@ -1907,7 +2287,9 @@
    "BAUMNUMMER": 107,
    "BAUMART": "Blutbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55701004313893,
@@ -1917,7 +2299,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59620101470708,
@@ -1927,7 +2311,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62972646378877,
@@ -1937,7 +2323,9 @@
    "BAUMNUMMER": 33,
    "BAUMART": "Schwarz-Erle",
    "BOTANISCHER_NAME": "Alnus glutinosa",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53900193550175,
@@ -1947,7 +2335,9 @@
    "BAUMNUMMER": 130,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57402179184659,
@@ -1957,7 +2347,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Sorte der Tulpenmagnolie",
    "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56064645659649,
@@ -1967,7 +2359,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Blutbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55795904750907,
@@ -1977,7 +2371,9 @@
    "BAUMNUMMER": 567,
    "BAUMART": "Gewöhnlicher Trompetenbaum",
    "BOTANISCHER_NAME": "Catalpa bignonioides",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57674252939353,
@@ -1987,7 +2383,9 @@
    "BAUMNUMMER": 51,
    "BAUMART": "Sorte vom Japanischen Apfel",
    "BOTANISCHER_NAME": "Malus floribunda Red Sentinel",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60922226530391,
@@ -1997,7 +2395,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Sand-Birke",
    "BOTANISCHER_NAME": "Betula pendula",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.635587456665,
@@ -2007,7 +2407,9 @@
    "BAUMNUMMER": 283,
    "BAUMART": "Dachförmige Platane",
    "BOTANISCHER_NAME": "Platanus x acerifolia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58228626773934,
@@ -2017,7 +2419,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Stiel-Eiche",
    "BOTANISCHER_NAME": "Quercus robur",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5653951969107,
@@ -2027,7 +2431,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55875796730749,
@@ -2037,7 +2443,9 @@
    "BAUMNUMMER": 27,
    "BAUMART": "Ginkgobaum",
    "BOTANISCHER_NAME": "Ginkgo biloba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56608013123054,
@@ -2047,7 +2455,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56597702030967,
@@ -2057,7 +2467,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62077684792488,
@@ -2067,7 +2479,9 @@
    "BAUMNUMMER": 48,
    "BAUMART": "Himalaja-Birke",
    "BOTANISCHER_NAME": "Betula jacquemontii",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5991347783819,
@@ -2077,7 +2491,9 @@
    "BAUMNUMMER": 44,
    "BAUMART": "Sand-Birke",
    "BOTANISCHER_NAME": "Betula pendula",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60620881260063,
@@ -2087,7 +2503,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Säulen-Feldahorn",
    "BOTANISCHER_NAME": "Acer campestre Green Column",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5515883852528,
@@ -2097,7 +2515,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55201846854079,
@@ -2107,7 +2527,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57321391868215,
@@ -2117,7 +2539,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Taschentuchbaum",
    "BOTANISCHER_NAME": "Davidia involukrata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59275148694187,
@@ -2127,7 +2551,9 @@
    "BAUMNUMMER": 100,
    "BAUMART": "Eiche",
    "BOTANISCHER_NAME": "Quercus  species",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59329944030116,
@@ -2137,7 +2563,9 @@
    "BAUMNUMMER": 88,
    "BAUMART": "Ginkgobaum",
    "BOTANISCHER_NAME": "Ginkgo biloba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56108781744486,
@@ -2147,7 +2575,9 @@
    "BAUMNUMMER": 646,
    "BAUMART": "Gemeine Kiefer",
    "BOTANISCHER_NAME": "Pinus sylvestris",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56439399373775,
@@ -2157,7 +2587,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57427478548147,
@@ -2167,7 +2599,9 @@
    "BAUMNUMMER": 1020,
    "BAUMART": "Sorte des Riesen-Lebensbaum",
    "BOTANISCHER_NAME": "Thuja plicata Excelsa",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56554185346469,
@@ -2177,7 +2611,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57426825803598,
@@ -2187,7 +2623,9 @@
    "BAUMNUMMER": 1019,
    "BAUMART": "Sorte des Riesen-Lebensbaum",
    "BOTANISCHER_NAME": "Thuja plicata Excelsa",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64831186418315,
@@ -2197,7 +2635,9 @@
    "BAUMNUMMER": 22,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57427207141577,
@@ -2207,7 +2647,9 @@
    "BAUMNUMMER": 1016,
    "BAUMART": "Sorte des Riesen-Lebensbaum",
    "BOTANISCHER_NAME": "Thuja plicata Excelsa",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61206830168626,
@@ -2217,7 +2659,9 @@
    "BAUMNUMMER": 318,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61586529401948,
@@ -2227,7 +2671,9 @@
    "BAUMNUMMER": 325,
    "BAUMART": "Säulen-Feldahorn",
    "BOTANISCHER_NAME": "Acer campestre Green Column",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57999549812994,
@@ -2237,7 +2683,9 @@
    "BAUMNUMMER": 85,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60921729780682,
@@ -2247,7 +2695,9 @@
    "BAUMNUMMER": 23,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65170152722155,
@@ -2257,7 +2707,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Holländische Linde",
    "BOTANISCHER_NAME": "Tilia x intermedia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58021483423094,
@@ -2267,7 +2719,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61103606304124,
@@ -2277,7 +2731,9 @@
    "BAUMNUMMER": 73,
    "BAUMART": "Purpur-Erle",
    "BOTANISCHER_NAME": "Alnus x spaethii",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56428616948702,
@@ -2287,7 +2743,9 @@
    "BAUMNUMMER": 60,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59641756683371,
@@ -2297,7 +2755,9 @@
    "BAUMNUMMER": 124,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57833192633057,
@@ -2307,7 +2767,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Schnurbaum",
    "BOTANISCHER_NAME": "Sophora japonica Regent",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6517308115165,
@@ -2317,7 +2779,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Holländische Linde",
    "BOTANISCHER_NAME": "Tilia x intermedia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56607188495737,
@@ -2327,7 +2791,9 @@
    "BAUMNUMMER": 287,
    "BAUMART": "Sorte der Pyramiden-Eiche",
    "BOTANISCHER_NAME": "Quercus robur Fastigiata 'Koster'",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64014029608487,
@@ -2337,7 +2803,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Schmalkronige Platane",
    "BOTANISCHER_NAME": "Platanus acerifolia Tremonia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56773558499322,
@@ -2347,7 +2815,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Gelbe Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Sunburst",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55727397400699,
@@ -2357,7 +2827,9 @@
    "BAUMNUMMER": 24,
    "BAUMART": "Wald-Tupelobaum",
    "BOTANISCHER_NAME": "Nyssa sylvatica",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55666490046752,
@@ -2367,7 +2839,9 @@
    "BAUMNUMMER": 59,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58800675468491,
@@ -2377,7 +2851,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62386126914935,
@@ -2387,7 +2863,9 @@
    "BAUMNUMMER": 42,
    "BAUMART": "Schmalkronige Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Skyline",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58151630184463,
@@ -2397,7 +2875,9 @@
    "BAUMNUMMER": 81,
    "BAUMART": "Gelbe Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Sunburst",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56568807011566,
@@ -2407,7 +2887,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64837387691245,
@@ -2417,7 +2899,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55611556947907,
@@ -2427,7 +2911,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Sorte der Stechpalme",
    "BOTANISCHER_NAME": "Ilex mutchagara 'Nellie R. Stevens'",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56985080716909,
@@ -2437,7 +2923,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Sand-Birke",
    "BOTANISCHER_NAME": "Betula pendula",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64163900006137,
@@ -2447,7 +2935,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Gewöhnliche Platane",
    "BOTANISCHER_NAME": "Platanus x acerifolia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58304870527111,
@@ -2457,7 +2947,9 @@
    "BAUMNUMMER": 1031,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53984857100269,
@@ -2467,7 +2959,9 @@
    "BAUMNUMMER": 218,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65177259277955,
@@ -2477,7 +2971,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Holländische Linde",
    "BOTANISCHER_NAME": "Tilia x intermedia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6279232259948,
@@ -2487,7 +2983,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Katsurabaum",
    "BOTANISCHER_NAME": "Ceridiphyllum japonicum",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59415872025578,
@@ -2497,7 +2995,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56350957608514,
@@ -2507,7 +3007,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56393826661095,
@@ -2517,7 +3019,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56837863750128,
@@ -2527,7 +3031,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Gelbe Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Sunburst",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56405639803792,
@@ -2537,7 +3043,9 @@
    "BAUMNUMMER": 58,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64288511871204,
@@ -2547,7 +3055,9 @@
    "BAUMNUMMER": 54,
    "BAUMART": "Stadt-Linde",
    "BOTANISCHER_NAME": "Tilia cordata Greenspire",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64839993435196,
@@ -2557,7 +3067,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58740140943297,
@@ -2567,7 +3079,9 @@
    "BAUMNUMMER": 46,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57230485969095,
@@ -2577,7 +3091,9 @@
    "BAUMNUMMER": 132,
    "BAUMART": "Sorte der Holländischen Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica Columella",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64312532790292,
@@ -2587,7 +3103,9 @@
    "BAUMNUMMER": 52,
    "BAUMART": "Stadt-Linde",
    "BOTANISCHER_NAME": "Tilia cordata Greenspire",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64345443922745,
@@ -2597,7 +3115,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60248222431924,
@@ -2607,7 +3127,9 @@
    "BAUMNUMMER": 30,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58624526276918,
@@ -2617,7 +3139,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54964867926272,
@@ -2627,7 +3151,9 @@
    "BAUMNUMMER": 76,
    "BAUMART": "Sorte der Japanische Zelkove",
    "BOTANISCHER_NAME": "Zelkova serrata Village Green",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56120523766427,
@@ -2637,7 +3163,9 @@
    "BAUMNUMMER": 647,
    "BAUMART": "Gemeine Kiefer",
    "BOTANISCHER_NAME": "Pinus sylvestris",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56659199402498,
@@ -2647,7 +3175,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6091676317558,
@@ -2657,7 +3187,9 @@
    "BAUMNUMMER": 24,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58421745277673,
@@ -2667,7 +3199,9 @@
    "BAUMNUMMER": 54,
    "BAUMART": "Sand-Birke",
    "BOTANISCHER_NAME": "Betula pendula",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58897099437151,
@@ -2677,7 +3211,9 @@
    "BAUMNUMMER": 22,
    "BAUMART": "Sorte der Blumenesche",
    "BOTANISCHER_NAME": "Fraxinus ornus Obelisk",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58877334704035,
@@ -2687,7 +3223,9 @@
    "BAUMNUMMER": 28,
    "BAUMART": "Sorte der Blumenesche",
    "BOTANISCHER_NAME": "Fraxinus ornus Obelisk",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62395250925149,
@@ -2697,7 +3235,9 @@
    "BAUMNUMMER": 45,
    "BAUMART": "Schmalkronige Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Skyline",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.51754541516881,
@@ -2707,7 +3247,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Sumpfzypresse",
    "BOTANISCHER_NAME": "Taxodium distichum",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56332337374214,
@@ -2717,7 +3259,9 @@
    "BAUMNUMMER": 45,
    "BAUMART": "Kugelahorn",
    "BOTANISCHER_NAME": "Acer platanoides Globosum",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60270033037685,
@@ -2727,7 +3271,9 @@
    "BAUMNUMMER": 38,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60278220378703,
@@ -2737,7 +3283,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57415052689895,
@@ -2747,7 +3295,9 @@
    "BAUMNUMMER": 147,
    "BAUMART": "Sorte der Tulpenmagnolie",
    "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6517433060504,
@@ -2757,7 +3307,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Holländische Linde",
    "BOTANISCHER_NAME": "Tilia x intermedia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56583209314212,
@@ -2767,7 +3319,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57643939471932,
@@ -2777,7 +3331,9 @@
    "BAUMNUMMER": 72,
    "BAUMART": "Weißdorn",
    "BOTANISCHER_NAME": "Crataegus  species",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59839998946263,
@@ -2787,7 +3343,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60006885029368,
@@ -2797,7 +3355,9 @@
    "BAUMNUMMER": 188,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59940804022122,
@@ -2807,7 +3367,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55586664783872,
@@ -2817,7 +3379,9 @@
    "BAUMNUMMER": 21,
    "BAUMART": "Oregon-Blut-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides Royal Red",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59642911932584,
@@ -2827,7 +3391,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59859050949543,
@@ -2837,7 +3403,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59819336587613,
@@ -2847,7 +3415,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59962020549307,
@@ -2857,7 +3427,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59969585939186,
@@ -2867,7 +3439,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60205544514871,
@@ -2877,7 +3451,9 @@
    "BAUMNUMMER": 377,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59955119280993,
@@ -2887,7 +3463,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59906537719372,
@@ -2897,7 +3475,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59880170598616,
@@ -2907,7 +3487,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61866748717125,
@@ -2917,7 +3499,9 @@
    "BAUMNUMMER": 49,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.50752991893995,
@@ -2927,7 +3511,9 @@
    "BAUMNUMMER": 146,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57327504414236,
@@ -2937,7 +3523,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Ginkgobaum",
    "BOTANISCHER_NAME": "Ginkgo biloba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60676489980222,
@@ -2947,7 +3535,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Säulen-Feldahorn",
    "BOTANISCHER_NAME": "Acer campestre Green Column",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.51368370380294,
@@ -2957,7 +3547,9 @@
    "BAUMNUMMER": 116,
    "BAUMART": "Eßkastanie",
    "BOTANISCHER_NAME": "Castanea sativa",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59559389892928,
@@ -2967,7 +3559,9 @@
    "BAUMNUMMER": 291,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57775936613378,
@@ -2977,7 +3571,9 @@
    "BAUMNUMMER": 1003,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64204240356999,
@@ -2987,7 +3583,9 @@
    "BAUMNUMMER": 75,
    "BAUMART": "Rotblättrige Sorte des Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides Schwedleri",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5747700631024,
@@ -2997,7 +3595,9 @@
    "BAUMNUMMER": 1024,
    "BAUMART": "Sorte des Riesen-Lebensbaum",
    "BOTANISCHER_NAME": "Thuja plicata Excelsa",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57459052862598,
@@ -3007,7 +3607,9 @@
    "BAUMNUMMER": 1026,
    "BAUMART": "Sorte des Riesen-Lebensbaum",
    "BOTANISCHER_NAME": "Thuja plicata Excelsa",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60902557804864,
@@ -3017,7 +3619,9 @@
    "BAUMNUMMER": 20,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56360114623777,
@@ -3027,7 +3631,9 @@
    "BAUMNUMMER": 54,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54712528007169,
@@ -3037,7 +3643,9 @@
    "BAUMNUMMER": 193,
    "BAUMART": "Vogel-Kirsche",
    "BOTANISCHER_NAME": "Prunus avium",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61779449197556,
@@ -3047,7 +3655,9 @@
    "BAUMNUMMER": 207,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61895470342349,
@@ -3057,7 +3667,9 @@
    "BAUMNUMMER": 249,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58441394549768,
@@ -3067,7 +3679,9 @@
    "BAUMNUMMER": 39,
    "BAUMART": "Selektion der Felsenbirne",
    "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58888033530139,
@@ -3077,7 +3691,9 @@
    "BAUMNUMMER": 25,
    "BAUMART": "Sorte der Blumenesche",
    "BOTANISCHER_NAME": "Fraxinus ornus Obelisk",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5886764735589,
@@ -3087,7 +3703,9 @@
    "BAUMNUMMER": 29,
    "BAUMART": "Sorte der Blumenesche",
    "BOTANISCHER_NAME": "Fraxinus ornus Obelisk",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57985333231526,
@@ -3097,7 +3715,9 @@
    "BAUMNUMMER": 1010,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58037435069324,
@@ -3107,7 +3727,9 @@
    "BAUMNUMMER": 1013,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58062121493711,
@@ -3117,7 +3739,9 @@
    "BAUMNUMMER": 1014,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58077155392197,
@@ -3127,7 +3751,9 @@
    "BAUMNUMMER": 1015,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58177913805928,
@@ -3137,7 +3763,9 @@
    "BAUMNUMMER": 1016,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58192762928564,
@@ -3147,7 +3775,9 @@
    "BAUMNUMMER": 1017,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58487012447295,
@@ -3157,7 +3787,9 @@
    "BAUMNUMMER": 1027,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58513946023604,
@@ -3167,7 +3799,9 @@
    "BAUMNUMMER": 1028,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.585268623931,
@@ -3177,7 +3811,9 @@
    "BAUMNUMMER": 1029,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58700361256965,
@@ -3187,7 +3823,9 @@
    "BAUMNUMMER": 1036,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6025124537393,
@@ -3197,7 +3835,9 @@
    "BAUMNUMMER": 33,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60275877500003,
@@ -3207,7 +3847,9 @@
    "BAUMNUMMER": 17,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58230303653833,
@@ -3217,7 +3859,9 @@
    "BAUMNUMMER": 1019,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58300553136701,
@@ -3227,7 +3871,9 @@
    "BAUMNUMMER": 1020,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58315769474559,
@@ -3237,7 +3883,9 @@
    "BAUMNUMMER": 1021,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5834609755276,
@@ -3247,7 +3895,9 @@
    "BAUMNUMMER": 1022,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58362677157334,
@@ -3257,7 +3907,9 @@
    "BAUMNUMMER": 1023,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58425864127459,
@@ -3267,7 +3919,9 @@
    "BAUMNUMMER": 1024,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58436698432754,
@@ -3277,7 +3931,9 @@
    "BAUMNUMMER": 1025,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61188493764651,
@@ -3287,7 +3943,9 @@
    "BAUMNUMMER": 176,
    "BAUMART": "Purpur-Erle",
    "BOTANISCHER_NAME": "Alnus x spaethii",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60531782684057,
@@ -3297,7 +3955,9 @@
    "BAUMNUMMER": 300,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64348613821883,
@@ -3307,7 +3967,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63519946891696,
@@ -3317,7 +3979,9 @@
    "BAUMNUMMER": 24,
    "BAUMART": "Gewöhnliche Platane",
    "BOTANISCHER_NAME": "Platanus x acerifolia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64256337414368,
@@ -3327,7 +3991,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Rotdorn",
    "BOTANISCHER_NAME": "Crataegus laevigata Pauls Scarlet",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60519026248824,
@@ -3337,7 +4003,9 @@
    "BAUMNUMMER": 49,
    "BAUMART": "Purpur-Erle",
    "BOTANISCHER_NAME": "Alnus x spaethii",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59511098201856,
@@ -3347,7 +4015,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64598752090202,
@@ -3357,7 +4027,9 @@
    "BAUMNUMMER": 26,
    "BAUMART": "Schnurbaum",
    "BOTANISCHER_NAME": "Sophora japonica Regent",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58935983051731,
@@ -3367,7 +4039,9 @@
    "BAUMNUMMER": 31,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59961469529594,
@@ -3377,7 +4051,9 @@
    "BAUMNUMMER": 182,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64839526007928,
@@ -3387,7 +4063,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59888212601192,
@@ -3397,7 +4075,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53614448980892,
@@ -3407,7 +4087,9 @@
    "BAUMNUMMER": 1249,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.51206985736259,
@@ -3417,7 +4099,9 @@
    "BAUMNUMMER": 262,
    "BAUMART": "Tibet-Kirsche",
    "BOTANISCHER_NAME": "Prunus serrula",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60891691753396,
@@ -3427,7 +4111,9 @@
    "BAUMNUMMER": 34,
    "BAUMART": "Sorte der Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Sunset Boulevard",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58097397659225,
@@ -3437,7 +4123,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58088409547066,
@@ -3447,7 +4135,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58189014153713,
@@ -3457,7 +4147,9 @@
    "BAUMNUMMER": 1059,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58175138078227,
@@ -3467,7 +4159,9 @@
    "BAUMNUMMER": 1060,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58158992386674,
@@ -3477,7 +4171,9 @@
    "BAUMNUMMER": 1061,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53604846802333,
@@ -3487,7 +4183,9 @@
    "BAUMNUMMER": 1244,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53448440548644,
@@ -3497,7 +4195,9 @@
    "BAUMNUMMER": 1245,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53415579260163,
@@ -3507,7 +4207,9 @@
    "BAUMNUMMER": 1246,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53374332061068,
@@ -3517,7 +4219,9 @@
    "BAUMNUMMER": 1247,
    "BAUMART": "Sumpf-Eiche",
    "BOTANISCHER_NAME": "Quercus palustris",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56268542314113,
@@ -3527,7 +4231,9 @@
    "BAUMNUMMER": 1024,
    "BAUMART": "Kirsche",
    "BOTANISCHER_NAME": "Prunus  species",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57683410413086,
@@ -3537,7 +4243,9 @@
    "BAUMNUMMER": 1048,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57706078288737,
@@ -3547,7 +4255,9 @@
    "BAUMNUMMER": 1049,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57864484740096,
@@ -3557,7 +4267,9 @@
    "BAUMNUMMER": 1050,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57879494907782,
@@ -3567,7 +4279,9 @@
    "BAUMNUMMER": 1051,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57990985609581,
@@ -3577,7 +4291,9 @@
    "BAUMNUMMER": 1052,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58006525008435,
@@ -3587,7 +4303,9 @@
    "BAUMNUMMER": 1053,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58008001892147,
@@ -3597,7 +4315,9 @@
    "BAUMNUMMER": 1054,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63928473905249,
@@ -3607,7 +4327,9 @@
    "BAUMNUMMER": 2023,
    "BAUMART": "Vogel-Kirsche",
    "BOTANISCHER_NAME": "Prunus avium",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58052232755467,
@@ -3617,7 +4339,9 @@
    "BAUMNUMMER": 1055,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57659576305037,
@@ -3627,7 +4351,9 @@
    "BAUMNUMMER": 1047,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56325050223578,
@@ -3637,7 +4363,9 @@
    "BAUMNUMMER": 85,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58736055888493,
@@ -3647,7 +4375,9 @@
    "BAUMNUMMER": 1038,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58800779031317,
@@ -3657,7 +4387,9 @@
    "BAUMNUMMER": 1040,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58931165748408,
@@ -3667,7 +4399,9 @@
    "BAUMNUMMER": 1042,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57693040803725,
@@ -3677,7 +4411,9 @@
    "BAUMNUMMER": 21,
    "BAUMART": "Sumpf-Eiche",
    "BOTANISCHER_NAME": "Quercus palustris",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61667165649184,
@@ -3687,7 +4423,9 @@
    "BAUMNUMMER": 327,
    "BAUMART": "Säulen-Feldahorn",
    "BOTANISCHER_NAME": "Acer campestre Green Column",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61687684556637,
@@ -3697,7 +4435,9 @@
    "BAUMNUMMER": 328,
    "BAUMART": "Säulen-Feldahorn",
    "BOTANISCHER_NAME": "Acer campestre Green Column",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61720945009044,
@@ -3707,7 +4447,9 @@
    "BAUMNUMMER": 329,
    "BAUMART": "Säulen-Feldahorn",
    "BOTANISCHER_NAME": "Acer campestre Green Column",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60947455349394,
@@ -3717,7 +4459,9 @@
    "BAUMNUMMER": 310,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60987437795364,
@@ -3727,7 +4471,9 @@
    "BAUMNUMMER": 312,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63878916435227,
@@ -3737,7 +4483,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Scharlach-Eiche",
    "BOTANISCHER_NAME": "Quercus coccinea",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61008685894449,
@@ -3747,7 +4495,9 @@
    "BAUMNUMMER": 313,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61036415636588,
@@ -3757,7 +4507,9 @@
    "BAUMNUMMER": 314,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61057155152525,
@@ -3767,7 +4519,9 @@
    "BAUMNUMMER": 315,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61165097034717,
@@ -3777,7 +4531,9 @@
    "BAUMNUMMER": 317,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60518281860085,
@@ -3787,7 +4543,9 @@
    "BAUMNUMMER": 299,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59917564223486,
@@ -3797,7 +4555,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60854638388973,
@@ -3807,7 +4567,9 @@
    "BAUMNUMMER": 307,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60897652292608,
@@ -3817,7 +4579,9 @@
    "BAUMNUMMER": 308,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60922196346084,
@@ -3827,7 +4591,9 @@
    "BAUMNUMMER": 309,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57725958042562,
@@ -3837,7 +4603,9 @@
    "BAUMNUMMER": 1001,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57746347869877,
@@ -3847,7 +4615,9 @@
    "BAUMNUMMER": 1002,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57790322420922,
@@ -3857,7 +4627,9 @@
    "BAUMNUMMER": 1004,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57826923877718,
@@ -3867,7 +4639,9 @@
    "BAUMNUMMER": 1005,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57860074653548,
@@ -3877,7 +4651,9 @@
    "BAUMNUMMER": 1006,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57901064578188,
@@ -3887,7 +4663,9 @@
    "BAUMNUMMER": 1007,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57945338965521,
@@ -3897,7 +4675,9 @@
    "BAUMNUMMER": 1008,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60654004750081,
@@ -3907,7 +4687,9 @@
    "BAUMNUMMER": 303,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60969822653163,
@@ -3917,7 +4699,9 @@
    "BAUMNUMMER": 311,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6112137352099,
@@ -3927,7 +4711,9 @@
    "BAUMNUMMER": 316,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6147294292716,
@@ -3937,7 +4723,9 @@
    "BAUMNUMMER": 323,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56816857152069,
@@ -3947,7 +4735,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Gelbe Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Sunburst",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6125644771526,
@@ -3957,7 +4747,9 @@
    "BAUMNUMMER": 319,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61307868584042,
@@ -3967,7 +4759,9 @@
    "BAUMNUMMER": 320,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61412859004157,
@@ -3977,7 +4771,9 @@
    "BAUMNUMMER": 321,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61448559804966,
@@ -3987,7 +4783,9 @@
    "BAUMNUMMER": 322,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61502646576183,
@@ -3997,7 +4795,9 @@
    "BAUMNUMMER": 324,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55554359492229,
@@ -4007,7 +4807,9 @@
    "BAUMNUMMER": 25,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60611472488258,
@@ -4017,7 +4819,9 @@
    "BAUMNUMMER": 301,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60639794950363,
@@ -4027,7 +4831,9 @@
    "BAUMNUMMER": 302,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60689792685902,
@@ -4037,7 +4843,9 @@
    "BAUMNUMMER": 304,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60803562235787,
@@ -4047,7 +4855,9 @@
    "BAUMNUMMER": 305,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60826758125439,
@@ -4057,7 +4867,9 @@
    "BAUMNUMMER": 306,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5894780694405,
@@ -4067,7 +4879,9 @@
    "BAUMNUMMER": 1043,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59015552100378,
@@ -4077,7 +4891,9 @@
    "BAUMNUMMER": 1045,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59034164115088,
@@ -4087,7 +4903,9 @@
    "BAUMNUMMER": 1046,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60344643573858,
@@ -4097,7 +4915,9 @@
    "BAUMNUMMER": 295,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60371441766451,
@@ -4107,7 +4927,9 @@
    "BAUMNUMMER": 296,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60384214185317,
@@ -4117,7 +4939,9 @@
    "BAUMNUMMER": 297,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60403824088585,
@@ -4127,7 +4951,9 @@
    "BAUMNUMMER": 298,
    "BAUMART": "Kegel- Linde Glenleven",
    "BOTANISCHER_NAME": "Tilia cordata Glenleven",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.49977131770859,
@@ -4137,7 +4963,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Stiel-Eiche",
    "BOTANISCHER_NAME": "Quercus robur",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58453936239199,
@@ -4147,7 +4975,9 @@
    "BAUMNUMMER": 36,
    "BAUMART": "Selektion der Felsenbirne",
    "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61633215718548,
@@ -4157,7 +4987,9 @@
    "BAUMNUMMER": 326,
    "BAUMART": "Säulen-Feldahorn",
    "BOTANISCHER_NAME": "Acer campestre Green Column",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64835382747506,
@@ -4167,7 +4999,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60557933753253,
@@ -4177,7 +5011,9 @@
    "BAUMNUMMER": 35,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57299068831089,
@@ -4187,7 +5023,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Katsurabaum",
    "BOTANISCHER_NAME": "Ceridiphyllum japonicum",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59666250787957,
@@ -4197,7 +5035,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62052098253143,
@@ -4207,7 +5047,9 @@
    "BAUMNUMMER": 429,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62023488533261,
@@ -4217,7 +5059,9 @@
    "BAUMNUMMER": 465,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62011576829631,
@@ -4227,7 +5071,9 @@
    "BAUMNUMMER": 466,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.620016821722,
@@ -4237,7 +5083,9 @@
    "BAUMNUMMER": 467,
    "BAUMART": "Amberbaum",
    "BOTANISCHER_NAME": "Liquidambar styraciflua",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61841480320663,
@@ -4247,7 +5095,9 @@
    "BAUMNUMMER": 553,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57871632667895,
@@ -4257,7 +5107,9 @@
    "BAUMNUMMER": 49,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58872936929247,
@@ -4267,7 +5119,9 @@
    "BAUMNUMMER": 34,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60248602201463,
@@ -4277,7 +5131,9 @@
    "BAUMNUMMER": 29,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56403733709356,
@@ -4287,7 +5143,9 @@
    "BAUMNUMMER": 62,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56277146870003,
@@ -4297,7 +5155,9 @@
    "BAUMNUMMER": 63,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56254464485858,
@@ -4307,7 +5167,9 @@
    "BAUMNUMMER": 1025,
    "BAUMART": "Kirsche",
    "BOTANISCHER_NAME": "Prunus  species",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55102296236207,
@@ -4317,7 +5179,9 @@
    "BAUMNUMMER": 25,
    "BAUMART": "Ginkgobaum",
    "BOTANISCHER_NAME": "Ginkgo biloba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54872718872511,
@@ -4327,7 +5191,9 @@
    "BAUMNUMMER": 22,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60269398052157,
@@ -4337,7 +5203,9 @@
    "BAUMNUMMER": 20,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64897083478168,
@@ -4347,7 +5215,9 @@
    "BAUMNUMMER": 25,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54694113001565,
@@ -4357,7 +5227,9 @@
    "BAUMNUMMER": 1769,
    "BAUMART": "Ahorn",
    "BOTANISCHER_NAME": "Acer  species",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67329809201065,
@@ -4367,7 +5239,9 @@
    "BAUMNUMMER": 135,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64834605312015,
@@ -4377,7 +5251,9 @@
    "BAUMNUMMER": 18,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56308486777604,
@@ -4387,7 +5263,9 @@
    "BAUMNUMMER": 47,
    "BAUMART": "Kugelahorn",
    "BOTANISCHER_NAME": "Acer platanoides Globosum",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56320703184726,
@@ -4397,7 +5275,9 @@
    "BAUMNUMMER": 46,
    "BAUMART": "Kugelahorn",
    "BOTANISCHER_NAME": "Acer platanoides Globosum",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64536214054674,
@@ -4407,7 +5287,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64489357039148,
@@ -4417,7 +5299,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64840605929248,
@@ -4427,7 +5311,9 @@
    "BAUMNUMMER": 15,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55676649531623,
@@ -4437,7 +5323,9 @@
    "BAUMNUMMER": 58,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58701230576641,
@@ -4447,7 +5335,9 @@
    "BAUMNUMMER": 28,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59008028772757,
@@ -4457,7 +5347,9 @@
    "BAUMNUMMER": 64,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56349197446112,
@@ -4467,7 +5359,9 @@
    "BAUMNUMMER": 53,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60280206595779,
@@ -4477,7 +5371,9 @@
    "BAUMNUMMER": 15,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54893339739213,
@@ -4487,7 +5383,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56399383103176,
@@ -4497,7 +5395,9 @@
    "BAUMNUMMER": 26,
    "BAUMART": "Sumpf-Eiche",
    "BOTANISCHER_NAME": "Quercus palustris",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56309082200693,
@@ -4507,7 +5407,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52102164004371,
@@ -4517,7 +5419,9 @@
    "BAUMNUMMER": 49,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59646146003901,
@@ -4527,7 +5431,9 @@
    "BAUMNUMMER": 20,
    "BAUMART": "Baum-Hasel",
    "BOTANISCHER_NAME": "Corylus colurna",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56452838644433,
@@ -4537,7 +5443,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5874767568374,
@@ -4547,7 +5455,9 @@
    "BAUMNUMMER": 1039,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58203419229624,
@@ -4557,7 +5467,9 @@
    "BAUMNUMMER": 1058,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65185192582893,
@@ -4567,7 +5479,9 @@
    "BAUMNUMMER": 37,
    "BAUMART": "Schwedische Mehlbeere",
    "BOTANISCHER_NAME": "Sorbus intermedia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59930592895832,
@@ -4577,7 +5491,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58711483138691,
@@ -4587,7 +5503,9 @@
    "BAUMNUMMER": 1037,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56312253846582,
@@ -4597,7 +5515,9 @@
    "BAUMNUMMER": 86,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5993699103006,
@@ -4607,7 +5527,9 @@
    "BAUMNUMMER": 181,
    "BAUMART": "Papier-Birke",
    "BOTANISCHER_NAME": "Betula papyrifera",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58001452566547,
@@ -4617,7 +5539,9 @@
    "BAUMNUMMER": 1011,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56097619548007,
@@ -4627,6 +5551,8 @@
    "BAUMNUMMER": 645,
    "BAUMART": "Gemeine Kiefer",
    "BOTANISCHER_NAME": "Pinus sylvestris",
-   "PFLANZJAHR": 2017
+   "PFLANZJAHR": 2017,
+   "icon": "fa-leaf",
+   "color": "green"
  }
 ]

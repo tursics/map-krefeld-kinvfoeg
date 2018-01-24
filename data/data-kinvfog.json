@@ -8,7 +8,9 @@
    "costs": " \t500000.00 € ",
    "finish": "2018 ",
    "lat": 51.337062,
-   "lng": 6.544768
+   "lng": 6.544768,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "2",
@@ -19,7 +21,9 @@
    "costs": " \t1400000.00 € ",
    "finish": "2018 ",
    "lat": 51.33764,
-   "lng": 6.544334
+   "lng": 6.544334,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "3",
@@ -30,7 +34,9 @@
    "costs": " \t600000.00 € ",
    "finish": "2018 ",
    "lat": 51.33782,
-   "lng": 6.545451
+   "lng": 6.545451,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "4",
@@ -41,7 +47,9 @@
    "costs": " \t1000000.00 € ",
    "finish": "2018 ",
    "lat": 51.35542,
-   "lng": 6.634316
+   "lng": 6.634316,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "5",
@@ -52,7 +60,9 @@
    "costs": " \t1600000.00 € ",
    "finish": "2018 ",
    "lat": 51.325029,
-   "lng": 6.551994
+   "lng": 6.551994,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "6",
@@ -63,7 +73,9 @@
    "costs": " \t1800000.00 € ",
    "finish": "2019 ",
    "lat": 51.348277,
-   "lng": 6.525781
+   "lng": 6.525781,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "7",
@@ -74,7 +86,9 @@
    "costs": " \t200000.00 € ",
    "finish": "Maßnahme ist abgeschlossen",
    "lat": 51.324227,
-   "lng": 6.59865
+   "lng": 6.59865,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "8",
@@ -85,7 +99,9 @@
    "costs": " \t250000.00 € ",
    "finish": "Maßnahme ist abgeschlossen",
    "lat": 51.372927,
-   "lng": 6.618275
+   "lng": 6.618275,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "9",
@@ -96,7 +112,9 @@
    "costs": " \t250000.00 € ",
    "finish": "2018 ",
    "lat": 51.338459,
-   "lng": 6.56841
+   "lng": 6.56841,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "10",
@@ -107,7 +125,9 @@
    "costs": " ",
    "finish": "",
    "lat": 51.338002,
-   "lng": 6.567676
+   "lng": 6.567676,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "a",
@@ -118,7 +138,9 @@
    "costs": " \t16000.00 € ",
    "finish": "2017 ",
    "lat": 51.322827,
-   "lng": 6.572372
+   "lng": 6.572372,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "b",
@@ -129,7 +151,9 @@
    "costs": " \t22000.00 € ",
    "finish": "2018 ",
    "lat": 51.333801,
-   "lng": 6.636943
+   "lng": 6.636943,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "c",
@@ -140,7 +164,9 @@
    "costs": " \t18000.00 € ",
    "finish": "2017 ",
    "lat": 51.334652,
-   "lng": 6.635989
+   "lng": 6.635989,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "d",
@@ -151,7 +177,9 @@
    "costs": " \t6500.00 € ",
    "finish": "2017 ",
    "lat": 51.318885,
-   "lng": 6.574731
+   "lng": 6.574731,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "e",
@@ -162,7 +190,9 @@
    "costs": " \t4500.00 € ",
    "finish": "2017 ",
    "lat": 51.324476,
-   "lng": 6.598399
+   "lng": 6.598399,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "f",
@@ -173,7 +203,9 @@
    "costs": " \t14000.00 € ",
    "finish": "2018 ",
    "lat": 51.334011,
-   "lng": 6.558988
+   "lng": 6.558988,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "g",
@@ -184,7 +216,9 @@
    "costs": " \t15000.00 € ",
    "finish": "2018 ",
    "lat": 51.33765,
-   "lng": 6.545211
+   "lng": 6.545211,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "h",
@@ -195,7 +229,9 @@
    "costs": " \t15000.00 € ",
    "finish": "2018 ",
    "lat": 51.343763,
-   "lng": 6.590972
+   "lng": 6.590972,
+   "icon": "fa-building-o",
+   "color": "blue"
  },
  {
    "id": "i",
@@ -203,20 +239,11 @@
    "address": "Horkesgath",
    "type": "Energetische Maßnahmen",
    "content": "Einbau Hocheffizienzpumpe für Heizung",
-   "costs": " \t15",
-   "finish": "",
-   "lat": null,
-   "lng": null
- },
- {
-   "id": "000.00 € ",
-   "title": "2018 ",
-   "address": "51.337263",
-   "type": "6.529176",
-   "content": "",
-   "costs": "",
-   "finish": "",
-   "lat": null,
-   "lng": null
+   "costs": " \t15000.00 € ",
+   "finish": "2018 ",
+   "lat": 51.337263,
+   "lng": 6.529176,
+   "icon": "fa-building-o",
+   "color": "blue"
  }
 ]

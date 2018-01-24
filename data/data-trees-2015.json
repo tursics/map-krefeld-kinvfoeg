@@ -7,7 +7,9 @@
    "BAUMNUMMER": 7139,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64237917961045,
@@ -17,7 +19,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Zierkirsche",
    "BOTANISCHER_NAME": "Prunus hillerii Spire",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64256962231492,
@@ -27,7 +31,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Zierkirsche",
    "BOTANISCHER_NAME": "Prunus hillerii Spire",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53243016000868,
@@ -37,7 +43,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53237488517472,
@@ -47,7 +55,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64667057797406,
@@ -57,7 +67,9 @@
    "BAUMNUMMER": 40,
    "BAUMART": "Apfel",
    "BOTANISCHER_NAME": "Malus  species",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5253519031326,
@@ -67,7 +79,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56671037027694,
@@ -77,7 +91,9 @@
    "BAUMNUMMER": 120,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56616785081985,
@@ -87,7 +103,9 @@
    "BAUMNUMMER": 124,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56603543924768,
@@ -97,7 +115,9 @@
    "BAUMNUMMER": 125,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56576343180102,
@@ -107,7 +127,9 @@
    "BAUMNUMMER": 127,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56504791671997,
@@ -117,7 +139,9 @@
    "BAUMNUMMER": 132,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5676820372765,
@@ -127,7 +151,9 @@
    "BAUMNUMMER": 113,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56890295401196,
@@ -137,7 +163,9 @@
    "BAUMNUMMER": 104,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56904011457413,
@@ -147,7 +175,9 @@
    "BAUMNUMMER": 103,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56876563203635,
@@ -157,7 +187,9 @@
    "BAUMNUMMER": 105,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56862723786892,
@@ -167,7 +199,9 @@
    "BAUMNUMMER": 106,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56738826729266,
@@ -177,7 +211,9 @@
    "BAUMNUMMER": 115,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56711782575609,
@@ -187,7 +223,9 @@
    "BAUMNUMMER": 117,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5672542351074,
@@ -197,7 +235,9 @@
    "BAUMNUMMER": 116,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5694490766941,
@@ -207,7 +247,9 @@
    "BAUMNUMMER": 100,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55766212042408,
@@ -217,7 +259,9 @@
    "BAUMNUMMER": 149,
    "BAUMART": "Feld-Ulme",
    "BOTANISCHER_NAME": "Ulmus carpinifolia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56931590519943,
@@ -227,7 +271,9 @@
    "BAUMNUMMER": 101,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56917839974567,
@@ -237,7 +283,9 @@
    "BAUMNUMMER": 102,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56835370910151,
@@ -247,7 +295,9 @@
    "BAUMNUMMER": 108,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56820776779879,
@@ -257,7 +307,9 @@
    "BAUMNUMMER": 109,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56439896024152,
@@ -267,7 +319,9 @@
    "BAUMNUMMER": 137,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56454031996322,
@@ -277,7 +331,9 @@
    "BAUMNUMMER": 7136,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55778226628544,
@@ -287,7 +343,9 @@
    "BAUMNUMMER": 152,
    "BAUMART": "Feld-Ulme",
    "BOTANISCHER_NAME": "Ulmus carpinifolia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55610228608384,
@@ -297,7 +355,9 @@
    "BAUMNUMMER": 1250,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.564674901394,
@@ -307,7 +367,9 @@
    "BAUMNUMMER": 135,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56494718480557,
@@ -317,7 +379,9 @@
    "BAUMNUMMER": 133,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56535405110354,
@@ -327,7 +391,9 @@
    "BAUMNUMMER": 130,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56643993739779,
@@ -337,7 +403,9 @@
    "BAUMNUMMER": 122,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52488063826915,
@@ -347,7 +415,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52482011129282,
@@ -357,7 +427,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52466416408262,
@@ -367,7 +439,9 @@
    "BAUMNUMMER": 15,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56657456566768,
@@ -377,7 +451,9 @@
    "BAUMNUMMER": 121,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52542058942013,
@@ -387,7 +463,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56562808896053,
@@ -397,7 +475,9 @@
    "BAUMNUMMER": 128,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52528104841692,
@@ -407,7 +487,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63814540237631,
@@ -417,7 +499,9 @@
    "BAUMNUMMER": 27,
    "BAUMART": "Amberbaum",
    "BOTANISCHER_NAME": "Liquidambar styraciflua",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63818169890914,
@@ -427,7 +511,9 @@
    "BAUMNUMMER": 28,
    "BAUMART": "Amberbaum",
    "BOTANISCHER_NAME": "Liquidambar styraciflua",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63822558257769,
@@ -437,7 +523,9 @@
    "BAUMNUMMER": 29,
    "BAUMART": "Amberbaum",
    "BOTANISCHER_NAME": "Liquidambar styraciflua",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52496209449558,
@@ -447,7 +535,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56849329806684,
@@ -457,7 +547,9 @@
    "BAUMNUMMER": 107,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61691180621813,
@@ -467,7 +559,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Blasenesche",
    "BOTANISCHER_NAME": "Koelreuteria paniculata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60117953756204,
@@ -477,7 +571,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Shirofugen",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58182943458631,
@@ -487,7 +583,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57374624910579,
@@ -497,7 +595,9 @@
    "BAUMNUMMER": 31,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58090066923397,
@@ -507,7 +607,9 @@
    "BAUMNUMMER": 25,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58051198889302,
@@ -517,7 +619,9 @@
    "BAUMNUMMER": 29,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58028705287373,
@@ -527,7 +631,9 @@
    "BAUMNUMMER": 15,
    "BAUMART": "Scharlach-Eiche",
    "BOTANISCHER_NAME": "Quercus coccinea",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58008965034721,
@@ -537,7 +643,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Scharlach-Eiche",
    "BOTANISCHER_NAME": "Quercus coccinea",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58451101086167,
@@ -547,7 +655,9 @@
    "BAUMNUMMER": 151,
    "BAUMART": "Selektion der Felsenbirne",
    "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54927554317676,
@@ -557,7 +667,9 @@
    "BAUMNUMMER": 23,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59196135950286,
@@ -567,7 +679,9 @@
    "BAUMNUMMER": 44,
    "BAUMART": "Hasel-Erle",
    "BOTANISCHER_NAME": "Alnus serrulata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58089361734287,
@@ -577,7 +691,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Scharlach-Eiche",
    "BOTANISCHER_NAME": "Quercus coccinea",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60133492921295,
@@ -587,7 +703,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63120390579299,
@@ -597,7 +715,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Selektion der Felsenbirne",
    "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63042586136428,
@@ -607,7 +727,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Selektion der Felsenbirne",
    "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58066569624845,
@@ -617,7 +739,9 @@
    "BAUMNUMMER": 65,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63052951694497,
@@ -627,7 +751,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Selektion der Felsenbirne",
    "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63065901349999,
@@ -637,7 +763,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Selektion der Felsenbirne",
    "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63090515843503,
@@ -647,7 +775,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Selektion der Felsenbirne",
    "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62028891326061,
@@ -657,7 +787,9 @@
    "BAUMNUMMER": 40,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60096410984367,
@@ -667,7 +799,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54388809131807,
@@ -677,7 +811,9 @@
    "BAUMNUMMER": 31,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5440625314867,
@@ -687,7 +823,9 @@
    "BAUMNUMMER": 33,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57747937037069,
@@ -697,7 +835,9 @@
    "BAUMNUMMER": 73,
    "BAUMART": "Holländische Linde",
    "BOTANISCHER_NAME": "Tilia x intermedia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57648817718262,
@@ -707,7 +847,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5768683922985,
@@ -717,7 +859,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57250267186416,
@@ -727,7 +871,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Schindeleiche",
    "BOTANISCHER_NAME": "Quercus imbricaria",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57529428744615,
@@ -737,7 +883,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Sorte der Tulpenmagnolie",
    "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57582107752576,
@@ -747,7 +895,9 @@
    "BAUMNUMMER": 36,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57507563410702,
@@ -757,7 +907,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Sorte der Tulpenmagnolie",
    "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64156374503434,
@@ -767,7 +919,9 @@
    "BAUMNUMMER": 35,
    "BAUMART": "Schwedische Mehlbeere",
    "BOTANISCHER_NAME": "Sorbus intermedia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54936626158085,
@@ -777,7 +931,9 @@
    "BAUMNUMMER": 18,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64190520380853,
@@ -787,7 +943,9 @@
    "BAUMNUMMER": 31,
    "BAUMART": "Stadt-Linde",
    "BOTANISCHER_NAME": "Tilia cordata Greenspire",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58777542896652,
@@ -797,7 +955,9 @@
    "BAUMNUMMER": 42,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Kanzan",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56874027569023,
@@ -807,7 +967,9 @@
    "BAUMNUMMER": 24,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55851711550368,
@@ -817,7 +979,9 @@
    "BAUMNUMMER": 126,
    "BAUMART": "Gewöhnliche Platane",
    "BOTANISCHER_NAME": "Platanus x acerifolia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57638078233596,
@@ -827,7 +991,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57631524348967,
@@ -837,7 +1003,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58832411033972,
@@ -847,7 +1015,9 @@
    "BAUMNUMMER": 384,
    "BAUMART": "Scharlach- Kirsche",
    "BOTANISCHER_NAME": "Prunus sargentii",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58834884866762,
@@ -857,7 +1027,9 @@
    "BAUMNUMMER": 385,
    "BAUMART": "Urwelt-Mammutbaum",
    "BOTANISCHER_NAME": "Metasequoia glyptostroboides",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60537526674366,
@@ -867,7 +1039,9 @@
    "BAUMNUMMER": 32,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58884641067138,
@@ -877,7 +1051,9 @@
    "BAUMNUMMER": 387,
    "BAUMART": "Kalifornische Flußzeder",
    "BOTANISCHER_NAME": "Calocedrus decurrens",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62626841953297,
@@ -887,7 +1063,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Schmalkronige Mehlbeere",
    "BOTANISCHER_NAME": "Sorbus intermedia Brouwers",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56822903889106,
@@ -897,7 +1075,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Sumpf-Eiche",
    "BOTANISCHER_NAME": "Quercus palustris",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5956297853504,
@@ -907,7 +1087,9 @@
    "BAUMNUMMER": 342,
    "BAUMART": "Japanischer Zierapfel",
    "BOTANISCHER_NAME": "Malus toringo",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59445104215,
@@ -917,7 +1099,9 @@
    "BAUMNUMMER": 328,
    "BAUMART": "Japanischer Zierapfel",
    "BOTANISCHER_NAME": "Malus toringo",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59478361620983,
@@ -927,7 +1111,9 @@
    "BAUMNUMMER": 332,
    "BAUMART": "Japanischer Zierapfel",
    "BOTANISCHER_NAME": "Malus toringo",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59470011330702,
@@ -937,7 +1123,9 @@
    "BAUMNUMMER": 331,
    "BAUMART": "Japanischer Zierapfel",
    "BOTANISCHER_NAME": "Malus toringo",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59402929093507,
@@ -947,7 +1135,9 @@
    "BAUMNUMMER": 323,
    "BAUMART": "Japanischer Zierapfel",
    "BOTANISCHER_NAME": "Malus toringo",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62742744516514,
@@ -957,7 +1147,9 @@
    "BAUMNUMMER": 51,
    "BAUMART": "Schmalkronige Mehlbeere",
    "BOTANISCHER_NAME": "Sorbus intermedia Brouwers",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.48673153575219,
@@ -967,7 +1159,9 @@
    "BAUMNUMMER": 56,
    "BAUMART": "Amerikanische Roteiche",
    "BOTANISCHER_NAME": "Quercus rubra",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53280681440116,
@@ -977,7 +1171,9 @@
    "BAUMNUMMER": 123,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52611398523717,
@@ -987,7 +1183,9 @@
    "BAUMNUMMER": 90,
    "BAUMART": "Stiel-Eiche",
    "BOTANISCHER_NAME": "Quercus robur",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59689776915234,
@@ -997,7 +1195,9 @@
    "BAUMNUMMER": 408,
    "BAUMART": "Sumpfzypresse",
    "BOTANISCHER_NAME": "Taxodium distichum",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59697123553259,
@@ -1007,7 +1207,9 @@
    "BAUMNUMMER": 6083,
    "BAUMART": "Sumpfzypresse",
    "BOTANISCHER_NAME": "Taxodium distichum",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59723819110311,
@@ -1017,7 +1219,9 @@
    "BAUMNUMMER": 966,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.50510789460201,
@@ -1027,7 +1231,9 @@
    "BAUMNUMMER": 138,
    "BAUMART": "Trauerweide",
    "BOTANISCHER_NAME": "Salix alba Tristis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5465676803167,
@@ -1037,7 +1243,9 @@
    "BAUMNUMMER": 2922,
    "BAUMART": "Ahorn",
    "BOTANISCHER_NAME": "Acer  species",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58832865336509,
@@ -1047,7 +1255,9 @@
    "BAUMNUMMER": 382,
    "BAUMART": "Scharlach- Kirsche",
    "BOTANISCHER_NAME": "Prunus sargentii",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54649824285269,
@@ -1057,7 +1267,9 @@
    "BAUMNUMMER": 2923,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54663742057346,
@@ -1067,7 +1279,9 @@
    "BAUMNUMMER": 2921,
    "BAUMART": "Ahorn",
    "BOTANISCHER_NAME": "Acer  species",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60094010040736,
@@ -1077,7 +1291,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60095387002829,
@@ -1087,7 +1303,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61664119435288,
@@ -1097,7 +1315,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Blasenesche",
    "BOTANISCHER_NAME": "Koelreuteria paniculata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.49166927707885,
@@ -1107,7 +1327,9 @@
    "BAUMNUMMER": 53,
    "BAUMART": "Zerr-Eiche",
    "BOTANISCHER_NAME": "Quercus cerris",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53015498610151,
@@ -1117,7 +1339,9 @@
    "BAUMNUMMER": 59,
    "BAUMART": "Sumpf-Eiche",
    "BOTANISCHER_NAME": "Quercus palustris",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55992715379387,
@@ -1127,7 +1351,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Hängende Silberlinde",
    "BOTANISCHER_NAME": "Tilia tomentosa Pendula",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52952568640548,
@@ -1137,7 +1363,9 @@
    "BAUMNUMMER": 67,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53870933242049,
@@ -1147,7 +1375,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Südlicher Zürgelbaum",
    "BOTANISCHER_NAME": "Celtis australis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52826769535781,
@@ -1157,7 +1387,9 @@
    "BAUMNUMMER": 50,
    "BAUMART": "Rot-Ahorn",
    "BOTANISCHER_NAME": "Acer rubrum",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53879404486419,
@@ -1167,7 +1399,9 @@
    "BAUMNUMMER": 15,
    "BAUMART": "Südlicher Zürgelbaum",
    "BOTANISCHER_NAME": "Celtis australis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57506672574606,
@@ -1177,7 +1411,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64767065479812,
@@ -1187,7 +1423,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Sorte des Rot-Ahorns",
    "BOTANISCHER_NAME": "Acer rubrum Armstrong",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55085791458285,
@@ -1197,7 +1435,9 @@
    "BAUMNUMMER": 296,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65271717281027,
@@ -1207,7 +1447,9 @@
    "BAUMNUMMER": 46,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65218374044952,
@@ -1217,7 +1459,9 @@
    "BAUMNUMMER": 43,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6521765823073,
@@ -1227,7 +1471,9 @@
    "BAUMNUMMER": 39,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53892048751819,
@@ -1237,7 +1483,9 @@
    "BAUMNUMMER": 17,
    "BAUMART": "Südlicher Zürgelbaum",
    "BOTANISCHER_NAME": "Celtis australis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.48645593912649,
@@ -1247,7 +1495,9 @@
    "BAUMNUMMER": 57,
    "BAUMART": "Amerikanische Roteiche",
    "BOTANISCHER_NAME": "Quercus rubra",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.638681210631,
@@ -1257,7 +1507,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53179720204603,
@@ -1267,7 +1519,9 @@
    "BAUMNUMMER": 26,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53179571480233,
@@ -1277,7 +1531,9 @@
    "BAUMNUMMER": 27,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60102472956333,
@@ -1287,7 +1543,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Japanische Zierkirsche",
    "BOTANISCHER_NAME": "Prunus serrulata Shirofugen",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60121792540616,
@@ -1297,7 +1555,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Sand-Birke",
    "BOTANISCHER_NAME": "Betula pendula",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53156244857855,
@@ -1307,7 +1567,9 @@
    "BAUMNUMMER": 28,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54512738057548,
@@ -1317,7 +1579,9 @@
    "BAUMNUMMER": 6110,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60808405530566,
@@ -1327,7 +1591,9 @@
    "BAUMNUMMER": 207,
    "BAUMART": "Weißdorn",
    "BOTANISCHER_NAME": "Crataegus  species",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60821612944646,
@@ -1337,7 +1603,9 @@
    "BAUMNUMMER": 208,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60814744421312,
@@ -1347,7 +1615,9 @@
    "BAUMNUMMER": 209,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58832904951361,
@@ -1357,7 +1627,9 @@
    "BAUMNUMMER": 383,
    "BAUMART": "Scharlach- Kirsche",
    "BOTANISCHER_NAME": "Prunus sargentii",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52964836516923,
@@ -1367,7 +1639,9 @@
    "BAUMNUMMER": 173,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64402116313567,
@@ -1377,7 +1651,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Silber-Linde",
    "BOTANISCHER_NAME": "Tilia tomentosa",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64702665960617,
@@ -1387,7 +1663,9 @@
    "BAUMNUMMER": 18,
    "BAUMART": "Rot-Ahorn",
    "BOTANISCHER_NAME": "Acer rubrum",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64793762239155,
@@ -1397,7 +1675,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Sorte des Rot-Ahorns",
    "BOTANISCHER_NAME": "Acer rubrum Armstrong",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57867376517224,
@@ -1407,7 +1687,9 @@
    "BAUMNUMMER": 23,
    "BAUMART": "Scharlach-Eiche",
    "BOTANISCHER_NAME": "Quercus coccinea",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57486837523781,
@@ -1417,7 +1699,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Sorte der Tulpenmagnolie",
    "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56425845984038,
@@ -1427,7 +1711,9 @@
    "BAUMNUMMER": 138,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56481145193555,
@@ -1437,7 +1723,9 @@
    "BAUMNUMMER": 134,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55810843718051,
@@ -1447,7 +1735,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57327901844631,
@@ -1457,7 +1747,9 @@
    "BAUMNUMMER": 30,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57343226137962,
@@ -1467,7 +1759,9 @@
    "BAUMNUMMER": 29,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53224136670859,
@@ -1477,7 +1771,9 @@
    "BAUMNUMMER": 252,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56356463250307,
@@ -1487,7 +1783,9 @@
    "BAUMNUMMER": 143,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56412604403548,
@@ -1497,7 +1795,9 @@
    "BAUMNUMMER": 139,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56386725061638,
@@ -1507,7 +1807,9 @@
    "BAUMNUMMER": 141,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55574094367924,
@@ -1517,7 +1819,9 @@
    "BAUMNUMMER": 21,
    "BAUMART": "Rotblättrige Sorte des Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides Schwedleri",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60130317765494,
@@ -1527,7 +1831,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Sand-Birke",
    "BOTANISCHER_NAME": "Betula pendula",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55901092170972,
@@ -1537,7 +1843,9 @@
    "BAUMNUMMER": 43,
    "BAUMART": "Baum-Magnolie",
    "BOTANISCHER_NAME": "Magnolia loebneriMerrill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63151537626992,
@@ -1547,7 +1855,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Selektion der Felsenbirne",
    "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64217543566573,
@@ -1557,7 +1867,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Zierkirsche",
    "BOTANISCHER_NAME": "Prunus hillerii Spire",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57685434198449,
@@ -1567,7 +1879,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65200319220169,
@@ -1577,7 +1891,9 @@
    "BAUMNUMMER": 31,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60135527164153,
@@ -1587,7 +1903,9 @@
    "BAUMNUMMER": 9019,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6014670638957,
@@ -1597,7 +1915,9 @@
    "BAUMNUMMER": 9020,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59521397060033,
@@ -1607,7 +1927,9 @@
    "BAUMNUMMER": 337,
    "BAUMART": "Japanischer Zierapfel",
    "BOTANISCHER_NAME": "Malus toringo",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63708075569216,
@@ -1617,7 +1939,9 @@
    "BAUMNUMMER": 381,
    "BAUMART": "Himalaja-Birke",
    "BOTANISCHER_NAME": "Betula jacquemontii",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55954905034683,
@@ -1627,7 +1951,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53226853594024,
@@ -1637,7 +1963,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54800421553696,
@@ -1647,7 +1975,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6360099840936,
@@ -1657,7 +1987,9 @@
    "BAUMNUMMER": 198,
    "BAUMART": "Himalaja-Birke",
    "BOTANISCHER_NAME": "Betula jacquemontii",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59349209724024,
@@ -1667,7 +1999,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68863176539213,
@@ -1677,7 +2011,9 @@
    "BAUMNUMMER": 236,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68842768645827,
@@ -1687,7 +2023,9 @@
    "BAUMNUMMER": 237,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68737595577896,
@@ -1697,7 +2035,9 @@
    "BAUMNUMMER": 242,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68718663082188,
@@ -1707,7 +2047,9 @@
    "BAUMNUMMER": 243,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68678470280619,
@@ -1717,7 +2059,9 @@
    "BAUMNUMMER": 245,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69750826238711,
@@ -1727,7 +2071,9 @@
    "BAUMNUMMER": 187,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69567820997865,
@@ -1737,7 +2083,9 @@
    "BAUMNUMMER": 201,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69523208162063,
@@ -1747,7 +2095,9 @@
    "BAUMNUMMER": 204,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69475026094934,
@@ -1757,7 +2107,9 @@
    "BAUMNUMMER": 207,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69425148314736,
@@ -1767,7 +2119,9 @@
    "BAUMNUMMER": 210,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69390555644056,
@@ -1777,7 +2131,9 @@
    "BAUMNUMMER": 212,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5268524147975,
@@ -1787,7 +2143,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Rot-Ahorn",
    "BOTANISCHER_NAME": "Acer rubrum",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52697965270044,
@@ -1797,7 +2155,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Rot-Ahorn",
    "BOTANISCHER_NAME": "Acer rubrum",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52815089054229,
@@ -1807,7 +2167,9 @@
    "BAUMNUMMER": 64,
    "BAUMART": "Rot-Ahorn",
    "BOTANISCHER_NAME": "Acer rubrum",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6292812307934,
@@ -1817,7 +2179,9 @@
    "BAUMNUMMER": 9022,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60053414403927,
@@ -1827,7 +2191,9 @@
    "BAUMNUMMER": 9005,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60089854939456,
@@ -1837,7 +2203,9 @@
    "BAUMNUMMER": 9007,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60090749415486,
@@ -1847,7 +2215,9 @@
    "BAUMNUMMER": 9008,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61105981606504,
@@ -1857,7 +2227,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Blutpflaume",
    "BOTANISCHER_NAME": "Prunus cerasifera Nigra",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5323628779795,
@@ -1867,7 +2239,9 @@
    "BAUMNUMMER": 89,
    "BAUMART": "Kegel-Feldahorn",
    "BOTANISCHER_NAME": "Acer campestre Elsrijk",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53497690818249,
@@ -1877,7 +2251,9 @@
    "BAUMNUMMER": 142,
    "BAUMART": "Trauerweide",
    "BOTANISCHER_NAME": "Salix alba Tristis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60173019785356,
@@ -1887,7 +2263,9 @@
    "BAUMNUMMER": 9021,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56402107605018,
@@ -1897,7 +2275,9 @@
    "BAUMNUMMER": 140,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56329128062012,
@@ -1907,7 +2287,9 @@
    "BAUMNUMMER": 145,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56316024475546,
@@ -1917,7 +2299,9 @@
    "BAUMNUMMER": 146,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5630201208493,
@@ -1927,7 +2311,9 @@
    "BAUMNUMMER": 147,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.562885350225,
@@ -1937,7 +2323,9 @@
    "BAUMNUMMER": 148,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56274773364565,
@@ -1947,7 +2335,9 @@
    "BAUMNUMMER": 149,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68594426655817,
@@ -1957,7 +2347,9 @@
    "BAUMNUMMER": 249,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69105882525311,
@@ -1967,7 +2359,9 @@
    "BAUMNUMMER": 224,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69046616556051,
@@ -1977,7 +2371,9 @@
    "BAUMNUMMER": 227,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68883289062689,
@@ -1987,7 +2383,9 @@
    "BAUMNUMMER": 235,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68821205738046,
@@ -1997,7 +2395,9 @@
    "BAUMNUMMER": 238,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68758030770448,
@@ -2007,7 +2407,9 @@
    "BAUMNUMMER": 241,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60116352725253,
@@ -2017,7 +2419,9 @@
    "BAUMNUMMER": 9010,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60131889247227,
@@ -2027,7 +2431,9 @@
    "BAUMNUMMER": 9012,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60130986462015,
@@ -2037,7 +2443,9 @@
    "BAUMNUMMER": 9013,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53218100526933,
@@ -2047,7 +2455,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57640664633793,
@@ -2057,7 +2467,9 @@
    "BAUMNUMMER": 171,
    "BAUMART": "Blutbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64556845626771,
@@ -2067,7 +2479,9 @@
    "BAUMNUMMER": 799,
    "BAUMART": "Amerikanische Roteiche",
    "BOTANISCHER_NAME": "Quercus rubra",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59487141804392,
@@ -2077,7 +2491,9 @@
    "BAUMNUMMER": 333,
    "BAUMART": "Japanischer Zierapfel",
    "BOTANISCHER_NAME": "Malus toringo",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68985391536616,
@@ -2087,7 +2503,9 @@
    "BAUMNUMMER": 230,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68923402939772,
@@ -2097,7 +2515,9 @@
    "BAUMNUMMER": 233,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58443315999266,
@@ -2107,7 +2527,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58441912076465,
@@ -2117,7 +2539,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69633320590467,
@@ -2127,7 +2551,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52824588635071,
@@ -2137,7 +2563,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52848561127912,
@@ -2147,7 +2575,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69965613414855,
@@ -2157,7 +2587,9 @@
    "BAUMNUMMER": 148,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70015152816477,
@@ -2167,7 +2599,9 @@
    "BAUMNUMMER": 149,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70067325092703,
@@ -2177,7 +2611,9 @@
    "BAUMNUMMER": 155,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69040844674236,
@@ -2187,7 +2623,9 @@
    "BAUMNUMMER": 329,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6910139963364,
@@ -2197,7 +2635,9 @@
    "BAUMNUMMER": 332,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69162372088133,
@@ -2207,7 +2647,9 @@
    "BAUMNUMMER": 335,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59461662228537,
@@ -2217,7 +2659,9 @@
    "BAUMNUMMER": 330,
    "BAUMART": "Japanischer Zierapfel",
    "BOTANISCHER_NAME": "Malus toringo",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69860228817702,
@@ -2227,7 +2671,9 @@
    "BAUMNUMMER": 179,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69829856899877,
@@ -2237,7 +2683,9 @@
    "BAUMNUMMER": 182,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6979017780181,
@@ -2247,7 +2695,9 @@
    "BAUMNUMMER": 183,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69761752461109,
@@ -2257,7 +2707,9 @@
    "BAUMNUMMER": 186,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6972847092416,
@@ -2267,7 +2719,9 @@
    "BAUMNUMMER": 189,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69704344111049,
@@ -2277,7 +2731,9 @@
    "BAUMNUMMER": 191,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69298716443931,
@@ -2287,7 +2743,9 @@
    "BAUMNUMMER": 342,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69335225249913,
@@ -2297,7 +2755,9 @@
    "BAUMNUMMER": 344,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69353361598949,
@@ -2307,7 +2767,9 @@
    "BAUMNUMMER": 345,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69407063818301,
@@ -2317,7 +2779,9 @@
    "BAUMNUMMER": 348,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69458324618079,
@@ -2327,7 +2791,9 @@
    "BAUMNUMMER": 351,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69508001738096,
@@ -2337,7 +2803,9 @@
    "BAUMNUMMER": 354,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69539946828901,
@@ -2347,7 +2815,9 @@
    "BAUMNUMMER": 356,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69389485627385,
@@ -2357,7 +2827,9 @@
    "BAUMNUMMER": 347,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69475325364752,
@@ -2367,7 +2839,9 @@
    "BAUMNUMMER": 352,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69555831247206,
@@ -2377,7 +2851,9 @@
    "BAUMNUMMER": 357,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69643885542937,
@@ -2387,7 +2863,9 @@
    "BAUMNUMMER": 363,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6968419553133,
@@ -2397,7 +2875,9 @@
    "BAUMNUMMER": 366,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69722308718391,
@@ -2407,7 +2887,9 @@
    "BAUMNUMMER": 369,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57414959850551,
@@ -2417,7 +2899,9 @@
    "BAUMNUMMER": 72,
    "BAUMART": "Holländische Linde",
    "BOTANISCHER_NAME": "Tilia x intermedia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58249876287441,
@@ -2427,7 +2911,9 @@
    "BAUMNUMMER": 74,
    "BAUMART": "Holländische Linde",
    "BOTANISCHER_NAME": "Tilia x intermedia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58566428335551,
@@ -2437,7 +2923,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64282360615228,
@@ -2447,7 +2935,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Zierkirsche",
    "BOTANISCHER_NAME": "Prunus hillerii Spire",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64309430665725,
@@ -2457,7 +2947,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Zierkirsche",
    "BOTANISCHER_NAME": "Prunus hillerii Spire",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63161748378439,
@@ -2467,7 +2959,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63180493226466,
@@ -2477,7 +2971,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52916000449088,
@@ -2487,7 +2983,9 @@
    "BAUMNUMMER": 176,
    "BAUMART": "Sorte vom Japanischen Apfel",
    "BOTANISCHER_NAME": "Malus floribunda Red Sentinel",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64365673008487,
@@ -2497,7 +2995,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64420733509748,
@@ -2507,7 +3007,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64430152405799,
@@ -2517,7 +3019,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64448825338796,
@@ -2527,7 +3031,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69625651832564,
@@ -2537,7 +3043,9 @@
    "BAUMNUMMER": 197,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69597622130806,
@@ -2547,7 +3055,9 @@
    "BAUMNUMMER": 199,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69553044695876,
@@ -2557,7 +3067,9 @@
    "BAUMNUMMER": 202,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69538952228418,
@@ -2567,7 +3079,9 @@
    "BAUMNUMMER": 203,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69458510324124,
@@ -2577,7 +3091,9 @@
    "BAUMNUMMER": 208,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69441883418153,
@@ -2587,7 +3103,9 @@
    "BAUMNUMMER": 209,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6940803317392,
@@ -2597,7 +3115,9 @@
    "BAUMNUMMER": 211,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69585785737751,
@@ -2607,7 +3127,9 @@
    "BAUMNUMMER": 359,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69616358702299,
@@ -2617,7 +3139,9 @@
    "BAUMNUMMER": 361,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69630731094546,
@@ -2627,7 +3151,9 @@
    "BAUMNUMMER": 362,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69670917425397,
@@ -2637,7 +3163,9 @@
    "BAUMNUMMER": 365,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69709935172905,
@@ -2647,7 +3175,9 @@
    "BAUMNUMMER": 368,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69746077063169,
@@ -2657,7 +3187,9 @@
    "BAUMNUMMER": 371,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69768421238933,
@@ -2667,7 +3199,9 @@
    "BAUMNUMMER": 373,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69743695470433,
@@ -2677,7 +3211,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69691719837561,
@@ -2687,7 +3223,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69674183387321,
@@ -2697,7 +3235,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69578708148792,
@@ -2707,7 +3247,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69541680705785,
@@ -2717,7 +3259,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67460627749219,
@@ -2727,7 +3271,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57376682731888,
@@ -2737,7 +3283,9 @@
    "BAUMNUMMER": 24,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63171792251882,
@@ -2747,7 +3295,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60948492884291,
@@ -2757,7 +3307,9 @@
    "BAUMNUMMER": 17,
    "BAUMART": "Sorte des Rot-Ahorns",
    "BOTANISCHER_NAME": "Acer rubrum Red Sunset",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52949759574846,
@@ -2767,7 +3319,9 @@
    "BAUMNUMMER": 174,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53105187455893,
@@ -2777,7 +3331,9 @@
    "BAUMNUMMER": 175,
    "BAUMART": "Ulme",
    "BOTANISCHER_NAME": "Ulmus  species",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69354618174472,
@@ -2787,7 +3343,9 @@
    "BAUMNUMMER": 214,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69318256720165,
@@ -2797,7 +3355,9 @@
    "BAUMNUMMER": 216,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6920549155714,
@@ -2807,7 +3367,9 @@
    "BAUMNUMMER": 219,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69085428590126,
@@ -2817,7 +3379,9 @@
    "BAUMNUMMER": 225,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69065530114002,
@@ -2827,7 +3391,9 @@
    "BAUMNUMMER": 226,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6902668575432,
@@ -2837,7 +3403,9 @@
    "BAUMNUMMER": 228,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6980127523547,
@@ -2847,7 +3415,9 @@
    "BAUMNUMMER": 376,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69811350454186,
@@ -2857,7 +3427,9 @@
    "BAUMNUMMER": 377,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70062650634338,
@@ -2867,7 +3439,9 @@
    "BAUMNUMMER": 157,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70038197449756,
@@ -2877,7 +3451,9 @@
    "BAUMNUMMER": 160,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69973030825777,
@@ -2887,7 +3463,9 @@
    "BAUMNUMMER": 167,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69888911889141,
@@ -2897,7 +3475,9 @@
    "BAUMNUMMER": 176,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67780544727517,
@@ -2907,7 +3487,9 @@
    "BAUMNUMMER": 19,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6745639822816,
@@ -2917,7 +3499,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67491031327917,
@@ -2927,7 +3511,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67429229110904,
@@ -2937,7 +3523,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67505032530582,
@@ -2947,7 +3535,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69760998790667,
@@ -2957,7 +3547,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69708900048842,
@@ -2967,7 +3559,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70055956712636,
@@ -2977,7 +3571,9 @@
    "BAUMNUMMER": 158,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70047365086738,
@@ -2987,7 +3583,9 @@
    "BAUMNUMMER": 159,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68619956627459,
@@ -2997,7 +3595,9 @@
    "BAUMNUMMER": 309,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68642926986718,
@@ -3007,7 +3607,9 @@
    "BAUMNUMMER": 310,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68666127963036,
@@ -3017,7 +3619,9 @@
    "BAUMNUMMER": 311,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68791446369651,
@@ -3027,7 +3631,9 @@
    "BAUMNUMMER": 317,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68896685960529,
@@ -3037,7 +3643,9 @@
    "BAUMNUMMER": 322,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56248088210382,
@@ -3047,7 +3655,9 @@
    "BAUMNUMMER": 151,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64402462598765,
@@ -3057,7 +3667,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6443989204933,
@@ -3067,7 +3679,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70011291184603,
@@ -3077,7 +3691,9 @@
    "BAUMNUMMER": 163,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69991941993996,
@@ -3087,7 +3703,9 @@
    "BAUMNUMMER": 165,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69982338808389,
@@ -3097,7 +3715,9 @@
    "BAUMNUMMER": 166,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69963427435777,
@@ -3107,7 +3727,9 @@
    "BAUMNUMMER": 168,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69907274438475,
@@ -3117,7 +3739,9 @@
    "BAUMNUMMER": 174,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69897949925818,
@@ -3127,7 +3751,9 @@
    "BAUMNUMMER": 175,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69879134064667,
@@ -3137,7 +3763,9 @@
    "BAUMNUMMER": 177,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6893702379477,
@@ -3147,7 +3775,9 @@
    "BAUMNUMMER": 324,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68999407802442,
@@ -3157,7 +3787,9 @@
    "BAUMNUMMER": 327,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6902018129309,
@@ -3167,7 +3799,9 @@
    "BAUMNUMMER": 328,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6908155013578,
@@ -3177,7 +3811,9 @@
    "BAUMNUMMER": 331,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69141854597163,
@@ -3187,7 +3823,9 @@
    "BAUMNUMMER": 334,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69202312661971,
@@ -3197,7 +3835,9 @@
    "BAUMNUMMER": 337,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69241530195551,
@@ -3207,7 +3847,9 @@
    "BAUMNUMMER": 339,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68686207950061,
@@ -3217,7 +3859,9 @@
    "BAUMNUMMER": 312,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68875576639318,
@@ -3227,7 +3871,9 @@
    "BAUMNUMMER": 321,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6891655247312,
@@ -3237,7 +3883,9 @@
    "BAUMNUMMER": 323,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65021579745029,
@@ -3247,7 +3895,9 @@
    "BAUMNUMMER": 162,
    "BAUMART": "Trompetenbaum",
    "BOTANISCHER_NAME": "Catalpa  species",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59855954880703,
@@ -3257,7 +3907,9 @@
    "BAUMNUMMER": 56,
    "BAUMART": "Apfel",
    "BOTANISCHER_NAME": "Malus  species",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56261444163262,
@@ -3267,7 +3919,9 @@
    "BAUMNUMMER": 150,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6266693053209,
@@ -3277,7 +3931,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62667771565704,
@@ -3287,7 +3943,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62667889668882,
@@ -3297,7 +3955,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52786373234952,
@@ -3307,7 +3967,9 @@
    "BAUMNUMMER": 28,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56892456632538,
@@ -3317,7 +3979,9 @@
    "BAUMNUMMER": 7138,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56865186140198,
@@ -3327,7 +3991,9 @@
    "BAUMNUMMER": 7140,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56837818648664,
@@ -3337,7 +4003,9 @@
    "BAUMNUMMER": 7141,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56824400837164,
@@ -3347,7 +4015,9 @@
    "BAUMNUMMER": 7142,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56811399242241,
@@ -3357,7 +4027,9 @@
    "BAUMNUMMER": 7143,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56810473133359,
@@ -3367,7 +4039,9 @@
    "BAUMNUMMER": 7144,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56796958282979,
@@ -3377,7 +4051,9 @@
    "BAUMNUMMER": 7145,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52394665720505,
@@ -3387,7 +4063,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52372305428583,
@@ -3397,7 +4075,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58083657963224,
@@ -3407,7 +4087,9 @@
    "BAUMNUMMER": 2455,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56742697113586,
@@ -3417,7 +4099,9 @@
    "BAUMNUMMER": 7148,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56729826187639,
@@ -3427,7 +4111,9 @@
    "BAUMNUMMER": 7149,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56729232545911,
@@ -3437,7 +4123,9 @@
    "BAUMNUMMER": 7150,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52368738645125,
@@ -3447,7 +4135,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52364510859141,
@@ -3457,7 +4147,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52360037061402,
@@ -3467,7 +4159,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52354807713432,
@@ -3477,7 +4171,9 @@
    "BAUMNUMMER": 15,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52349820003837,
@@ -3487,7 +4183,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67488538146205,
@@ -3497,7 +4195,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58207541920966,
@@ -3507,7 +4207,9 @@
    "BAUMNUMMER": 2450,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58114809245178,
@@ -3517,7 +4219,9 @@
    "BAUMNUMMER": 2453,
    "BAUMART": "Apfel",
    "BOTANISCHER_NAME": "Malus  species",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67512964920993,
@@ -3527,7 +4231,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67518734508388,
@@ -3537,7 +4243,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57374551003286,
@@ -3547,7 +4255,9 @@
    "BAUMNUMMER": 27,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56756225579486,
@@ -3557,7 +4267,9 @@
    "BAUMNUMMER": 7146,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56742974417292,
@@ -3567,7 +4279,9 @@
    "BAUMNUMMER": 7147,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64346476716388,
@@ -3577,7 +4291,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67425135175008,
@@ -3587,7 +4303,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70065486850605,
@@ -3597,7 +4315,9 @@
    "BAUMNUMMER": 154,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70029138079068,
@@ -3607,7 +4327,9 @@
    "BAUMNUMMER": 161,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69925594357672,
@@ -3617,7 +4339,9 @@
    "BAUMNUMMER": 172,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69869616057202,
@@ -3627,7 +4351,9 @@
    "BAUMNUMMER": 178,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69850045030022,
@@ -3637,7 +4363,9 @@
    "BAUMNUMMER": 180,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69772088017901,
@@ -3647,7 +4375,9 @@
    "BAUMNUMMER": 185,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63016038540467,
@@ -3657,7 +4387,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Selektion der Felsenbirne",
    "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63100479501679,
@@ -3667,7 +4399,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Selektion der Felsenbirne",
    "BOTANISCHER_NAME": "Amelanchier arborea Robin Hill",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64430207312182,
@@ -3677,7 +4411,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Gewöhnlicher Trompetenbaum",
    "BOTANISCHER_NAME": "Catalpa bignonioides",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64418746012558,
@@ -3687,7 +4423,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Gewöhnlicher Trompetenbaum",
    "BOTANISCHER_NAME": "Catalpa bignonioides",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64420921272807,
@@ -3697,7 +4435,9 @@
    "BAUMNUMMER": 3,
    "BAUMART": "Gewöhnlicher Trompetenbaum",
    "BOTANISCHER_NAME": "Catalpa bignonioides",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65268446119089,
@@ -3707,7 +4447,9 @@
    "BAUMNUMMER": 181,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63943583192328,
@@ -3717,7 +4459,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70053649661454,
@@ -3727,7 +4471,9 @@
    "BAUMNUMMER": 152,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70020368245461,
@@ -3737,7 +4483,9 @@
    "BAUMNUMMER": 162,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69954177279841,
@@ -3747,7 +4495,9 @@
    "BAUMNUMMER": 169,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70030683868576,
@@ -3757,7 +4507,9 @@
    "BAUMNUMMER": 150,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6991652176237,
@@ -3767,7 +4519,9 @@
    "BAUMNUMMER": 173,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6967923202539,
@@ -3777,7 +4531,9 @@
    "BAUMNUMMER": 193,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69639261697256,
@@ -3787,7 +4543,9 @@
    "BAUMNUMMER": 196,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69582407312303,
@@ -3797,7 +4555,9 @@
    "BAUMNUMMER": 200,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69491802011286,
@@ -3807,7 +4567,9 @@
    "BAUMNUMMER": 206,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69372779868238,
@@ -3817,7 +4579,9 @@
    "BAUMNUMMER": 213,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69935105863674,
@@ -3827,7 +4591,9 @@
    "BAUMNUMMER": 171,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57383984606653,
@@ -3837,7 +4603,9 @@
    "BAUMNUMMER": 25,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69122197595243,
@@ -3847,7 +4615,9 @@
    "BAUMNUMMER": 333,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69441653751319,
@@ -3857,7 +4627,9 @@
    "BAUMNUMMER": 350,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69740145502369,
@@ -3867,7 +4639,9 @@
    "BAUMNUMMER": 188,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6950774482206,
@@ -3877,7 +4651,9 @@
    "BAUMNUMMER": 205,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68800116491934,
@@ -3887,7 +4663,9 @@
    "BAUMNUMMER": 239,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52899081739791,
@@ -3897,7 +4675,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52906399412175,
@@ -3907,7 +4687,9 @@
    "BAUMNUMMER": 15,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52913229445936,
@@ -3917,7 +4699,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52919532532591,
@@ -3927,7 +4711,9 @@
    "BAUMNUMMER": 17,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52925442594372,
@@ -3937,7 +4723,9 @@
    "BAUMNUMMER": 18,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52932121265873,
@@ -3947,7 +4735,9 @@
    "BAUMNUMMER": 19,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70060865021453,
@@ -3957,7 +4747,9 @@
    "BAUMNUMMER": 153,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64606467629405,
@@ -3967,7 +4759,9 @@
    "BAUMNUMMER": 539,
    "BAUMART": "Kirsche",
    "BOTANISCHER_NAME": "Prunus  species",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55230577427166,
@@ -3977,7 +4771,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59836603411955,
@@ -3987,7 +4783,9 @@
    "BAUMNUMMER": 398,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52946515088898,
@@ -3997,7 +4795,9 @@
    "BAUMNUMMER": 21,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58442821094073,
@@ -4007,7 +4807,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "",
    "BOTANISCHER_NAME": "",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54506513892441,
@@ -4017,7 +4819,9 @@
    "BAUMNUMMER": 6109,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54518561208776,
@@ -4027,7 +4831,9 @@
    "BAUMNUMMER": 6111,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54506941494757,
@@ -4037,7 +4843,9 @@
    "BAUMNUMMER": 6113,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54470228917665,
@@ -4047,7 +4855,9 @@
    "BAUMNUMMER": 6117,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54461147366852,
@@ -4057,7 +4867,9 @@
    "BAUMNUMMER": 6118,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54453554179863,
@@ -4067,7 +4879,9 @@
    "BAUMNUMMER": 6120,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6775961206615,
@@ -4077,7 +4891,9 @@
    "BAUMNUMMER": 20,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67794345961528,
@@ -4087,7 +4903,9 @@
    "BAUMNUMMER": 21,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6781418309217,
@@ -4097,7 +4915,9 @@
    "BAUMNUMMER": 22,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67834166307215,
@@ -4107,7 +4927,9 @@
    "BAUMNUMMER": 23,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68210439749294,
@@ -4117,7 +4939,9 @@
    "BAUMNUMMER": 26,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68230127408614,
@@ -4127,7 +4951,9 @@
    "BAUMNUMMER": 27,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55108628358578,
@@ -4137,7 +4963,9 @@
    "BAUMNUMMER": 324,
    "BAUMART": "Säulenhainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55107976304614,
@@ -4147,7 +4975,9 @@
    "BAUMNUMMER": 325,
    "BAUMART": "Säulenhainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5510113713269,
@@ -4157,7 +4987,9 @@
    "BAUMNUMMER": 326,
    "BAUMART": "Säulenhainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55093066036155,
@@ -4167,7 +4999,9 @@
    "BAUMNUMMER": 329,
    "BAUMART": "Säulenhainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55086725185726,
@@ -4177,7 +5011,9 @@
    "BAUMNUMMER": 330,
    "BAUMART": "Säulenhainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55109310073222,
@@ -4187,7 +5023,9 @@
    "BAUMNUMMER": 331,
    "BAUMART": "Säulenhainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70043834890591,
@@ -4197,7 +5035,9 @@
    "BAUMNUMMER": 151,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70001422085807,
@@ -4207,7 +5047,9 @@
    "BAUMNUMMER": 164,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69839542660844,
@@ -4217,7 +5059,9 @@
    "BAUMNUMMER": 181,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69612366298884,
@@ -4227,7 +5071,9 @@
    "BAUMNUMMER": 198,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69336728373806,
@@ -4237,7 +5083,9 @@
    "BAUMNUMMER": 215,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68964671185678,
@@ -4247,7 +5095,9 @@
    "BAUMNUMMER": 231,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68268812510825,
@@ -4257,7 +5107,9 @@
    "BAUMNUMMER": 29,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68288442987265,
@@ -4267,7 +5119,9 @@
    "BAUMNUMMER": 30,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68308978337197,
@@ -4277,7 +5131,9 @@
    "BAUMNUMMER": 32,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68273420592164,
@@ -4287,7 +5143,9 @@
    "BAUMNUMMER": 34,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68313673710925,
@@ -4297,7 +5155,9 @@
    "BAUMNUMMER": 36,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68329168589007,
@@ -4307,7 +5167,9 @@
    "BAUMNUMMER": 37,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69615133539542,
@@ -4317,7 +5179,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69596870231251,
@@ -4327,7 +5191,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69560106354265,
@@ -4337,7 +5203,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69522937861463,
@@ -4347,7 +5215,9 @@
    "BAUMNUMMER": 15,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69504476461609,
@@ -4357,7 +5227,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69485968841408,
@@ -4367,7 +5239,9 @@
    "BAUMNUMMER": 17,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67942037790318,
@@ -4377,7 +5251,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6526394808393,
@@ -4387,7 +5263,9 @@
    "BAUMNUMMER": 176,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65273418488508,
@@ -4397,7 +5275,9 @@
    "BAUMNUMMER": 175,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65250539881668,
@@ -4407,7 +5287,9 @@
    "BAUMNUMMER": 177,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55103693818811,
@@ -4417,7 +5299,9 @@
    "BAUMNUMMER": 332,
    "BAUMART": "Säulenhainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68978881666368,
@@ -4427,7 +5311,9 @@
    "BAUMNUMMER": 326,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69317097258885,
@@ -4437,7 +5323,9 @@
    "BAUMNUMMER": 343,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69601128615728,
@@ -4447,7 +5335,9 @@
    "BAUMNUMMER": 360,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69696772556723,
@@ -4457,7 +5347,9 @@
    "BAUMNUMMER": 367,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68248792697349,
@@ -4467,7 +5359,9 @@
    "BAUMNUMMER": 28,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68293370566113,
@@ -4477,7 +5371,9 @@
    "BAUMNUMMER": 35,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68393838949213,
@@ -4487,7 +5383,9 @@
    "BAUMNUMMER": 44,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68333717343983,
@@ -4497,7 +5395,9 @@
    "BAUMNUMMER": 38,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68349235931851,
@@ -4507,7 +5407,9 @@
    "BAUMNUMMER": 39,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68353742522049,
@@ -4517,7 +5419,9 @@
    "BAUMNUMMER": 40,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68373639510631,
@@ -4527,7 +5431,9 @@
    "BAUMNUMMER": 42,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68389432386932,
@@ -4537,7 +5443,9 @@
    "BAUMNUMMER": 43,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68409285424412,
@@ -4547,7 +5455,9 @@
    "BAUMNUMMER": 45,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68414083177636,
@@ -4557,7 +5467,9 @@
    "BAUMNUMMER": 46,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67967645374596,
@@ -4567,7 +5479,9 @@
    "BAUMNUMMER": 5,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68045757838363,
@@ -4577,7 +5491,9 @@
    "BAUMNUMMER": 6,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68051815133339,
@@ -4587,7 +5503,9 @@
    "BAUMNUMMER": 7,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68018848364942,
@@ -4597,7 +5515,9 @@
    "BAUMNUMMER": 9,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68538667309946,
@@ -4607,7 +5527,9 @@
    "BAUMNUMMER": 56,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68000216616953,
@@ -4617,7 +5539,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67971386636043,
@@ -4627,7 +5551,9 @@
    "BAUMNUMMER": 11,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55152203893122,
@@ -4637,7 +5563,9 @@
    "BAUMNUMMER": 109,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55205459194356,
@@ -4647,7 +5575,9 @@
    "BAUMNUMMER": 101,
    "BAUMART": "Blutbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65256406726945,
@@ -4657,7 +5587,9 @@
    "BAUMNUMMER": 179,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6525792500996,
@@ -4667,7 +5599,9 @@
    "BAUMNUMMER": 180,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6849097278902,
@@ -4677,7 +5611,9 @@
    "BAUMNUMMER": 53,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68429485288892,
@@ -4687,7 +5623,9 @@
    "BAUMNUMMER": 47,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68434109104184,
@@ -4697,7 +5635,9 @@
    "BAUMNUMMER": 48,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68454266310466,
@@ -4707,7 +5647,9 @@
    "BAUMNUMMER": 49,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68469621807968,
@@ -4717,7 +5659,9 @@
    "BAUMNUMMER": 51,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68474494721866,
@@ -4727,7 +5671,9 @@
    "BAUMNUMMER": 52,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68511303528501,
@@ -4737,7 +5683,9 @@
    "BAUMNUMMER": 54,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68518640997899,
@@ -4747,7 +5695,9 @@
    "BAUMNUMMER": 55,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67951237207147,
@@ -4757,7 +5707,9 @@
    "BAUMNUMMER": 12,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67900831636265,
@@ -4767,7 +5719,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67881654170385,
@@ -4777,7 +5731,9 @@
    "BAUMNUMMER": 14,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67859996590326,
@@ -4787,7 +5743,9 @@
    "BAUMNUMMER": 15,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67840027354724,
@@ -4797,7 +5755,9 @@
    "BAUMNUMMER": 16,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67819217287234,
@@ -4807,7 +5767,9 @@
    "BAUMNUMMER": 17,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.67799020803217,
@@ -4817,7 +5779,9 @@
    "BAUMNUMMER": 18,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57002556616328,
@@ -4827,7 +5791,9 @@
    "BAUMNUMMER": 18,
    "BAUMART": "Schindeleiche",
    "BOTANISCHER_NAME": "Quercus imbricaria",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57360093634875,
@@ -4837,7 +5803,9 @@
    "BAUMNUMMER": 28,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54483213301013,
@@ -4847,7 +5815,9 @@
    "BAUMNUMMER": 6122,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54494843051526,
@@ -4857,7 +5827,9 @@
    "BAUMNUMMER": 6123,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54497496474458,
@@ -4867,7 +5839,9 @@
    "BAUMNUMMER": 6126,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64798702628169,
@@ -4877,7 +5851,9 @@
    "BAUMNUMMER": 32,
    "BAUMART": "Zierapfel",
    "BOTANISCHER_NAME": "Malus Evereste",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6836913251904,
@@ -4887,7 +5863,9 @@
    "BAUMNUMMER": 41,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68449395153946,
@@ -4897,7 +5875,9 @@
    "BAUMNUMMER": 50,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.53271825984601,
@@ -4907,7 +5887,9 @@
    "BAUMNUMMER": 90,
    "BAUMART": "Kegel-Feldahorn",
    "BOTANISCHER_NAME": "Acer campestre Elsrijk",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6977821324627,
@@ -4917,7 +5899,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69656606952865,
@@ -4927,7 +5911,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56780167597246,
@@ -4937,7 +5923,9 @@
    "BAUMNUMMER": 112,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69125883470356,
@@ -4947,7 +5935,9 @@
    "BAUMNUMMER": 223,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69006170116035,
@@ -4957,7 +5947,9 @@
    "BAUMNUMMER": 229,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68903208611849,
@@ -4967,7 +5959,9 @@
    "BAUMNUMMER": 234,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6877879887584,
@@ -4977,7 +5971,9 @@
    "BAUMNUMMER": 240,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69779024238757,
@@ -4987,7 +5983,9 @@
    "BAUMNUMMER": 374,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69261242244406,
@@ -4997,7 +5995,9 @@
    "BAUMNUMMER": 340,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69221840340438,
@@ -5007,7 +6007,9 @@
    "BAUMNUMMER": 338,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69181982112403,
@@ -5017,7 +6019,9 @@
    "BAUMNUMMER": 336,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6881269628193,
@@ -5027,7 +6031,9 @@
    "BAUMNUMMER": 318,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68748505898714,
@@ -5037,7 +6043,9 @@
    "BAUMNUMMER": 315,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63940327715131,
@@ -5047,7 +6055,9 @@
    "BAUMNUMMER": 2012,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58831637359809,
@@ -5057,7 +6067,9 @@
    "BAUMNUMMER": 376,
    "BAUMART": "Scharlach- Kirsche",
    "BOTANISCHER_NAME": "Prunus sargentii",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58832179633402,
@@ -5067,7 +6079,9 @@
    "BAUMNUMMER": 377,
    "BAUMART": "Scharlach- Kirsche",
    "BOTANISCHER_NAME": "Prunus sargentii",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69946263773274,
@@ -5077,7 +6091,9 @@
    "BAUMNUMMER": 147,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63474474783594,
@@ -5087,7 +6103,9 @@
    "BAUMNUMMER": 2000,
    "BAUMART": "Holz-Apfel",
    "BOTANISCHER_NAME": "Malus sylvestris",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63473218935124,
@@ -5097,7 +6115,9 @@
    "BAUMNUMMER": 2001,
    "BAUMART": "Holz-Apfel",
    "BOTANISCHER_NAME": "Malus sylvestris",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6350366648517,
@@ -5107,7 +6127,9 @@
    "BAUMNUMMER": 2002,
    "BAUMART": "Apfel",
    "BOTANISCHER_NAME": "Malus communis * (MAsy)",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54515011179388,
@@ -5117,7 +6139,9 @@
    "BAUMNUMMER": 6104,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54494079070586,
@@ -5127,7 +6151,9 @@
    "BAUMNUMMER": 6106,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54479600684917,
@@ -5137,7 +6163,9 @@
    "BAUMNUMMER": 6107,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54484681578345,
@@ -5147,7 +6175,9 @@
    "BAUMNUMMER": 6108,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61807895555468,
@@ -5157,7 +6187,9 @@
    "BAUMNUMMER": 140,
    "BAUMART": "Walnuß",
    "BOTANISCHER_NAME": "Juglans regia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5452916464978,
@@ -5167,7 +6199,9 @@
    "BAUMNUMMER": 6101,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54522381705034,
@@ -5177,7 +6211,9 @@
    "BAUMNUMMER": 6103,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65275361541577,
@@ -5187,7 +6223,9 @@
    "BAUMNUMMER": 182,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69691617080319,
@@ -5197,7 +6235,9 @@
    "BAUMNUMMER": 192,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69653245851184,
@@ -5207,7 +6247,9 @@
    "BAUMNUMMER": 195,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69165803047856,
@@ -5217,7 +6259,9 @@
    "BAUMNUMMER": 221,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68943860261292,
@@ -5227,7 +6271,9 @@
    "BAUMNUMMER": 232,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68657104607987,
@@ -5237,7 +6283,9 @@
    "BAUMNUMMER": 246,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68613249722116,
@@ -5247,7 +6295,9 @@
    "BAUMNUMMER": 248,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69657537579233,
@@ -5257,7 +6307,9 @@
    "BAUMNUMMER": 364,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69524018244953,
@@ -5267,7 +6319,9 @@
    "BAUMNUMMER": 355,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69060301272222,
@@ -5277,7 +6331,9 @@
    "BAUMNUMMER": 330,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68958355561611,
@@ -5287,7 +6343,9 @@
    "BAUMNUMMER": 325,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69757221700321,
@@ -5297,7 +6355,9 @@
    "BAUMNUMMER": 372,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69734583286989,
@@ -5307,7 +6367,9 @@
    "BAUMNUMMER": 370,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69570948733238,
@@ -5317,7 +6379,9 @@
    "BAUMNUMMER": 358,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69491900073883,
@@ -5327,7 +6391,9 @@
    "BAUMNUMMER": 353,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69424284598192,
@@ -5337,7 +6403,9 @@
    "BAUMNUMMER": 349,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69371473107401,
@@ -5347,7 +6415,9 @@
    "BAUMNUMMER": 346,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69280296945511,
@@ -5357,7 +6427,9 @@
    "BAUMNUMMER": 341,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.6885481926653,
@@ -5367,7 +6439,9 @@
    "BAUMNUMMER": 320,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68727082041891,
@@ -5377,7 +6451,9 @@
    "BAUMNUMMER": 314,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58154396092155,
@@ -5387,7 +6463,9 @@
    "BAUMNUMMER": 32,
    "BAUMART": "Stiel-Eiche",
    "BOTANISCHER_NAME": "Quercus robur",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58285492931702,
@@ -5397,7 +6475,9 @@
    "BAUMNUMMER": 33,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58040558273076,
@@ -5407,7 +6487,9 @@
    "BAUMNUMMER": 34,
    "BAUMART": "Stiel-Eiche",
    "BOTANISCHER_NAME": "Quercus robur",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63876531660089,
@@ -5417,7 +6499,9 @@
    "BAUMNUMMER": 2009,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63904734243535,
@@ -5427,7 +6511,9 @@
    "BAUMNUMMER": 2010,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69225044930297,
@@ -5437,7 +6523,9 @@
    "BAUMNUMMER": 218,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69146313936971,
@@ -5447,7 +6535,9 @@
    "BAUMNUMMER": 222,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54380890301482,
@@ -5457,7 +6547,9 @@
    "BAUMNUMMER": 36,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56589815816298,
@@ -5467,7 +6559,9 @@
    "BAUMNUMMER": 126,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56688923380364,
@@ -5477,7 +6571,9 @@
    "BAUMNUMMER": 7151,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68769726054995,
@@ -5487,7 +6583,9 @@
    "BAUMNUMMER": 316,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59764943037397,
@@ -5497,7 +6595,9 @@
    "BAUMNUMMER": 142,
    "BAUMART": "Kopfeiche",
    "BOTANISCHER_NAME": "Quercus robur",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.62001440448006,
@@ -5507,7 +6607,9 @@
    "BAUMNUMMER": 77,
    "BAUMART": "Kaiserlinde",
    "BOTANISCHER_NAME": "Tilia vulgaris Pallida",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61960572520404,
@@ -5517,7 +6619,9 @@
    "BAUMNUMMER": 598,
    "BAUMART": "Schwarzblättriger-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides Faassens Black",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61889308092404,
@@ -5527,7 +6631,9 @@
    "BAUMNUMMER": 37,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60769205367497,
@@ -5537,7 +6643,9 @@
    "BAUMNUMMER": 17,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60757781404709,
@@ -5547,7 +6655,9 @@
    "BAUMNUMMER": 210,
    "BAUMART": "Dornenlose Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Inermis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60796894905865,
@@ -5557,7 +6667,9 @@
    "BAUMNUMMER": 211,
    "BAUMART": "Dornenlose Gleditschie",
    "BOTANISCHER_NAME": "Gleditsia triacanthos Inermis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65173864005567,
@@ -5567,7 +6679,9 @@
    "BAUMNUMMER": 165,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65223472439147,
@@ -5577,7 +6691,9 @@
    "BAUMNUMMER": 173,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65185101184801,
@@ -5587,7 +6703,9 @@
    "BAUMNUMMER": 166,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65189943949473,
@@ -5597,7 +6715,9 @@
    "BAUMNUMMER": 167,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65187510033557,
@@ -5607,7 +6727,9 @@
    "BAUMNUMMER": 169,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65208751904184,
@@ -5617,7 +6739,9 @@
    "BAUMNUMMER": 170,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65214691519723,
@@ -5627,7 +6751,9 @@
    "BAUMNUMMER": 171,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65220287747904,
@@ -5637,7 +6763,9 @@
    "BAUMNUMMER": 172,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65215687852112,
@@ -5647,7 +6775,9 @@
    "BAUMNUMMER": 174,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55247046152892,
@@ -5657,7 +6787,9 @@
    "BAUMNUMMER": 978,
    "BAUMART": "Blutbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55264996107404,
@@ -5667,7 +6799,9 @@
    "BAUMNUMMER": 992,
    "BAUMART": "Blutbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica Purpurea",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56630068906758,
@@ -5677,7 +6811,9 @@
    "BAUMNUMMER": 123,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64210446342337,
@@ -5687,7 +6823,9 @@
    "BAUMNUMMER": 100,
    "BAUMART": "Amberbaum",
    "BOTANISCHER_NAME": "Liquidambar styraciflua",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55685514223355,
@@ -5697,7 +6835,9 @@
    "BAUMNUMMER": 289,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55681874154473,
@@ -5707,7 +6847,9 @@
    "BAUMNUMMER": 290,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55688312688108,
@@ -5717,7 +6859,9 @@
    "BAUMNUMMER": 350,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55763234317321,
@@ -5727,7 +6871,9 @@
    "BAUMNUMMER": 254,
    "BAUMART": "Kopferle",
    "BOTANISCHER_NAME": "Alnus glutinosa",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57969202195042,
@@ -5737,7 +6883,9 @@
    "BAUMNUMMER": 18,
    "BAUMART": "Scharlach-Eiche",
    "BOTANISCHER_NAME": "Quercus coccinea",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65083917495314,
@@ -5747,7 +6895,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Sorte des Rot-Ahorns",
    "BOTANISCHER_NAME": "Acer rubrum Armstrong",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64790688632882,
@@ -5757,7 +6907,9 @@
    "BAUMNUMMER": 328,
    "BAUMART": "Stiel-Eiche",
    "BOTANISCHER_NAME": "Quercus robur",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64819173536675,
@@ -5767,7 +6919,9 @@
    "BAUMNUMMER": 341,
    "BAUMART": "Stiel-Eiche",
    "BOTANISCHER_NAME": "Quercus robur",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64547280075081,
@@ -5777,7 +6931,9 @@
    "BAUMNUMMER": 419,
    "BAUMART": "Amberbaum",
    "BOTANISCHER_NAME": "Liquidambar styraciflua",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.63475697159463,
@@ -5787,7 +6943,9 @@
    "BAUMNUMMER": 2017,
    "BAUMART": "Weiße Maulbeere",
    "BOTANISCHER_NAME": "Morus alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64443166473664,
@@ -5797,7 +6955,9 @@
    "BAUMNUMMER": 466,
    "BAUMART": "Gemeine Esche",
    "BOTANISCHER_NAME": "Fraxinus excelsior",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64458931876522,
@@ -5807,7 +6967,9 @@
    "BAUMNUMMER": 468,
    "BAUMART": "Gemeine Esche",
    "BOTANISCHER_NAME": "Fraxinus excelsior",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55852537042072,
@@ -5817,7 +6979,9 @@
    "BAUMNUMMER": 225,
    "BAUMART": "Rosthaariger Streifen-Ahorn",
    "BOTANISCHER_NAME": "Acer rufinerve",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55679426855793,
@@ -5827,7 +6991,9 @@
    "BAUMNUMMER": 356,
    "BAUMART": "Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69790485099497,
@@ -5837,7 +7003,9 @@
    "BAUMNUMMER": 375,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65132910910227,
@@ -5847,7 +7015,9 @@
    "BAUMNUMMER": 163,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65164688128887,
@@ -5857,7 +7027,9 @@
    "BAUMNUMMER": 164,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56807868909149,
@@ -5867,7 +7039,9 @@
    "BAUMNUMMER": 110,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56698633981669,
@@ -5877,7 +7051,9 @@
    "BAUMNUMMER": 118,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60073113769876,
@@ -5887,7 +7063,9 @@
    "BAUMNUMMER": 200,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60013291319219,
@@ -5897,7 +7075,9 @@
    "BAUMNUMMER": 201,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60094358877575,
@@ -5907,7 +7087,9 @@
    "BAUMNUMMER": 126,
    "BAUMART": "Apfel",
    "BOTANISCHER_NAME": "Malus communis * (MAsy)",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60191996749176,
@@ -5917,7 +7099,9 @@
    "BAUMNUMMER": 127,
    "BAUMART": "Apfel",
    "BOTANISCHER_NAME": "Malus communis * (MAsy)",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58906015697417,
@@ -5927,7 +7111,9 @@
    "BAUMNUMMER": 18,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57518996899393,
@@ -5937,7 +7123,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Sorte der Tulpenmagnolie",
    "BOTANISCHER_NAME": "Magnolia Hybride Galaxy",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58069335648161,
@@ -5947,7 +7135,9 @@
    "BAUMNUMMER": 13,
    "BAUMART": "Scharlach-Eiche",
    "BOTANISCHER_NAME": "Quercus coccinea",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55574162689788,
@@ -5957,7 +7147,9 @@
    "BAUMNUMMER": 29,
    "BAUMART": "Rotblättrige Sorte des Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides Schwedleri",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56521988120621,
@@ -5967,7 +7159,9 @@
    "BAUMNUMMER": 131,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56750861861898,
@@ -5977,7 +7171,9 @@
    "BAUMNUMMER": 114,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56684636224554,
@@ -5987,7 +7183,9 @@
    "BAUMNUMMER": 119,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57356523079393,
@@ -5997,7 +7195,9 @@
    "BAUMNUMMER": 30,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68035201347223,
@@ -6007,7 +7207,9 @@
    "BAUMNUMMER": 8,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55573931696862,
@@ -6017,7 +7219,9 @@
    "BAUMNUMMER": 20,
    "BAUMART": "Rotblättrige Sorte des Spitz-Ahorn",
    "BOTANISCHER_NAME": "Acer platanoides Schwedleri",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68706169424853,
@@ -6027,7 +7231,9 @@
    "BAUMNUMMER": 313,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56548518530039,
@@ -6037,7 +7243,9 @@
    "BAUMNUMMER": 129,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56794348790363,
@@ -6047,7 +7255,9 @@
    "BAUMNUMMER": 111,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55277216808693,
@@ -6057,7 +7267,9 @@
    "BAUMNUMMER": 1043,
    "BAUMART": "Sand-Birke",
    "BOTANISCHER_NAME": "Betula pendula",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54523979533057,
@@ -6067,7 +7279,9 @@
    "BAUMNUMMER": 6102,
    "BAUMART": "Yoshino-Kirsche",
    "BOTANISCHER_NAME": "Prunus x yedoensis",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.61002461110152,
@@ -6077,7 +7291,9 @@
    "BAUMNUMMER": 193,
    "BAUMART": "Einblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Unifoliola",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.59675676970574,
@@ -6087,7 +7303,9 @@
    "BAUMNUMMER": 433,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.60110124262771,
@@ -6097,7 +7315,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Gelbblättrige Robinie",
    "BOTANISCHER_NAME": "Robinia pseudoacacia Frisia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57589842410876,
@@ -6107,7 +7327,9 @@
    "BAUMNUMMER": 2,
    "BAUMART": "Kastanien-Eiche",
    "BOTANISCHER_NAME": "Quercus castaneifolia",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58526608434467,
@@ -6117,7 +7339,9 @@
    "BAUMNUMMER": 10,
    "BAUMART": "Zerr-Eiche",
    "BOTANISCHER_NAME": "Quercus cerris",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56370129950414,
@@ -6127,7 +7351,9 @@
    "BAUMNUMMER": 142,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65198626832864,
@@ -6137,7 +7363,9 @@
    "BAUMNUMMER": 168,
    "BAUMART": "Blumen-Esche",
    "BOTANISCHER_NAME": "Fraxinus ornus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57597510314194,
@@ -6147,7 +7375,9 @@
    "BAUMNUMMER": 31,
    "BAUMART": "Gemeine Hainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55378003080209,
@@ -6157,7 +7387,9 @@
    "BAUMNUMMER": 60055,
    "BAUMART": "Sand-Birke",
    "BOTANISCHER_NAME": "Betula pendula",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.52939434626936,
@@ -6167,7 +7399,9 @@
    "BAUMNUMMER": 20,
    "BAUMART": "Kopfweide",
    "BOTANISCHER_NAME": "Salix alba",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.55097251097367,
@@ -6177,7 +7411,9 @@
    "BAUMNUMMER": 327,
    "BAUMART": "Säulenhainbuche",
    "BOTANISCHER_NAME": "Carpinus betulus Fastigiata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69726458915355,
@@ -6187,7 +7423,9 @@
    "BAUMNUMMER": 4,
    "BAUMART": "Holländische Ulme",
    "BOTANISCHER_NAME": "Ulmus x hollandica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68249115838334,
@@ -6197,7 +7435,9 @@
    "BAUMNUMMER": 33,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68698397285354,
@@ -6207,7 +7447,9 @@
    "BAUMNUMMER": 244,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.65249029414938,
@@ -6217,7 +7459,9 @@
    "BAUMNUMMER": 178,
    "BAUMART": "Winter-Linde",
    "BOTANISCHER_NAME": "Tilia cordata",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.5883057417918,
@@ -6227,7 +7471,9 @@
    "BAUMNUMMER": 375,
    "BAUMART": "Scharlach- Kirsche",
    "BOTANISCHER_NAME": "Prunus sargentii",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.64194005802047,
@@ -6237,7 +7483,9 @@
    "BAUMNUMMER": 1,
    "BAUMART": "Zierkirsche",
    "BOTANISCHER_NAME": "Prunus hillerii Spire",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.57383354520915,
@@ -6247,7 +7495,9 @@
    "BAUMNUMMER": 26,
    "BAUMART": "Tulpenbaum",
    "BOTANISCHER_NAME": "Liriodendron tulipifera",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.54834091557038,
@@ -6257,7 +7507,9 @@
    "BAUMNUMMER": 23,
    "BAUMART": "Weiden-Eiche",
    "BOTANISCHER_NAME": "Quercus phellos",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69185657580467,
@@ -6267,7 +7519,9 @@
    "BAUMNUMMER": 220,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69944597725996,
@@ -6277,7 +7531,9 @@
    "BAUMNUMMER": 170,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68833858225483,
@@ -6287,7 +7543,9 @@
    "BAUMNUMMER": 319,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69716594603229,
@@ -6297,7 +7555,9 @@
    "BAUMNUMMER": 190,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.56343181674466,
@@ -6307,7 +7567,9 @@
    "BAUMNUMMER": 144,
    "BAUMART": "Rotbuche",
    "BOTANISCHER_NAME": "Fagus sylvatica",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.68634677407359,
@@ -6317,7 +7579,9 @@
    "BAUMNUMMER": 247,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69244372991018,
@@ -6327,7 +7591,9 @@
    "BAUMNUMMER": 217,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.70066338721939,
@@ -6337,7 +7603,9 @@
    "BAUMNUMMER": 156,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69781216167954,
@@ -6347,7 +7615,9 @@
    "BAUMNUMMER": 184,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.69666478676164,
@@ -6357,7 +7627,9 @@
    "BAUMNUMMER": 194,
    "BAUMART": "Berg-Ahorn",
    "BOTANISCHER_NAME": "Acer pseudoplatanus",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  },
  {
    "lng": 6.58089903739045,
@@ -6367,6 +7639,8 @@
    "BAUMNUMMER": 2454,
    "BAUMART": "Feld-Ahorn",
    "BOTANISCHER_NAME": "Acer campestre",
-   "PFLANZJAHR": 2015
+   "PFLANZJAHR": 2015,
+   "icon": "fa-leaf",
+   "color": "green"
  }
 ]
