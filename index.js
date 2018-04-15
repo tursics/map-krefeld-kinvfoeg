@@ -1,7 +1,7 @@
 /* schulsanierung.tursics.de - JavaScript file */
 
 /*jslint browser: true*/
-/*global $,L*/
+/*global $,L,window,document*/
 
 var map = null;
 
@@ -52,7 +52,8 @@ var printerLabel = {
 			.openOn(map);
 	},
 
-	hide: function (data) {
+//	hide: function (data) {
+	hide: function () {
 		'use strict';
 
 		if (this.layerPopup && map) {
@@ -68,7 +69,7 @@ var receipt = {
 	initUI: function () {
 		'use strict';
 
-		$('#receipt .group').on('click', function (e) {
+		$('#receipt .group').on('click', function () {
 			$(this).toggleClass('groupClosed');
 		});
 		$('#receiptClose').on('click', this.hide);
@@ -220,7 +221,7 @@ var search = {
 	initUI: function () {
 		'use strict';
 
-		var that = this;
+//		var that = this;
 
 		$('#autocomplete').focus(function () {
 			window.scrollTo(0, 0);
@@ -309,7 +310,7 @@ var data = {
 		'use strict';
 
 		var that = this;
-		$('#searchBox .module select').on('change', function (e) {
+		$('#searchBox .module select').on('change', function () {
 			that.loadCity($('#searchBox .module select').val());
 		});
 	},
@@ -407,7 +408,8 @@ var ControlInfo = L.Control.extend({
 		position: 'bottomright'
 	},
 
-	onAdd: function (map) {
+//	onAdd: function (map) {
+	onAdd: function () {
 		'use strict';
 
 		var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom');
@@ -466,21 +468,21 @@ $(document).on("pageshow", "#pageMap", function () {
 	data.initUI();
 	search.initUI();
 
-	$("#popupShare").on('popupafteropen', function (e, ui) {
+	$("#popupShare").on('popupafteropen', function () {
 		$('#shareLink input').focus().select();
 	});
-	$('#tabShareLink').on('click', function (e) {
+	$('#tabShareLink').on('click', function () {
 		$('#popupShare').popup('reposition', 'positionTo: window');
 		$('#shareLink input').focus().select();
 	});
-	$('#tabEmbedMap').on('click', function (e) {
+	$('#tabEmbedMap').on('click', function () {
 		updateEmbedURI();
 		$('#popupShare').popup('reposition', 'positionTo: window');
 		$('#embedMap input').focus().select();
 	});
 
 	$('#selectEmbedSize').val('400x300').selectmenu('refresh');
-	$('#selectEmbedSize').on('change', function (e) {
+	$('#selectEmbedSize').on('change', function () {
 		updateEmbedURI();
 		$('#popupShare').popup('reposition', 'positionTo: window');
 	});
