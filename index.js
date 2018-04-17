@@ -1,4 +1,4 @@
-/* schulsanierung.tursics.de - JavaScript file */
+/* map-krefeld-kinvfoeg - JavaScript file */
 
 /*jslint browser: true*/
 /*global $,L,window,document*/
@@ -9,7 +9,7 @@ var map = null;
 
 //mapboxgl.accessToken = 'pk.eyJ1IjoidHVyc2ljcyIsImEiOiJjajBoN3hzZGwwMDJsMnF0YW96Y2l3OGk2In0._5BdojVYvNuR6x4fQNYZrA';
 var baseURI = 'https://tursics.github.io/map-krefeld-kinvfoeg',
-	appName = 'Krefeld',
+	appName = 'Krefeld: hier passiert uns!',
 	fontawesomePath = './assets/fontawesome/';
 
 //-----------------------------------------------------------------------
@@ -741,7 +741,7 @@ $(document).on("pageshow", "#pageMap", function () {
 		var size = $('#selectEmbedSize').val().split('x'),
 			x = size[0],
 			y = size[1],
-			html = '<iframe src="https://tursics.github.io/schulsanierung/index.html" width="' + x + '" height="' + y + '" frameborder="0" style="border:0" allowfullscreen></iframe>';
+			html = '<iframe src="' + baseURI + '" width="' + x + '" height="' + y + '" frameborder="0" style="border:0" allowfullscreen></iframe>';
 
 		$('#inputEmbedURI').val(html);
 		if (-1 === $('#embedMap iframe')[0].outerHTML.indexOf('width="' + x + '"')) {
