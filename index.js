@@ -5,7 +5,14 @@
 
 var map = null;
 
-// -----------------------------------------------------------------------------
+//-----------------------------------------------------------------------
+
+//mapboxgl.accessToken = 'pk.eyJ1IjoidHVyc2ljcyIsImEiOiJjajBoN3hzZGwwMDJsMnF0YW96Y2l3OGk2In0._5BdojVYvNuR6x4fQNYZrA';
+var baseURI = 'https://tursics.github.io/map-krefeld-kinvfoeg',
+	appName = 'Krefeld',
+	fontawesomePath = './assets/fontawesome/';
+
+//-----------------------------------------------------------------------
 
 function formatNumber(txt) {
 	'use strict';
@@ -351,6 +358,27 @@ var data = {
 		}
 	},
 
+	getCityInfo: function (root, id) {
+		'use strict';
+
+		var ret = null,
+			that = this;
+
+		$.each(root, function (key, val) {
+			if (val.id === id) {
+				ret = val;
+				return false;
+			} else if (('undefined' === typeof val.id) && ('object' === typeof val.menu)) {
+				var city = that.getCityInfo(val.menu, id);
+				if (city !== null) {
+					ret = city;
+				}
+			}
+		});
+
+		return ret;
+	},
+
 	loadCity: function (cityKey) {
 		'use strict';
 
@@ -358,11 +386,7 @@ var data = {
 			var city = null,
 				that = this;
 
-			$.each(this.dataMenu, function (key, val) {
-				if (val.key === cityKey) {
-					city = val;
-				}
-			});
+			city = this.getCityInfo(this.dataMenu, cityKey);
 
 			if (city) {
 				receipt.hide();
@@ -400,6 +424,270 @@ var data = {
 		});
 	}
 };
+
+//-----------------------------------------------------------------------
+
+function getJSON(uri, callback) {
+	'use strict';
+
+	var request = new XMLHttpRequest();
+	request.open('GET', uri, true);
+	request.onload = function () {
+		if (request.status >= 200 && request.status < 400) {
+			var data = JSON.parse(request.responseText);
+			callback(data);
+		} else {
+			callback(null);
+		}
+	};
+	request.onerror = function () {
+		callback(null);
+	};
+	request.send();
+}
+
+//-----------------------------------------------------------------------
+
+function getMenuItemSnippet(menuData, level1, level2) {
+	'use strict';
+
+	return '<i class="icon" style="background-image:url(' + fontawesomePath + menuData[level1].menu[level2].icon + '.svg);"></i>' + menuData[level1].menu[level2].title;
+}
+
+//-----------------------------------------------------------------------
+
+function getMenuItemSnippetLoading(menuData, level1, level2) {
+	'use strict';
+
+	return '<i class="icon spinning1" style="background-image:url(' + fontawesomePath + 'circle-o-notch.svg);"></i>' + menuData[level1].menu[level2].title;
+}
+
+//-----------------------------------------------------------------------
+
+function getMenuItemSnippetLoaded(menuData, level1, level2) {
+	'use strict';
+
+	return '<i class="icon spinning2" style="background-image:url(' + fontawesomePath + 'circle-o-notch.svg);"></i>' + menuData[level1].menu[level2].title;
+}
+
+//-----------------------------------------------------------------------
+
+function getMenuLinkSnippet(menuData, level1, level2) {
+	'use strict';
+
+	menuData[level1].menu[level2].title = menuData[level1].menu[level2].title || '';
+	menuData[level1].menu[level2].id = menuData[level1].menu[level2].id || '';
+	menuData[level1].menu[level2].icon = menuData[level1].menu[level2].icon || 'marker';
+	menuData[level1].menu[level2].color = menuData[level1].menu[level2].color || '#000000';
+
+	return '<a href="#" class="submenu" ' +
+		'data-id="' + menuData[level1].menu[level2].id + '" ' +
+		'data-icon="' + menuData[level1].menu[level2].icon + '" ' +
+		'data-type="' + menuData[level1].menu[level2].type + '" ' +
+		'data-level1="' + level1 + '" ' +
+		'data-level2="' + level2 + '" ' +
+		'style="background-color:' + menuData[level1].menu[level2].color + '00;">' +
+		getMenuItemSnippet(menuData, level1, level2) + '</a>';
+}
+
+//-----------------------------------------------------------------------
+
+function setCallbacksToMenu(menuData) {
+	'use strict';
+
+	var multiSelection = false;
+
+	function onClickMenuCB(e) {
+		var menu = document.getElementsByClassName('dropdown-toggle'),
+			i,
+			menuShown = false;
+
+		for (i = 0; i < menu.length; ++i) {
+			if (menu[i] === e.target) {
+				if (menu[i].parentNode.classList.length === 2) {
+					menu[i].parentNode.classList = ['dropdown'];
+				} else {
+					menu[i].parentNode.classList = ['dropdown open'];
+					menuShown = true;
+				}
+			} else {
+				menu[i].parentNode.classList = ['dropdown'];
+			}
+		}
+
+		menu = document.getElementById('pagecover');
+		menu.classList = [menuShown ? 'open' : ''];
+	}
+
+	function onClickSubMenu(obj) {
+		var layer = obj.dataset.id,
+			icon = obj.dataset.icon,
+			visibility = false,
+			backgroundColor = obj.style.backgroundColor.split(',');
+
+		if (('undefined' !== typeof map.getLayer) && map.getLayer(layer)) {
+			visibility = map.getLayoutProperty(layer, 'visibility');
+
+			if (visibility !== 'none') {
+				map.setLayoutProperty(layer, 'visibility', 'none');
+				obj.className = obj.className.substr(0, obj.className.indexOf(' active'));
+				backgroundColor[3] = ' 0)';
+				obj.style.backgroundColor = backgroundColor.join(',');
+			} else {
+				obj.className += ' active';
+				map.setLayoutProperty(layer, 'visibility', 'visible');
+				backgroundColor[3] = ' .99)';
+				obj.style.backgroundColor = backgroundColor.join(',');
+			}
+		} else {
+			if (!multiSelection) {
+				div = document.getElementsByClassName('submenu');
+				for (i = 0; i < div.length; ++i) {
+//					div[i].className = div[i].className.substr(0, div[i].className.indexOf(' active'));
+					backgroundColor[3] = ' 0)';
+					div[i].style.backgroundColor = backgroundColor.join(',');
+				}
+			}
+
+			obj.innerHTML = getMenuItemSnippetLoading(menuData, obj.dataset.level1, obj.dataset.level2);
+			obj.className += ' active';
+//			map.setLayoutProperty(layer, 'visibility', 'visible');
+			backgroundColor[3] = ' .99)';
+			obj.style.backgroundColor = backgroundColor.join(',');
+
+			if ('polygon' === obj.dataset.type) {
+				loadGeoJSONPolygon(layer, baseURI + '/map/' + layer + '.json', '{title}', icon, ['!=', 'title', '']);
+			} else {
+				data.loadCity(layer);
+//				loadGeoJSON(layer, baseURI + '/map/' + layer + '.json', '{title}', icon, ['!=', 'title', '']);
+			}
+		}
+	}
+
+	function onClickSubMenuCB(e) {
+		var menu = document.getElementsByClassName('dropdown-toggle'),
+			i,
+			obj;
+
+/*		for (i = 0; i < menu.length; ++i) {
+			menu[i].parentNode.classList = ['dropdown'];
+		}
+
+		menu = document.getElementById('pagecover');
+		menu.classList = [''];*/
+
+		obj = e.target;
+		if (obj.className.indexOf('submenu') === -1) {
+			obj = e.target.parentNode;
+		}
+
+		onClickSubMenu(obj);
+	}
+
+	function loadingData(e) {
+		if (e.isSourceLoaded && ('sourcedata' === e.type)) {
+			var elems = document.querySelectorAll('[data-id="' + e.sourceId + '"]'),
+				backgroundColor,
+				obj;
+
+			if (elems.length > 0) {
+				obj = elems[0];
+				if ('undefined' === typeof e.coord) {
+					obj.innerHTML = getMenuItemSnippetLoaded(data, obj.dataset.level1, obj.dataset.level2);
+				} else {
+					obj.innerHTML = getMenuItemSnippet(data, obj.dataset.level1, obj.dataset.level2);
+				}
+			}
+		}
+	}
+
+	var div = document.getElementsByClassName('dropdown-toggle'),
+		i;
+
+	for (i = 0; i < div.length; ++i) {
+//		div[i].onclick = onClickMenuCB;
+		div[i].onmousedown = onClickMenuCB;
+	}
+
+	div = document.getElementsByClassName('submenu');
+	for (i = 0; i < div.length; ++i) {
+		div[i].onmousedown = onClickSubMenuCB;
+	}
+
+//	div = document.getElementById('headerbar');
+//	div.onmousedown = onClickMenuCB;
+
+	div = document.getElementById('pagecover');
+	div.onmousedown = onClickMenuCB;
+
+	map.on('sourcedata', loadingData);
+}
+
+//-----------------------------------------------------------------------
+
+function buildNavigationAsync(data) {
+	'use strict';
+
+	var navbar = document.getElementsByClassName('navbar-collapse'),
+		d,
+		m,
+		str = '';
+
+	data = data || [];
+	str += '<ul class="nav navbar-nav">';
+
+	for (d = 0; d < data.length; ++d) {
+		str += '<li class="dropdown">';
+		str += '<a class="dropdown-toggle" href="#">' + data[d].title + '</a>';
+		str += '<ul class="dropdown-menu">';
+
+		data[d].menu = data[d].menu || [];
+
+		for (m = 0; m < data[d].menu.length; ++m) {
+			data[d].menu[m].title = data[d].menu[m].title || '';
+			data[d].menu[m].id = data[d].menu[m].id || '';
+			data[d].menu[m].icon = data[d].menu[m].icon || 'marker';
+			data[d].menu[m].color = data[d].menu[m].color || '#000000';
+
+			str += '<li>' + getMenuLinkSnippet(data, d, m) + '</li>';
+		}
+
+		str += '</ul>';
+		str += '</li>';
+	}
+
+	str += '</ul>';
+
+	navbar[0].innerHTML = str;
+
+	setCallbacksToMenu(data);
+}
+
+//-----------------------------------------------------------------------
+
+function buildNavigation() {
+	'use strict';
+
+	var headerbar = document.getElementById('headerbar'),
+		str = '';
+
+	str += '<div class="fluid">';
+
+	str += '<div class="navbar-header">';
+	str += '<a class="navbar-brand" href="index.html">' + appName + '</a>';
+	str += '</div>';
+
+	str += '<div class="navbar-collapse">';
+	str += '</div>';
+
+	str += '</div>';
+
+	headerbar.innerHTML = str;
+
+	getJSON('data/menu.json', function (menuData) {
+		buildNavigationAsync(menuData);
+	});
+}
 
 // -----------------------------------------------------------------------------
 
@@ -440,6 +728,7 @@ function initMap(elementName, lat, lng, zoom) {
 		map.addControl(new ControlInfo());
 
 		data.loadMenu();
+		buildNavigation();
 	}
 }
 
@@ -488,4 +777,8 @@ $(document).on("pageshow", "#pageMap", function () {
 	});
 });
 
-// -----------------------------------------------------------------------------
+//-----------------------------------------------------------------------
+
+//buildNavigation();
+
+//-----------------------------------------------------------------------

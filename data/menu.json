@@ -1,38 +1,48 @@
 [
 	{
-		"key": "kinvfog",
-		"title": "KInvFöG-Maßnahmen",
-		"data": "data-kinvfog",
-		"config": "config-kinvfog",
-		"lat": 51.340164,
-		"lng": 6.602664,
-		"zoom": 12
+		"title": "Ausgaben",
+		"menu": [
+			{
+				"title": "KInvFöG-Maßnahmen",
+				"id": "kinvfog",
+				"data": "data-kinvfog",
+				"config": "config-kinvfog",
+				"type": "point",
+				"icon": "shield",
+				"color": "#3cc2ff"
+			}
+		]
 	},
 	{
-		"key": "trees2015",
-		"title": "Neue Bäume in 2015",
-		"data": "data-trees-2015",
-		"config": "config-trees",
-		"lat": 51.340164,
-		"lng": 6.602664,
-		"zoom": 12
-	},
-	{
-		"key": "trees2016",
-		"title": "Neue Bäume in 2016",
-		"data": "data-trees-2016",
-		"config": "config-trees",
-		"lat": 51.340164,
-		"lng": 6.602664,
-		"zoom": 12
-	},
-	{
-		"key": "trees2017",
-		"title": "Neue Bäume in 2017",
-		"data": "data-trees-2017",
-		"config": "config-trees",
-		"lat": 51.340164,
-		"lng": 6.602664,
-		"zoom": 12
+		"title": "Bäume",
+		"menu": [
+			{
+				"title": "Neue Bäume in 2015",
+				"id": "trees-2015",
+				"data": "data-trees-2015",
+				"config": "config-trees",
+				"type": "point",
+				"icon": "shield",
+				"color": "#3cc2ff"
+			},
+			{
+				"title": "Neue Bäume in 2016",
+				"id": "trees-2016",
+				"data": "data-trees-2016",
+				"config": "config-trees",
+				"type": "point",
+				"icon": "shield",
+				"color": "#3cc2ff"
+			},
+			{
+				"title": "Neue Bäume in 2017",
+				"id": "trees-2017",
+				"data": "data-trees-2017",
+				"config": "config-trees",
+				"type": "point",
+				"icon": "shield",
+				"color": "#3cc2ff"
+			}
+		]
 	}
 ]

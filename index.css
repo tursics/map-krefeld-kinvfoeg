@@ -55,6 +55,145 @@
 	text-align: center;
 }
 
+/* ----------------------- */
+
+#pagecover {
+	background: #000;
+	bottom: 0;
+	display: none;
+	left: 0;
+	opacity: 0;
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: 999;
+}
+#pagecover.open {
+	display: block;
+}
+
+#headerbar {
+	background: #3cc2ff;
+	border-bottom: 2px solid #21538e;
+	color: #fff;
+	font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;
+	min-height: 64px;
+	position: relative;
+	z-index: 1000;
+}
+#headerbar .fluid {
+	margin: 0 auto;
+	padding: 0 15px;
+}
+.navbar-header {
+	float: left;
+	margin-left: 0;
+	margin-right: 0;
+}
+.navbar-brand {
+	color: #21538e;
+	float: left;
+	font-size: 18px;
+	height: 50px;
+	line-height: 33px;
+	margin-left: -15px;
+	padding: 15px;
+	text-decoration: none;
+}
+.navbar-collapse {
+	display: block;
+	height: auto;
+	margin-left: 0;
+	margin-right: 0;
+	overflow: visible;
+	padding-bottom: 0;
+	padding-left: 0;
+	padding-right: 0;
+	width: auto;
+}
+.nav {
+	padding-left: 0;
+	list-style: none;
+}
+.navbar-nav > li {
+	display: block;
+}
+.navbar-nav {
+	float: left;
+	margin: 0;
+}
+.navbar-nav > li {
+	float: left;
+}
+.navbar-nav > li > a {
+	color: #21538e;
+	display: block;
+	line-height: 33px;
+	padding: 15px;
+	position: relative;
+	text-decoration: none;
+	transition: linear 200ms background, linear 200ms color;
+}
+.navbar-nav > li.open > a {
+	background: #21538e70;
+	color: #fff;
+}
+.navbar-nav > li > a:hover {
+	background: #21538e20;
+	color: #000;
+}
+.navbar-nav > li.open > a:hover {
+	background: #21538ea0;
+	color: #fff;
+}
+.navbar-nav > li > .dropdown-menu {
+	background: #fff;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	border: 1px solid #21538e40;
+	border-radius: 0 0 4px 4px;
+	-webkit-box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+	box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+	display: none;
+	float: left;
+	font-size: 14px;
+	left: 0;
+	list-style: none;
+	margin: 0;
+	padding: 5px 0;
+	position: absolute;
+	text-align: left;
+	top: 100%;
+	width: 100%;
+	z-index: 1000;
+}
+.navbar-nav > li > .dropdown-menu > li {
+	float: left;
+}
+.navbar-nav > li > .dropdown-menu > li > a {
+	border-radius: 2em;
+	clear: both;
+	color: #333;
+	display: block;
+	line-height: 2.25em;
+	margin: 2px 5px;
+	overflow-x: hidden;
+	padding: 0 0 0 5px;
+	text-decoration: none;
+	white-space: nowrap;
+	width: 10em;
+	transition: linear 200ms background, linear 200ms color;
+}
+.navbar-nav > li > .dropdown-menu > li > a:hover {
+	background: #3cc2ff80;
+	color: #21538e;
+}
+.open .dropdown-menu {
+	display: block !important;
+}
+
+/* ----------------------- */
+
 /* page */
 
 #pageMap {
