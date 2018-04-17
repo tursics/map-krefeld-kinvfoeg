@@ -19,8 +19,8 @@
 	},
 	"printerlabel": {
 		"top": "BAUMART",
-		"middle": "costs",
-		"bottom": "PFLANZJAHR"
+		"middle": "PFLANZJAHR",
+		"bottom": "OBJEKTBEZ"
 	},
 	"search": {
 		"pattern": "BAUMART",
