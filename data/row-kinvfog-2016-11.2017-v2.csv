@@ -1,0 +1,20 @@
+id;address;type;boundfrom;boundto;finish;costs;lat;lng;icon;color
+110;Mündelheimer Straße;Flüsterasphalt;Alte Krefelder Straße;Königsberger Straße;09.08.2016;192.100,00;;fa-building-o;blue
+140;Moerser Landstraße;Flüsterasphalt;Buscher Holzweg;An der Elfrather Mühle;25.10.2016;141.900,00;;fa-building-o;blue
+240;Hafenstraße;Luftreinhaltung / Radwegerneuerung;Rheinbabenstraße;Georg-C-Marshall-Straße;19.10.2016;51.200,00;;fa-building-o;blue
+250;Hökendyk;Luftreinhaltung / Radwegerneuerung;Moerser Straße;Kliedbruchstraße;27.10.2016;53.100,00;;fa-building-o;blue
+290;Kempener Allee, östl. S.;Luftreinhaltung / Radwegerneuerung;Privatstr. neben H-Nr. 149;Dieselstraße;16.08.2016;15.300,00;;fa-building-o;blue
+310;Schütenhofstraße;Luftreinhaltung / Radwegerneuerung;Buschstraße;Uerdinger Straße;19.10.2016;22.900,00;;fa-building-o;blue
+320;Wüstrathstraße;Luftreinhaltung / Radwegerneuerung;Alte Krefelder Straße;Am Röttgen;16.08.2016;13.600,00;;fa-building-o;blue
+130;Bahnhofstraße;Flüsterasphalt;Am Röttgen;DB-Brücke;26.06.2017;476.200,00;;fa-building-o;blue
+330;Kirschkamper Weg;Luftreinhaltung / Radwegerneuerung;Lilienthalstraße;Flugplatz Ende;25.10.2017;25.500,00;;fa-building-o;blue
+340;Flünnertzdyk;Luftreinhaltung / Radwegerneuerung;Sprudeldyk;Nieper Straße;25.10.2017;43.500,00;;fa-building-o;blue
+220;Erneuerung LZA;Luftreinhaltung;Kreuzung St. Anton Straße /;Kreuzung / Preußenring;10.08.2017;120.600,00;;fa-building-o;blue
+a;Berliner Str.;Luftreinhaltung;Vaderstraße;Glindholzstr.;07.10.2016;;;fa-building-o;blue
+b;Oppumer Straße;Luftreinhaltung;Dießemer Bruch;Viktoriastraße;19.10.2016;;;fa-building-o;blue
+c;Ceresta Straße;Luftreinhaltung;Georg-C. Marshall Straße;Weidenbruchweg;21.10.2016;;;fa-building-o;blue
+d;Georg-C. Marshall Straße;Luftreinhaltung;Hafenstraße;Weidenbruchweg;21.10.2016;;;fa-building-o;blue
+e;St. Töniser Straße;Luftreinhaltung;DB-Brücke;Gutenbergstraße;16.08.2016;;;fa-building-o;blue
+f;Werner-Voss Straße;Luftreinhaltung;Europaring;Emil-Schäfer-Straße;09.11.2017;;;fa-building-o;blue
+g;Steegerdyk;Luftreinhaltung;Junkersdyk;Bruckersche Straße;06.10.2017;;;fa-building-o;blue
+h;Traarer Straße;Luftreinhaltung;Breslauer Stra0e;Akazuenstraße;08.12.2017;;;fa-building-o;blue
