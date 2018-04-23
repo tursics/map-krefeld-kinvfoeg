@@ -1,6 +1,6 @@
 [
 	{
-		"title": "Ausgaben",
+		"title": "Bauen",
 		"menu": [
 			{
 				"title": "Gebäude",
@@ -15,6 +15,24 @@
 				"title": "Straßen",
 				"id": "kinvfog-streets",
 				"data": "data-kinvfog2",
+				"config": "config-kinvfog2",
+				"type": "point",
+				"icon": "shield",
+				"color": "#3cc2ff"
+			},
+			{
+				"title": "Neubau von Schulen",
+				"id": "school-new",
+				"data": "data-schule-neubau",
+				"config": "config-kinvfog2",
+				"type": "point",
+				"icon": "shield",
+				"color": "#3cc2ff"
+			},
+			{
+				"title": "Schulsanierungen",
+				"id": "school-repair",
+				"data": "data-schule-bestand",
 				"config": "config-kinvfog2",
 				"type": "point",
 				"icon": "shield",
