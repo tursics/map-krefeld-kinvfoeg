@@ -9,7 +9,7 @@ var map = null;
 
 //mapboxgl.accessToken = 'pk.eyJ1IjoidHVyc2ljcyIsImEiOiJjajBoN3hzZGwwMDJsMnF0YW96Y2l3OGk2In0._5BdojVYvNuR6x4fQNYZrA';
 var baseURI = 'https://tursics.github.io/map-krefeld-kinvfoeg',
-	appName = 'Krefeld: hier passiert uns!',
+	appName = 'Krefeld <span style="font-size:.6em;text-transform:uppercase;font-weight:bold;">hier passiert was!</span>',
 	fontawesomePath = './assets/fontawesome/';
 
 //-----------------------------------------------------------------------
