@@ -1,0 +1,33 @@
+{
+	"receipt": {
+		"body": [
+			"<div class='full center bold' id='rectitle'></div>",
+			"<div class='full center' id='recaddress'></div>",
+			"<div class='empty'></div>",
+			"<div class='full'>--------------------------------------------</div>",
+			"<div><span class='full'><span id='rectype'></span></span></div>",
+			"<div class='full' id='reccontent'></div>",
+			"<div><span class='half'>Wunsch der Schule</span><span class='boolean'><span id='recwish'></span></span></div>",
+			"<div class='full'>--------------------------------------------</div>",
+			"<div class='empty'></div>",
+			"<div class='empty'></div>"
+		],
+		"info": false
+	},
+	"marker": {
+		"color": "color",
+		"icon": "icon"
+	},
+	"printerlabel": {
+		"top": "title",
+		"middle": "",
+		"bottom": "address"
+	},
+	"search": {
+		"pattern": "title",
+		"description": "type",
+		"data": "id",
+		"color": "color",
+		"icon": "icon"
+	}
+}

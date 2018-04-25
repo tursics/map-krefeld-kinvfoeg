@@ -1,20 +1,20 @@
 id;address;type;boundfrom;boundto;finish;costs;lat;lng;icon;color
-110;Mündelheimer Straße;Flüsterasphalt;Alte Krefelder Straße;Königsberger Straße;09.08.2016;192100;51.349612;6.644822;fa-building-o;blue
-140;Moerser Landstraße;Flüsterasphalt;Buscher Holzweg;An der Elfrather Mühle;25.10.2016;141900;51.379235;6.594531;fa-building-o;blue
-240;Hafenstraße;Luftreinhaltung / Radwegerneuerung;Rheinbabenstraße;Georg-C-Marshall-Straße;19.10.2016;51200;51.336701;6.643451;fa-building-o;blue
-250;Hökendyk;Luftreinhaltung / Radwegerneuerung;Moerser Straße;Kliedbruchstraße;27.10.2016;53100;51.359560;6.565991;fa-building-o;blue
-290;Kempener Allee, östl. S.;Luftreinhaltung / Radwegerneuerung;Privatstr. neben H-Nr. 149;Dieselstraße;16.08.2016;15300;51.345237;6.524317;fa-building-o;blue
-310;Schütenhofstraße;Luftreinhaltung / Radwegerneuerung;Buschstraße;Uerdinger Straße;19.10.2016;22900;51.348436;6.615592;fa-building-o;blue
-320;Wüstrathstraße;Luftreinhaltung / Radwegerneuerung;Alte Krefelder Straße;Am Röttgen;16.08.2016;13600;51.353667;6.643220;fa-building-o;blue
-130;Bahnhofstraße;Flüsterasphalt;Am Röttgen;DB-Brücke;26.06.2017;476200;51.357421;6.647004;fa-building-o;blue
-330;Kirschkamper Weg;Luftreinhaltung / Radwegerneuerung;Lilienthalstraße;Flugplatz Ende;25.10.2017;25500;51.385972;6.577422;fa-building-o;blue
-340;Flünnertzdyk;Luftreinhaltung / Radwegerneuerung;Sprudeldyk;Nieper Straße;25.10.2017;43500;51.364048;6.558064;fa-building-o;blue
-220;Erneuerung LZA;Luftreinhaltung;Kreuzung St. Anton Straße /;Kreuzung / Preußenring;10.08.2017;120600;51.331240;6.548712;fa-building-o;blue
-a;Berliner Str.;Luftreinhaltung;Vaderstraße;Glindholzstr.;07.10.2016;;51.338479;6.609431;fa-building-o;blue
-b;Oppumer Straße;Luftreinhaltung;Dießemer Bruch;Viktoriastraße;19.10.2016;;51.331090;6.579472;fa-building-o;blue
-c;Ceresta Straße;Luftreinhaltung;Georg-C. Marshall Straße;Weidenbruchweg;21.10.2016;;51.337457;6.657650;fa-building-o;blue
-d;Georg-C. Marshall Straße;Luftreinhaltung;Hafenstraße;Weidenbruchweg;21.10.2016;;51.337628;6.654007;fa-building-o;blue
-e;St. Töniser Straße;Luftreinhaltung;DB-Brücke;Gutenbergstraße;16.08.2016;;51.330274;6.543900;fa-building-o;blue
-f;Werner-Voss Straße;Luftreinhaltung;Europaring;Emil-Schäfer-Straße;09.11.2017;;51.359705;6.612100;fa-building-o;blue
-g;Steegerdyk;Luftreinhaltung;Junkersdyk;Bruckersche Straße;06.10.2017;;51.372693;6.527015;fa-building-o;blue
-h;Traarer Straße;Luftreinhaltung;Breslauer Stra0e;Akazuenstraße;08.12.2017;;51.362352;6.619201;fa-building-o;blue
+110;Mündelheimer Straße;Flüsterasphalt;Alte Krefelder Straße;Königsberger Straße;09.08.2016;192100;51.349612;6.644822;fa-car-o;blue
+140;Moerser Landstraße;Flüsterasphalt;Buscher Holzweg;An der Elfrather Mühle;25.10.2016;141900;51.379235;6.594531;fa-car-o;blue
+240;Hafenstraße;Luftreinhaltung / Radwegerneuerung;Rheinbabenstraße;Georg-C-Marshall-Straße;19.10.2016;51200;51.336701;6.643451;fa-car-o;blue
+250;Hökendyk;Luftreinhaltung / Radwegerneuerung;Moerser Straße;Kliedbruchstraße;27.10.2016;53100;51.359560;6.565991;fa-car-o;blue
+290;Kempener Allee, östl. S.;Luftreinhaltung / Radwegerneuerung;Privatstr. neben H-Nr. 149;Dieselstraße;16.08.2016;15300;51.345237;6.524317;fa-car-o;blue
+310;Schütenhofstraße;Luftreinhaltung / Radwegerneuerung;Buschstraße;Uerdinger Straße;19.10.2016;22900;51.348436;6.615592;fa-car-o;blue
+320;Wüstrathstraße;Luftreinhaltung / Radwegerneuerung;Alte Krefelder Straße;Am Röttgen;16.08.2016;13600;51.353667;6.643220;fa-car-o;blue
+130;Bahnhofstraße;Flüsterasphalt;Am Röttgen;DB-Brücke;26.06.2017;476200;51.357421;6.647004;fa-car-o;blue
+330;Kirschkamper Weg;Luftreinhaltung / Radwegerneuerung;Lilienthalstraße;Flugplatz Ende;25.10.2017;25500;51.385972;6.577422;fa-car-o;blue
+340;Flünnertzdyk;Luftreinhaltung / Radwegerneuerung;Sprudeldyk;Nieper Straße;25.10.2017;43500;51.364048;6.558064;fa-car-o;blue
+220;Erneuerung LZA;Luftreinhaltung;Kreuzung St. Anton Straße /;Kreuzung / Preußenring;10.08.2017;120600;51.331240;6.548712;fa-car-o;blue
+a;Berliner Str.;Luftreinhaltung;Vaderstraße;Glindholzstr.;07.10.2016;;51.338479;6.609431;fa-car-o;blue
+b;Oppumer Straße;Luftreinhaltung;Dießemer Bruch;Viktoriastraße;19.10.2016;;51.331090;6.579472;fa-car-o;blue
+c;Ceresta Straße;Luftreinhaltung;Georg-C. Marshall Straße;Weidenbruchweg;21.10.2016;;51.337457;6.657650;fa-car-o;blue
+d;Georg-C. Marshall Straße;Luftreinhaltung;Hafenstraße;Weidenbruchweg;21.10.2016;;51.337628;6.654007;fa-car-o;blue
+e;St. Töniser Straße;Luftreinhaltung;DB-Brücke;Gutenbergstraße;16.08.2016;;51.330274;6.543900;fa-car-o;blue
+f;Werner-Voss Straße;Luftreinhaltung;Europaring;Emil-Schäfer-Straße;09.11.2017;;51.359705;6.612100;fa-car-o;blue
+g;Steegerdyk;Luftreinhaltung;Junkersdyk;Bruckersche Straße;06.10.2017;;51.372693;6.527015;fa-car-o;blue
+h;Traarer Straße;Luftreinhaltung;Breslauer Stra0e;Akazuenstraße;08.12.2017;;51.362352;6.619201;fa-car-o;blue

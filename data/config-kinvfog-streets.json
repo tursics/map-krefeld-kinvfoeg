@@ -1,0 +1,31 @@
+{
+	"receipt": {
+		"body": [
+			"<div class='full center bold' id='rectype'></div>",
+			"<div class='empty'></div>",
+			"<div class='full' id='recaddress'></div>",
+			"<div><span class='full'>zwischen <span id='recboundfrom'></span></span></div>",
+			"<div><span class='full'>und <span id='recboundto'></span></span></div>",
+			"<div class='empty'></div>",
+			"<div><span class='full'>Fertiggestellt am <span id='recfinish'></span></span></div>",
+			"<div class='empty'></div>"
+		],
+		"info": false
+	},
+	"marker": {
+		"color": "color",
+		"icon": "icon"
+	},
+	"printerlabel": {
+		"top": "",
+		"middle": "type",
+		"bottom": "finish"
+	},
+	"search": {
+		"pattern": "title",
+		"description": "type",
+		"data": "id",
+		"color": "color",
+		"icon": "icon"
+	}
+}

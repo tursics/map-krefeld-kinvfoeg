@@ -14,8 +14,8 @@
 			{
 				"title": "Straßen",
 				"id": "kinvfog-streets",
-				"data": "data-kinvfog2",
-				"config": "config-kinvfog2",
+				"data": "data-kinvfog-streets",
+				"config": "config-kinvfog-streets",
 				"type": "point",
 				"icon": "shield",
 				"color": "#3cc2ff"
@@ -24,7 +24,7 @@
 				"title": "Neubau von Schulen",
 				"id": "school-new",
 				"data": "data-schule-neubau",
-				"config": "config-kinvfog2",
+				"config": "config-schule-neubau",
 				"type": "point",
 				"icon": "shield",
 				"color": "#3cc2ff"
@@ -33,7 +33,7 @@
 				"title": "Schulsanierungen",
 				"id": "school-repair",
 				"data": "data-schule-bestand",
-				"config": "config-kinvfog2",
+				"config": "config-schule-bestand",
 				"type": "point",
 				"icon": "shield",
 				"color": "#3cc2ff"
