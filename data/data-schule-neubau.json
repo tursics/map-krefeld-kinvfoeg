@@ -92,7 +92,7 @@
  {
    "id": "f",
    "title": "5. Gesamtschule Krefeld-Oppum",
-   "address": "",
+   "address": "Schmiedestraße 90",
    "type": "Neubau",
    "costs": "17500000 EUR",
    "start": "November 2016",
@@ -107,15 +107,15 @@
  {
    "id": "g",
    "title": "Bismarckschule",
-   "address": "",
+   "address": "Bismarckstraße 67",
    "type": "Neubau",
    "costs": "2000000 EUR",
    "start": "Februar 2016",
    "finish": "April 2018",
    "Kostenvarianz": "",
    "comment": "Ersatz der Pavillonklassen und ein zusätzlicher Mehrzweckraum und eine Mensa für die  Ganztagsbetreuung.",
-   "lat": null,
-   "lng": null,
+   "lat": 51.341876,
+   "lng": 6.573803,
    "icon": "fa-graduation-cap-o",
    "color": "blue"
  },
