@@ -9,7 +9,7 @@
    "costs": 192100,
    "lat": 51.349612,
    "lng": 6.644822,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -22,7 +22,7 @@
    "costs": 141900,
    "lat": 51.379235,
    "lng": 6.594531,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -35,7 +35,7 @@
    "costs": 51200,
    "lat": 51.336701,
    "lng": 6.643451,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -48,7 +48,7 @@
    "costs": 53100,
    "lat": 51.35956,
    "lng": 6.565991,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -61,7 +61,7 @@
    "costs": 15300,
    "lat": 51.345237,
    "lng": 6.524317,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -74,7 +74,7 @@
    "costs": 22900,
    "lat": 51.348436,
    "lng": 6.615592,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -87,7 +87,7 @@
    "costs": 13600,
    "lat": 51.353667,
    "lng": 6.64322,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -100,7 +100,7 @@
    "costs": 476200,
    "lat": 51.357421,
    "lng": 6.647004,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -113,7 +113,7 @@
    "costs": 25500,
    "lat": 51.385972,
    "lng": 6.577422,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -126,7 +126,7 @@
    "costs": 43500,
    "lat": 51.364048,
    "lng": 6.558064,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -139,7 +139,7 @@
    "costs": 120600,
    "lat": 51.33124,
    "lng": 6.548712,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -152,7 +152,7 @@
    "costs": null,
    "lat": 51.338479,
    "lng": 6.609431,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -165,7 +165,7 @@
    "costs": null,
    "lat": 51.33109,
    "lng": 6.579472,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -178,7 +178,7 @@
    "costs": null,
    "lat": 51.337457,
    "lng": 6.65765,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -191,7 +191,7 @@
    "costs": null,
    "lat": 51.337628,
    "lng": 6.654007,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -204,7 +204,7 @@
    "costs": null,
    "lat": 51.330274,
    "lng": 6.5439,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -217,7 +217,7 @@
    "costs": null,
    "lat": 51.359705,
    "lng": 6.6121,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -230,7 +230,7 @@
    "costs": null,
    "lat": 51.372693,
    "lng": 6.527015,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  },
  {
@@ -243,7 +243,7 @@
    "costs": null,
    "lat": 51.362352,
    "lng": 6.619201,
-   "icon": "fa-car-o",
+   "icon": "fa-car",
    "color": "blue"
  }
 ]

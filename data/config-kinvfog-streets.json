@@ -17,8 +17,9 @@
 		"icon": "icon"
 	},
 	"printerlabel": {
-		"top": "",
+		"top": "address",
 		"middle": "type",
+		"middleFormat": "string",
 		"bottom": "finish"
 	},
 	"search": {

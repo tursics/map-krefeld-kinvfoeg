@@ -21,6 +21,7 @@
 	"printerlabel": {
 		"top": "title",
 		"middle": "",
+		"middleFormat": "string",
 		"bottom": "address"
 	},
 	"search": {

@@ -1,96 +1,96 @@
 id;title;address;content;type;wish;lat;lng;icon;color
-1;Förderschule Friedrich-von-Bodelschwingh;Alte Flur 21;Austausch Treppenhaustüren;Verkehrssicherheit;;51.325181;6.600513;fa-graduation-cap-o;blue
-2;Förderschule Friedrich-von-Bodelschwingh, Standort Alte Flur, Turnhalle;Alte Flur 21;Erneuerung Prallschutzwände;Verkehrssicherheit;;51.325181;6.600513;fa-graduation-cap-o;blue
-3;Grundschule Bonhoefferstr. Standort Armerner Str.;Amerner Str. 1-3;Umsetzung Brandschutzkonzept;Brandschutz;;51.376276;6.493546;fa-graduation-cap-o;blue
-4;Grundschule Bonhoefferstr., Standort Armerner Str.;Amerner Str. 1-3;Ertüchtigung Lärmschutz;Verkehrssicherheit;x;51.376276;6.493546;fa-graduation-cap-o;blue
-5;Grundschule An der Josefkirche;An der Josefkirche 2;Geländererhöhung Treppenhaus;Verkehrssicherheit;;51.327285;6.556930;fa-graduation-cap-o;blue
-6;Grundschule Bellenweg;Bellenweg 50;Sanierung Flurbereich;Raumsanierung;x;51.302289;6.505864;fa-graduation-cap-o;blue
-7;Grundschule Bismarckstr.;Bismarckstr. 67;Umsetzung Brandschutzmaßnahmen;Brandschutz;;51.341559;6.573820;fa-graduation-cap-o;blue
-8;Grundschule Bismarckstr.;Bismarckstr. 67;Erneuerung Bodenbeläge;Verkehrssicherheit;x;51.341559;6.573820;fa-graduation-cap-o;blue
-9;Grundschule Bismarckstr.;Bismarckstr. 67;Sanierung ehemalige Ganztagsräume;Raumsanierung;x;51.341559;6.573820;fa-graduation-cap-o;blue
-10;Grundschule Buchenstr.;Buchenstr. 28;Sanierung Sanitäranlagen;Sanitär;x;51.321356;6.560709;fa-graduation-cap-o;blue
-11;Grundschule Eichendorffstr.;Eichendorffstr. 21;Erneuerung Fenster;Gebäudehülle;;51.339411;6.599194;fa-graduation-cap-o;blue
-12;Grundschule Eichendorffstr.;Eichendorffstr. 21;Sanierung Flure und Treppenhaus;Raumsanierung;x;51.339411;6.599194;fa-graduation-cap-o;blue
-13;Grundschule Eichendorffstr.;Eichendorffstr. 21;Dachsanierung;Gebäudehülle;x;51.339411;6.599194;fa-graduation-cap-o;blue
-14;Gymnasium Fabritianum;Fabritiusstr. 15a;Erneuerung Einrichtung Biologie Hörsaal;Naturwissenschaft;x;51.348963;6.642208;fa-graduation-cap-o;blue
-15;Gymnasium Fabritianum, Turnhalle;Fabritiusstr. 15a;Erneuerung der Hallendecke inkl. Deckenstrahlheizung;Substanz;;51.348963;6.642208;fa-graduation-cap-o;blue
-16;Grundschule Freiligrathstr;Freiligrathstr. 47;Fassadensanierung;Gebäudehülle;x;51.333853;6.579489;fa-graduation-cap-o;blue
-17;Grundschule Freiligrathstr;Freiligrathstr. 47;Montage Sonnenschutzanlage;Gebäudehülle;x;51.333853;6.579489;fa-graduation-cap-o;blue
-18;Grundschule Freiligrathstr;Freiligrathstr. 47;Dachsanierung;Gebäudehülle;x;51.333853;6.579489;fa-graduation-cap-o;blue
-19;Grundschule Freiligrathstr;Freiligrathstr. 47;Erneuerung Fenster + Türen;Gebäudehülle;x;51.333853;6.579489;fa-graduation-cap-o;blue
-20;Grundschule Gießerpfad;Gießerpfad 2-10;Anstrich der Eingangstüren;Gebäudehülle;x;51.320374;6.536084;fa-graduation-cap-o;blue
-21;Grundschule Gießerpfad;Gießerpfad 2-10;Erneuerung Bodenbeläge;Verkehrssicherheit;x;51.320374;6.536084;fa-graduation-cap-o;blue
-22;Berufskolleg Vera Beckers;Girmesgath 131;Austausch Leuchten gegen LED;Verkehrssicherheit;;51.340283;6.543457;fa-graduation-cap-o;blue
-23;Berufskolleg Vera Beckers;Girmesgath 131;BT B, Sanierung Klassenräume;Raumsanierung;x;51.340283;6.543457;fa-graduation-cap-o;blue
-24;Hauptschule Hafelsstr.;Hafelsstr. 41;Erneuerung Sicherheitsbeleuchtung;Verkehrssicherheit;;51.307656;6.589413;fa-graduation-cap-o;blue
-25;Gymnasium Horkesgath;Horkesgath 33;Flachdachsanierungen;Energetische Sanierung;x;51.337299;6.529050;fa-graduation-cap-o;blue
-26;Gymnasium Horkesgath;Horkesgath 33;Einbau Hocheffizienzpumpe;Energetische Sanierung;;51.337299;6.529050;fa-graduation-cap-o;blue
-27;Gymnasium Horkesgath;Horkesgath 33;Sanierung Klassenräume;Raumsanierung;x;51.337299;6.529050;fa-graduation-cap-o;blue
-28;Gymnasium Horkesgath;Horkesgath 33;Sanierung Sanitäranlagen;Sanitär;x;51.337299;6.529050;fa-graduation-cap-o;blue
-29;Realschule Horkesgath;Horkesgath 33;Sanierung Sanitäranlagen;Sanitär;x;51.337299;6.529050;fa-graduation-cap-o;blue
-30;Schulzentrum Horkesgath, Turnhalle 1/2;Horkesgath 33;Sanierung der Lüftungsanlagen Turnhallen;Substanz;x;51.337299;6.529050;fa-graduation-cap-o;blue
-31;Grundschule Horkesgath;Horkesgath 50;Wanddurchbruch Verwaltung;Nutzung;x;51.337299;6.529050;fa-graduation-cap-o;blue
-32;Grundschule Horkesgath;Horkesgath 50;Sanierung Klassenräume, WC und Mensa;Raumsanierung;x;51.337299;6.529050;fa-graduation-cap-o;blue
-33;Grundschule Hülser Str.;Hülser Str. 449;Sanierung Parkettböden;Raumsanierung;;51.351859;6.537767;fa-graduation-cap-o;blue
-34;Grundschule Hülser Str.;Hülser Str. 449;Sanierung Flure und Treppenhaus;Raumsanierung;;51.351859;6.537767;fa-graduation-cap-o;blue
-35;Förderschule Inrather Str.;Inrather Str. 611;Austausch Bodenbelag Überdachung;Verkehrssicherheit;x;51.356808;6.532884;fa-graduation-cap-o;blue
-36;Förderschule Inrather Str.;Inrather Str. 611;Erneuerung Bedachung Überdachung;Substanz;x;51.356808;6.532884;fa-graduation-cap-o;blue
-37;Förderschule Inrather Str.;Inrather Str. 611;Ersatz Seitenteile Überdachung;Substanz;x;51.356808;6.532884;fa-graduation-cap-o;blue
-38;Gymnasium Maria-Sybilla-Merian;Joh. Blum Str. 101;Sanierung Lüftungsanlagen;Substanz;x;51.313316;6.584057;fa-graduation-cap-o;blue
-39;Gymnasium Maria-Sybilla-Merian;Joh. Blum Str. 101;Erneuerung Kleiner Übungsraum;Naturwissenschaft;;51.313316;6.584057;fa-graduation-cap-o;blue
-40;Gymnasium Maria-Sybilla-Merian;Joh. Blum Str. 101;Sanierung Klassenräume;Raumsanierung;x;51.313316;6.584057;fa-graduation-cap-o;blue
-41;Gymnasium Maria-Sybilla-Merian;Joh. Blum Str. 101;Erneuerung Einichtung, Chemie Übung 2;Naturwissenschaft;;51.313316;6.584057;fa-graduation-cap-o;blue
-42;Gymnasium Maria-Sybilla-Merian, Turnhalle;Joh. Blum Str. 101;Dachsanierung;Substanz;x;51.313316;6.584057;fa-graduation-cap-o;blue
-43;Grundschule Joseph-Görres-Str.;Joseph-Görres-Str. 20;Sanierung Sanitäranlagen;Sanitär;x;51.352301;6.645455;fa-graduation-cap-o;blue
-44;Grundschule Joseph-Görres-Str.;Joseph-Görres-Str. 20;Sanierung Parkettböden;Raumsanierung;x;51.352301;6.645455;fa-graduation-cap-o;blue
-45;Gesamtschule Kaiserplatz;Kaiserplatz 31-50;Montage Außentreppe, inkl. Brandschutzkonzept;Brandschutz;;51.344476;6.590444;fa-graduation-cap-o;blue
-46;Gesamtschule Kaiserplatz;Kaiserplatz 31-50;Erneuerung Bodenbeläge;Verkehrssicherheit;x;51.344476;6.590444;fa-graduation-cap-o;blue
-47;Gesamtschule Kaiserplatz;Kaiserplatz 31-50;Sanierung Klassenräume;Raumsanierung;x;51.344476;6.590444;fa-graduation-cap-o;blue
-48;Gesamtschule Kaiserplatz;Kaiserplatz 31-50;Einbau Hocheffizienzpumpe;Energetische Sanierung;;51.344476;6.590444;fa-graduation-cap-o;blue
-49;Grundschule Kempener Allee;Kempener Allee 142;Sanierung Grundleitungen;Substanz;;51.341356;6.530377;fa-graduation-cap-o;blue
-50;Grundschule Kempener Allee;Kempener Allee 142;Einbau Sekuranten;Verkehrssicherheit;;51.341356;6.530377;fa-graduation-cap-o;blue
-51;Grundschule Kempener Allee;Kempener Allee 142;Sanierung Klassenräume und Treppenhäuser;Raumsanierung;x;51.341356;6.530377;fa-graduation-cap-o;blue
-52;Grundschule Kempener Allee, Turnhalle;Kempener Allee 142;Erneuerung Geräteraumtore und Prallwände;Sportstätte;;51.341356;6.530377;fa-graduation-cap-o;blue
-53;Grundschule Kempener Allee, Turnhalle;Kempener Allee 142;Einbau Sekuranten;Verkehrssicherheit;x;51.341356;6.530377;fa-graduation-cap-o;blue
-54;Grundschule Körnerstr.;Körnerstr. 17;Sanierung Grundleitungen;Substanz;x;51.363608;6.646081;fa-graduation-cap-o;blue
-55;Berufskolleg Uerdingen Alte;Krefelder Str. 93;Beseitigung Brandschutzmängel;Brandschutz;;51.350045;6.635564;fa-graduation-cap-o;blue
-56;Berufskolleg Uerdingen Alte;Krefelder Str. 93;Erneuerung Unterverteilungen;Brandschutz;;51.350045;6.635564;fa-graduation-cap-o;blue
-57;Berufskolleg Uerdingen Alte;Krefelder Str. 93;Sanierung Chemie Vorbereitung;Naturwissenschaft;x;51.350045;6.635564;fa-graduation-cap-o;blue
-58;Berufskolleg Uerdingen Alte;Krefelder Str. 93;Sanierung Klassenräume;Raumsanierung;x;51.350045;6.635564;fa-graduation-cap-o;blue
-59;Berufskolleg Uerdingen Alte;Krefelder Str. 93;Erneuerung Trafostation;Substanz;;51.350045;6.635564;fa-graduation-cap-o;blue
-60;Berufskolleg Uerdingen Alte;Krefelder Str. 93;Sanierung Chemie Übung;Naturwissenschaft;x;51.350045;6.635564;fa-graduation-cap-o;blue
-61;Arndtgymnasium, Standort Lindenstr., Turnhalle;Lindenstr. 52;Sanierung der Turnhalle Lindenstraße;Sportstätte;;51.327749;6.560633;fa-graduation-cap-o;blue
-62;Gesamtschule Uerdingen, Standort Lübecker Weg;Lübecker Weg 56;Sanierung Außenhülle;Energetische Sanierung;;51.355305;6.634364;fa-graduation-cap-o;blue
-63;Gesamtschule Uerdingen, Standort Lübecker Weg, Turnhalle;Lübecker Weg 56;Sanierung der Turnhalle Lübecker Weg;Sportstätte;;51.355305;6.634364;fa-graduation-cap-o;blue
-64;Grundschule Wimmersweg, Standort Marienstr.;Marienstr. 81 a;Sanierung Fenster;Gebäudehülle;;51.304551;6.584294;fa-graduation-cap-o;blue
-65;Gymnasium Am Moltkeplatz;Moltkeplatz 12;Änderung Einrichtung, Biologie Übung;Naturwissenschaft;;51.339132;6.578988;fa-graduation-cap-o;blue
-66;Gymnasium Am Moltkeplatz;Moltkeplatz 12;Erneuerung Pausensignalanlage;Brandschutz;;51.339132;6.578988;fa-graduation-cap-o;blue
-67;Berufskolleg Kaufmannsschule;Neuer Weg 121;Austausch Leuchten gegen LED;Verkehrssicherheit;;51.337367;6.545151;fa-graduation-cap-o;blue
-68;Berufskolleg Kaufmannsschule;Neuer Weg 121;Einbau Hocheffizienzpumpe;Energetische Sanierung;;51.337367;6.545151;fa-graduation-cap-o;blue
-69;Berufskolleg Kaufmannsschule;Neuer Weg 121;Energetische Sanierung Außenhülle Bt. A/B;Energetische Sanierung;;51.337367;6.545151;fa-graduation-cap-o;blue
-70;Berufskolleg Kaufmannsschule, Turnhalle;Neuer Weg 121;Energetische Sanierung Außenhülle Turnhalle;Energetische Sanierung;;51.337367;6.545151;fa-graduation-cap-o;blue
-71;Grundschule An Haus Rath, Turnhalle;Neukirchener Str. 3;Sanierung Hallenboden;Sportstätte;x;51.370269;6.617085;fa-graduation-cap-o;blue
-72;Grundschule An Haus Rath, Turnhalle;Neukirchener Str. 3;Sanierung Duschen;Sanitär;x;51.370269;6.617085;fa-graduation-cap-o;blue
-73;Gymnasium Am Stadtpark;Nikolaus-Groß-Str. 31;Erneuerung der Einrichtung ,Chemie Vorbereitung;Naturwissenschaft;;51.358193;6.637514;fa-graduation-cap-o;blue
-74;Gymnasium Am Stadtpark;Nikolaus-Groß-Str. 31;Erhöhung aller Treppengeländer;Verkehrssicherheit;;51.358193;6.637514;fa-graduation-cap-o;blue
-75;Gymnasium Am Stadtpark;Nikolaus-Groß-Str. 31;Brandschottung im Treppenhaus D/C im UG;Brandschutz;;51.358193;6.637514;fa-graduation-cap-o;blue
-76;Gymnasium Am Stadtpark;Nikolaus-Groß-Str. 31;Erneuerung Unterverteilung;Brandschutz;;51.358193;6.637514;fa-graduation-cap-o;blue
-77;Gymnasium Am Stadtpark;Nikolaus-Groß-Str. 31;Sanierung Sanitäranlagen;Sanitär;x;51.358193;6.637514;fa-graduation-cap-o;blue
-78;Grundschule Oberbruchstr.;Oberbruchstr. 87;Sanierung Parkettböden;Raumsanierung;x;51.315926;6.590567;fa-graduation-cap-o;blue
-79;Grundschule Oberbruchstr.;Oberbruchstr. 87;Sanierung Klassenräume;Raumsanierung;x;51.315926;6.590567;fa-graduation-cap-o;blue
-80;Gesamtschule Reepenweg;Reepenweg 40;Einbau Brandschutztüren;Brandschutz;;51.369625;6.496526;fa-graduation-cap-o;blue
-81;Gesamtschule Reepenweg;Reepenweg 40;2. Rettungsweg Verwaltung;Brandschutz;;51.369625;6.496526;fa-graduation-cap-o;blue
-82;Realschule Oppum;Rote-Kreuz-Str. 25;Brandschutztechnische Abtrennung Treppenhäuser;Brandschutz;;51.335365;6.591459;fa-graduation-cap-o;blue
-83;Realschule Oppum;Rote-Kreuz-Str. 25;Sanierung Sanitäranlagen;Sanitär;x;51.335365;6.591459;fa-graduation-cap-o;blue
-84;Grundschule An der Josefkirche, Standort Südstr.;Südstr. 22;Sanierung Klassenräume;Raumsanierung;x;51.326772;6.559606;fa-graduation-cap-o;blue
-85;Grundschule Thielenstr.;Thielenstr. 40;Erneuerung Brandschutztüren;Brandschutz;;51.331845;6.610782;fa-graduation-cap-o;blue
-86;Grundschule Thielenstr.;Thielenstr. 40;Erneuerung Fenster Altbau;Gebäudehülle;x;51.331845;6.610782;fa-graduation-cap-o;blue
-87;Grundschule (kath.) Traarer Str.;Traarer Str. 105;Sanierung Sanitäranlagen;Sanitär;x;51.357253;6.634335;fa-graduation-cap-o;blue
-88;Grundschule (kath.) Traarer Str.;Traarer Str. 105;Sanierung Klassenräume;Raumsanierung;;51.357253;6.634335;fa-graduation-cap-o;blue
-89;Förderschule Tulpenstr.;Tulpenstr. 11;Ersatz und Erweiterung Mietpavillon;Verkehrssicherheit;x;51.341839;6.613989;fa-graduation-cap-o;blue
-90;Gesamtschule Uerdingen, Standort Uerdinger Str.;Uerdinger Str. 783;Einbau Feststellanlagen;Brandschutz;;51.349754;6.632974;fa-graduation-cap-o;blue
-91;Realschule Freiherr-vom-Stein;Von Ketteler-Str. 31;Erneuerung Unterverteilung Hausmeister-Loge;Brandschutz;;51.313011;6.583335;fa-graduation-cap-o;blue
-92;Realschule Freiherr-vom-Stein;Von Ketteler-Str. 31;Erneuerung Unterverteilung Nebenräume;Brandschutz;;51.313011;6.583335;fa-graduation-cap-o;blue
-93;Realschule Freiherr-vom-Stein;Von Ketteler-Str. 31;Erneuerung Einrichtung Chemie Vorbereitung;Naturwissenschaft;;51.313011;6.583335;fa-graduation-cap-o;blue
-94;Grundschule Vulkanstr.;Vulkanstr. 264;Erneuerung Beleuchtung;Verkehrssicherheit;x;51.308290;6.556808;fa-graduation-cap-o;blue
-95;Grundschule Wimmersweg, Turnhalle;Wimmersweg 21;Erneuerung Sicherheitsbeleuchtung;Sportstätte;x;51.304266;6.582063;fa-graduation-cap-o;blue
+1;Förderschule Friedrich-von-Bodelschwingh;Alte Flur 21;Austausch Treppenhaustüren;Verkehrssicherheit;;51.325181;6.600513;fa-graduation-cap;blue
+2;Förderschule Friedrich-von-Bodelschwingh, Standort Alte Flur, Turnhalle;Alte Flur 21;Erneuerung Prallschutzwände;Verkehrssicherheit;;51.325181;6.600513;fa-graduation-cap;blue
+3;Grundschule Bonhoefferstr. Standort Armerner Str.;Amerner Str. 1-3;Umsetzung Brandschutzkonzept;Brandschutz;;51.376276;6.493546;fa-graduation-cap;blue
+4;Grundschule Bonhoefferstr., Standort Armerner Str.;Amerner Str. 1-3;Ertüchtigung Lärmschutz;Verkehrssicherheit;x;51.376276;6.493546;fa-graduation-cap;blue
+5;Grundschule An der Josefkirche;An der Josefkirche 2;Geländererhöhung Treppenhaus;Verkehrssicherheit;;51.327285;6.556930;fa-graduation-cap;blue
+6;Grundschule Bellenweg;Bellenweg 50;Sanierung Flurbereich;Raumsanierung;x;51.302289;6.505864;fa-graduation-cap;blue
+7;Grundschule Bismarckstr.;Bismarckstr. 67;Umsetzung Brandschutzmaßnahmen;Brandschutz;;51.341559;6.573820;fa-graduation-cap;blue
+8;Grundschule Bismarckstr.;Bismarckstr. 67;Erneuerung Bodenbeläge;Verkehrssicherheit;x;51.341559;6.573820;fa-graduation-cap;blue
+9;Grundschule Bismarckstr.;Bismarckstr. 67;Sanierung ehemalige Ganztagsräume;Raumsanierung;x;51.341559;6.573820;fa-graduation-cap;blue
+10;Grundschule Buchenstr.;Buchenstr. 28;Sanierung Sanitäranlagen;Sanitär;x;51.321356;6.560709;fa-graduation-cap;blue
+11;Grundschule Eichendorffstr.;Eichendorffstr. 21;Erneuerung Fenster;Gebäudehülle;;51.339411;6.599194;fa-graduation-cap;blue
+12;Grundschule Eichendorffstr.;Eichendorffstr. 21;Sanierung Flure und Treppenhaus;Raumsanierung;x;51.339411;6.599194;fa-graduation-cap;blue
+13;Grundschule Eichendorffstr.;Eichendorffstr. 21;Dachsanierung;Gebäudehülle;x;51.339411;6.599194;fa-graduation-cap;blue
+14;Gymnasium Fabritianum;Fabritiusstr. 15a;Erneuerung Einrichtung Biologie Hörsaal;Naturwissenschaft;x;51.348963;6.642208;fa-graduation-cap;blue
+15;Gymnasium Fabritianum, Turnhalle;Fabritiusstr. 15a;Erneuerung der Hallendecke inkl. Deckenstrahlheizung;Substanz;;51.348963;6.642208;fa-graduation-cap;blue
+16;Grundschule Freiligrathstr;Freiligrathstr. 47;Fassadensanierung;Gebäudehülle;x;51.333853;6.579489;fa-graduation-cap;blue
+17;Grundschule Freiligrathstr;Freiligrathstr. 47;Montage Sonnenschutzanlage;Gebäudehülle;x;51.333853;6.579489;fa-graduation-cap;blue
+18;Grundschule Freiligrathstr;Freiligrathstr. 47;Dachsanierung;Gebäudehülle;x;51.333853;6.579489;fa-graduation-cap;blue
+19;Grundschule Freiligrathstr;Freiligrathstr. 47;Erneuerung Fenster + Türen;Gebäudehülle;x;51.333853;6.579489;fa-graduation-cap;blue
+20;Grundschule Gießerpfad;Gießerpfad 2-10;Anstrich der Eingangstüren;Gebäudehülle;x;51.320374;6.536084;fa-graduation-cap;blue
+21;Grundschule Gießerpfad;Gießerpfad 2-10;Erneuerung Bodenbeläge;Verkehrssicherheit;x;51.320374;6.536084;fa-graduation-cap;blue
+22;Berufskolleg Vera Beckers;Girmesgath 131;Austausch Leuchten gegen LED;Verkehrssicherheit;;51.340283;6.543457;fa-graduation-cap;blue
+23;Berufskolleg Vera Beckers;Girmesgath 131;BT B, Sanierung Klassenräume;Raumsanierung;x;51.340283;6.543457;fa-graduation-cap;blue
+24;Hauptschule Hafelsstr.;Hafelsstr. 41;Erneuerung Sicherheitsbeleuchtung;Verkehrssicherheit;;51.307656;6.589413;fa-graduation-cap;blue
+25;Gymnasium Horkesgath;Horkesgath 33;Flachdachsanierungen;Energetische Sanierung;x;51.337299;6.529050;fa-graduation-cap;blue
+26;Gymnasium Horkesgath;Horkesgath 33;Einbau Hocheffizienzpumpe;Energetische Sanierung;;51.337299;6.529050;fa-graduation-cap;blue
+27;Gymnasium Horkesgath;Horkesgath 33;Sanierung Klassenräume;Raumsanierung;x;51.337299;6.529050;fa-graduation-cap;blue
+28;Gymnasium Horkesgath;Horkesgath 33;Sanierung Sanitäranlagen;Sanitär;x;51.337299;6.529050;fa-graduation-cap;blue
+29;Realschule Horkesgath;Horkesgath 33;Sanierung Sanitäranlagen;Sanitär;x;51.337299;6.529050;fa-graduation-cap;blue
+30;Schulzentrum Horkesgath, Turnhalle 1/2;Horkesgath 33;Sanierung der Lüftungsanlagen Turnhallen;Substanz;x;51.337299;6.529050;fa-graduation-cap;blue
+31;Grundschule Horkesgath;Horkesgath 50;Wanddurchbruch Verwaltung;Nutzung;x;51.337299;6.529050;fa-graduation-cap;blue
+32;Grundschule Horkesgath;Horkesgath 50;Sanierung Klassenräume, WC und Mensa;Raumsanierung;x;51.337299;6.529050;fa-graduation-cap;blue
+33;Grundschule Hülser Str.;Hülser Str. 449;Sanierung Parkettböden;Raumsanierung;;51.351859;6.537767;fa-graduation-cap;blue
+34;Grundschule Hülser Str.;Hülser Str. 449;Sanierung Flure und Treppenhaus;Raumsanierung;;51.351859;6.537767;fa-graduation-cap;blue
+35;Förderschule Inrather Str.;Inrather Str. 611;Austausch Bodenbelag Überdachung;Verkehrssicherheit;x;51.356808;6.532884;fa-graduation-cap;blue
+36;Förderschule Inrather Str.;Inrather Str. 611;Erneuerung Bedachung Überdachung;Substanz;x;51.356808;6.532884;fa-graduation-cap;blue
+37;Förderschule Inrather Str.;Inrather Str. 611;Ersatz Seitenteile Überdachung;Substanz;x;51.356808;6.532884;fa-graduation-cap;blue
+38;Gymnasium Maria-Sybilla-Merian;Joh. Blum Str. 101;Sanierung Lüftungsanlagen;Substanz;x;51.313316;6.584057;fa-graduation-cap;blue
+39;Gymnasium Maria-Sybilla-Merian;Joh. Blum Str. 101;Erneuerung Kleiner Übungsraum;Naturwissenschaft;;51.313316;6.584057;fa-graduation-cap;blue
+40;Gymnasium Maria-Sybilla-Merian;Joh. Blum Str. 101;Sanierung Klassenräume;Raumsanierung;x;51.313316;6.584057;fa-graduation-cap;blue
+41;Gymnasium Maria-Sybilla-Merian;Joh. Blum Str. 101;Erneuerung Einichtung, Chemie Übung 2;Naturwissenschaft;;51.313316;6.584057;fa-graduation-cap;blue
+42;Gymnasium Maria-Sybilla-Merian, Turnhalle;Joh. Blum Str. 101;Dachsanierung;Substanz;x;51.313316;6.584057;fa-graduation-cap;blue
+43;Grundschule Joseph-Görres-Str.;Joseph-Görres-Str. 20;Sanierung Sanitäranlagen;Sanitär;x;51.352301;6.645455;fa-graduation-cap;blue
+44;Grundschule Joseph-Görres-Str.;Joseph-Görres-Str. 20;Sanierung Parkettböden;Raumsanierung;x;51.352301;6.645455;fa-graduation-cap;blue
+45;Gesamtschule Kaiserplatz;Kaiserplatz 31-50;Montage Außentreppe, inkl. Brandschutzkonzept;Brandschutz;;51.344476;6.590444;fa-graduation-cap;blue
+46;Gesamtschule Kaiserplatz;Kaiserplatz 31-50;Erneuerung Bodenbeläge;Verkehrssicherheit;x;51.344476;6.590444;fa-graduation-cap;blue
+47;Gesamtschule Kaiserplatz;Kaiserplatz 31-50;Sanierung Klassenräume;Raumsanierung;x;51.344476;6.590444;fa-graduation-cap;blue
+48;Gesamtschule Kaiserplatz;Kaiserplatz 31-50;Einbau Hocheffizienzpumpe;Energetische Sanierung;;51.344476;6.590444;fa-graduation-cap;blue
+49;Grundschule Kempener Allee;Kempener Allee 142;Sanierung Grundleitungen;Substanz;;51.341356;6.530377;fa-graduation-cap;blue
+50;Grundschule Kempener Allee;Kempener Allee 142;Einbau Sekuranten;Verkehrssicherheit;;51.341356;6.530377;fa-graduation-cap;blue
+51;Grundschule Kempener Allee;Kempener Allee 142;Sanierung Klassenräume und Treppenhäuser;Raumsanierung;x;51.341356;6.530377;fa-graduation-cap;blue
+52;Grundschule Kempener Allee, Turnhalle;Kempener Allee 142;Erneuerung Geräteraumtore und Prallwände;Sportstätte;;51.341356;6.530377;fa-graduation-cap;blue
+53;Grundschule Kempener Allee, Turnhalle;Kempener Allee 142;Einbau Sekuranten;Verkehrssicherheit;x;51.341356;6.530377;fa-graduation-cap;blue
+54;Grundschule Körnerstr.;Körnerstr. 17;Sanierung Grundleitungen;Substanz;x;51.363608;6.646081;fa-graduation-cap;blue
+55;Berufskolleg Uerdingen Alte;Krefelder Str. 93;Beseitigung Brandschutzmängel;Brandschutz;;51.350045;6.635564;fa-graduation-cap;blue
+56;Berufskolleg Uerdingen Alte;Krefelder Str. 93;Erneuerung Unterverteilungen;Brandschutz;;51.350045;6.635564;fa-graduation-cap;blue
+57;Berufskolleg Uerdingen Alte;Krefelder Str. 93;Sanierung Chemie Vorbereitung;Naturwissenschaft;x;51.350045;6.635564;fa-graduation-cap;blue
+58;Berufskolleg Uerdingen Alte;Krefelder Str. 93;Sanierung Klassenräume;Raumsanierung;x;51.350045;6.635564;fa-graduation-cap;blue
+59;Berufskolleg Uerdingen Alte;Krefelder Str. 93;Erneuerung Trafostation;Substanz;;51.350045;6.635564;fa-graduation-cap;blue
+60;Berufskolleg Uerdingen Alte;Krefelder Str. 93;Sanierung Chemie Übung;Naturwissenschaft;x;51.350045;6.635564;fa-graduation-cap;blue
+61;Arndtgymnasium, Standort Lindenstr., Turnhalle;Lindenstr. 52;Sanierung der Turnhalle Lindenstraße;Sportstätte;;51.327749;6.560633;fa-graduation-cap;blue
+62;Gesamtschule Uerdingen, Standort Lübecker Weg;Lübecker Weg 56;Sanierung Außenhülle;Energetische Sanierung;;51.355305;6.634364;fa-graduation-cap;blue
+63;Gesamtschule Uerdingen, Standort Lübecker Weg, Turnhalle;Lübecker Weg 56;Sanierung der Turnhalle Lübecker Weg;Sportstätte;;51.355305;6.634364;fa-graduation-cap;blue
+64;Grundschule Wimmersweg, Standort Marienstr.;Marienstr. 81 a;Sanierung Fenster;Gebäudehülle;;51.304551;6.584294;fa-graduation-cap;blue
+65;Gymnasium Am Moltkeplatz;Moltkeplatz 12;Änderung Einrichtung, Biologie Übung;Naturwissenschaft;;51.339132;6.578988;fa-graduation-cap;blue
+66;Gymnasium Am Moltkeplatz;Moltkeplatz 12;Erneuerung Pausensignalanlage;Brandschutz;;51.339132;6.578988;fa-graduation-cap;blue
+67;Berufskolleg Kaufmannsschule;Neuer Weg 121;Austausch Leuchten gegen LED;Verkehrssicherheit;;51.337367;6.545151;fa-graduation-cap;blue
+68;Berufskolleg Kaufmannsschule;Neuer Weg 121;Einbau Hocheffizienzpumpe;Energetische Sanierung;;51.337367;6.545151;fa-graduation-cap;blue
+69;Berufskolleg Kaufmannsschule;Neuer Weg 121;Energetische Sanierung Außenhülle Bt. A/B;Energetische Sanierung;;51.337367;6.545151;fa-graduation-cap;blue
+70;Berufskolleg Kaufmannsschule, Turnhalle;Neuer Weg 121;Energetische Sanierung Außenhülle Turnhalle;Energetische Sanierung;;51.337367;6.545151;fa-graduation-cap;blue
+71;Grundschule An Haus Rath, Turnhalle;Neukirchener Str. 3;Sanierung Hallenboden;Sportstätte;x;51.370269;6.617085;fa-graduation-cap;blue
+72;Grundschule An Haus Rath, Turnhalle;Neukirchener Str. 3;Sanierung Duschen;Sanitär;x;51.370269;6.617085;fa-graduation-cap;blue
+73;Gymnasium Am Stadtpark;Nikolaus-Groß-Str. 31;Erneuerung der Einrichtung ,Chemie Vorbereitung;Naturwissenschaft;;51.358193;6.637514;fa-graduation-cap;blue
+74;Gymnasium Am Stadtpark;Nikolaus-Groß-Str. 31;Erhöhung aller Treppengeländer;Verkehrssicherheit;;51.358193;6.637514;fa-graduation-cap;blue
+75;Gymnasium Am Stadtpark;Nikolaus-Groß-Str. 31;Brandschottung im Treppenhaus D/C im UG;Brandschutz;;51.358193;6.637514;fa-graduation-cap;blue
+76;Gymnasium Am Stadtpark;Nikolaus-Groß-Str. 31;Erneuerung Unterverteilung;Brandschutz;;51.358193;6.637514;fa-graduation-cap;blue
+77;Gymnasium Am Stadtpark;Nikolaus-Groß-Str. 31;Sanierung Sanitäranlagen;Sanitär;x;51.358193;6.637514;fa-graduation-cap;blue
+78;Grundschule Oberbruchstr.;Oberbruchstr. 87;Sanierung Parkettböden;Raumsanierung;x;51.315926;6.590567;fa-graduation-cap;blue
+79;Grundschule Oberbruchstr.;Oberbruchstr. 87;Sanierung Klassenräume;Raumsanierung;x;51.315926;6.590567;fa-graduation-cap;blue
+80;Gesamtschule Reepenweg;Reepenweg 40;Einbau Brandschutztüren;Brandschutz;;51.369625;6.496526;fa-graduation-cap;blue
+81;Gesamtschule Reepenweg;Reepenweg 40;2. Rettungsweg Verwaltung;Brandschutz;;51.369625;6.496526;fa-graduation-cap;blue
+82;Realschule Oppum;Rote-Kreuz-Str. 25;Brandschutztechnische Abtrennung Treppenhäuser;Brandschutz;;51.335365;6.591459;fa-graduation-cap;blue
+83;Realschule Oppum;Rote-Kreuz-Str. 25;Sanierung Sanitäranlagen;Sanitär;x;51.335365;6.591459;fa-graduation-cap;blue
+84;Grundschule An der Josefkirche, Standort Südstr.;Südstr. 22;Sanierung Klassenräume;Raumsanierung;x;51.326772;6.559606;fa-graduation-cap;blue
+85;Grundschule Thielenstr.;Thielenstr. 40;Erneuerung Brandschutztüren;Brandschutz;;51.331845;6.610782;fa-graduation-cap;blue
+86;Grundschule Thielenstr.;Thielenstr. 40;Erneuerung Fenster Altbau;Gebäudehülle;x;51.331845;6.610782;fa-graduation-cap;blue
+87;Grundschule (kath.) Traarer Str.;Traarer Str. 105;Sanierung Sanitäranlagen;Sanitär;x;51.357253;6.634335;fa-graduation-cap;blue
+88;Grundschule (kath.) Traarer Str.;Traarer Str. 105;Sanierung Klassenräume;Raumsanierung;;51.357253;6.634335;fa-graduation-cap;blue
+89;Förderschule Tulpenstr.;Tulpenstr. 11;Ersatz und Erweiterung Mietpavillon;Verkehrssicherheit;x;51.341839;6.613989;fa-graduation-cap;blue
+90;Gesamtschule Uerdingen, Standort Uerdinger Str.;Uerdinger Str. 783;Einbau Feststellanlagen;Brandschutz;;51.349754;6.632974;fa-graduation-cap;blue
+91;Realschule Freiherr-vom-Stein;Von Ketteler-Str. 31;Erneuerung Unterverteilung Hausmeister-Loge;Brandschutz;;51.313011;6.583335;fa-graduation-cap;blue
+92;Realschule Freiherr-vom-Stein;Von Ketteler-Str. 31;Erneuerung Unterverteilung Nebenräume;Brandschutz;;51.313011;6.583335;fa-graduation-cap;blue
+93;Realschule Freiherr-vom-Stein;Von Ketteler-Str. 31;Erneuerung Einrichtung Chemie Vorbereitung;Naturwissenschaft;;51.313011;6.583335;fa-graduation-cap;blue
+94;Grundschule Vulkanstr.;Vulkanstr. 264;Erneuerung Beleuchtung;Verkehrssicherheit;x;51.308290;6.556808;fa-graduation-cap;blue
+95;Grundschule Wimmersweg, Turnhalle;Wimmersweg 21;Erneuerung Sicherheitsbeleuchtung;Sportstätte;x;51.304266;6.582063;fa-graduation-cap;blue

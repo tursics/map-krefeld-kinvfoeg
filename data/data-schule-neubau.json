@@ -11,7 +11,7 @@
    "comment": "Der Wettbewerb zur Vergabe der Planerleistungen ist abgeschlossen. Die Aufträge wurden im Dezember 2017 erteilt.",
    "lat": 51.31575,
    "lng": 6.558622,
-   "icon": "fa-graduation-cap-o",
+   "icon": "fa-graduation-cap",
    "color": "blue"
  },
  {
@@ -26,7 +26,7 @@
    "comment": "Die Sanierungssplanung ist abgeschlossen, der Bauantrag wurde am 10.01.2018 eingereicht. Die Maßnahmen wurden mit der unteren Denkmalbehörde abgestimmt. Die Ausschreibung der Bauleistungen wird am 02.02.18 veröffentlicht.",
    "lat": 51.31575,
    "lng": 6.558622,
-   "icon": "fa-graduation-cap-o",
+   "icon": "fa-graduation-cap",
    "color": "blue"
  },
  {
@@ -41,7 +41,7 @@
    "comment": "Der Wettbewerb zur Vergabe der Planerleistungen ist abgeschlossen. Der Vergabevorschlag wird derzeit durch den Fachbereich Rechnungsprüfung geprüft.",
    "lat": 51.319877,
    "lng": 6.611263,
-   "icon": "fa-graduation-cap-o",
+   "icon": "fa-graduation-cap",
    "color": "blue"
  },
  {
@@ -56,7 +56,7 @@
    "comment": "Das Projekt wurde zugunsten der Robert-Jungk-Gesamtschule zunächst zurückgestellt. Die Vorplanung einschließlich der Bedarfsermittlung und Erstellung des Raumprogramms ist abgeschlossen. Im Februar 2018 wird die Maßnahme fortgeführt.",
    "lat": 51.346709,
    "lng": 6.612716,
-   "icon": "fa-graduation-cap-o",
+   "icon": "fa-graduation-cap",
    "color": "blue"
  },
  {
@@ -71,7 +71,7 @@
    "comment": "In der Projektgruppe Gesamtschulen wurden die Raumbedarfe für die Gesamtschule Reepenweg in Bezug auf die Erweiterung der Oberstufe für die Kerkener Schüler ermittelt. Im Oktober 2017 konnte der genaue Bedarf der Nutzflächen benannt werden. Derzeit werden die planungsrechtliche Vorgaben für eine Erweiterung von ca. 1.650 m² Bruttogeschossfläche geprüft und Standortvarianten auf dem Gelände entwickelt. Spätestens im April  2018 soll auch hier der Planerwettbewerb durchgeführt werden.",
    "lat": 51.369531,
    "lng": 6.496173,
-   "icon": "fa-graduation-cap-o",
+   "icon": "fa-graduation-cap",
    "color": "blue"
  },
  {
@@ -86,7 +86,7 @@
    "comment": "Erweiterung und Umbau der ehemaligen Ter-Meer-Realschule, Ausbau zur 5-Zügigkeit. Die Möglichkeit der Zuordnung zu Förderprogrammen muss noch geklärt werden.",
    "lat": 51.349747,
    "lng": 6.632983,
-   "icon": "fa-graduation-cap-o",
+   "icon": "fa-graduation-cap",
    "color": "blue"
  },
  {
@@ -101,7 +101,7 @@
    "comment": "Erweiterung, Umbau und die Modernisierung des Schulstandortes Krefeld-Oppum. Die Abwicklung erfolgt über die Förderprogramme „Gute Schule 2020“ und KInvFöG II.",
    "lat": 51.331328,
    "lng": 6.605151,
-   "icon": "fa-graduation-cap-o",
+   "icon": "fa-graduation-cap",
    "color": "blue"
  },
  {
@@ -116,7 +116,7 @@
    "comment": "Ersatz der Pavillonklassen und ein zusätzlicher Mehrzweckraum und eine Mensa für die  Ganztagsbetreuung.",
    "lat": 51.341876,
    "lng": 6.573803,
-   "icon": "fa-graduation-cap-o",
+   "icon": "fa-graduation-cap",
    "color": "blue"
  },
  {
@@ -131,7 +131,7 @@
    "comment": "An diesem Standort müssen noch grundsätzliche Raumbedarfe geklärt werden. Die Maßnahme wurde zunächst zurückgestellt.",
    "lat": 51.358227,
    "lng": 6.637483,
-   "icon": "fa-graduation-cap-o",
+   "icon": "fa-graduation-cap",
    "color": "blue"
  }
 ]
