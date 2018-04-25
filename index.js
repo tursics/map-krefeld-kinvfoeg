@@ -47,10 +47,18 @@ var printerLabel = {
 			offset: L.point(0, -32),
 			className: 'printerLabel'
 		},
-			str = '';
+			str = '',
+			top = data[format.top] || '&nbsp;',
+			middlePrefix = format.middlePrefix || '',
+			middleFormat = format.middleFormat || 'number',
+			middle = data[format.middle] || '&nbsp;';
 
-		str += '<div class="top ' + icon.options.markerColor + '">' + data[format.top] + '</div>';
-		str += '<div class="middle">€' + formatNumber(data[format.middle]) + '</div>';
+		if ('number' === middleFormat) {
+			middle = formatNumber(middle);
+		}
+
+		str += '<div class="top ' + icon.options.markerColor + '">' + top + '</div>';
+		str += '<div class="middle">' + middlePrefix + middle + '</div>';
 		str += '<div class="bottom ' + icon.options.markerColor + '">' + data[format.bottom] + '</div>';
 
 		this.layerPopup = L.popup(options)
