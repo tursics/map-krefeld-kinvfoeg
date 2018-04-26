@@ -81,6 +81,9 @@ var printerLabel = {
 // -----------------------------------------------------------------------------
 
 var receipt = {
+    data: {},
+    cityData: {},
+
 	initUI: function () {
 		'use strict';
 
@@ -90,11 +93,14 @@ var receipt = {
 		$('#receiptClose').on('click', this.hide);
 	},
 
-	init: function (data) {
+	init: function (data, cityData) {
 		'use strict';
 
-		$('#receiptBox #receipt').html(data.receipt.body.join("\n"));
-		$('#receiptInfo').css('display', data.receipt.info ? 'block' : 'none');
+        this.data = data;
+        this.cityData = cityData;
+
+		$('#receiptBox #receipt').html(cityData.receipt.body.join("\n"));
+		$('#receiptInfo').css('display', cityData.receipt.info ? 'block' : 'none');
 	},
 
 	show: function () {
@@ -118,39 +124,89 @@ var receipt = {
 			if (item.parent().hasClass('number')) {
 				txt = formatNumber(txt);
 			} else if (item.parent().hasClass('boolean')) {
-				txt = (txt === 1 ? 'ja' : 'nein');
+				txt = (txt === 1 ? 'ja' : (txt === 'x' ? 'ja' : 'nein'));
 			}
 
 			item.text(txt);
 		}
 
-		var key,
-			date = new Date(),
-			dateD = date.getDate(),
-			dateM = date.getMonth() + 1,
-			dateY = date.getFullYear(),
-			dateH = date.getHours(),
-			dateMin = date.getMinutes();
+        function setTextWithDOM(root, key, txt) {
+            var item = $('#rec' + key, root);
 
-		if (dateD < 10) {
-			dateD = '0' + dateD;
-		}
-		if (dateM < 10) {
-			dateM = '0' + dateM;
-		}
-		if (dateH < 10) {
-			dateH = '0' + dateH;
-		}
-		if (dateMin < 10) {
-			dateMin = '0' + dateMin;
-		}
-		setText('Now', dateD + '.' + dateM + '.' + dateY + ' ' + dateH + ':' + dateMin);
+            if (item.parent().hasClass('number')) {
+                txt = formatNumber(txt);
+            } else if (item.parent().hasClass('boolean')) {
+                txt = (txt === 1 ? 'ja' : (txt === 'x' ? 'ja' : 'nein'));
+            }
 
-		for (key in data) {
-			if (data.hasOwnProperty(key)) {
-				setText(key, data[key]);
+            item.text(txt);
+		}
+
+        function fillDateNow() {
+            var date = new Date(),
+                dateD = date.getDate(),
+                dateM = date.getMonth() + 1,
+                dateY = date.getFullYear(),
+                dateH = date.getHours(),
+                dateMin = date.getMinutes();
+
+            if (dateD < 10) {
+                dateD = '0' + dateD;
+            }
+            if (dateM < 10) {
+                dateM = '0' + dateM;
+            }
+            if (dateH < 10) {
+                dateH = '0' + dateH;
+            }
+            if (dateMin < 10) {
+                dateMin = '0' + dateMin;
+            }
+            setText('Now', dateD + '.' + dateM + '.' + dateY + ' ' + dateH + ':' + dateMin);
+        }
+
+        function fillLayout() {
+			var key;
+
+            for (key in data) {
+                if (data.hasOwnProperty(key)) {
+                    setText(key, data[key]);
+                }
+            }
+		}
+
+        function fillInnerLayout(data, cityData, currentData) {
+			if (typeof cityData.receipt.innerPart === 'undefined') {
+				return;
+			}
+
+			var i,
+//				id = currentData[cityData.search.data],
+	            address = currentData.address,
+				dom = '',
+	            key;
+
+            $('#recinnerPart').html('');
+
+			for (i = 0; i < data.length; ++i) {
+//                if ((address === data[i].address) && (id !== data[i][cityData.search.data])) {
+				if (address === data[i].address) {
+					dom = $.parseHTML(cityData.receipt.innerPart.join("\n"));
+
+                    for (key in data[i]) {
+                        if (data[i].hasOwnProperty(key)) {
+                            setTextWithDOM(dom, key, data[i][key]);
+                        }
+                    }
+
+                    $('#recinnerPart').append(dom);
+				}
 			}
 		}
+
+        fillDateNow();
+        fillLayout();
+        fillInnerLayout(this.data, this.cityData, data);
 
 		this.show();
 	}
@@ -419,13 +475,12 @@ var data = {
 	initCity: function (city, cityData) {
 		'use strict';
 
-		receipt.init(cityData);
-
 		$.ajax({
 			url: 'data/' + city.data + '.json',
 			dataType: 'json',
 			mimeType: 'application/json',
 			success: function (data) {
+                receipt.init(data, cityData);
 				marker.show(data, cityData);
 				search.init(data, cityData);
 			}

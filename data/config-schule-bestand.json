@@ -5,11 +5,15 @@
 			"<div class='full center' id='recaddress'></div>",
 			"<div class='empty'></div>",
 			"<div class='full'>--------------------------------------------</div>",
-			"<div><span class='full'><span id='rectype'></span></span></div>",
-			"<div class='full' id='reccontent'></div>",
-			"<div><span class='half'>Wunsch der Schule</span><span class='boolean'><span id='recwish'></span></span></div>",
-			"<div class='full'>--------------------------------------------</div>",
 			"<div class='empty'></div>",
+			"<div class='full' id='recinnerPart'></div>",
+			"<div class='full'>--------------------------------------------</div>",
+			"<div class='empty'></div>"
+		],
+		"innerPart": [
+			"<div><span class='full bold'><span id='rectype'></span></span></div>",
+			"<div><span class='full'><span id='reccontent'></span></span></div>",
+			"<div><span class='half'>Wunsch der Schule</span><span class='boolean'><span id='recwish'></span></span></div>",
 			"<div class='empty'></div>"
 		],
 		"info": false
