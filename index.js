@@ -699,6 +699,10 @@ function buildNavigationAsync(data) {
 	data = data || [];
 	str += '<ul class="nav navbar-nav">';
 
+	if (data.length === 0) {
+		str += '<li class="dropdown open"><a class="dropdown-toggle" href="#">Kein Internet gefunden</a></li>';
+	}
+
 	for (d = 0; d < data.length; ++d) {
 		str += '<li class="dropdown">';
 		str += '<a class="dropdown-toggle" href="#">' + data[d].title + '</a>';
