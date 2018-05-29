@@ -1,13 +1,24 @@
 {
 	"receipt": {
 		"body": [
+			"<div class='full center bold' id='rectitle'></div>",
+			"<div class='full center' id='recaddress'></div>",
+			"<div class='empty'></div>",
+			"<div class='full'>--------------------------------------------</div>",
+			"<div class='empty'></div>",
+			"<div class='full' id='recinnerPart'></div>",
+			"<div class='full'>--------------------------------------------</div>",
+			"<div class='empty'></div>",
+			"<div><span class='full'>Fertiggestellt 2016 <span id='rec2016'></span></span></div>",
+			"<div><span class='full'>Fertiggestellt 2017 <span id='rec2017'></span></span></div>",
+			"<div class='empty'></div>"
+		],
+		"innerPart": [
 			"<div class='full center bold' id='rectype'></div>",
 			"<div class='empty'></div>",
 			"<div class='full' id='recaddress'></div>",
 			"<div><span class='full'>zwischen <span id='recboundfrom'></span></span></div>",
 			"<div><span class='full'>und <span id='recboundto'></span></span></div>",
-			"<div class='empty'></div>",
-			"<div><span class='full'>Fertiggestellt am <span id='recfinish'></span></span></div>",
 			"<div class='empty'></div>"
 		],
 		"info": false

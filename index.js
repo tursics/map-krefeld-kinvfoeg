@@ -182,9 +182,9 @@ var receipt = {
 
 			var i,
 //				id = currentData[cityData.search.data],
-	            address = currentData.address,
+				address = currentData.address,
 				dom = '',
-	            key;
+				key;
 
             $('#recinnerPart').html('');
 
@@ -586,7 +586,8 @@ function setCallbacksToMenu(menuData) {
 		var layer = obj.dataset.id,
 			icon = obj.dataset.icon,
 			visibility = false,
-			backgroundColor = obj.style.backgroundColor.split(',');
+			backgroundColor = obj.style.backgroundColor.split(','),
+			i;
 
 		if (('undefined' !== typeof map.getLayer) && map.getLayer(layer)) {
 			visibility = map.getLayoutProperty(layer, 'visibility');
