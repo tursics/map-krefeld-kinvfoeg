@@ -1,0 +1,8 @@
+id;address;type;finished;finance;boundfrom;boundto;lat;lng;icon;color
+6;Flünnertzdyk;Radwegerneuerung;x;KInvFöG-Mittel;Sprudeldyk;Nieper Straße;51.364048;6.558064;fa-bicycle;green
+9;Hafenstraße;Radwegerneuerung;x;KInvFöG-Mittel;Rheinbabenstraße;Georg-C. Marsahll Straße;51.336701;6.643451;fa-bicycle;green
+11;Hökendyk;Radwegerneuerung;x;KInvFöG-Mittel;Moerser Straße;Kliedbruchstraße;51.359560;6.565991;fa-bicycle;green
+13;Kempener Allee;Radwegerneuerung;x;KInvFöG-Mittel;Privatstr. H-Nr. 149;Dieselstraße;51.345237;6.524317;fa-bicycle;green
+15;Kirschkamper Weg;Radwegerneuerung;x;KInvFöG-Mittel;Lilienthalstraße;Flugplatz Ende;51.385972;6.577422;fa-bicycle;green
+20;Schütenhofstraße;Radwegerneuerung;x;KInvFöG-Mittel;Buschstraße;Uerdinger Straße;51.348436;6.615592;fa-bicycle;green
+25;Wüstrathstraße;Radwegerneuerung;x;KInvFöG-Mittel;Alte Krefelder Straße;Am Röttgen;51.353667;6.643220;fa-bicycle;green

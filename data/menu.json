@@ -1,5 +1,35 @@
 [
 	{
+		"title": "Radwege",
+		"menu": [
+			{
+				"title": "alle",
+				"id": "kinvfog-bikeways",
+				"data": "data-kinvfog-bikeways",
+				"config": "config-kinvfog-bikeways",
+				"_type": "polygon",
+				"type": "point",
+				"icon": "shield",
+				"color": "#3cc2ff"
+			}
+		]
+	},
+	{
+		"title": "Straßen",
+		"menu": [
+			{
+				"title": "alle",
+				"id": "kinvfog-streets",
+				"data": "data-kinvfog-streets",
+				"config": "config-kinvfog-streets",
+				"_type": "polygon",
+				"type": "point",
+				"icon": "shield",
+				"color": "#3cc2ff"
+			}
+		]
+	},
+	{
 		"title": "Bauen",
 		"menu": [
 			{
@@ -7,15 +37,6 @@
 				"id": "kinvfog-buildings",
 				"data": "data-kinvfog",
 				"config": "config-kinvfog",
-				"type": "point",
-				"icon": "shield",
-				"color": "#3cc2ff"
-			},
-			{
-				"title": "Straßen",
-				"id": "kinvfog-streets",
-				"data": "data-kinvfog-streets",
-				"config": "config-kinvfog-streets",
 				"type": "point",
 				"icon": "shield",
 				"color": "#3cc2ff"

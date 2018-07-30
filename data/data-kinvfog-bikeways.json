@@ -1,0 +1,93 @@
+[
+ {
+   "id": 6,
+   "address": "Flünnertzdyk",
+   "type": "Radwegerneuerung",
+   "finished": "x",
+   "finance": "KInvFöG-Mittel",
+   "boundfrom": "Sprudeldyk",
+   "boundto": "Nieper Straße",
+   "lat": 51.364048,
+   "lng": 6.558064,
+   "icon": "fa-bicycle",
+   "color": "green"
+ },
+ {
+   "id": 9,
+   "address": "Hafenstraße",
+   "type": "Radwegerneuerung",
+   "finished": "x",
+   "finance": "KInvFöG-Mittel",
+   "boundfrom": "Rheinbabenstraße",
+   "boundto": "Georg-C. Marsahll Straße",
+   "lat": 51.336701,
+   "lng": 6.643451,
+   "icon": "fa-bicycle",
+   "color": "green"
+ },
+ {
+   "id": 11,
+   "address": "Hökendyk",
+   "type": "Radwegerneuerung",
+   "finished": "x",
+   "finance": "KInvFöG-Mittel",
+   "boundfrom": "Moerser Straße",
+   "boundto": "Kliedbruchstraße",
+   "lat": 51.35956,
+   "lng": 6.565991,
+   "icon": "fa-bicycle",
+   "color": "green"
+ },
+ {
+   "id": 13,
+   "address": "Kempener Allee",
+   "type": "Radwegerneuerung",
+   "finished": "x",
+   "finance": "KInvFöG-Mittel",
+   "boundfrom": "Privatstr. H-Nr. 149",
+   "boundto": "Dieselstraße",
+   "lat": 51.345237,
+   "lng": 6.524317,
+   "icon": "fa-bicycle",
+   "color": "green"
+ },
+ {
+   "id": 15,
+   "address": "Kirschkamper Weg",
+   "type": "Radwegerneuerung",
+   "finished": "x",
+   "finance": "KInvFöG-Mittel",
+   "boundfrom": "Lilienthalstraße",
+   "boundto": "Flugplatz Ende",
+   "lat": 51.385972,
+   "lng": 6.577422,
+   "icon": "fa-bicycle",
+   "color": "green"
+ },
+ {
+   "id": 20,
+   "address": "Schütenhofstraße",
+   "type": "Radwegerneuerung",
+   "finished": "x",
+   "finance": "KInvFöG-Mittel",
+   "boundfrom": "Buschstraße",
+   "boundto": "Uerdinger Straße",
+   "lat": 51.348436,
+   "lng": 6.615592,
+   "icon": "fa-bicycle",
+   "color": "green"
+ },
+ {
+   "id": 25,
+   "address": "Wüstrathstraße",
+   "type": "Radwegerneuerung",
+   "finished": "x",
+   "finance": "KInvFöG-Mittel",
+   "boundfrom": "Alte Krefelder Straße",
+   "boundto": "Am Röttgen",
+   "lat": 51.353667,
+   "lng": 6.64322,
+   "icon": "fa-bicycle",
+   "color": "green"
+ }
+]

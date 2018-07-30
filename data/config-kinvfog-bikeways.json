@@ -9,9 +9,7 @@
 			"<div class='empty'></div>",
 			"<div class='full'>--------------------------------------------</div>",
 			"<div class='empty'></div>",
-			"<div><span class='half'>Gesamtkosten</span><span class='number'><span id='reccosts'></span> EUR</span></div>",
 			"<div><span class='half'>Fertig gestellt</span><span class='boolean'><span id='recfinished'></span></span></div>",
-			"<div><span class='half'>im Jahr 2017</span><span class='boolean'><span id='rec2017'></span></span></div>",
 			"<div><span class='full'>mit <span id='recfinance'></span></span></div>",
 			"<div class='empty'></div>"
 		],
@@ -22,10 +20,10 @@
 		"icon": "icon"
 	},
 	"printerlabel": {
-		"top": "title",
-		"middle": "costs",
-		"middlePrefix": "€",
-		"bottom": "finish"
+		"top": "boundfrom",
+		"middle": "address",
+		"middleFormat": "string",
+		"bottom": "boundto"
 	},
 	"search": {
 		"pattern": "title",

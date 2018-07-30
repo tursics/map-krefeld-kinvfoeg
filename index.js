@@ -103,6 +103,19 @@ var receipt = {
 		$('#receiptInfo').css('display', cityData.receipt.info ? 'block' : 'none');
 	},
 
+	initGeoJSON: function (dataGeoJSON, cityData) {
+		'use strict';
+
+		var data = [],
+			i;
+
+		for (i = 0; i < dataGeoJSON.length; ++i) {
+			data.push(dataGeoJSON[i].properties);
+		}
+
+		this.init(data, cityData);
+	},
+
 	show: function () {
 		'use strict';
 
@@ -257,6 +270,62 @@ var marker = {
 		}
 	},
 
+	showGeoJSON: function (dataGeoJSON, cityData) {
+		'use strict';
+
+		try {
+			this.cityData = cityData;
+
+			this.layerGroup = L.featureGroup([]);
+			this.layerGroup.addTo(map);
+
+			this.layerGroup.addEventListener('click', function (evt) {
+				receipt.update(evt.layer.options.data);
+			});
+			this.layerGroup.addEventListener('mouseover', function (evt) {
+				printerLabel.show([evt.latlng.lat, evt.latlng.lng], evt.layer.options.data, evt.layer.options.format, evt.layer.options.icon);
+			});
+			this.layerGroup.addEventListener('mouseout', function (evt) {
+				printerLabel.hide(evt.layer.options.data);
+			});
+
+/*			console.log(dataGeoJSON[0]);
+			map.addLayer({
+				'id': 'foo',
+				'type': 'fill',
+				'source': {
+					'type': 'geojson',
+            		'data': dataGeoJSON[0]
+				},
+				'layout': {},
+				'paint': {
+					'fill-color': '#088',
+					'fill-opacity': 0.8
+				}
+			});*/
+
+			var that = this;
+			$.each(dataGeoJSON, function (key, obj) {
+				var val = obj.properties;
+
+				if ((typeof val.lat !== 'undefined') && (typeof val.lng !== 'undefined') && val.lat && val.lng) {
+					var marker = L.marker([parseFloat(val.lat), parseFloat(val.lng)], {
+							data: val,
+							format: cityData.printerlabel,
+							icon: L.AwesomeMarkers.icon({
+								icon: val[cityData.marker.icon],
+								prefix: 'fa',
+								markerColor: val[cityData.marker.color]
+							})
+						});
+					that.layerGroup.addLayer(marker);
+				}
+			});
+		} catch (e) {
+			console.log(e);
+		}
+	},
+
 	hide: function () {
 		'use strict';
 
@@ -341,6 +410,14 @@ var search = {
 		});
 
 		this.show();
+	},
+
+	initGeoJSON: function (dataGeoJSON, cityData) {
+		'use strict';
+
+		var data = [];
+
+		this.init(data, cityData);
 	},
 
 	callbackOnSelect: function (suggestion) {
@@ -475,14 +552,37 @@ var data = {
 	initCity: function (city, cityData) {
 		'use strict';
 
+		var uri = 'data/' + city.data + '.json';
+
+		if ('polygon' === city.type) {
+//			loadGeoJSONPolygon(layer,
+			uri = 'data/' + city.data + '.geojson';
+		}
+
 		$.ajax({
-			url: 'data/' + city.data + '.json',
+			url: uri,
 			dataType: 'json',
 			mimeType: 'application/json',
 			success: function (data) {
-                receipt.init(data, cityData);
-				marker.show(data, cityData);
-				search.init(data, cityData);
+				if (('polygon' === city.type) && ('FeatureCollection' !== data.type)) {
+					console.error('wrong geojson format');
+					return;
+				}
+
+				if ('polygon' === city.type) {
+					if (1 > data.features.length) {
+						console.error('wrong geojson format');
+						return;
+					}
+
+					receipt.initGeoJSON(data.features, cityData);
+					marker.showGeoJSON(data.features, cityData);
+					search.initGeoJSON(data.features, cityData);
+				} else {
+					receipt.init(data, cityData);
+					marker.show(data, cityData);
+					search.init(data, cityData);
+				}
 			}
 		});
 	}
@@ -619,12 +719,12 @@ function setCallbacksToMenu(menuData) {
 			backgroundColor[3] = ' .99)';
 			obj.style.backgroundColor = backgroundColor.join(',');
 
-			if ('polygon' === obj.dataset.type) {
-				loadGeoJSONPolygon(layer, baseURI + '/map/' + layer + '.json', '{title}', icon, ['!=', 'title', '']);
-			} else {
+//			if ('polygon' === obj.dataset.type) {
+//				loadGeoJSONPolygon(layer, baseURI + '/map/' + layer + '.json', '{title}', icon, ['!=', 'title', '']);
+//			} else {
 				data.loadCity(layer);
 //				loadGeoJSON(layer, baseURI + '/map/' + layer + '.json', '{title}', icon, ['!=', 'title', '']);
-			}
+//			}
 		}
 	}
 
