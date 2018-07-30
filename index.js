@@ -618,7 +618,7 @@ function getJSON(uri, callback) {
 function getMenuItemSnippet(menuData, level1, level2) {
 	'use strict';
 
-	return '<i class="icon" style="background-image:url(' + fontawesomePath + menuData[level1].menu[level2].icon + '.svg);"></i>' + menuData[level1].menu[level2].title;
+	return '<i class="fa ' + menuData[level1].menu[level2].icon + ' fa-lg"></i> ' + menuData[level1].menu[level2].title;
 }
 
 //-----------------------------------------------------------------------
@@ -626,7 +626,9 @@ function getMenuItemSnippet(menuData, level1, level2) {
 function getMenuItemSnippetLoading(menuData, level1, level2) {
 	'use strict';
 
-	return '<i class="icon spinning1" style="background-image:url(' + fontawesomePath + 'circle-o-notch.svg);"></i>' + menuData[level1].menu[level2].title;
+	// todo: repair me
+	return getMenuItemSnippet(menuData, level1, level2);
+	return '<i class="fa fa-circle-o-notch fa-lg fa-spin"></i> ' + menuData[level1].menu[level2].title;
 }
 
 //-----------------------------------------------------------------------
@@ -634,7 +636,9 @@ function getMenuItemSnippetLoading(menuData, level1, level2) {
 function getMenuItemSnippetLoaded(menuData, level1, level2) {
 	'use strict';
 
-	return '<i class="icon spinning2" style="background-image:url(' + fontawesomePath + 'circle-o-notch.svg);"></i>' + menuData[level1].menu[level2].title;
+	// todo: repair me
+	return getMenuItemSnippet(menuData, level1, level2);
+	return '<i class="fa fa-circle-o-notch fa-lg fa-pulse"></i> ' + menuData[level1].menu[level2].title;
 }
 
 //-----------------------------------------------------------------------

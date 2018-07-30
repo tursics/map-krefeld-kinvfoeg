@@ -1,5 +1,37 @@
 [
 	{
+		"title": "Bäume",
+		"menu": [
+			{
+				"title": "2015",
+				"id": "trees-2015",
+				"data": "data-trees-2015",
+				"config": "config-trees",
+				"type": "point",
+				"icon": "fa-leaf",
+				"color": "#3cc2ff"
+			},
+			{
+				"title": "2016",
+				"id": "trees-2016",
+				"data": "data-trees-2016",
+				"config": "config-trees",
+				"type": "point",
+				"icon": "fa-leaf",
+				"color": "#3cc2ff"
+			},
+			{
+				"title": "2017",
+				"id": "trees-2017",
+				"data": "data-trees-2017",
+				"config": "config-trees",
+				"type": "point",
+				"icon": "fa-leaf",
+				"color": "#3cc2ff"
+			}
+		]
+	},
+	{
 		"title": "Radwege",
 		"menu": [
 			{
@@ -9,7 +41,7 @@
 				"config": "config-kinvfog-bikeways",
 				"_type": "polygon",
 				"type": "point",
-				"icon": "shield",
+				"icon": "fa-bicycle",
 				"color": "#3cc2ff"
 			}
 		]
@@ -24,7 +56,7 @@
 				"config": "config-kinvfog-streets",
 				"_type": "polygon",
 				"type": "point",
-				"icon": "shield",
+				"icon": "fa-car",
 				"color": "#3cc2ff"
 			}
 		]
@@ -55,38 +87,6 @@
 				"id": "school-repair",
 				"data": "data-schule-bestand",
 				"config": "config-schule-bestand",
-				"type": "point",
-				"icon": "shield",
-				"color": "#3cc2ff"
-			}
-		]
-	},
-	{
-		"title": "Bäume",
-		"menu": [
-			{
-				"title": "Neue Bäume in 2015",
-				"id": "trees-2015",
-				"data": "data-trees-2015",
-				"config": "config-trees",
-				"type": "point",
-				"icon": "shield",
-				"color": "#3cc2ff"
-			},
-			{
-				"title": "Neue Bäume in 2016",
-				"id": "trees-2016",
-				"data": "data-trees-2016",
-				"config": "config-trees",
-				"type": "point",
-				"icon": "shield",
-				"color": "#3cc2ff"
-			},
-			{
-				"title": "Neue Bäume in 2017",
-				"id": "trees-2017",
-				"data": "data-trees-2017",
-				"config": "config-trees",
 				"type": "point",
 				"icon": "shield",
 				"color": "#3cc2ff"
