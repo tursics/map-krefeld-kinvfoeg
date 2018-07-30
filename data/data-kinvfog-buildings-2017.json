@@ -1,0 +1,74 @@
+[
+ {
+   "id": 948,
+   "title": "Kita Neuhofsweg",
+   "content": "Fenster",
+   "type": "Energetische Sanierung",
+   "finance": "KInvFöG-Mittel",
+   "costs": 250000,
+   "lat": 51.372927,
+   "lng": 6.618275,
+   "icon": "fa-building-o",
+   "color": "green"
+ },
+ {
+   "id": 952,
+   "title": "Fabrik Heeder",
+   "content": "Pumpen / Dämmung",
+   "type": "Sanierung",
+   "finance": "KInvFöG-Mittel",
+   "costs": 16700,
+   "lat": 51.322827,
+   "lng": 6.572372,
+   "icon": "fa-building-o",
+   "color": "green"
+ },
+ {
+   "id": 954,
+   "title": "Burg Linn",
+   "content": "Pumpen / Dämmung",
+   "type": "Sanierung",
+   "finance": "KInvFöG-Mittel",
+   "costs": 16700,
+   "lat": 51.334652,
+   "lng": 6.635989,
+   "icon": "fa-building-o",
+   "color": "green"
+ },
+ {
+   "id": 957,
+   "title": "Jugendfreizeit Herbertzstraße",
+   "content": "Pumpen / Dämmung",
+   "type": "Sanierung",
+   "finance": "KInvFöG-Mittel",
+   "costs": 16700,
+   "lat": 51.324227,
+   "lng": 6.59865,
+   "icon": "fa-building-o",
+   "color": "green"
+ },
+ {
+   "id": 958,
+   "title": "Freizeitzentrum Süd / Jugendtreff",
+   "content": "Pumpen / Dämmung",
+   "type": "Sanierung",
+   "finance": "KInvFöG-Mittel",
+   "costs": 16700,
+   "lat": 51.318885,
+   "lng": 6.574731,
+   "icon": "fa-building-o",
+   "color": "green"
+ },
+ {
+   "id": 959,
+   "title": "Herbertzstr. KITA & Jugendtreff",
+   "content": "Pumpen / Dämmung",
+   "type": "Sanierung",
+   "finance": "KInvFöG-Mittel",
+   "costs": 16700,
+   "lat": 51.324476,
+   "lng": 6.598399,
+   "icon": "fa-building-o",
+   "color": "green"
+ }
+]

@@ -32,6 +32,29 @@
 		]
 	},
 	{
+		"title": "Gebäude",
+		"menu": [
+			{
+				"title": "2017",
+				"id": "kinvfog-buildings-2017",
+				"data": "data-kinvfog-buildings-2017",
+				"config": "config-kinvfog-buildings",
+				"type": "point",
+				"icon": "fa-building-o",
+				"color": "#3cc2ff"
+			},
+			{
+				"title": "2018",
+				"id": "kinvfog-buildings-2018",
+				"data": "data-kinvfog-buildings-2018",
+				"config": "config-kinvfog-buildings",
+				"type": "point",
+				"icon": "fa-building-o",
+				"color": "#3cc2ff"
+			}
+		]
+	},
+	{
 		"title": "Radwege",
 		"menu": [
 			{
@@ -62,17 +85,8 @@
 		]
 	},
 	{
-		"title": "Bauen",
+		"title": "todo...",
 		"menu": [
-			{
-				"title": "Gebäude",
-				"id": "kinvfog-buildings",
-				"data": "data-kinvfog",
-				"config": "config-kinvfog",
-				"type": "point",
-				"icon": "shield",
-				"color": "#3cc2ff"
-			},
 			{
 				"title": "Neubau von Schulen",
 				"id": "school-new",
