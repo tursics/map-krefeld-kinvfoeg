@@ -20,10 +20,10 @@
 		"icon": "icon"
 	},
 	"printerlabel": {
-		"top": "boundfrom",
+		"top": "type",
 		"middle": "address",
 		"middleFormat": "string",
-		"bottom": "boundto"
+		"bottom": ""
 	},
 	"search": {
 		"pattern": "title",

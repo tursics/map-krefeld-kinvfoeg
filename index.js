@@ -17,6 +17,10 @@ var baseURI = 'https://tursics.github.io/map-krefeld-kinvfoeg',
 function formatNumber(txt) {
 	'use strict';
 
+	if (isNaN(parseInt(txt, 10))) {
+		return '-';
+	}
+
 	txt = String(parseInt(txt, 10));
 	var sign = '',
 		pos = 0;
@@ -59,7 +63,7 @@ var printerLabel = {
 
 		str += '<div class="top ' + icon.options.markerColor + '">' + top + '</div>';
 		str += '<div class="middle">' + middlePrefix + middle + '</div>';
-		str += '<div class="bottom ' + icon.options.markerColor + '">' + data[format.bottom] + '</div>';
+		str += '<div class="bottom ' + icon.options.markerColor + '">' + ('' === format.bottom ? '' : data[format.bottom]) + '</div>';
 
 		this.layerPopup = L.popup(options)
 			.setLatLng(coordinates)
