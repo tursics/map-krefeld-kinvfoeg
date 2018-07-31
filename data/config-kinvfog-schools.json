@@ -1,0 +1,42 @@
+{
+	"receipt": {
+		"body": [
+			"<div class='full center bold' id='rectitle'></div>",
+			"<div class='full center' id='recschooltype'></div>",
+			"<div class='full center' id='recaddress'></div>",
+			"<div class='empty'></div>",
+			"<div><span class='half'>Gesamtbedarf bis 2022</span><span class='number'><span id='reccosts'></span> EUR</span></div>",
+			"<div><span class='full'>Einzelposten für <span id='recyear'></span>:</span></div>",
+			"<div class='full'>--------------------------------------------</div>",
+			"<div class='empty'></div>",
+			"<div class='full' id='recinnerPart'></div>",
+			"<div class='full'>--------------------------------------------</div>",
+			"<div class='empty'></div>"
+		],
+		"innerPart": [
+			"<div><span class='full bold'><span id='rectype'></span></span></div>",
+			"<div><span class='full'><span id='reccontent'></span></span></div>",
+			"<div><span class='full'><span id='recfinance'></span></span></div>",
+			"<div><span class='full'><span id='reccomments'></span></span></div>",
+			"<div class='empty'></div>"
+		],
+		"info": false
+	},
+	"marker": {
+		"color": "color",
+		"icon": "icon"
+	},
+	"printerlabel": {
+		"top": "title",
+		"middle": "costs",
+		"middlePrefix": "€",
+		"bottom": "schooltype"
+	},
+	"search": {
+		"pattern": "title",
+		"description": "type",
+		"data": "id",
+		"color": "color",
+		"icon": "icon"
+	}
+}

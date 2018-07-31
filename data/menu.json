@@ -70,6 +70,20 @@
 		]
 	},
 	{
+		"title": "Schulen",
+		"menu": [
+			{
+				"title": "noch in Arbeit",
+				"id": "kinvfog-schools",
+				"data": "data-kinvfog-schools",
+				"config": "config-kinvfog-schools",
+				"type": "point",
+				"icon": "fa-graduation-cap",
+				"color": "#3cc2ff"
+			}
+		]
+	},
+	{
 		"title": "Straßen",
 		"menu": [
 			{
@@ -80,29 +94,6 @@
 				"_type": "polygon",
 				"type": "point",
 				"icon": "fa-car",
-				"color": "#3cc2ff"
-			}
-		]
-	},
-	{
-		"title": "todo...",
-		"menu": [
-			{
-				"title": "Neubau von Schulen",
-				"id": "school-new",
-				"data": "data-schule-neubau",
-				"config": "config-schule-neubau",
-				"type": "point",
-				"icon": "shield",
-				"color": "#3cc2ff"
-			},
-			{
-				"title": "Schulsanierungen",
-				"id": "school-repair",
-				"data": "data-schule-bestand",
-				"config": "config-schule-bestand",
-				"type": "point",
-				"icon": "shield",
 				"color": "#3cc2ff"
 			}
 		]
