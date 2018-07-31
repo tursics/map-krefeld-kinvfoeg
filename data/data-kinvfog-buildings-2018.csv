@@ -1,6 +1,6 @@
 id;title;content;type;finance;costs;lat;lng;icon;color
-946;Kita Hermannstraße;Anpassung des Raumangebots;Sanierung;KInvFöG-Mittel;1600000;51.325029;6.551994;fa-building-o;yellow
-947;Kita Dieselstraße;Anpassung des Raumangebots;Sanierung;KInvFöG-Mittel;1800000;51.348277;6.525781;fa-building-o;yellow
-949;Kita Steckendorfer Straße;Dachstuhl Erneuerung;Sanierung;KInvFöG-Mittel;250000;51.338459;06.56841;fa-building-o;yellow
-953;Textilmuseum;Pumpen / Dämmung;Sanierung;KInvFöG-Mittel;16700;51.333801;6.636943;fa-building-o;yellow
-962;Rathaus;Pumpen / Dämmung;Sanierung;;16700;51.334011;6.558988;fa-building-o;yellow
+946;Kita Hermannstraße;Anpassung des Raumangebots;Sanierung;KInvFöG-Mittel;1600000;51.325029;6.551994;fa-building-o;orange
+947;Kita Dieselstraße;Anpassung des Raumangebots;Sanierung;KInvFöG-Mittel;1800000;51.348277;6.525781;fa-building-o;orange
+949;Kita Steckendorfer Straße;Dachstuhl Erneuerung;Sanierung;KInvFöG-Mittel;250000;51.338459;06.56841;fa-building-o;orange
+953;Textilmuseum;Pumpen / Dämmung;Sanierung;KInvFöG-Mittel;16700;51.333801;6.636943;fa-building-o;orange
+962;Rathaus;Pumpen / Dämmung;Sanierung;;16700;51.334011;6.558988;fa-building-o;orange
