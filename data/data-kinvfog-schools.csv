@@ -212,13 +212,13 @@ id;address;schooltype;title;content;type;2017;2018;2019;2020;2021;2022;finance;c
 226;Gießerpfad 2-10;Grundschule;Lindenschule;Sanierung Klassenräume;Sanierung;; ; ; ; ;x;Gute Schule 2020-Mittel;480000;;51.320251;6.536653;fa-graduation-cap;blue
 227;Gießerpfad 2-10;Grundschule;Lindenschule;Sanierung Sanitäranlagen;Sanierung;; ; ; ; ;x;;480000;;51.320251;6.536653;fa-graduation-cap;blue
 228;Gießerpfad 2-10;Grundschule;Lindenschule;Bauunterhalt< 10.000 Euro;Sanierung;;x;x;x;x;x;;480000;;51.320251;6.536653;fa-graduation-cap;blue
-230;Gießerpfad 2-10;Grundschule;St. Michael Schule;Schulhofsanierung ;Außenanlagen;;;;;;x;Gute Schule 2020-Mittel;315000;;51.319832;6.535928;fa-graduation-cap;blue
-231;Gießerpfad 2-10;Grundschule;St. Michael Schule;Ggf. Erweiterung auf Grundlage SEP u. Musterraumprogramm;SEP;; ; ; ; ; ;;315000;;51.319832;6.535928;fa-graduation-cap;blue
-232;Gießerpfad 2-10;Grundschule;St. Michael Schule;Digitalisierung;Digitalisierung;; ; ;x; ; ;Gute Schule 2020-Mittel;315000;;51.319832;6.535928;fa-graduation-cap;blue
-233;Gießerpfad 2-10;Grundschule;St. Michael Schule;Sanierung Klassenräume;Verkehrssicherheit;;x; ; ; ; ;Gute Schule 2020-Mittel;315000;;51.319832;6.535928;fa-graduation-cap;blue
-234;Gießerpfad 2-10;Grundschule;St. Michael Schule;Anstrich Eingangstüren;Gebäudehülle;;x; ; ; ; ;;315000;;51.319832;6.535928;fa-graduation-cap;blue
-235;Gießerpfad 2-10;Grundschule;St. Michael Schule;Erneuerung Bodenbelag;Verkehrssicherheit;;x; ; ; ; ;Gute Schule 2020-Mittel;315000;;51.319832;6.535928;fa-graduation-cap;blue
-236;Gießerpfad 2-10;Grundschule;St. Michael Schule;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;315000;;51.319832;6.535928;fa-graduation-cap;blue
+230;Gießerpfad 2-10b;Grundschule;St. Michael Schule;Schulhofsanierung ;Außenanlagen;;;;;;x;Gute Schule 2020-Mittel;315000;;51.319832;6.535928;fa-graduation-cap;blue
+231;Gießerpfad 2-10b;Grundschule;St. Michael Schule;Ggf. Erweiterung auf Grundlage SEP u. Musterraumprogramm;SEP;; ; ; ; ; ;;315000;;51.319832;6.535928;fa-graduation-cap;blue
+232;Gießerpfad 2-10b;Grundschule;St. Michael Schule;Digitalisierung;Digitalisierung;; ; ;x; ; ;Gute Schule 2020-Mittel;315000;;51.319832;6.535928;fa-graduation-cap;blue
+233;Gießerpfad 2-10b;Grundschule;St. Michael Schule;Sanierung Klassenräume;Verkehrssicherheit;;x; ; ; ; ;Gute Schule 2020-Mittel;315000;;51.319832;6.535928;fa-graduation-cap;blue
+234;Gießerpfad 2-10b;Grundschule;St. Michael Schule;Anstrich Eingangstüren;Gebäudehülle;;x; ; ; ; ;;315000;;51.319832;6.535928;fa-graduation-cap;blue
+235;Gießerpfad 2-10b;Grundschule;St. Michael Schule;Erneuerung Bodenbelag;Verkehrssicherheit;;x; ; ; ; ;Gute Schule 2020-Mittel;315000;;51.319832;6.535928;fa-graduation-cap;blue
+236;Gießerpfad 2-10b;Grundschule;St. Michael Schule;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;315000;;51.319832;6.535928;fa-graduation-cap;blue
 238;Mariannenstr. 29;Grundschule;Mariannenschule;Dach-  und Fassadensanierung;Gebäudehülle;; ; ;x; ;;;775000;;51.329765;6.570988;fa-graduation-cap;blue
 239;Mariannenstr. 29;Grundschule;Mariannenschule;Sanierung Klassenräume;Sanierung;; ; ;x; ;;;775000;;51.329765;6.570988;fa-graduation-cap;blue
 240;Mariannenstr. 29;Grundschule;Mariannenschule;Sanierung Sanitäranlagen ;Sanierung;; ;x; ; ;;Gute Schule 2020-Mittel;775000;;51.329765;6.570988;fa-graduation-cap;blue
@@ -530,378 +530,359 @@ id;address;schooltype;title;content;type;2017;2018;2019;2020;2021;2022;finance;c
 566;Lindenstr. 52;Gymnasium;Arndt-Gymnasium;Bauunterhalt < 10.000 Euro  (altes Fichte);Sanierung;;x;x;x;x;x;;2355000;;51.327749;6.560633;fa-graduation-cap;blue
 567;Lindenstr. 52;Gymnasium;Arndt-Gymnasium;Versammlungsstätte/Aula  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;Gute Schule 2020-Mittel;2355000;;51.327749;6.560633;fa-graduation-cap;blue
 568;Lindenstr. 52;Gymnasium;Arndt-Gymnasium;Prüfung Ausbau G 9;SEP;;;;;;;;2355000;;51.327749;6.560633;fa-graduation-cap;blue
-570;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Energetische Sanierung des Anbaus;Gebäudehülle; ;;x;;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-571;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Fassadenarbeiten/Gesimse Fortführung;Gebäudehülle; ;;x;;;;;;;;;fa-graduation-cap;blue
-572;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Digitalisierung;Digitalisierung; ;;;;x; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-573;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Erneuerung Hauptverteilung (Rest aus 2015);Brandschutz; ;x;;;;;;;;;;fa-graduation-cap;blue
-574;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Einbau RWA Treppenhäuser Altbau;Brandschutz;;;;x;;;;;;;;fa-graduation-cap;blue
-575;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Sanierung Sanitäranlagen;Sanierung;;;x;;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-576;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Sanierung naturwisschenschafltiche Räume;Sanierung;;x;;;;;;;;;;fa-graduation-cap;blue
-577;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Einbau RS-Türen Flure Altbau;Brandschutz;;;;x;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-578;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Sanierung Beleuchtung Altbau;Energetische Sanierung;;;;x;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-579;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Einbau BS-Türen zu Klassenräumen Altbau an Treppenhäusern;Brandschutz;;;;x;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-580;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;T30-Abtrennung Neubau/Altbau;Brandschutz;;;;x;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-581;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Fensteraustausch Turmzimmer, Treppenhaus, Eingangsbereich;Gebäudehülle;;;;;;x;;;;;;fa-graduation-cap;blue
-582;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Sanierung Klassenräume;Sanierung;;;x;;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-583;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Sanierung Treppenhäuser und Flure;Sanierung;;;x;;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-584;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Aktualisierung BS-Konzept (Rest aus 2017);Brandschutz;x;x;;;;;;;;;;fa-graduation-cap;blue
-585;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Turnhalle: Sanierung Sanitäranlagen;Sanierung;;;x;;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-586;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Erneuerung Pausensignalanlage;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-587;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Schulhofsanierung;Außenanlagen;; ;;x;; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-588;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-589;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Versammlungsstätte/Aula  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;;;;;fa-graduation-cap;blue
-590;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Prüfung Ausbau G 9;SEP;;;;;;;;;;;;fa-graduation-cap;blue
-591;;;Am Moltkeplatz;Gesamtbedarf bis 2022;2150000;;;;;;;;;;;;fa-graduation-cap;blue
-592;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Deckensanierung Pädag. Zentrum, Flure (Rest aus 2017);Sanierung;x;;;;;;;;;;;fa-graduation-cap;blue
-593;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Sanierung Klassenräume;Sanierung;;;;;x;;;;;;;fa-graduation-cap;blue
-594;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Erneuerung Unterverteilungen Neubau;Verkehrssicherheit;x;x;;;;;;;;;;fa-graduation-cap;blue
-595;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Sanierung Treppenhäuser und Flure;Sanierung;;;;;x;;;;;;;fa-graduation-cap;blue
-596;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Digitalisierung;Digitalisierung; ;;x;;; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-597;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Umsetzung BS-Konzept und Nutzungsänderung;Brandschutz;x;;;x;;;;;;;;fa-graduation-cap;blue
-598;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Erneuerung  Zaunanlage;Außenanlagen;;;x;;;;;;;;;fa-graduation-cap;blue
-599;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Sanierung naturwisschenschafltiche Räume;Sanierung;;x;x;x;;;;;;;;fa-graduation-cap;blue
-600;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Sanierung Sanitäranlagen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-601;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Dachsanierung Neubau ;Gebäudehülle;;;;;;;;;;;;fa-graduation-cap;blue
-602;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Erneuerung Fensteranlagen Neubau, 1. BA;Gebäudehülle;;;;;x;;;;;;;fa-graduation-cap;blue
-603;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;BMA, Rauchmeldertausch;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-604;Fabritiusstr. 15a/Turnhalle;Gymnasium;Gymnasium Fabritianum;Turnhalle, Erneuerung Hallenfenster + Sonnenschutz;Gebäudehülle; ;;;x;;;;;;;;fa-graduation-cap;blue
-605;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Turnhalle, Sanierung Sanitäranlagen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-606;Fabritiusstr. 15a/Turnhalle;Gymnasium;Gymnasium Fabritianum;Turnhalle, Heizung, Sanierung Hallendecke inkl. Beleuchtung;Sanierung;x;x;;;;;;;;;;fa-graduation-cap;blue
-607;Fabritiusstr. 15;Gymnasium;Gymnasium Fabritianum;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-608;Fabritiusstr. 15;Gymnasium;Gymnasium Fabritianum;Versammlungsstätte/Aula  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;;;;;fa-graduation-cap;blue
-609;Fabritiusstr. 15;Gymnasium;Gymnasium Fabritianum;Prüfung Ausbau G 9;SEP;;;;;;;;;;;;fa-graduation-cap;blue
-610;;;Gymnasium Fabritianum;Gesamtbedarf bis 2022;1745000;;;;;;;;;;;;fa-graduation-cap;blue
-611;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Sanierung naturwisschenschafltiche Räume;Sanierung;x;x;;;;x;;;;;;fa-graduation-cap;blue
-612;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erweiterung HAZ;Brandschutz; ;;;;;;;;;;;fa-graduation-cap;blue
-613;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Digitalisierung;Digitalisierung; ;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-614;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erneuerung Unterverteilungen;Verkehrssicherheit;x;;;;;x;;;;;;fa-graduation-cap;blue
-615;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Sanierung Klassenräume;Sanierung; ;;;x;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-616;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erneuerung Flurdecken;Brandschutz; ;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-617;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erhöhung aller Treppengeländer;Verkehrssicherheit;;x;;;;;;;;;;fa-graduation-cap;blue
-618;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Fassade Treppenhaus D;Gebäudehülle;;;;x;;;;;;;;fa-graduation-cap;blue
-619;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Fassadensanierung, Umbau Dachüberstände, Blitzschutz;Gebäudehülle;;;;;;x;;;;;;fa-graduation-cap;blue
-620;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Schottung Treppenhaus D/C im UG;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-621;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erneuerung  Unterverteilung ELT;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-622;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Sanierung Sanitäranlagen ;Sanierung;;x;;;;;;;;;;fa-graduation-cap;blue
-623;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Sonnenschutzanlage Bauteil D, Südseite;Sanierung;;;x;;;;;;;;;fa-graduation-cap;blue
-624;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Sanierung Aula, Flure, Lehrerzimmer;Verkehrssicherheit;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-625;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Umsetzung Brandschutzerfordernisse;Brandschutz;;;;;;x;;;;;;fa-graduation-cap;blue
-626;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erweiterung (Planung);SEP;;;;;;;;;;;;fa-graduation-cap;blue
-627;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Versammlungsstätte/Aula  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;;;;;fa-graduation-cap;blue
-628;Nikolaus-Groß-Str. 31/Turnhhalle;Gymnasium;GY-Am Stadtpark;Turnhalle, Sanierung Hallenboden inkl. Geräteraum;Sanierung;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-629;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Turnhalle, Sanierung Sanitäranlagen ;Sanierung;;x;;;;;;;;;;fa-graduation-cap;blue
-630;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-631;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Prüfung Ausbau G 9;SEP;;;;;;;;;;;;fa-graduation-cap;blue
-632;;;GY-Am Stadtpark;Gesamtbedarf bis 2022;1540000;;;;;;;;;;;;fa-graduation-cap;blue
-633;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung Lüftungsteuerung;Sanierung;;x; ; ;;;;;;;;fa-graduation-cap;blue
-634;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Digitalisierung;Digitalisierung; ;x; ; ;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-635;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Erweiterung HAZ;Brandschutz;x;x; ; ;;;;;;;;fa-graduation-cap;blue
-636;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Herrichtung Selbstlernzentrum;Nutzung;x; ; ; ;;;;;;;;fa-graduation-cap;blue
-637;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung naturwisschenschafltiche Räume;Sanierung;;;x; ;;;;;;;;fa-graduation-cap;blue
-638;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Außenliegender Sonnenschutz;Nutzung;; ;x; ;;;;;;;;fa-graduation-cap;blue
-639;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung kleiner Übungsraum;Sanierung;;x; ; ;;;;;;;;fa-graduation-cap;blue
-640;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung Klassenräume;Sanierung;;x; ; ;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-641;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Erneuerung Trafoschaltanlage;Brandschutz;x;x; ;;;;;;;;;fa-graduation-cap;blue
-642;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung Flurbereiche;Sanierung;;x; ; ;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-643;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung Einrichtung, Chemie Übung;Sanierung;;x; ;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-644;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung Sanitäranlagen;Sanierung;; ; ;;x;;;;;;;fa-graduation-cap;blue
-645;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Erneuerung  Aufzug ;Sanierung;; ; ;;;x;;;;;;fa-graduation-cap;blue
-646;Joh. Blum Str. 101/Turnhalle;Gymnasium;Maria-Sybilla-Merian;Turnhalle,  Dach- und Fassadensanierung;Gebäudehülle;;x; ; ;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-647;Joh. Blum Str. 101/Turnhalle;Gymnasium;Maria-Sybilla-Merian;Turnhalle,  Erneuerung Warmwasserbereitung;Sanierung;; ; ; ;;x;;;;;;fa-graduation-cap;blue
-648;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Turnhalle, Sanierung Sanitäranlagen;Sanierung;; ; ;;x;;;;;;;fa-graduation-cap;blue
-649;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-650;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Versammlungsstätte Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;;;;;fa-graduation-cap;blue
-651;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Prüfung Ausbau G 9;SEP;;;;;;;;;;;;fa-graduation-cap;blue
-652;;;Maria-Sybilla-Merian;Gesamtbedarf bis 2022;1900000;;;;;;;;;;;;fa-graduation-cap;blue
-653;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;BS-Abkofferung Stahlträger UG;Brandschutz;x; ;x;;;;;;;;;fa-graduation-cap;blue
-654;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Erstellung BS-Konzept;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-655;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Einbau BS-Türen UG u. Brandschotts;Brandschutz;;;x;;;;;;;;;fa-graduation-cap;blue
-656;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Digitalisierung;Digitalisierung; ;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-657;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Einbau BS-Klassenzimmertüren an Treppenhäusern;Brandschutz;;;x;;;;;;;;;fa-graduation-cap;blue
-658;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Sanierung Klassenräume;Sanierung;;;;x;;;;;;;;fa-graduation-cap;blue
-659;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Sanierung Sanitäranlagen;Sanierung;;;;x;;;;;;;;fa-graduation-cap;blue
-660;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Sanierung Flure und Treppenhäuser;Sanierung;;;;x;;;;;;;;fa-graduation-cap;blue
-661;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Erweiterung BMA Neubau (Rest aus 2017);Brandschutz;x;;;;;;;;;;;fa-graduation-cap;blue
-662;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Austausch Fenster 2. BA;Gebäudehülle;;;;;x;x;;;;;;fa-graduation-cap;blue
-663;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Errichtung Lehrküche KG;Nutzung;;x;;;;;;;;;;fa-graduation-cap;blue
-664;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Erneuerung Lüftungsschaltschrank;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-665;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Schulhofsanierung;Außenanlagen;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-666;Moerser Str. 36/Turnhalle;Gymnasium;Gymnasium Ricarda-Huch;Turnhalle,  Erneuerung Hauptverteilung;Verkehrssicherheit;x;;;;;;;;;;;fa-graduation-cap;blue
-667;Moerser Str. 36/Turnhalle;Gymnasium;Gymnasium Ricarda-Huch;Turnhalle, Sanierung Hallenbeleuchtung;Energetische Sanierung; ;x;;;;;;;;;;fa-graduation-cap;blue
-668;Moerser Str. 36/Turnhalle;Gymnasium;Gymnasium Ricarda-Huch;Turnhalle,  Erneuerung Übergabe SWK, Eigenanteil;Sanierung;x;;;;;;;;;;;fa-graduation-cap;blue
-669;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Turnhalle, Sanierung Sanitäranlagen;Sanierung;;;;x;;;;;;;;fa-graduation-cap;blue
-670;Moerser Str. 36/Turnhalle;Gymnasium;Gymnasium Ricarda-Huch;Turnhalle, Erneuerung HAZ;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-671;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Ersatz/Austausch Pavillon;Sanierung;;;;;x;;;;;;;fa-graduation-cap;blue
-672;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-673;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Prüfung Ausbau G 9;SEP;;;;;;;;;;;;fa-graduation-cap;blue
-674;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Versammlungsstätte/Aula  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;;;;;fa-graduation-cap;blue
-675;;;Gymnasium Ricarda-Huch;Gesamtbedarf bis 2022;1775000;;;;;;;;;;;;fa-graduation-cap;blue
-676;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Fenstererneuerung Südflügel inkl. Verschattung (Rest aus 2017);Gebäudehülle;x;x;;;;;;;;;;fa-graduation-cap;blue
-677;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Montage RW-Außentreppe, inkl. Brandschutzkonzept;Brandschutz;x;x;;;;;;;;;;fa-graduation-cap;blue
-678;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Anpassung Raumkapazität (Machbarkeitsstudie);Neubau/SEP;;x;;;;;;;Umfassende Standortbetrachtung notwendig, ggf. Einbeziehung Standort Rote-Kreuz-Str,;;;fa-graduation-cap;blue
-679;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erweiterung Lehrerzimmer;Neubau;;x;;;;;;;;;;fa-graduation-cap;blue
-680;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erneuerung Trinkwasser Eingangsstrecke Kaiserplatz 31;Verkehrssicherheit; ; ;x;;;;;;;;;fa-graduation-cap;blue
-681;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Kanalsanierung Schulhof;Sanierung;; ;x;;;;;;;;;fa-graduation-cap;blue
-682;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Schottung Treppenhaus 2.Teil;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-683;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erneuerung NW-Einr., R. 1 BI 2, Biologie Übung, Schülerarbeitsplätze;Sanierung;; ;x;;;;;;;;;fa-graduation-cap;blue
-684;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Sanierung Bodenbelag;Sanierung;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-685;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Digitalisierung;Digitalisierung; ;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-686;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erneuerung NW-Einr., R. 1 CH 2, Chemie Übung;Sanierung;; ;x;;;;;;;;;fa-graduation-cap;blue
-687;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erneuerung NW-Einr., R. 1 CH 1, Chemie Übung;Sanierung;; ;x;;;;;;;;;fa-graduation-cap;blue
-688;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Nordtrakt, Sanierung Dach und Oberlichter;Sanierung;; ;;;x;;;;;;;fa-graduation-cap;blue
-689;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erw. Alarmierung;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-690;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erneuerung Heizzentrale, Austausch WWB u. Thermostatventile;Sanierung;; ;;;;x;;;;;;fa-graduation-cap;blue
-691;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Sanierung Klassenräume;Sanierung;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-692;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Sanierung Parkett Forum/Mensa;Sanierung;;x;;;;;;;;;;fa-graduation-cap;blue
-693;Kaiserplatz 31-50/Turnhalle;Gesamtschule;Gesamtschule Kaiserplatz;Turnhalle, Erneuerung Lüftungssteuerung;Sanierung;; ;;;;x;;;;;;fa-graduation-cap;blue
-694;Kaiserplatz 31-50/Turnhalle;Gesamtschule;Gesamtschule Kaiserplatz;Turnhalle, Einbau LED-Beleuchtung große Turnhalle;Energetische Sanierung;; ;;;;x;;;;;;fa-graduation-cap;blue
-695;Kaiserplatz 31-50/Turnhalle;Gesamtschule;Gesamtschule Kaiserplatz;Turnhalle, Einbau Hocheffizienzpumpe;Energetische Sanierung;;x;;;;;;;;;;fa-graduation-cap;blue
-696;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-697;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Versammlungsstätte/Forum Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;; ;;;;;;;fa-graduation-cap;blue
-698;;;Gesamtschule Kaiserplatz;Gesamtbedarf bis 2022;6880000;;;;;;;;;;;;fa-graduation-cap;blue
-699;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Umbau Sekretariat;Nutzung;x;x;;;;;;;;;;fa-graduation-cap;blue
-700;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Erstellung/Umsetzung BS-Konzept (Rest aus 2017);Brandschutz; ;x;;;;;;;;;;fa-graduation-cap;blue
-701;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;BS, RS-Türen;Brandschutz;x;;x;;;;;;;;;fa-graduation-cap;blue
-702;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Sanierung Klassenräume;Sanierung;;;;x;;;;;;;;fa-graduation-cap;blue
-703;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Digitalisierung;Digitalisierung; ;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-704;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Einzelraumregelung;Energetische Sanierung; ;;x;;;;;;;;;fa-graduation-cap;blue
-705;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Sanierung Gründach Unterrichtsturm II;Gebäudehülle;;;;;x;;;;;;;fa-graduation-cap;blue
-706;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Erweiterung Schulstandort, Planung;Neubau/SEP;;;;;;;;;;;;fa-graduation-cap;blue
-707;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Sanierung Treppenhäuser und Flure;Sanierung;;;;x;;;;;;;;fa-graduation-cap;blue
-708;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-709;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Versammlungsstätte Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;;;;;fa-graduation-cap;blue
-710;;;Kurt-Tucholsky;Gesamtbedarf bis 2022;1180000;;;;;;;;;;;;fa-graduation-cap;blue
-711;Reepenweg 40;Gesamtschule;Robert-Jungk;Erweiterung HAZ (Rest aus 2017);Brandschutz;x;x;;;;;;;;;;fa-graduation-cap;blue
-712;Reepenweg 40;Gesamtschule;Robert-Jungk;Austausch Mittelspannungs-Trafoanlage;Verkehrssicherheit;x;x;;;;;;;;;;fa-graduation-cap;blue
-713;Reepenweg 40;Gesamtschule;Robert-Jungk;Digitalisierung;Digitalisierung; ;;x;;; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-714;Reepenweg 40;Gesamtschule;Robert-Jungk;Sicherheitsbeleuchtung, Austausch Batterie;Verkehrssicherheit;;;;;;x;;;;;;fa-graduation-cap;blue
-715;Reepenweg 40;Gesamtschule;Robert-Jungk;Austausch Decken in Fluren;Sanierung;;;x;;;;;;;;;fa-graduation-cap;blue
-716;Reepenweg 40;Gesamtschule;Robert-Jungk;Brandschutztüren;Brandschutz;x;x;;;;;;;;;;fa-graduation-cap;blue
-717;Reepenweg 40;Gesamtschule;Robert-Jungk;Sanierung Flure;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-718;Reepenweg 40;Gesamtschule;Robert-Jungk;2. Rettungsweg Verwaltung;Brandschutz;x;x;;;;;;;;;;fa-graduation-cap;blue
-719;Reepenweg 40;Gesamtschule;Robert-Jungk;Ertüchtigung RLT inkl. Schottung (Rest aus 2017);Brandschutz;x;x;;;;;;;;;;fa-graduation-cap;blue
-720;Reepenweg 40;Gesamtschule;Robert-Jungk;Sanierung Sanitäranalgen Haupteingang;Sanierung;;;;;x;;;;;;;fa-graduation-cap;blue
-721;Reepenweg 40;Gesamtschule;Robert-Jungk;Erneuerung Fensteranlage im EG;Gebäudehülle;;;x;;;;;;;;;fa-graduation-cap;blue
-722;Reepenweg 40;Gesamtschule;Robert-Jungk;Sanierung Flachdach;Gebäudehülle;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-723;Reepenweg 40;Gesamtschule;Gesamtschule Robert-Jungk;Erweiterung und Anpassung Schulstandort (u. a. Oberstufe Kerken), Planung;SEP;x;;;;;;;;;;;fa-graduation-cap;blue
-724;Reepenweg 40;Gesamtschule;Robert-Jungk;Sanierung Klassenräume;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-725;Reepenweg 40/Turnhalle;Gesamtschule;Robert-Jungk;Turnhalle, Erneuerung Übergabe SWK, Eigenanteil;Verkehrssicherheit;x;;;;;;;;;;;fa-graduation-cap;blue
-726;Reepenweg 40/Turnhalle;Gesamtschule;Robert-Jungk;Turnhalle, Erneuerung Beleuchtung LED (Förderprojekt);Energetische Sanierung;x;;;;;;;;;;;fa-graduation-cap;blue
-727;Reepenweg 40/Turnhalle;Gesamtschule;Robert-Jungk;Turnhalle, Umbau/Erw. BMA;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-728;Reepenweg 40/Turnhalle;Gesamtschule;Robert-Jungk;Turnhalle, Erneuerung Lüftungsschaltschränke;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-729;Reepenweg 40;Gesamtschule;Robert-Jungk;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-730;Reepenweg 41;Gesamtschule;Robert-Jungk;Versammlungsstätte PZ/Aula   Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;;;;;fa-graduation-cap;blue
-731;;;Robert-Jungk;Gesamtbedarf bis 2022;8375000;;;;;;;;;;;;fa-graduation-cap;blue
-732;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Ersatz Mietpavillon u. Erweiterung zur Deckung akuter Bedarfe;SEP;;x; ;;;;;;;;;fa-graduation-cap;blue
-733;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Mittelfristig: Prüfung weiterer Ausbau oder weiterer Standort im Rahmen SEP Förderschule;SEP;;;;;;;;;;;;fa-graduation-cap;blue
-734;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Sanierung Flurbereiche;Sanierung;;; ;;;x;;;;;;fa-graduation-cap;blue
-735;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Sanierung Sanitäranlagen;Sanierung;;; ;;;x;;;;;;fa-graduation-cap;blue
-736;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Digitalisierung;Digitalisierung; ;; ;x;; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-737;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Betonsanierung Fassade;Gebäudehülle;;; ;;;x;;;;;;fa-graduation-cap;blue
-738;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Sanierung Klassenräume;Sanierung;;; ;;;x;;;;;;fa-graduation-cap;blue
-739;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Ersatz Klettergerüst;Außenanlagen;;x; ;;;;;;;;;fa-graduation-cap;blue
-740;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-741;;;Franz-Stollwerck-Schule;Gesamtbedarf bis 2022;575000;;;;;;;;;;;;fa-graduation-cap;blue
-742;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Austausch Treppenhausdecke u. Flurdecken inkl. Beleuchtung;Sanierung; ;;x;;;;;;;;;fa-graduation-cap;blue
-743;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Sanierung Klassenräume;Sanierung; ;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-744;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;BS-Ertüchtigung Keller;Brandschutz; ;;;;;x;;;;;;fa-graduation-cap;blue
-745;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Sonnenschutz Westseite u. Verwaltung;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-746;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Digitalisierung (beide Standorte);Digitalisierung; ;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-747;Alte Flur 21/Turnhalle;Förderschule;Fried.-von-Bodelschwingh;Turnhalle, Sanierung Sportboden;Sanierung;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-748;Alte Flur 21/Turnhalle;Förderschule;Fried.-von-Bodelschwingh;Turnhalle, Erneuerung Fenster;Gebäudehülle;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-749;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Sanierung Klassenräume;Sanierung; ;;;;x;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-750;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Hauptgebäude, Dachsanierung;Gebäudehülle; ;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-751;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Abkofferung für Heizungsleitung;Sanierung;;;;;x;;;;;;;fa-graduation-cap;blue
-752;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Sanierung Sanitäranlagen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-753;Breslauer Str. 280;Förderschule;Fried.-von-Bodelschwingh;kurzfristig Herrichtung von Räumen in der Breslauer Str.;SEP;;;;;;;;;;;;fa-graduation-cap;blue
-754;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Mittelfristig: Prüfung weiterer Ausbau oder weiterer Standort im Rahmen SEP Förderschule;SEP;;;;;;;;;;;;fa-graduation-cap;blue
-755;Stettiner Str. 1/Turnhalle;Förderschule;Fried.-von-Bodelschwingh;Lehrbad/Turnhalle, Neuer Abschluss Eingangsbereich;;;;;x;;;;;;;;fa-graduation-cap;blue
-756;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Turnhalle, Sanierung Sanitäranlagen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-757;Stettiner Str. 1/Turnhalle;Förderschule;Fried.-von-Bodelschwingh;Lehrbad/Turnhalle, Einbau Fluchttüren am Pausengang;Brandschutz;;;;;;x;;;;;;fa-graduation-cap;blue
-758;Alte Flur 21/Turnhalle;Förderschule;Fried.-von-Bodelschwingh;Turnhalle Alte Flur, Erneuerung Prallschutzwände;Verkehrssicherheit;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-759;Alte Flur 21/Turnhalle;Förderschule;Fried.-von-Bodelschwingh;Turnhalle Alte Flur, Austausch Treppenhaustüren;Verkehrssicherheit;x;x;;;;;;;;;;fa-graduation-cap;blue
-760;beide Standorte;Förderschule;Fried.-von-Bodelschwingh;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-761;;;Fried.-von-Bodelschwingh;Gesamtbedarf bis 2022;995000;;;;;;;;;;;;fa-graduation-cap;blue
-762;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Beseitigung BS-Mängel 2. OG und UG;Brandschutz;x;;;;;x;;;;;;fa-graduation-cap;blue
-763;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Erweiterung Alarmierung aufgr. TÜV-Mängeln (Rest aus 2017);Brandschutz;x;;;;;;;;;;;fa-graduation-cap;blue
-764;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Digitalisierung;Digitalisierung; ;;x;;; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-765;Inrather Str. 611;Förderschule;Erich Kästner-Schule;HAZ-Erweiterung;Brandschutz; ;x;;;;;;;;;;fa-graduation-cap;blue
-766;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Austausch Bodenbelag Überdachung ;Verkehrssicherheit;x;x;;;;;;;;;;fa-graduation-cap;blue
-767;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Sanierung Bodenbelag, Anstriche Flure, Treppenhaus;Sanierung; ;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-768;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Dachsanierung Überdachung;Gebäudehülle;;x;;;;;;;;;;fa-graduation-cap;blue
-769;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Ersatz Seitenteile Überdachung;Gebäudehülle;;x;;;;;;;;;;fa-graduation-cap;blue
-770;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Sanierung Sanitäranlagen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-771;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Nutzungsänderung: Neuer Werkraum u. Büroräume;Nutzung;;;;;;x;;;;;;fa-graduation-cap;blue
-772;Inrather Str. 611;Förderschule;Erich Kästner-Schule;TurnhalleSanierung Sanitäranlagen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-773;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Schulhofsanierung/Einzäunung  des Schulhofes;Außenanlagen;;;x;;;;;;;;;fa-graduation-cap;blue
-774;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Nebengebäude, Erneuerung Fensteranlage;Gebäudehülle;;;x;;;;;;;;;fa-graduation-cap;blue
-775;Inrather Str. 612;Förderschule;Erich Kästner-Schule;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-776;;;Erich Kästner-Schule;Gesamtbedarf bis 2022;730000;;;;;;;;;;;;fa-graduation-cap;blue
-777;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Umsetzung Brandschau, Erneuerung Sprachalarmierung;Brandschutz; ;x;;;;;;;;;;fa-graduation-cap;blue
-778;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Digitalisierung;Digitalisierung; ;;;;;x;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-779;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Sanierung Klassenräume;Sanierung; ;;;x;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-780;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Austausch Eingangstüren und Fenster;Sanierung; ;;;x;;;;;;;;fa-graduation-cap;blue
-781;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Sanierung Flure;Sanierung; ;;;x;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-782;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Sanierung Grundleitungen;Sanierung;;;;;;;;;;;;fa-graduation-cap;blue
-783;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Erneuerung Thermostatventile;Energetische Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-784;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Dämmung oberste Geschossdecke;Energetische Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-785;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Dachsanierung;Gebäudehülle;;;;;;x;;;;;;fa-graduation-cap;blue
-786;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Prüfung Raumkapazität im Rahmen SEP Förderschulen;SEP;;;;;;;;;;;;fa-graduation-cap;blue
-787;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-788;;;Am Uerdinger Rundweg;Gesamtbedarf bis 2022;530000; ;;;;;;;;;;;fa-graduation-cap;blue
-789;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erweiterung BMA;Brandschutz;x;x;x;;;;;;;;;fa-graduation-cap;blue
-790;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Beseitigung Brandschutzmängel;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-791;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Digitalisierung;Digitalisierung; ;;;;x; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-792;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Umsetzung BS-Konzept;Brandschutz;;;;;;x;;;;;;fa-graduation-cap;blue
-793;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;diverse Sanierungen erf. lt. Aufstellung;Sanierung; ;;;;;;;;;;;fa-graduation-cap;blue
-794;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erweiterung, Hochbau  (Prüfung Raumbestand);Neubau/SEP; ;;;x;x;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-795;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erweiterung, Tiefbau (Prüfung Raumbestand);Neubau/SEP; ;;; ;x;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-796;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erweiterung, Einrichtung (Prüfung Raumbestand);Neubau/SEP; ;;;x;;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-797;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung Flurbereiche;Sanierung;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-798;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erneuerung Unterverteilungen;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-799;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Anschluss Schaltschrank;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-800;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erneuerung RWAs;Brandschutz;;;;;;x;;;;;;fa-graduation-cap;blue
-801;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung Chemie Vorbereitung;Sanierung;;x;;;;;;;;;;fa-graduation-cap;blue
-802;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Wärmedämmung Überstand Eingang;Energetische Sanierung;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-803;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung Klassenräume;Sanierung;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-804;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Beton- u. Fassadensanierung;Sanierung;;;;x;;;;;;;;fa-graduation-cap;blue
-805;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erneuerung Trafostation;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-806;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung NW-Einrichtung, R. 00.17, Biologie Übung;Sanierung/SEP;;;;;;x;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-807;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung NW-Einrichtung, R. 00.14, Chemie Übung;Sanierung/SEP;;;;;x;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-808;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung NW-Einrichtung, R. 00.32, Chemie Übung;Sanierung/SEP;;x;;;;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-809;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung Attika (Rest);Sanierung;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-810;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Dachsanierung;Gebäudehülle;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-811;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erneuerung / Modernisierung der Aufzugsanlage;Sanierung;;;x;;;;;;;;;fa-graduation-cap;blue
-812;Alte Krefelder Str. 93/Turnhalle;Berufskolleg;BK-Uerdingen;Turnhalle, Umstellung Beleuchtung auf LED;Energetische Sanierung;x;;;;;;;;;;;fa-graduation-cap;blue
-813;Alte Krefelder Str. 93/Turnhalle;Berufskolleg;BK-Uerdingen;Turnhalle, Erneuerung Prallschutz;Sanierung;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-814;Alte Krefelder Str. 93/Turnhalle;Berufskolleg;BK-Uerdingen;Turnhalle, Sanierung Hallenboden;Sanierung;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-815;Alte Krefelder Str. 93/Turnhalle;Berufskolleg;BK-Uerdingen;Turnhalle, Erneuerung Regenrohre in Zwischendecke;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-816;Alte Krefelder Str. 93/Turnhalle;Berufskolleg;BK-Uerdingen;Turnhalle, Erneuerung Warmwasserbereitung;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-817;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-818;;;BK-Uerdingen;Gesamtbedarf bis 2022;7275000;;;;;;;;;;;;fa-graduation-cap;blue
-819;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Neue Gefahrstofflagerschränke versch. Labore;Verkehrssicherheit;x;;;;;;;;;;;fa-graduation-cap;blue
-820;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;BMA/EMA - Mängelbeseitigung ;Brandschutz; ;x;;;;;;;;;;fa-graduation-cap;blue
-821;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;10 Flachdächer, BS-Türen;Brandschutz; ;x;;;;;;;;;;fa-graduation-cap;blue
-822;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Öffnen 2. RW-Bypasstüren in allen Etagen und Haus A + B;Brandschutz;;;;;;x;;;;;;fa-graduation-cap;blue
-823;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Sanierung bzw. Neugestaltung Cafeteria mit Küche;Nutzung;;;;;;;;;;;;fa-graduation-cap;blue
-824;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Schreinerei, Erneuerung Funkenlöschanlage;Brandschutz;;;;;;x;;;;;;fa-graduation-cap;blue
-825;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Trinkwasserverteiler ;Sanierung;x;;;;;;;;;;;fa-graduation-cap;blue
-826;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Erneuerung Feuerlöschleitung, Überflurhydranten;Brandschutz;x; ;;;;;;;;;;fa-graduation-cap;blue
-827;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Digitalisierung;Digitalisierung; ;x;;;; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-828;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Erneuerung NW-Einr., R. 215, Chemie Labor;Sanierung/SEP;;;;x;;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-829;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Erneuerung NW-Einr., R. 204, Chemie Labor;Sanierung/SEP;;;;x;;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-830;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Erneuerung NW-Einr., R. 203, Chemie Labor;Sanierung/SEP;;;;x;;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-831;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;statische Prüfung Decken, ggf. Erneuerung;Verkehrssicherheit;;;x;;;;;;;;;fa-graduation-cap;blue
-832;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Sanierung Sanitäranlagen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-833;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;HM-Wohnung, Schimmelsanierung;Sanierung;;;;;x;;;;;;;fa-graduation-cap;blue
-834;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Sanierung Bodenbelag Flure;Sanierung;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-835;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Sanierung Klassenäume;Sanierung;;;;;x;;;;;;;fa-graduation-cap;blue
-836;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Prüfung Raumbestand, einschl. Pavillon-Klassen;SEP;;;;;;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-837;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-838;;;BK-Glockenspitz;Gesamtbedarf bis 2022;2655000;;;;;;;;;;;;fa-graduation-cap;blue
-839;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung NW-Einrichtung R. B 306 Chemie Übung;Sanierung;x;;;;;;;;;;;fa-graduation-cap;blue
-840;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Digitalisierung;Digitalisierung; ;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-841;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Installation Sicherheitsbeleuchtung;Verkehrssicherheit;x;x;;;;;;;;;;fa-graduation-cap;blue
-842;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;"Bt. B: ""Italo-Bau"" BS-Sanierung, Verkleidung der Stützenköpfe";Brandschutz;;;;;x;;;;;;;fa-graduation-cap;blue
-843;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Einbau BS-Türen;Brandschutz;;;x;;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-844;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Geländererhöhung Altbau, Treppenhaus T2;Verkehrssicherheit;x;x;;;;;;;;;;fa-graduation-cap;blue
-845;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Personenaufzug (behindertenger. Zugang);Nutzung;;;;;;;;;;;;fa-graduation-cap;blue
-846;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Aufschaltung und Erweiterung BMA, Rauchmeldertausch;Brandschutz;x;x;;;;;;;;;;fa-graduation-cap;blue
-847;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Austausch Leuchten gegen LED, Nähräume;Energetische Sanierung;;x;;;;;;;;;;fa-graduation-cap;blue
-848;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung NW-Einr., R. B 202, Biologie Hörsaal, Lehrertisch;Sanierung;;;x;;;;;;;;;fa-graduation-cap;blue
-849;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung NW-Einr., R. B 302, Chemie Hörsaal, Lehrertisch, Schülertische;Sanierung;;;x;;;;;;;;;fa-graduation-cap;blue
-850;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;BT B, Sanierung Klassenräume;Sanierung;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-851;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Sanierung Sanitäranlagen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-852;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung Fassade u. Fenster Altbau;Gebäudehülle;;;x;;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-853;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung Aufzug;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-854;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung NW-Einr., R. C 027, Chemie Übung;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-855;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Prüfung Raumbestand;SEP;;;;;;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-856;Girmesgath 131/Turnhalle;Berufskolleg;BK-Vera-Beckers;Turnhalle, Erneuerung Lüftungssteuerung;Sanierung; ;;x;;;;;;;;;fa-graduation-cap;blue
-857;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Turnhalle, Sanierung Sanitäranlagen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-858;Girmesgath 131/Turnhalle;Berufskolleg;BK-Vera-Beckers;Turnhalle, Sanierung Hallenbeleuchtung (Umst. auf LED);Energetische Sanierung;x;;;;;;;;;;;fa-graduation-cap;blue
-859;Westparkstr. 92-96;Berufskolleg;BK-Vera-Beckers;NG Westparkstr. (Miwi), BS-Maßnahmen;Brandschutz;;;;;;x;;;;;;fa-graduation-cap;blue
-860;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-861;;;BK-Vera-Beckers;Gesamtbedarf bis 2022;2405000;;;;;;;;;;;;fa-graduation-cap;blue
-862;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Sanierung Behinderten-WC;Sanierung; ;;x;;;;;;;;;fa-graduation-cap;blue
-863;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;HAZ, Bauteile E (Rest aus 2017);Brandschutz;x;;;;;;;;;;;fa-graduation-cap;blue
-864;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Digitalisierung;Digitalisierung; ;;;;x; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-865;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Bauteil A, Schottung Treppenhaus (Rest aus 2017);Brandschutz;x;x;;;;;;;;;;fa-graduation-cap;blue
-866;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Energetische Sanierung Außenhülle Bt. A/B (Beginn in 2017);Energetische Sanierung;x;;;;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-867;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;D-Trakt, Austausch Leuchten gegen LED;Energetische Sanierung;;x;;;;;;;;;;fa-graduation-cap;blue
-868;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Sanierung Klassenräume;Sanierung;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-869;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Montage Sekuranten;Verkehrssicherheit;;;x;;;;;;;;;fa-graduation-cap;blue
-870;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Prüfung Raumbestand, einschl. Pavillon-Klassen;SEP;;;;;;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-871;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Sanierung Flure und Treppenhäuser;Sanierung;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-872;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Dachdämmung HM-Haus;Energetische Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-873;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Sanierung Fassade Verbindungsgang BT A/B;Gebäudehülle;;;;x;;;;;;;;fa-graduation-cap;blue
-874;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;BT A, Dachsanierung;Gebäudehülle;;;;;x;;;;;;;fa-graduation-cap;blue
-875;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Errichtung neuer NW-Raum;SEP;;;;;;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-876;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Einbau Hocheffizienzpumpe;Energetische Sanierung;;x;;;;;;;;;;fa-graduation-cap;blue
-877;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Herrichtung Innenhof (Bauhausjahr);Außenanlagen;;;;x;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-878;Neuer Weg 121/Turnhalle;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Sanierung Hallenboden und Prellwände;Sanierung; ;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-879;Neuer Weg 121/Turnhalle;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Energetische Sanierung Außenhülle (Beginn in 2017);Energetische Sanierung;x;;;;;;KInvFöG-Mittel;;;;;fa-graduation-cap;blue
-880;Neuer Weg 121/Turnhalle;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Sanierung Duschen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-881;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Sanierung Behinderten-WC;Sanierung;;;;;x;;;;;;;fa-graduation-cap;blue
-882;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Sanierung Klassenräume;Sanierung; ;;;;x; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-883;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule; Digitalisierung;Digitalisierung; ;;;;x; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-884;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Sanierung Flure;Sanierung; ;;;;x; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-885;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Innere Schottung EG an HM-Loge;Brandschutz;;;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-886;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Sanierung Sanitäranlagen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-887;Am Konnertzfeld 19/Turnhalle;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Sanierung Hallenboden;Sanierung;;;;x;;;;;;;;fa-graduation-cap;blue
-888;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Sanierung Sanitäranlagen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-889;Am Konnertzfeld 19/Turnhalle;Berufskolleg;BK-Kaufmannsschule;Prüfung Raumbestand;SEP;;;;;;;;;Abhängig von SEP BK;;;fa-graduation-cap;blue
-890;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-891;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Versammlungsstätte/Aula  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;;;;;fa-graduation-cap;blue
-892;;;BK-Kaufmannsschule;Gesamtbedarf bis 2022;4690000;;;;;;;;;;;;fa-graduation-cap;blue
-893;Horkesgath 33;Realschule ;Realschule Horkesgath;Hausmeister-Bungalow 2: Sanierung Flachdach, einschl. Attika-Dämmung;Gebäudehülle; ;;;;x;;;;;;;fa-graduation-cap;blue
-894;Horkesgath 33;Realschule ;Realschule Horkesgath;Einbau BS-Abschnitte 1.Teil;Brandschutz; ;;x;;;;;;;;;fa-graduation-cap;blue
-895;Horkesgath 33;Realschule ;Realschule Horkesgath;Einbau BS-Abschnitte 2.Teil Planung;Brandschutz;;;;x;;;;;;;;fa-graduation-cap;blue
-896;Horkesgath 33;Realschule ;Realschule Horkesgath;Digitalisierung (anteilig vom 124000);Digitalisierung; ;;;;x; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-897;Horkesgath 33;Realschule ;Realschule Horkesgath;Schottung TGA-Durchbrüche;Brandschutz;;;x;;;;;;;;;fa-graduation-cap;blue
-898;Horkesgath 33;Realschule;Realschule Horkesgath;Sanierung/Gestaltung Schulhof;Sanierung;;;x;;;;;;;;;fa-graduation-cap;blue
-899;Horkesgath 33;Realschule ;Realschule Horkesgath;Sanierung Klassenräume;Sanierung;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-900;Horkesgath 33;Realschule ;Realschule Horkesgath;Sanierung Sanitäranlagen;Sanierung;x;;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-901;Horkesgath 33;Realschule ;Realschule Horkesgath;Sanierung Flurbereiche;Sanierung;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-902;Horkesgath 33;Realschule ;Realschule Horkesgath;Erneuerung Fensteranl. Inkl. Sonnenschutz;Gebäudehülle;;;;;x;;;;;;;fa-graduation-cap;blue
-903;Horkesgath 33;Realschule ;Realschule Horkesgath;Erneuerung NW-Einr., R. 037, Chemie, Hörsaal, Lehrertisch;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-904;Horkesgath 33;Realschule ;Realschule Horkesgath;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-905;;;Realschule Horkesgath;Gesamtbedarf bis 2022;1435000;;;;;;;;;;;;fa-graduation-cap;blue
-906;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Erneuerung der Türanlage Oberstufenhof;Sanierung; ;;x;;;;;;;;;fa-graduation-cap;blue
-907;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;RS-Türen ;Brandschutz; ;;x;;;;;;;;;fa-graduation-cap;blue
-908;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Digitalisierung (anteilig vom 124000);Digitalisierung; ;;;;x; ;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-909;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Einbau BS-Abschnitte 1.Teil Planung;Brandschutz;;;x;;;;;;;;;fa-graduation-cap;blue
-910;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Einbau BS-Abschnitte 2.Teil Planung;Brandschutz;;;;x;;;;;;;;fa-graduation-cap;blue
-911;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Erneuerung NW-Einrichtung im R. 20 Chemie Vorbereitung/sammlung;Sanierung;x;;;;;;;;;;;fa-graduation-cap;blue
-912;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Erneuerung NW-Einrichtung im R. 036, Physik Hörsaal, Lehrertisch;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-913;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Austausch der Mittelspannungs-Trafoanlage (Hauptanlage);Brandschutz;x;x;;;;;;;;;;fa-graduation-cap;blue
-914;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Erneuerung Unterverteilungen (beide Schulformen);Brandschutz;x;x;;;;;;;;;;fa-graduation-cap;blue
-915;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Erneuerung Hauptwasserleitung Wasserzähler zu TH, HM-Wohnungen, Schulgeb. (Rest aus 2017);Sanierung;x;x;;;;;;;;;;fa-graduation-cap;blue
-916;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Schottung TGA-Durchbrüche;Brandschutz;;;x;;;;;;;;;fa-graduation-cap;blue
-917;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Hauptanlage Keller SWK;Energetische Sanierung;x;x;;;;;;;;;;fa-graduation-cap;blue
-918;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Sanierung Fassaden  inkl. Dämmung;Gebäudehülle;;;;;x;;;;;;;fa-graduation-cap;blue
-919;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Flachdachsanierung;Gebäudehülle;;x;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-920;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Sanierung Sanitäranlagen (ohne Turnhalle) ;Sanierung;x;;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-921;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Erneuerung Fensteranl. Inkl. Sonnenschutz;Gebäudehülle;;;;;x;;;;;;;fa-graduation-cap;blue
-922;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;BMA, Rauchmeldertausch;Brandschutz;;x;;;;;;;;;;fa-graduation-cap;blue
-923;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Austausch mobile Trennwand Aula, Entf. mobile Trennwandanlage;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-924;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Einbau Hocheffizienzpumpe;Energetische Sanierung;;x;;;;;;;;;;fa-graduation-cap;blue
-925;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Sanierung Klassenräume;Sanierung;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-926;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Sanierung der naturwissenschaftlichen Einrichtung im Raum Physik Sammlung ;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-927;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Sanierung Flurbereiche;Sanierung;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-928;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Sanierung der naturwissenschaftlichen Einrichtung im Raum 036 Physik Übung;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-929;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Sanierung/Gestaltung Schulhof;Sanierung;;;x;;;;;;;;;fa-graduation-cap;blue
-930;Horkesgath 33/Turnhalle;Gymnasium;Gymnasium Horkesgath;Turnhalle 2, Sanierung Hallenboden (Rest aus 2017);Sanierung;x;x;;;;x;;;;;;fa-graduation-cap;blue
-931;Horkesgath 33/Turnhalle;Gymnasium;Gymnasium Horkesgath;Turnhalle 2, Sanierung WC-Anlagen;Sanierung;;;;x;;;;;;;;fa-graduation-cap;blue
-932;Horkesgath 33/Turnhalle;Gymnasium;Gymnasium Horkesgath;Turnhalle 2, Sanierung Sanitäranlagen Zuschauer;Sanierung;;x;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-933;Horkesgath 33/Turnhalle;Gymnasium;Gymnasium Horkesgath;Turnhalle 1, Umstellung Beleuchtung auf LED;Energetische Sanierung;x;;;;;;;;;;;fa-graduation-cap;blue
-934;Horkesgath 33/Turnhalle;Gymnasium;Gymnasium Horkesgath;Turnhalle 1, Duschen u. WC-Anlagen;Sanierung;;;;;;x;;;;;;fa-graduation-cap;blue
-935;Horkesgath 33/Turnhalle;Gymnasium;Gymnasium Horkesgath;Turnhalle 1/2, Sanierung Lüftung;Sanierung;x;;;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-936;Horkesgath 33/Turnhalle;Gymnasium;Gymnasium Horkesgath;Turnhalle 1/2, Dachsanierung;Gebäudehülle;; ;x;;;;Gute Schule 2020-Mittel;;;;;fa-graduation-cap;blue
-937;Horkesgath 33/Turnhalle;Gymnasium;Gymnasium Horkesgath;Turnhalle 1,  Sanierung Hallenboden Eigenanteil nach Brand;Sanierung;;x;;;;;;;;;;fa-graduation-cap;blue
-938;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;;;;;fa-graduation-cap;blue
-939;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Prüfung Ausbau G 9;SEP;;;;;;;;;;;;fa-graduation-cap;blue
-940;Horkesgath 33;Gymnasium;Gymnasium Horkesgath;Versammlungsstätte/PZ  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;;;;;fa-graduation-cap;blue
-941;;;Gymnasium Horkesgath;Gesamtbedarf bis 2022;4215000;;;;;;;;;;;;fa-graduation-cap;blue
-942;Horkesgath 15;Sport/FB 52;BSA Horkesgath;"Errichtung Kunstrasenplatz; Ausbau leichtathletische Anlage";Sanierung; ;;x;;;;;;;;;fa-graduation-cap;blue
-943;Glockenspitz 348;Sport/FB 52;Sporthalle Glockenspitz;"Erneuerung des Bauwerkes; Erneuerung TGA";Sanierung; ;;;x;;;;;;;;fa-graduation-cap;blue
-944;;;Bereich Sport;Gesamtbedarf bis 2022;4800000; ; ;;; ; ;;;;;;fa-graduation-cap;blue
+570;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Energetische Sanierung des Anbaus;Gebäudehülle; ;;x;;;;KInvFöG-Mittel;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+571;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Fassadenarbeiten/Gesimse Fortführung;Gebäudehülle; ;;x;;;;;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+572;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Digitalisierung;Digitalisierung; ;;;;x; ;Gute Schule 2020-Mittel;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+573;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Erneuerung Hauptverteilung (Rest aus 2015);Brandschutz; ;x;;;;;;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+574;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Einbau RWA Treppenhäuser Altbau;Brandschutz;;;;x;;;;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+575;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Sanierung Sanitäranlagen;Sanierung;;;x;;;;KInvFöG-Mittel;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+576;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Sanierung naturwisschenschafltiche Räume;Sanierung;;x;;;;;;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+577;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Einbau RS-Türen Flure Altbau;Brandschutz;;;;x;;;KInvFöG-Mittel;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+578;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Sanierung Beleuchtung Altbau;Energetische Sanierung;;;;x;;;KInvFöG-Mittel;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+579;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Einbau BS-Türen zu Klassenräumen Altbau an Treppenhäusern;Brandschutz;;;;x;;;KInvFöG-Mittel;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+580;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;T30-Abtrennung Neubau/Altbau;Brandschutz;;;;x;;;KInvFöG-Mittel;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+581;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Fensteraustausch Turmzimmer, Treppenhaus, Eingangsbereich;Gebäudehülle;;;;;;x;;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+582;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Sanierung Klassenräume;Sanierung;;;x;;;;KInvFöG-Mittel;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+583;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Sanierung Treppenhäuser und Flure;Sanierung;;;x;;;;KInvFöG-Mittel;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+584;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Aktualisierung BS-Konzept (Rest aus 2017);Brandschutz;x;x;;;;;;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+585;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Turnhalle: Sanierung Sanitäranlagen;Sanierung;;;x;;;;KInvFöG-Mittel;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+586;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Erneuerung Pausensignalanlage;Brandschutz;;x;;;;;;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+587;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Schulhofsanierung;Außenanlagen;; ;;x;; ;Gute Schule 2020-Mittel;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+588;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+589;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Versammlungsstätte/Aula  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+590;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Prüfung Ausbau G 9;SEP;;;;;;;;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+592;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Deckensanierung Pädag. Zentrum, Flure (Rest aus 2017);Sanierung;x;;;;;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+593;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Sanierung Klassenräume;Sanierung;;;;;x;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+594;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Erneuerung Unterverteilungen Neubau;Verkehrssicherheit;x;x;;;;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+595;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Sanierung Treppenhäuser und Flure;Sanierung;;;;;x;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+596;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Digitalisierung;Digitalisierung; ;;x;;; ;Gute Schule 2020-Mittel;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+597;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Umsetzung BS-Konzept und Nutzungsänderung;Brandschutz;x;;;x;;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+598;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Erneuerung  Zaunanlage;Außenanlagen;;;x;;;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+599;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Sanierung naturwisschenschafltiche Räume;Sanierung;;x;x;x;;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+600;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Sanierung Sanitäranlagen;Sanierung;;;;;;x;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+601;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Dachsanierung Neubau ;Gebäudehülle;;;;;;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+602;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Erneuerung Fensteranlagen Neubau, 1. BA;Gebäudehülle;;;;;x;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+603;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;BMA, Rauchmeldertausch;Brandschutz;;x;;;;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+604;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Turnhalle, Erneuerung Hallenfenster + Sonnenschutz;Gebäudehülle; ;;;x;;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+605;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Turnhalle, Sanierung Sanitäranlagen;Sanierung;;;;;;x;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+606;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Turnhalle, Heizung, Sanierung Hallendecke inkl. Beleuchtung;Sanierung;x;x;;;;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+607;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+608;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Versammlungsstätte/Aula  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+609;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Prüfung Ausbau G 9;SEP;;;;;;;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+611;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Sanierung naturwisschenschafltiche Räume;Sanierung;x;x;;;;x;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+612;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erweiterung HAZ;Brandschutz; ;;;;;;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+613;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Digitalisierung;Digitalisierung; ;;x;;;;Gute Schule 2020-Mittel;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+614;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erneuerung Unterverteilungen;Verkehrssicherheit;x;;;;;x;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+615;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Sanierung Klassenräume;Sanierung; ;;;x;;;Gute Schule 2020-Mittel;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+616;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erneuerung Flurdecken;Brandschutz; ;;x;;;;Gute Schule 2020-Mittel;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+617;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erhöhung aller Treppengeländer;Verkehrssicherheit;;x;;;;;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+618;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Fassade Treppenhaus D;Gebäudehülle;;;;x;;;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+619;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Fassadensanierung, Umbau Dachüberstände, Blitzschutz;Gebäudehülle;;;;;;x;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+620;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Schottung Treppenhaus D/C im UG;Brandschutz;;x;;;;;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+621;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erneuerung  Unterverteilung ELT;Brandschutz;;x;;;;;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+622;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Sanierung Sanitäranlagen ;Sanierung;;x;;;;;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+623;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Sonnenschutzanlage Bauteil D, Südseite;Sanierung;;;x;;;;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+624;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Sanierung Aula, Flure, Lehrerzimmer;Verkehrssicherheit;;;x;;;;Gute Schule 2020-Mittel;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+625;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Umsetzung Brandschutzerfordernisse;Brandschutz;;;;;;x;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+626;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erweiterung (Planung);SEP;;;;;;;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+627;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Versammlungsstätte/Aula  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+628;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Turnhalle, Sanierung Hallenboden inkl. Geräteraum;Sanierung;;;x;;;;Gute Schule 2020-Mittel;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+629;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Turnhalle, Sanierung Sanitäranlagen ;Sanierung;;x;;;;;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+630;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+631;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Prüfung Ausbau G 9;SEP;;;;;;;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+633;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung Lüftungsteuerung;Sanierung;;x; ; ;;;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+634;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Digitalisierung;Digitalisierung; ;x; ; ;;;Gute Schule 2020-Mittel;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+635;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Erweiterung HAZ;Brandschutz;x;x; ; ;;;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+636;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Herrichtung Selbstlernzentrum;Nutzung;x; ; ; ;;;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+637;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung naturwisschenschafltiche Räume;Sanierung;;;x; ;;;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+638;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Außenliegender Sonnenschutz;Nutzung;; ;x; ;;;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+639;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung kleiner Übungsraum;Sanierung;;x; ; ;;;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+640;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung Klassenräume;Sanierung;;x; ; ;;;Gute Schule 2020-Mittel;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+641;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Erneuerung Trafoschaltanlage;Brandschutz;x;x; ;;;;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+642;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung Flurbereiche;Sanierung;;x; ; ;;;Gute Schule 2020-Mittel;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+643;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung Einrichtung, Chemie Übung;Sanierung;;x; ;;;;Gute Schule 2020-Mittel;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+644;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Sanierung Sanitäranlagen;Sanierung;; ; ;;x;;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+645;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Erneuerung  Aufzug ;Sanierung;; ; ;;;x;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+646;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Turnhalle,  Dach- und Fassadensanierung;Gebäudehülle;;x; ; ;;;Gute Schule 2020-Mittel;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+647;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Turnhalle,  Erneuerung Warmwasserbereitung;Sanierung;; ; ; ;;x;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+648;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Turnhalle, Sanierung Sanitäranlagen;Sanierung;; ; ;;x;;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+649;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+650;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Versammlungsstätte Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+651;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Prüfung Ausbau G 9;SEP;;;;;;;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+653;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;BS-Abkofferung Stahlträger UG;Brandschutz;x; ;x;;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+654;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Erstellung BS-Konzept;Brandschutz;;x;;;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+655;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Einbau BS-Türen UG u. Brandschotts;Brandschutz;;;x;;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+656;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Digitalisierung;Digitalisierung; ;;x;;;;Gute Schule 2020-Mittel;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+657;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Einbau BS-Klassenzimmertüren an Treppenhäusern;Brandschutz;;;x;;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+658;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Sanierung Klassenräume;Sanierung;;;;x;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+659;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Sanierung Sanitäranlagen;Sanierung;;;;x;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+660;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Sanierung Flure und Treppenhäuser;Sanierung;;;;x;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+661;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Erweiterung BMA Neubau (Rest aus 2017);Brandschutz;x;;;;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+662;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Austausch Fenster 2. BA;Gebäudehülle;;;;;x;x;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+663;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Errichtung Lehrküche KG;Nutzung;;x;;;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+664;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Erneuerung Lüftungsschaltschrank;Sanierung;;;;;;x;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+665;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Schulhofsanierung;Außenanlagen;;;x;;;;Gute Schule 2020-Mittel;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+666;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Turnhalle,  Erneuerung Hauptverteilung;Verkehrssicherheit;x;;;;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+667;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Turnhalle, Sanierung Hallenbeleuchtung;Energetische Sanierung; ;x;;;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+668;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Turnhalle,  Erneuerung Übergabe SWK, Eigenanteil;Sanierung;x;;;;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+669;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Turnhalle, Sanierung Sanitäranlagen;Sanierung;;;;x;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+670;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Turnhalle, Erneuerung HAZ;Brandschutz;;x;;;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+671;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Ersatz/Austausch Pavillon;Sanierung;;;;;x;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+672;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+673;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Prüfung Ausbau G 9;SEP;;;;;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+674;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Versammlungsstätte/Aula  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+676;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Fenstererneuerung Südflügel inkl. Verschattung (Rest aus 2017);Gebäudehülle;x;x;;;;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+677;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Montage RW-Außentreppe, inkl. Brandschutzkonzept;Brandschutz;x;x;;;;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+678;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Anpassung Raumkapazität (Machbarkeitsstudie);Neubau/SEP;;x;;;;;;6880000;Umfassende Standortbetrachtung notwendig, ggf. Einbeziehung Standort Rote-Kreuz-Str,;51.344476;6.590444;fa-graduation-cap;blue
+679;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erweiterung Lehrerzimmer;Neubau;;x;;;;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+680;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erneuerung Trinkwasser Eingangsstrecke Kaiserplatz 31;Verkehrssicherheit; ; ;x;;;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+681;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Kanalsanierung Schulhof;Sanierung;; ;x;;;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+682;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Schottung Treppenhaus 2.Teil;Brandschutz;;x;;;;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+683;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erneuerung NW-Einr., R. 1 BI 2, Biologie Übung, Schülerarbeitsplätze;Sanierung;; ;x;;;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+684;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Sanierung Bodenbelag;Sanierung;;x;;;;;Gute Schule 2020-Mittel;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+685;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Digitalisierung;Digitalisierung; ;x;;;;;Gute Schule 2020-Mittel;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+686;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erneuerung NW-Einr., R. 1 CH 2, Chemie Übung;Sanierung;; ;x;;;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+687;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erneuerung NW-Einr., R. 1 CH 1, Chemie Übung;Sanierung;; ;x;;;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+688;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Nordtrakt, Sanierung Dach und Oberlichter;Sanierung;; ;;;x;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+689;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erw. Alarmierung;Brandschutz;;x;;;;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+690;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erneuerung Heizzentrale, Austausch WWB u. Thermostatventile;Sanierung;; ;;;;x;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+691;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Sanierung Klassenräume;Sanierung;;x;;;;;Gute Schule 2020-Mittel;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+692;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Sanierung Parkett Forum/Mensa;Sanierung;;x;;;;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+693;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Turnhalle, Erneuerung Lüftungssteuerung;Sanierung;; ;;;;x;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+694;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Turnhalle, Einbau LED-Beleuchtung große Turnhalle;Energetische Sanierung;; ;;;;x;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+695;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Turnhalle, Einbau Hocheffizienzpumpe;Energetische Sanierung;;x;;;;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+696;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+697;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Versammlungsstätte/Forum Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;; ;;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+699;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Umbau Sekretariat;Nutzung;x;x;;;;;;1180000;;51.322001;6.555582;fa-graduation-cap;blue
+700;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Erstellung/Umsetzung BS-Konzept (Rest aus 2017);Brandschutz; ;x;;;;;;1180000;;51.322001;6.555582;fa-graduation-cap;blue
+701;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;BS, RS-Türen;Brandschutz;x;;x;;;;;1180000;;51.322001;6.555582;fa-graduation-cap;blue
+702;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Sanierung Klassenräume;Sanierung;;;;x;;;;1180000;;51.322001;6.555582;fa-graduation-cap;blue
+703;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Digitalisierung;Digitalisierung; ;x;;;;;Gute Schule 2020-Mittel;1180000;;51.322001;6.555582;fa-graduation-cap;blue
+704;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Einzelraumregelung;Energetische Sanierung; ;;x;;;;;1180000;;51.322001;6.555582;fa-graduation-cap;blue
+705;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Sanierung Gründach Unterrichtsturm II;Gebäudehülle;;;;;x;;;1180000;;51.322001;6.555582;fa-graduation-cap;blue
+706;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Erweiterung Schulstandort, Planung;Neubau/SEP;;;;;;;;1180000;;51.322001;6.555582;fa-graduation-cap;blue
+707;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Sanierung Treppenhäuser und Flure;Sanierung;;;;x;;;;1180000;;51.322001;6.555582;fa-graduation-cap;blue
+708;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;1180000;;51.322001;6.555582;fa-graduation-cap;blue
+709;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Versammlungsstätte Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;1180000;;51.322001;6.555582;fa-graduation-cap;blue
+711;Reepenweg 40;Gesamtschule;Robert-Jungk;Erweiterung HAZ (Rest aus 2017);Brandschutz;x;x;;;;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+712;Reepenweg 40;Gesamtschule;Robert-Jungk;Austausch Mittelspannungs-Trafoanlage;Verkehrssicherheit;x;x;;;;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+713;Reepenweg 40;Gesamtschule;Robert-Jungk;Digitalisierung;Digitalisierung; ;;x;;; ;Gute Schule 2020-Mittel;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+714;Reepenweg 40;Gesamtschule;Robert-Jungk;Sicherheitsbeleuchtung, Austausch Batterie;Verkehrssicherheit;;;;;;x;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+715;Reepenweg 40;Gesamtschule;Robert-Jungk;Austausch Decken in Fluren;Sanierung;;;x;;;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+716;Reepenweg 40;Gesamtschule;Robert-Jungk;Brandschutztüren;Brandschutz;x;x;;;;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+717;Reepenweg 40;Gesamtschule;Robert-Jungk;Sanierung Flure;Sanierung;;;;;;x;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+718;Reepenweg 40;Gesamtschule;Robert-Jungk;2. Rettungsweg Verwaltung;Brandschutz;x;x;;;;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+719;Reepenweg 40;Gesamtschule;Robert-Jungk;Ertüchtigung RLT inkl. Schottung (Rest aus 2017);Brandschutz;x;x;;;;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+720;Reepenweg 40;Gesamtschule;Robert-Jungk;Sanierung Sanitäranalgen Haupteingang;Sanierung;;;;;x;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+721;Reepenweg 40;Gesamtschule;Robert-Jungk;Erneuerung Fensteranlage im EG;Gebäudehülle;;;x;;;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+722;Reepenweg 40;Gesamtschule;Robert-Jungk;Sanierung Flachdach;Gebäudehülle;;;x;;;;Gute Schule 2020-Mittel;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+723;Reepenweg 40;Gesamtschule;Gesamtschule Robert-Jungk;Erweiterung und Anpassung Schulstandort (u. a. Oberstufe Kerken), Planung;SEP;x;;;;;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+724;Reepenweg 40;Gesamtschule;Robert-Jungk;Sanierung Klassenräume;Sanierung;;;;;;x;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+725;Reepenweg 40;Gesamtschule;Robert-Jungk;Turnhalle, Erneuerung Übergabe SWK, Eigenanteil;Verkehrssicherheit;x;;;;;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+726;Reepenweg 40;Gesamtschule;Robert-Jungk;Turnhalle, Erneuerung Beleuchtung LED (Förderprojekt);Energetische Sanierung;x;;;;;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+727;Reepenweg 40;Gesamtschule;Robert-Jungk;Turnhalle, Umbau/Erw. BMA;Brandschutz;;x;;;;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+728;Reepenweg 40;Gesamtschule;Robert-Jungk;Turnhalle, Erneuerung Lüftungsschaltschränke;Sanierung;;;;;;x;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+729;Reepenweg 40;Gesamtschule;Robert-Jungk;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+730;Reepenweg 40;Gesamtschule;Robert-Jungk;Versammlungsstätte PZ/Aula   Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+732;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Ersatz Mietpavillon u. Erweiterung zur Deckung akuter Bedarfe;SEP;;x; ;;;;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+733;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Mittelfristig: Prüfung weiterer Ausbau oder weiterer Standort im Rahmen SEP Förderschule;SEP;;;;;;;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+734;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Sanierung Flurbereiche;Sanierung;;; ;;;x;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+735;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Sanierung Sanitäranlagen;Sanierung;;; ;;;x;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+736;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Digitalisierung;Digitalisierung; ;; ;x;; ;Gute Schule 2020-Mittel;575000;;51.341839;6.613989;fa-graduation-cap;blue
+737;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Betonsanierung Fassade;Gebäudehülle;;; ;;;x;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+738;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Sanierung Klassenräume;Sanierung;;; ;;;x;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+739;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Ersatz Klettergerüst;Außenanlagen;;x; ;;;;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+740;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+742;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Austausch Treppenhausdecke u. Flurdecken inkl. Beleuchtung;Sanierung; ;;x;;;;;995000;;51.325181;6.600513;fa-graduation-cap;blue
+743;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Sanierung Klassenräume;Sanierung; ;;x;;;;Gute Schule 2020-Mittel;995000;;51.325181;6.600513;fa-graduation-cap;blue
+744;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;BS-Ertüchtigung Keller;Brandschutz; ;;;;;x;;995000;;51.325181;6.600513;fa-graduation-cap;blue
+745;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Sonnenschutz Westseite u. Verwaltung;Sanierung;;;;;;x;;995000;;51.325181;6.600513;fa-graduation-cap;blue
+746;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Digitalisierung (beide Standorte);Digitalisierung; ;x;;;;;Gute Schule 2020-Mittel;995000;;51.325181;6.600513;fa-graduation-cap;blue
+747;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Turnhalle, Sanierung Sportboden;Sanierung;;x;;;;;Gute Schule 2020-Mittel;995000;;51.325181;6.600513;fa-graduation-cap;blue
+748;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Turnhalle, Erneuerung Fenster;Gebäudehülle;;x;;;;;Gute Schule 2020-Mittel;995000;;51.325181;6.600513;fa-graduation-cap;blue
+749;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Sanierung Klassenräume;Sanierung; ;;;;x;;Gute Schule 2020-Mittel;995000;;51.362880;6.617802;fa-graduation-cap;blue
+750;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Hauptgebäude, Dachsanierung;Gebäudehülle; ;;x;;;;Gute Schule 2020-Mittel;995000;;51.362880;6.617802;fa-graduation-cap;blue
+751;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Abkofferung für Heizungsleitung;Sanierung;;;;;x;;;995000;;51.362880;6.617802;fa-graduation-cap;blue
+752;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Sanierung Sanitäranlagen;Sanierung;;;;;;x;;995000;;51.362880;6.617802;fa-graduation-cap;blue
+753;Breslauer Str. 280 b;Förderschule;Fried.-von-Bodelschwingh;kurzfristig Herrichtung von Räumen in der Breslauer Str.;SEP;;;;;;;;995000;;51.366181;6.617858;fa-graduation-cap;blue
+754;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Mittelfristig: Prüfung weiterer Ausbau oder weiterer Standort im Rahmen SEP Förderschule;SEP;;;;;;;;995000;;51.362880;6.617802;fa-graduation-cap;blue
+755;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Lehrbad/Turnhalle, Neuer Abschluss Eingangsbereich;;;;;x;;;;995000;;51.362880;6.617802;fa-graduation-cap;blue
+756;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Turnhalle, Sanierung Sanitäranlagen;Sanierung;;;;;;x;;995000;;51.362880;6.617802;fa-graduation-cap;blue
+757;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Lehrbad/Turnhalle, Einbau Fluchttüren am Pausengang;Brandschutz;;;;;;x;;995000;;51.362880;6.617802;fa-graduation-cap;blue
+758;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Turnhalle Alte Flur, Erneuerung Prallschutzwände;Verkehrssicherheit;;x;;;;;Gute Schule 2020-Mittel;995000;;51.325181;6.600513;fa-graduation-cap;blue
+759;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Turnhalle Alte Flur, Austausch Treppenhaustüren;Verkehrssicherheit;x;x;;;;;;995000;;51.325181;6.600513;fa-graduation-cap;blue
+760;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;995000;;51.325181;6.600513;fa-graduation-cap;blue
+762;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Beseitigung BS-Mängel 2. OG und UG;Brandschutz;x;;;;;x;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+763;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Erweiterung Alarmierung aufgr. TÜV-Mängeln (Rest aus 2017);Brandschutz;x;;;;;;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+764;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Digitalisierung;Digitalisierung; ;;x;;; ;Gute Schule 2020-Mittel;730000;;51.356808;6.532884;fa-graduation-cap;blue
+765;Inrather Str. 611;Förderschule;Erich Kästner-Schule;HAZ-Erweiterung;Brandschutz; ;x;;;;;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+766;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Austausch Bodenbelag Überdachung ;Verkehrssicherheit;x;x;;;;;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+767;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Sanierung Bodenbelag, Anstriche Flure, Treppenhaus;Sanierung; ;;x;;;;Gute Schule 2020-Mittel;730000;;51.356808;6.532884;fa-graduation-cap;blue
+768;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Dachsanierung Überdachung;Gebäudehülle;;x;;;;;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+769;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Ersatz Seitenteile Überdachung;Gebäudehülle;;x;;;;;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+770;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Sanierung Sanitäranlagen;Sanierung;;;;;;x;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+771;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Nutzungsänderung: Neuer Werkraum u. Büroräume;Nutzung;;;;;;x;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+772;Inrather Str. 611;Förderschule;Erich Kästner-Schule;TurnhalleSanierung Sanitäranlagen;Sanierung;;;;;;x;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+773;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Schulhofsanierung/Einzäunung  des Schulhofes;Außenanlagen;;;x;;;;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+774;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Nebengebäude, Erneuerung Fensteranlage;Gebäudehülle;;;x;;;;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+775;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+777;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Umsetzung Brandschau, Erneuerung Sprachalarmierung;Brandschutz; ;x;;;;;;530000;;51.350651;6.640605;fa-graduation-cap;blue
+778;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Digitalisierung;Digitalisierung; ;;;;;x;Gute Schule 2020-Mittel;530000;;51.350651;6.640605;fa-graduation-cap;blue
+779;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Sanierung Klassenräume;Sanierung; ;;;x;;;Gute Schule 2020-Mittel;530000;;51.350651;6.640605;fa-graduation-cap;blue
+780;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Austausch Eingangstüren und Fenster;Sanierung; ;;;x;;;;530000;;51.350651;6.640605;fa-graduation-cap;blue
+781;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Sanierung Flure;Sanierung; ;;;x;;;Gute Schule 2020-Mittel;530000;;51.350651;6.640605;fa-graduation-cap;blue
+782;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Sanierung Grundleitungen;Sanierung;;;;;;;;530000;;51.350651;6.640605;fa-graduation-cap;blue
+783;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Erneuerung Thermostatventile;Energetische Sanierung;;;;;;x;;530000;;51.350651;6.640605;fa-graduation-cap;blue
+784;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Dämmung oberste Geschossdecke;Energetische Sanierung;;;;;;x;;530000;;51.350651;6.640605;fa-graduation-cap;blue
+785;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Dachsanierung;Gebäudehülle;;;;;;x;;530000;;51.350651;6.640605;fa-graduation-cap;blue
+786;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Prüfung Raumkapazität im Rahmen SEP Förderschulen;SEP;;;;;;;;530000;;51.350651;6.640605;fa-graduation-cap;blue
+787;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;530000;;51.350651;6.640605;fa-graduation-cap;blue
+789;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erweiterung BMA;Brandschutz;x;x;x;;;;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+790;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Beseitigung Brandschutzmängel;Brandschutz;;x;;;;;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+791;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Digitalisierung;Digitalisierung; ;;;;x; ;Gute Schule 2020-Mittel;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+792;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Umsetzung BS-Konzept;Brandschutz;;;;;;x;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+793;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;diverse Sanierungen erf. lt. Aufstellung;Sanierung; ;;;;;;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+794;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erweiterung, Hochbau  (Prüfung Raumbestand);Neubau/SEP; ;;;x;x;;;7275000;Abhängig von SEP BK;51.349808;6.635723;fa-graduation-cap;blue
+795;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erweiterung, Tiefbau (Prüfung Raumbestand);Neubau/SEP; ;;; ;x;;;7275000;Abhängig von SEP BK;51.349808;6.635723;fa-graduation-cap;blue
+796;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erweiterung, Einrichtung (Prüfung Raumbestand);Neubau/SEP; ;;;x;;;;7275000;Abhängig von SEP BK;51.349808;6.635723;fa-graduation-cap;blue
+797;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung Flurbereiche;Sanierung;;x;;;;;Gute Schule 2020-Mittel;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+798;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erneuerung Unterverteilungen;Brandschutz;;x;;;;;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+799;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Anschluss Schaltschrank;Sanierung;;;;;;x;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+800;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erneuerung RWAs;Brandschutz;;;;;;x;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+801;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung Chemie Vorbereitung;Sanierung;;x;;;;;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+802;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Wärmedämmung Überstand Eingang;Energetische Sanierung;;;x;;;;Gute Schule 2020-Mittel;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+803;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung Klassenräume;Sanierung;;x;;;;;Gute Schule 2020-Mittel;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+804;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Beton- u. Fassadensanierung;Sanierung;;;;x;;;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+805;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erneuerung Trafostation;Brandschutz;;x;;;;;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+806;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung NW-Einrichtung, R. 00.17, Biologie Übung;Sanierung/SEP;;;;;;x;;7275000;Abhängig von SEP BK;51.349808;6.635723;fa-graduation-cap;blue
+807;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung NW-Einrichtung, R. 00.14, Chemie Übung;Sanierung/SEP;;;;;x;;;7275000;Abhängig von SEP BK;51.349808;6.635723;fa-graduation-cap;blue
+808;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung NW-Einrichtung, R. 00.32, Chemie Übung;Sanierung/SEP;;x;;;;;;7275000;Abhängig von SEP BK;51.349808;6.635723;fa-graduation-cap;blue
+809;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung Attika (Rest);Sanierung;;;x;;;;Gute Schule 2020-Mittel;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+810;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Dachsanierung;Gebäudehülle;;;x;;;;Gute Schule 2020-Mittel;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+811;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erneuerung / Modernisierung der Aufzugsanlage;Sanierung;;;x;;;;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+812;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Turnhalle, Umstellung Beleuchtung auf LED;Energetische Sanierung;x;;;;;;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+813;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Turnhalle, Erneuerung Prallschutz;Sanierung;;;x;;;;Gute Schule 2020-Mittel;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+814;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Turnhalle, Sanierung Hallenboden;Sanierung;;;x;;;;Gute Schule 2020-Mittel;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+815;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Turnhalle, Erneuerung Regenrohre in Zwischendecke;Sanierung;;;;;;x;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+816;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Turnhalle, Erneuerung Warmwasserbereitung;Sanierung;;;;;;x;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+817;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+819;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Neue Gefahrstofflagerschränke versch. Labore;Verkehrssicherheit;x;;;;;;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+820;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;BMA/EMA - Mängelbeseitigung ;Brandschutz; ;x;;;;;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+821;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;10 Flachdächer, BS-Türen;Brandschutz; ;x;;;;;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+822;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Öffnen 2. RW-Bypasstüren in allen Etagen und Haus A + B;Brandschutz;;;;;;x;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+823;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Sanierung bzw. Neugestaltung Cafeteria mit Küche;Nutzung;;;;;;;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+824;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Schreinerei, Erneuerung Funkenlöschanlage;Brandschutz;;;;;;x;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+825;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Trinkwasserverteiler ;Sanierung;x;;;;;;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+826;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Erneuerung Feuerlöschleitung, Überflurhydranten;Brandschutz;x; ;;;;;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+827;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Digitalisierung;Digitalisierung; ;x;;;; ;Gute Schule 2020-Mittel;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+828;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Erneuerung NW-Einr., R. 215, Chemie Labor;Sanierung/SEP;;;;x;;;;2655000;Abhängig von SEP BK;51.337687;6.610702;fa-graduation-cap;blue
+829;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Erneuerung NW-Einr., R. 204, Chemie Labor;Sanierung/SEP;;;;x;;;;2655000;Abhängig von SEP BK;51.337687;6.610702;fa-graduation-cap;blue
+830;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Erneuerung NW-Einr., R. 203, Chemie Labor;Sanierung/SEP;;;;x;;;;2655000;Abhängig von SEP BK;51.337687;6.610702;fa-graduation-cap;blue
+831;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;statische Prüfung Decken, ggf. Erneuerung;Verkehrssicherheit;;;x;;;;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+832;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Sanierung Sanitäranlagen;Sanierung;;;;;;x;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+833;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;HM-Wohnung, Schimmelsanierung;Sanierung;;;;;x;;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+834;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Sanierung Bodenbelag Flure;Sanierung;;;x;;;;Gute Schule 2020-Mittel;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+835;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Sanierung Klassenäume;Sanierung;;;;;x;;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+836;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Prüfung Raumbestand, einschl. Pavillon-Klassen;SEP;;;;;;;;2655000;Abhängig von SEP BK;51.337687;6.610702;fa-graduation-cap;blue
+837;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+839;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung NW-Einrichtung R. B 306 Chemie Übung;Sanierung;x;;;;;;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+840;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Digitalisierung;Digitalisierung; ;x;;;;;Gute Schule 2020-Mittel;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+841;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Installation Sicherheitsbeleuchtung;Verkehrssicherheit;x;x;;;;;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+842;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;"Bt. B: ""Italo-Bau"" BS-Sanierung, Verkleidung der Stützenköpfe";Brandschutz;;;;;x;;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+843;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Einbau BS-Türen;Brandschutz;;;x;;;;KInvFöG-Mittel;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+844;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Geländererhöhung Altbau, Treppenhaus T2;Verkehrssicherheit;x;x;;;;;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+845;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Personenaufzug (behindertenger. Zugang);Nutzung;;;;;;;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+846;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Aufschaltung und Erweiterung BMA, Rauchmeldertausch;Brandschutz;x;x;;;;;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+847;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Austausch Leuchten gegen LED, Nähräume;Energetische Sanierung;;x;;;;;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+848;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung NW-Einr., R. B 202, Biologie Hörsaal, Lehrertisch;Sanierung;;;x;;;;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+849;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung NW-Einr., R. B 302, Chemie Hörsaal, Lehrertisch, Schülertische;Sanierung;;;x;;;;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+850;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;BT B, Sanierung Klassenräume;Sanierung;;x;;;;;Gute Schule 2020-Mittel;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+851;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Sanierung Sanitäranlagen;Sanierung;;;;;;x;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+852;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung Fassade u. Fenster Altbau;Gebäudehülle;;;x;;;;KInvFöG-Mittel;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+853;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung Aufzug;Sanierung;;;;;;x;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+854;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung NW-Einr., R. C 027, Chemie Übung;Sanierung;;;;;;x;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+855;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Prüfung Raumbestand;SEP;;;;;;;;2405000;Abhängig von SEP BK;51.340283;6.543457;fa-graduation-cap;blue
+856;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Turnhalle, Erneuerung Lüftungssteuerung;Sanierung; ;;x;;;;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+857;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Turnhalle, Sanierung Sanitäranlagen;Sanierung;;;;;;x;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+858;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Turnhalle, Sanierung Hallenbeleuchtung (Umst. auf LED);Energetische Sanierung;x;;;;;;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+859;Westparkstr. 92-96;Berufskolleg;BK-Vera-Beckers;NG Westparkstr. (Miwi), BS-Maßnahmen;Brandschutz;;;;;;x;;2405000;;51.338649;6.543949;fa-graduation-cap;blue
+860;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+862;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Sanierung Behinderten-WC;Sanierung; ;;x;;;;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+863;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;HAZ, Bauteile E (Rest aus 2017);Brandschutz;x;;;;;;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+864;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Digitalisierung;Digitalisierung; ;;;;x; ;Gute Schule 2020-Mittel;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+865;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Bauteil A, Schottung Treppenhaus (Rest aus 2017);Brandschutz;x;x;;;;;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+866;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Energetische Sanierung Außenhülle Bt. A/B (Beginn in 2017);Energetische Sanierung;x;;;;;;KInvFöG-Mittel;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+867;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;D-Trakt, Austausch Leuchten gegen LED;Energetische Sanierung;;x;;;;;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+868;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Sanierung Klassenräume;Sanierung;;;x;;;;Gute Schule 2020-Mittel;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+869;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Montage Sekuranten;Verkehrssicherheit;;;x;;;;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+870;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Prüfung Raumbestand, einschl. Pavillon-Klassen;SEP;;;;;;;;4690000;Abhängig von SEP BK;51.337367;6.545151;fa-graduation-cap;blue
+871;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Sanierung Flure und Treppenhäuser;Sanierung;;;x;;;;Gute Schule 2020-Mittel;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+872;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Dachdämmung HM-Haus;Energetische Sanierung;;;;;;x;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+873;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Sanierung Fassade Verbindungsgang BT A/B;Gebäudehülle;;;;x;;;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+874;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;BT A, Dachsanierung;Gebäudehülle;;;;;x;;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+875;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Errichtung neuer NW-Raum;SEP;;;;;;;;4690000;Abhängig von SEP BK;51.337367;6.545151;fa-graduation-cap;blue
+876;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Einbau Hocheffizienzpumpe;Energetische Sanierung;;x;;;;;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+877;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Herrichtung Innenhof (Bauhausjahr);Außenanlagen;;;;x;;;Gute Schule 2020-Mittel;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+878;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Sanierung Hallenboden und Prellwände;Sanierung; ;;x;;;;Gute Schule 2020-Mittel;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+879;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Energetische Sanierung Außenhülle (Beginn in 2017);Energetische Sanierung;x;;;;;;KInvFöG-Mittel;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+880;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Sanierung Duschen;Sanierung;;;;;;x;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+881;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Sanierung Behinderten-WC;Sanierung;;;;;x;;;4690000;;51.319962;6.532880;fa-graduation-cap;blue
+882;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Sanierung Klassenräume;Sanierung; ;;;;x; ;Gute Schule 2020-Mittel;4690000;;51.319962;6.532880;fa-graduation-cap;blue
+883;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule; Digitalisierung;Digitalisierung; ;;;;x; ;Gute Schule 2020-Mittel;4690000;;51.319962;6.532880;fa-graduation-cap;blue
+884;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Sanierung Flure;Sanierung; ;;;;x; ;Gute Schule 2020-Mittel;4690000;;51.319962;6.532880;fa-graduation-cap;blue
+885;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Innere Schottung EG an HM-Loge;Brandschutz;;;x;;;;Gute Schule 2020-Mittel;4690000;;51.319962;6.532880;fa-graduation-cap;blue
+886;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Sanierung Sanitäranlagen;Sanierung;;;;;;x;;4690000;;51.319962;6.532880;fa-graduation-cap;blue
+887;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Sanierung Hallenboden;Sanierung;;;;x;;;;4690000;;51.319962;6.532880;fa-graduation-cap;blue
+888;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Sanierung Sanitäranlagen;Sanierung;;;;;;x;;4690000;;51.319962;6.532880;fa-graduation-cap;blue
+889;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Prüfung Raumbestand;SEP;;;;;;;;4690000;Abhängig von SEP BK;51.319962;6.532880;fa-graduation-cap;blue
+890;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+891;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Versammlungsstätte/Aula  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+893;Horkesgath 33r;Realschule ;Realschule Horkesgath;Hausmeister-Bungalow 2: Sanierung Flachdach, einschl. Attika-Dämmung;Gebäudehülle; ;;;;x;;;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+894;Horkesgath 33r;Realschule ;Realschule Horkesgath;Einbau BS-Abschnitte 1.Teil;Brandschutz; ;;x;;;;;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+895;Horkesgath 33r;Realschule ;Realschule Horkesgath;Einbau BS-Abschnitte 2.Teil Planung;Brandschutz;;;;x;;;;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+896;Horkesgath 33r;Realschule ;Realschule Horkesgath;Digitalisierung (anteilig vom 124000);Digitalisierung; ;;;;x; ;Gute Schule 2020-Mittel;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+897;Horkesgath 33r;Realschule ;Realschule Horkesgath;Schottung TGA-Durchbrüche;Brandschutz;;;x;;;;;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+898;Horkesgath 33r;Realschule;Realschule Horkesgath;Sanierung/Gestaltung Schulhof;Sanierung;;;x;;;;;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+899;Horkesgath 33r;Realschule ;Realschule Horkesgath;Sanierung Klassenräume;Sanierung;;x;;;;;Gute Schule 2020-Mittel;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+900;Horkesgath 33r;Realschule ;Realschule Horkesgath;Sanierung Sanitäranlagen;Sanierung;x;;;;;;Gute Schule 2020-Mittel;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+901;Horkesgath 33r;Realschule ;Realschule Horkesgath;Sanierung Flurbereiche;Sanierung;;x;;;;;Gute Schule 2020-Mittel;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+902;Horkesgath 33r;Realschule ;Realschule Horkesgath;Erneuerung Fensteranl. Inkl. Sonnenschutz;Gebäudehülle;;;;;x;;;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+903;Horkesgath 33r;Realschule ;Realschule Horkesgath;Erneuerung NW-Einr., R. 037, Chemie, Hörsaal, Lehrertisch;Sanierung;;;;;;x;;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+904;Horkesgath 33r;Realschule ;Realschule Horkesgath;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+906;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Erneuerung der Türanlage Oberstufenhof;Sanierung; ;;x;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+907;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;RS-Türen ;Brandschutz; ;;x;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+908;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Digitalisierung (anteilig vom 124000);Digitalisierung; ;;;;x; ;Gute Schule 2020-Mittel;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+909;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Einbau BS-Abschnitte 1.Teil Planung;Brandschutz;;;x;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+910;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Einbau BS-Abschnitte 2.Teil Planung;Brandschutz;;;;x;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+911;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Erneuerung NW-Einrichtung im R. 20 Chemie Vorbereitung/sammlung;Sanierung;x;;;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+912;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Erneuerung NW-Einrichtung im R. 036, Physik Hörsaal, Lehrertisch;Sanierung;;;;;;x;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+913;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Austausch der Mittelspannungs-Trafoanlage (Hauptanlage);Brandschutz;x;x;;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+914;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Erneuerung Unterverteilungen (beide Schulformen);Brandschutz;x;x;;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+915;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Erneuerung Hauptwasserleitung Wasserzähler zu TH, HM-Wohnungen, Schulgeb. (Rest aus 2017);Sanierung;x;x;;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+916;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Schottung TGA-Durchbrüche;Brandschutz;;;x;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+917;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Hauptanlage Keller SWK;Energetische Sanierung;x;x;;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+918;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Sanierung Fassaden  inkl. Dämmung;Gebäudehülle;;;;;x;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+919;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Flachdachsanierung;Gebäudehülle;;x;x;;;;Gute Schule 2020-Mittel;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+920;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Sanierung Sanitäranlagen (ohne Turnhalle) ;Sanierung;x;;;;;;Gute Schule 2020-Mittel;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+921;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Erneuerung Fensteranl. Inkl. Sonnenschutz;Gebäudehülle;;;;;x;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+922;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;BMA, Rauchmeldertausch;Brandschutz;;x;;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+923;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Austausch mobile Trennwand Aula, Entf. mobile Trennwandanlage;Sanierung;;;;;;x;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+924;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Einbau Hocheffizienzpumpe;Energetische Sanierung;;x;;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+925;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Sanierung Klassenräume;Sanierung;;x;;;;;Gute Schule 2020-Mittel;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+926;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Sanierung der naturwissenschaftlichen Einrichtung im Raum Physik Sammlung ;Sanierung;;;;;;x;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+927;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Sanierung Flurbereiche;Sanierung;;x;;;;;Gute Schule 2020-Mittel;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+928;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Sanierung der naturwissenschaftlichen Einrichtung im Raum 036 Physik Übung;Sanierung;;;;;;x;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+929;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Sanierung/Gestaltung Schulhof;Sanierung;;;x;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+930;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 2, Sanierung Hallenboden (Rest aus 2017);Sanierung;x;x;;;;x;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+931;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 2, Sanierung WC-Anlagen;Sanierung;;;;x;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+932;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 2, Sanierung Sanitäranlagen Zuschauer;Sanierung;;x;;;;;Gute Schule 2020-Mittel;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+933;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 1, Umstellung Beleuchtung auf LED;Energetische Sanierung;x;;;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+934;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 1, Duschen u. WC-Anlagen;Sanierung;;;;;;x;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+935;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 1/2, Sanierung Lüftung;Sanierung;x;;;;;;Gute Schule 2020-Mittel;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+936;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 1/2, Dachsanierung;Gebäudehülle;; ;x;;;;Gute Schule 2020-Mittel;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+937;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 1,  Sanierung Hallenboden Eigenanteil nach Brand;Sanierung;;x;;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+938;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Bauunterhalt < 10.000 Euro;Sanierung;;x;x;x;x;x;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+939;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Prüfung Ausbau G 9;SEP;;;;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+940;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Versammlungsstätte/PZ  Überprüfung/Ertüchtigung;Verkehrssicherheit;;;;;;;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+942;Horkesgath 15;Sport/FB 52;BSA Horkesgath;"Errichtung Kunstrasenplatz; Ausbau leichtathletische Anlage";Sanierung; ;;x;;;;;4800000;;51.338280;6.531827;fa-graduation-cap;blue
+943;Glockenspitz 348s;Sport/FB 52;Sporthalle Glockenspitz;"Erneuerung des Bauwerkes; Erneuerung TGA";Sanierung; ;;;x;;;;4800000;;51.337949;6.609382;fa-graduation-cap;blue
