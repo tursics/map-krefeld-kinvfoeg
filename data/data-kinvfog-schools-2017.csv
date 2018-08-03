@@ -1,0 +1,106 @@
+id;address;schooltype;title;content;type;year;finance;costs;comments;lat;lng;icon;color
+1;Amerner Str. 1-3, NG;Grundschule ;Astrid-Lindgren-Schule;Nebengebäude, Einbau HAZ;Brandschutz;2017;;765000;;51.376276;6.493546;fa-graduation-cap;green
+7;Amerner Str. 1-3, NG;Grundschule ;Astrid-Lindgren-Schule;Nebengebäude  Umsetzung Brandschutzkonzept (Beginn in 2017);Brandschutz;2017;;765000;;51.376276;6.493546;fa-graduation-cap;green
+19;Bismarckstr. 67;Grundschule ;Bismarckschule;Ertüchtigung Außentreppe (Rest aus 2017);Brandschutz;2017;;4525000;;51.341559;06.57382;fa-graduation-cap;green
+22;Bismarckstr. 67;Grundschule ;Bismarckschule;Erweiterung Alarmierung Altbau (Rest aus 2017);Brandschutz;2017;;4525000;;51.341559;06.57382;fa-graduation-cap;green
+24;Bismarckstr. 67;Grundschule ;Bismarckschule;Erneuerung abgehängte Decken in Flurbereiche;Sanierung;2017;;4525000;;51.341559;06.57382;fa-graduation-cap;green
+26;Bismarckstr. 67;Grundschule ;Bismarckschule;kleiner Schulhof, Erneuerung Asphaltdecke;Außenanlagen;2017;Gute Schule 2020-Mittel;4525000;;51.341559;06.57382;fa-graduation-cap;green
+37;Bismarckstr. 67;Grundschule ;Bismarckschule;Pavillon, Hochbau;Neubau;2017;;4525000;;51.341559;06.57382;fa-graduation-cap;green
+38;Bismarckstr. 67;Grundschule ;Bismarckschule;Pavillon, Tiefbau;Neubau;2017;;4525000;;51.341559;06.57382;fa-graduation-cap;green
+39;Bismarckstr. 67;Grundschule ;Bismarckschule;Pavillon, Einrichtung;Neubau;2017;;4525000;;51.341559;06.57382;fa-graduation-cap;green
+59;Buchenstr. 28;Grundschule;Buchenschule;Notmaßnahme Decken (Rest aus 2017);Sanierung;2017;;620000;;51.321356;6.560709;fa-graduation-cap;green
+75;Buscher Holzweg 62;Grundschule;GGS Buscher Holzweg;Sanierung Flachdächer;Gebäudehülle;2017;;840000;;51.375494;6.588768;fa-graduation-cap;green
+111;Fungendonk 31;Grundschule ;Geschwister-Scholl;Erweiterung (Planung);Neubau/SEP;2017;KInvFöG-Mittel;5390000;;51.319835;6.611307;fa-graduation-cap;green
+182;Kohlplatzweg 25;Grundschule;Johansenschule;Turnhalle, Umstellung Beleuchtung auf LED;Energetische Sanierung;2017;;805000;;51.338053;6.646787;fa-graduation-cap;green
+192;An der Josefkirche 2;Grundschule;Josefschule;Notmaßnahme Decken (Rest aus 2017);Verkehrssicherheit;2017;;665000;;51.327285;06.55693;fa-graduation-cap;green
+218;Gießerpfad 2-10;Grundschule;Lindenschule;Erweiterung Alarmierung BMZ;Brandschutz;2017;;480000;;51.320251;6.536653;fa-graduation-cap;green
+256;Felbelstr. 24/NG;Grundschule;Mosaikschule;Notmaßnahme Decken (Rest aus 2017);Brandschutz;2017;;585500;;51.336184;6.568006;fa-graduation-cap;green
+286;Gladbacher Str. 277;Grundschule;Regenbogenschule;Planung/Arch. Sanierung Nebengebäude;Sanierung;2017;KInvFöG-Mittel;5185000;;51.315677;6.558698;fa-graduation-cap;green
+287;Gladbacher Str. 277;Grundschule;Regenbogenschule;Neubau (Planung) inkl. Erweiterung gemäß SEP;Neubau/SEP;2017;Gute Schule 2020-Mittel;5185000;;51.315677;6.558698;fa-graduation-cap;green
+293;Thielenstr. 40;Grundschule;Schönwasserschule;Erneuerung Schuleinfriedung;Verkehrssicherheit;2017;;560000;;51.331845;6.610782;fa-graduation-cap;green
+325;Sollbrüggenstr. 81;Grundschule;Sollbrüggenschule;Umbau Lehrerzimmer (Rest aus 2017);Neubau;2017;;4240000;;51.346608;6.612757;fa-graduation-cap;green
+334;Sollbrüggenstr. 81;Grundschule;Sollbrüggenschule;Neubau (Planung) inkl. Erweiterung gemäß SEP;Neubau/SEP;2017;KInvFöG-Mittel;4240000;;51.346608;6.612757;fa-graduation-cap;green
+354;Wimmersweg 21;Grundschule;GS Am Stadtpark-Fi;Brandschutzkonzept (Rest aus 2017);Brandschutz;2017;;1490000;;51.304266;6.582063;fa-graduation-cap;green
+364;Wimmersweg 21;Grundschule;GS Am Stadtpark-Fi;Turnhalle, Ertüchtigung zur Versammlungsstätte;Sanierung;2017;;1490000;;51.304266;6.582063;fa-graduation-cap;green
+387;Breslauer Str. 280;Hauptschule;Gartenstadtschule;Sanierung Klassenräume für Nutzung FS Stettiner Str. (Inklusion);Sanierung;2017;;1765000;;51.366158;6.617466;fa-graduation-cap;green
+398;Hafelsstr. 41;Hauptschule;Josef-Hafels-Schule;Feuerwehr-/Flucht-/Rettungswegpläne (Rest aus 2017);Brandschutz;2017;;1100000;;51.307656;6.589413;fa-graduation-cap;green
+402;Hafelsstr. 41;Hauptschule;Josef-Hafels-Schule;behindertengerechter Ausbau (nicht förd.fähiger Anteil);Nutzung;2017;;1100000;;51.307656;6.589413;fa-graduation-cap;green
+431;Rote-Kreuz-Str. 25;Realschule;Realschule Oppum;Einbau HAZ;Brandschutz;2017;;1100000;;51.335365;6.591459;fa-graduation-cap;green
+432;Rote-Kreuz-Str. 25;Realschule;Realschule Oppum;Umsetzung Brandschutzkonzept (Rest aus 2017);Brandschutz;2017;;1100000;;51.335365;6.591459;fa-graduation-cap;green
+461;Von Ketteler-Str. 31;Realschule;Freiherr-vom-Stein-Schule;Erneuerung Unterverteilung Hausmeisterloge;Brandschutz;2017;;2625000;;51.313011;6.583335;fa-graduation-cap;green
+462;Von Ketteler-Str. 31;Realschule;Freiherr-vom-Stein-Schule;Erneuerung Unterverteilung Nebenräume;Brandschutz;2017;;2625000;;51.313011;6.583335;fa-graduation-cap;green
+463;Von Ketteler-Str. 31;Realschule;Freiherr-vom-Stein-Schule;Sanierung naturwisschenschafltiche Räume;Sanierung;2017;;2625000;;51.313011;6.583335;fa-graduation-cap;green
+464;Von Ketteler-Str. 31;Realschule;Freiherr-vom-Stein-Schule;Erneuerung Rohrleitungen;Sanierung;2017;;2625000;;51.313011;6.583335;fa-graduation-cap;green
+481;Schmiedestr. 90;Gesamtschule;Gesamtschule Oppum;Austausch Abhangdecken, Bauteile B, C (Rest aus 2017);Sanierung;2017;;17955000;;51.331475;6.605328;fa-graduation-cap;green
+482;Schmiedestr. 90;Gesamtschule;Gesamtschule Oppum;konsumtiver Anteil;Neubau/SEP;2017;KInvFöG-Mittel;17955000;;51.331475;6.605328;fa-graduation-cap;green
+483;Schmiedestr. 90;Gesamtschule;Gesamtschule Oppum;Errichtung, Hochbau;Neubau/SEP;2017;Gute Schule 2020-Mittel;17955000;;51.331475;6.605328;fa-graduation-cap;green
+484;Schmiedestr. 90;Gesamtschule;Gesamtschule Oppum;Errichtung, Einrichtung;Neubau/SEP;2017;;17955000;;51.331475;6.605328;fa-graduation-cap;green
+485;Schmiedestr. 90;Gesamtschule;Gesamtschule Oppum;Werkstattgebäude u. Lagerhaus;Neubau/SEP;2017;KInvFöG-Mittel;17955000;;51.331475;6.605328;fa-graduation-cap;green
+486;Schmiedestr. 90;Gesamtschule;Gesamtschule Oppum;Turnhalle, Bauteil A Austausch Deckenplatten  inkl. Beleuchtung (Rest/ 2017);Sanierung;2017;;17955000;;51.331475;6.605328;fa-graduation-cap;green
+498;Lübecker Weg 56;Gesamtschule;Gesamtschule Uerdingen;Sanierung Außenhülle (Beginn in 2017);Energetische Sanierung;2017;;20515000;;51.355144;6.634433;fa-graduation-cap;green
+500;Lübecker Weg 56;Gesamtschule;Gesamtschule Uerdingen;Turnhalle, Komplettsanierung (Beginn in 2017);Sanierung;2017;;20515000;;51.355144;6.634433;fa-graduation-cap;green
+501;Lübecker Weg 56;Gesamtschule;Gesamtschule Uerdingen;Turnhalle, Erweiterung Alarmierung auf Turnhalle;Brandschutz;2017;;20515000;;51.355144;6.634433;fa-graduation-cap;green
+503;Lübecker Weg 56;Gesamtschule ;Gesamtschule Uerdingen;Energetische Sanierung Außenhülle, KInvFöG;Energetische Sanierung;2017;;20515000;;51.355144;6.634433;fa-graduation-cap;green
+504;Lübecker Weg 56;Gesamtschule ;Gesamtschule Uerdingen;konsumtive Anteile (2018:Lehrerzimmer,2020:Klassenzimmer);Nutzung;2017;;20515000;;51.355144;6.634433;fa-graduation-cap;green
+506;Uerdinger Str. 783;Gesamtschule ;Gesamtschule Uerdingen;Erweiterung, Hochbau;Neubau/SEP;2017;;20515000;;51.349754;6.632974;fa-graduation-cap;green
+507;Uerdinger Str. 783;Gesamtschule ;Gesamtschule Uerdingen;Gestaltung Außenfläche  (Neubau- mit ausgeschrieben ???);Außenanlagen;2017;;20515000;;51.349754;6.632974;fa-graduation-cap;green
+508;Uerdinger Str. 783;Gesamtschule ;Gesamtschule Uerdingen;Erweiterung, Einrichtung;Neubau/SEP;2017;;20515000;;51.349754;6.632974;fa-graduation-cap;green
+521;Uerdinger Str. 783;Gesamtschule;Gesamtschule Uerdingen;Errichtung Aula (Neubau);Neubau/SEP;2017;;20515000;;51.349754;6.632974;fa-graduation-cap;green
+553;Hubertusstr. 120/Turnhalle;Gymnasium;Arndt-Gymnasium;Turnhalle, Austausch Beleuchtung LED (Förderprojekt);Energetische Sanierung;2017;;2355000;;51.333404;6.555390;fa-graduation-cap;green
+555;Lindenstr. 52;Gymnasium;Arndt-Gymnasium;Rauchmeldertausch (Rest aus 2017);Brandschutz;2017;;2355000;;51.327749;6.560633;fa-graduation-cap;green
+556;Lindenstr. 52;Gymnasium;Arndt-Gymnasium;Erweiterung Alarmierung;Brandschutz;2017;;2355000;;51.327749;6.560633;fa-graduation-cap;green
+565;Lindenstr. 52;Gymnasium;Arndt-Gymnasium;Turnhalle, Sanierung Sportboden, Fenster, Sanitär (Beginn in 2017);Sanierung;2017;Gute Schule 2020-Mittel;2355000;;51.327749;6.560633;fa-graduation-cap;green
+584;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Aktualisierung BS-Konzept (Rest aus 2017);Brandschutz;2017;;2150000;;51.339132;6.578988;fa-graduation-cap;green
+592;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Deckensanierung Pädag. Zentrum, Flure (Rest aus 2017);Sanierung;2017;;1745000;;51.348963;6.642208;fa-graduation-cap;green
+594;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Erneuerung Unterverteilungen Neubau;Verkehrssicherheit;2017;;1745000;;51.348963;6.642208;fa-graduation-cap;green
+597;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Umsetzung BS-Konzept und Nutzungsänderung;Brandschutz;2017;;1745000;;51.348963;6.642208;fa-graduation-cap;green
+606;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Turnhalle, Heizung, Sanierung Hallendecke inkl. Beleuchtung;Sanierung;2017;;1745000;;51.348963;6.642208;fa-graduation-cap;green
+611;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Sanierung naturwisschenschafltiche Räume;Sanierung;2017;;1540000;;51.358193;6.637514;fa-graduation-cap;green
+614;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erneuerung Unterverteilungen;Verkehrssicherheit;2017;;1540000;;51.358193;6.637514;fa-graduation-cap;green
+635;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Erweiterung HAZ;Brandschutz;2017;;1900000;;51.313316;6.584057;fa-graduation-cap;green
+636;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Herrichtung Selbstlernzentrum;Nutzung;2017;;1900000;;51.313316;6.584057;fa-graduation-cap;green
+641;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Erneuerung Trafoschaltanlage;Brandschutz;2017;;1900000;;51.313316;6.584057;fa-graduation-cap;green
+653;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;BS-Abkofferung Stahlträger UG;Brandschutz;2017;;1775000;;51.339301;6.565351;fa-graduation-cap;green
+661;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Erweiterung BMA Neubau (Rest aus 2017);Brandschutz;2017;;1775000;;51.339301;6.565351;fa-graduation-cap;green
+666;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Turnhalle,  Erneuerung Hauptverteilung;Verkehrssicherheit;2017;;1775000;;51.339301;6.565351;fa-graduation-cap;green
+668;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Turnhalle,  Erneuerung Übergabe SWK, Eigenanteil;Sanierung;2017;;1775000;;51.339301;6.565351;fa-graduation-cap;green
+676;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Fenstererneuerung Südflügel inkl. Verschattung (Rest aus 2017);Gebäudehülle;2017;;6880000;;51.344476;6.590444;fa-graduation-cap;green
+677;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Montage RW-Außentreppe, inkl. Brandschutzkonzept;Brandschutz;2017;;6880000;;51.344476;6.590444;fa-graduation-cap;green
+699;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Umbau Sekretariat;Nutzung;2017;;1180000;;51.322001;6.555582;fa-graduation-cap;green
+701;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;BS, RS-Türen;Brandschutz;2017;;1180000;;51.322001;6.555582;fa-graduation-cap;green
+711;Reepenweg 40;Gesamtschule;Robert-Jungk;Erweiterung HAZ (Rest aus 2017);Brandschutz;2017;;8375000;;51.369625;6.496526;fa-graduation-cap;green
+712;Reepenweg 40;Gesamtschule;Robert-Jungk;Austausch Mittelspannungs-Trafoanlage;Verkehrssicherheit;2017;;8375000;;51.369625;6.496526;fa-graduation-cap;green
+716;Reepenweg 40;Gesamtschule;Robert-Jungk;Brandschutztüren;Brandschutz;2017;;8375000;;51.369625;6.496526;fa-graduation-cap;green
+718;Reepenweg 40;Gesamtschule;Robert-Jungk;2. Rettungsweg Verwaltung;Brandschutz;2017;;8375000;;51.369625;6.496526;fa-graduation-cap;green
+719;Reepenweg 40;Gesamtschule;Robert-Jungk;Ertüchtigung RLT inkl. Schottung (Rest aus 2017);Brandschutz;2017;;8375000;;51.369625;6.496526;fa-graduation-cap;green
+723;Reepenweg 40;Gesamtschule;Gesamtschule Robert-Jungk;Erweiterung und Anpassung Schulstandort (u. a. Oberstufe Kerken), Planung;SEP;2017;;8375000;;51.369625;6.496526;fa-graduation-cap;green
+725;Reepenweg 40;Gesamtschule;Robert-Jungk;Turnhalle, Erneuerung Übergabe SWK, Eigenanteil;Verkehrssicherheit;2017;;8375000;;51.369625;6.496526;fa-graduation-cap;green
+726;Reepenweg 40;Gesamtschule;Robert-Jungk;Turnhalle, Erneuerung Beleuchtung LED (Förderprojekt);Energetische Sanierung;2017;;8375000;;51.369625;6.496526;fa-graduation-cap;green
+759;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Turnhalle Alte Flur, Austausch Treppenhaustüren;Verkehrssicherheit;2017;;995000;;51.325181;6.600513;fa-graduation-cap;green
+762;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Beseitigung BS-Mängel 2. OG und UG;Brandschutz;2017;;730000;;51.356808;6.532884;fa-graduation-cap;green
+763;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Erweiterung Alarmierung aufgr. TÜV-Mängeln (Rest aus 2017);Brandschutz;2017;;730000;;51.356808;6.532884;fa-graduation-cap;green
+766;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Austausch Bodenbelag Überdachung ;Verkehrssicherheit;2017;;730000;;51.356808;6.532884;fa-graduation-cap;green
+789;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erweiterung BMA;Brandschutz;2017;;7275000;;51.349808;6.635723;fa-graduation-cap;green
+812;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Turnhalle, Umstellung Beleuchtung auf LED;Energetische Sanierung;2017;;7275000;;51.349808;6.635723;fa-graduation-cap;green
+819;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Neue Gefahrstofflagerschränke versch. Labore;Verkehrssicherheit;2017;;2655000;;51.337687;6.610702;fa-graduation-cap;green
+825;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Trinkwasserverteiler ;Sanierung;2017;;2655000;;51.337687;6.610702;fa-graduation-cap;green
+826;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Erneuerung Feuerlöschleitung, Überflurhydranten;Brandschutz;2017;;2655000;;51.337687;6.610702;fa-graduation-cap;green
+839;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung NW-Einrichtung R. B 306 Chemie Übung;Sanierung;2017;;2405000;;51.340283;6.543457;fa-graduation-cap;green
+841;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Installation Sicherheitsbeleuchtung;Verkehrssicherheit;2017;;2405000;;51.340283;6.543457;fa-graduation-cap;green
+844;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Geländererhöhung Altbau, Treppenhaus T2;Verkehrssicherheit;2017;;2405000;;51.340283;6.543457;fa-graduation-cap;green
+846;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Aufschaltung und Erweiterung BMA, Rauchmeldertausch;Brandschutz;2017;;2405000;;51.340283;6.543457;fa-graduation-cap;green
+858;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Turnhalle, Sanierung Hallenbeleuchtung (Umst. auf LED);Energetische Sanierung;2017;;2405000;;51.340283;6.543457;fa-graduation-cap;green
+863;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;HAZ, Bauteile E (Rest aus 2017);Brandschutz;2017;;4690000;;51.337367;6.545151;fa-graduation-cap;green
+865;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Bauteil A, Schottung Treppenhaus (Rest aus 2017);Brandschutz;2017;;4690000;;51.337367;6.545151;fa-graduation-cap;green
+866;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Energetische Sanierung Außenhülle Bt. A/B (Beginn in 2017);Energetische Sanierung;2017;KInvFöG-Mittel;4690000;;51.337367;6.545151;fa-graduation-cap;green
+879;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Energetische Sanierung Außenhülle (Beginn in 2017);Energetische Sanierung;2017;KInvFöG-Mittel;4690000;;51.337367;6.545151;fa-graduation-cap;green
+900;Horkesgath 33r;Realschule ;Realschule Horkesgath;Sanierung Sanitäranlagen;Sanierung;2017;Gute Schule 2020-Mittel;1435000;;51.337681;6.529555;fa-graduation-cap;green
+911;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Erneuerung NW-Einrichtung im R. 20 Chemie Vorbereitung/sammlung;Sanierung;2017;;4215000;;51.336521;6.528825;fa-graduation-cap;green
+913;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Austausch der Mittelspannungs-Trafoanlage (Hauptanlage);Brandschutz;2017;;4215000;;51.336521;6.528825;fa-graduation-cap;green
+914;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Erneuerung Unterverteilungen (beide Schulformen);Brandschutz;2017;;4215000;;51.336521;6.528825;fa-graduation-cap;green
+915;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Erneuerung Hauptwasserleitung Wasserzähler zu TH, HM-Wohnungen, Schulgeb. (Rest aus 2017);Sanierung;2017;;4215000;;51.336521;6.528825;fa-graduation-cap;green
+917;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Hauptanlage Keller SWK;Energetische Sanierung;2017;;4215000;;51.336521;6.528825;fa-graduation-cap;green
+920;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Sanierung Sanitäranlagen (ohne Turnhalle) ;Sanierung;2017;Gute Schule 2020-Mittel;4215000;;51.336521;6.528825;fa-graduation-cap;green
+930;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 2, Sanierung Hallenboden (Rest aus 2017);Sanierung;2017;;4215000;;51.336521;6.528825;fa-graduation-cap;green
+933;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 1, Umstellung Beleuchtung auf LED;Energetische Sanierung;2017;;4215000;;51.336521;6.528825;fa-graduation-cap;green
+935;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 1/2, Sanierung Lüftung;Sanierung;2017;Gute Schule 2020-Mittel;4215000;;51.336521;6.528825;fa-graduation-cap;green

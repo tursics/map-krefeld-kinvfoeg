@@ -1,0 +1,230 @@
+id;address;schooltype;title;content;type;year;finance;costs;comments;lat;lng;icon;color
+4;Amerner Str. 1-3, NG;Grundschule ;Astrid-Lindgren-Schule;Nebengebäude Digitalisierung;Digitalisierung;2022;Gute Schule 2020-Mittel;765000;;51.376276;6.493546;fa-graduation-cap;blue
+10;Bonhoeffer Str. 16;Grundschule ;Astrid-Lindgren-Schule;Digitalisierung;Digitalisierung;2022;Gute Schule 2020-Mittel;765000;;51.371415;6.508907;fa-graduation-cap;blue
+13;Bonhoeffer Str. 16;Grundschule ;Astrid-Lindgren-Schule;Sanierung Klassenräume;Sanierung;2022;;765000;;51.371415;6.508907;fa-graduation-cap;blue
+14;Bonhoeffer Str. 16;Grundschule ;Astrid-Lindgren-Schule;Sanierung Flure und Treppenhäuser;Sanierung;2022;;765000;;51.371415;6.508907;fa-graduation-cap;blue
+15;Bonhoeffer Str. 16;Grundschule ;Astrid-Lindgren-Schule;Sanierung Sanitäranlagen;Sanierung;2022;;765000;;51.371415;6.508907;fa-graduation-cap;blue
+16;Bonhoeffer Str. 16;Grundschule ;Astrid-Lindgren-Schule;2. Rettungsweg für 1. OG, Außentreppe;Brandschutz;2022;;765000;;51.371415;6.508907;fa-graduation-cap;blue
+17;Bonhoeffer Str. 16;Grundschule ;Astrid-Lindgren-Schule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;765000;;51.371415;6.508907;fa-graduation-cap;blue
+21;Bismarckstr. 67;Grundschule ;Bismarckschule;Einbau von Sekuranten;Verkehrssicherheit;2022;;4525000;;51.341559;06.57382;fa-graduation-cap;blue
+24;Bismarckstr. 67;Grundschule ;Bismarckschule;Erneuerung abgehängte Decken in Flurbereiche;Sanierung;2022;;4525000;;51.341559;06.57382;fa-graduation-cap;blue
+29;Bismarckstr. 67;Grundschule ;Bismarckschule;Sanierung Sanitäranlagen;Sanierung;2022;Gute Schule 2020-Mittel;4525000;;51.341559;06.57382;fa-graduation-cap;blue
+40;Bismarckstr. 67;Grundschule ;Bismarckschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;4525000;;51.341559;06.57382;fa-graduation-cap;blue
+42;Freiligrathstr. 47;Grundschule;Brüder-Grimm-Schule;Sanierung Sanitäranlagen;Sanierung;2022;;1120000;;51.333853;6.579489;fa-graduation-cap;blue
+47;Freiligrathstr. 47;Grundschule;Brüder-Grimm-Schule;Sanierung Flure und Treppenhäuser;Sanierung;2022;;1120000;;51.333853;6.579489;fa-graduation-cap;blue
+50;Freiligrathstr. 47;Grundschule;Brüder-Grimm-Schule;Sanierung Klassenräume;Sanierung;2022;;1120000;;51.333853;6.579489;fa-graduation-cap;blue
+52;Freiligrathstr. 47;Grundschule;Brüder-Grimm-Schule;Turnhalle, 2. RW für Umkleiden;Brandschutz;2022;;1120000;;51.333853;6.579489;fa-graduation-cap;blue
+53;Freiligrathstr. 47;Grundschule;Brüder-Grimm-Schule;Turnhalle: Sanierung Sanitäranlagen;Sanierung;2022;;1120000;;51.333853;6.579489;fa-graduation-cap;blue
+57;Freiligrathstr. 47;Grundschule;Brüder-Grimm-Schule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1120000;;51.333853;6.579489;fa-graduation-cap;blue
+70;Buchenstr. 28;Grundschule;Buchenschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;620000;;51.321356;6.560709;fa-graduation-cap;blue
+72;Buscher Holzweg 62;Grundschule;GGS Buscher Holzweg;Sanierung Sanitäranlagen;Sanierung;2022;;840000;;51.375494;6.588768;fa-graduation-cap;blue
+79;Buscher Holzweg 62;Grundschule;GGS Buscher Holzweg;Austausch Haus-Alarm-Zentrale;Brandschutz;2022;;840000;;51.375494;6.588768;fa-graduation-cap;blue
+80;Buscher Holzweg 62;Grundschule;GGS Buscher Holzweg;Bauunterhalt < 10.000 Euro;Sanierung;2022;;840000;;51.375494;6.588768;fa-graduation-cap;blue
+83;Traarer Str. 105;Grundschule;Edith-Stein-Schule;Digitalisierung;Digitalisierung;2022;Gute Schule 2020-Mittel;505000;;51.357253;6.634335;fa-graduation-cap;blue
+84;Traarer Str. 105;Grundschule;Edith-Stein-Schule;Einrichtung Pausenausleihe;Nutzung;2022;;505000;;51.357253;6.634335;fa-graduation-cap;blue
+89;Traarer Str. 105;Grundschule;Edith-Stein-Schule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;505000;;51.357253;6.634335;fa-graduation-cap;blue
+96;Bellenweg 50;Grundschule;Forstwaldschule;Dachsanierung;Gebäudehülle;2022;;630000;;51.302289;6.505864;fa-graduation-cap;blue
+100;Bellenweg 50;Grundschule;Forstwaldschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;630000;;51.302289;6.505864;fa-graduation-cap;blue
+114;Fungendonk 31;Grundschule;Geschwister-Scholl;Bauunterhalt < 10.000 Euro;Sanierung;2022;;5390000;;51.319835;6.611307;fa-graduation-cap;blue
+122;Eichendorffstr. 21;Grundschule ;Grotenburgschule;Sanierung Sanitäranlagen;Sanierung;2022;;1680000;;51.339411;6.599194;fa-graduation-cap;blue
+127;Eichendorffstr. 21;Grundschule ;Grotenburgschule;Turnhalle: Sanierung Sanitäranlagen;Sanierung;2022;;1680000;;51.339411;6.599194;fa-graduation-cap;blue
+128;Eichendorffstr. 21;Grundschule ;Grotenburgschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1680000;;51.339411;6.599194;fa-graduation-cap;blue
+136;Körnerstr. 17;Grundschule;Heinrichsschule;Sanierung Klinkerfassade u. Hydrophobierung;Gebäudehülle;2022;;625000;;51.363608;6.646081;fa-graduation-cap;blue
+137;Körnerstr. 17;Grundschule;Heinrichsschule;Erneuerung Fenster;Gebäudehülle;2022;;625000;;51.363608;6.646081;fa-graduation-cap;blue
+138;Körnerstr. 17;Grundschule;Heinrichsschule;Einbau BS-Türen im UG/EG;Brandschutz;2022;;625000;;51.363608;6.646081;fa-graduation-cap;blue
+139;Körnerstr. 17;Grundschule;Heinrichsschule;Klassen OG über Verwaltung, 2. Rettungsweg;Brandschutz;2022;;625000;;51.363608;6.646081;fa-graduation-cap;blue
+140;Körnerstr. 17;Grundschule;Heinrichsschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;625000;;51.363608;6.646081;fa-graduation-cap;blue
+153;Kempener Allee 142/NG;Grundschule;GGS Horkesgath;Sanierung Flachdächer BT A/B;Gebäudehülle;2022;;1095000;;51.341356;6.530377;fa-graduation-cap;blue
+158;Horkesgath 50;Grundschule;GGS Horkesgath;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1095000;;51.337299;06.52905;fa-graduation-cap;blue
+165;Girmesdyk 17-19;Grundschule;Jahnschule;Schulhofsanierung;Außenanlagen;2022;Gute Schule 2020-Mittel;855000;;51.344891;6.552899;fa-graduation-cap;blue
+171;Girmesdyk 17-19;Grundschule;Jahnschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;855000;;51.344891;6.552899;fa-graduation-cap;blue
+181;Kohlplatzweg 25;Grundschule;Johansenschule;Schulhofsanierung;Außenanlagen;2022;Gute Schule 2020-Mittel;805000;;51.338053;6.646787;fa-graduation-cap;blue
+185;Kohlplatzweg 25;Grundschule;Johansenschule;Turnhalle, Erneuerung RWA Dach;Brandschutz;2022;;805000;;51.338053;6.646787;fa-graduation-cap;blue
+186;Kohlplatzweg 25;Grundschule;Johansenschule;Turnhalle, Abklebung Dachhaut;Gebäudehülle;2022;;805000;;51.338053;6.646787;fa-graduation-cap;blue
+188;Kohlplatzweg 25;Grundschule;Johansenschule;Turnhalle, Dach mit Attika aus Schiefer;Gebäudehülle;2022;;805000;;51.338053;6.646787;fa-graduation-cap;blue
+190;Kohlplatzweg 25;Grundschule;Johansenschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;805000;;51.338053;6.646787;fa-graduation-cap;blue
+195;An der Josefkirche 2;Grundschule;Josefschule;Einbau RW-Fenster u. Abtrennung Keller;Brandschutz;2022;;665000;;51.327285;06.55693;fa-graduation-cap;blue
+197;An der Josefkirche 2;Grundschule;Josefschule;Sanierung Sanitäranlagen;Sanierung;2022;;665000;;51.327285;06.55693;fa-graduation-cap;blue
+203;An der Josefkirche 2;Grundschule;Josefschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;665000;;51.327285;06.55693;fa-graduation-cap;blue
+209;Oberbruchstr. 87;Grundschule;GS Königshof;Dämmung obere Geschossdecke;Energetische Sanierung;2022;;630000;;51.315926;6.590567;fa-graduation-cap;blue
+212;Oberbruchstr. 87;Grundschule;GS Königshof;Kellerabdichtung;Sanierung;2022;;630000;;51.315926;6.590567;fa-graduation-cap;blue
+213;Oberbruchstr. 87;Grundschule;GS Königshof;Schulhofsanierung;Außenanlagen;2022;Gute Schule 2020-Mittel;630000;;51.315926;6.590567;fa-graduation-cap;blue
+216;Oberbruchstr. 87;Grundschule;GS Königshof;Bauunterhalt < 10.000 Euro;Sanierung;2022;;630000;;51.315926;6.590567;fa-graduation-cap;blue
+219;Gießerpfad 2-10;Grundschule;Lindenschule;Gestaltung Schulhof;Außenanlagen;2022;Gute Schule 2020-Mittel;480000;;51.320251;6.536653;fa-graduation-cap;blue
+222;Gießerpfad 2-10;Grundschule;Lindenschule;Sanierung Flure u. Treppenhäuser;Sanierung;2022;Gute Schule 2020-Mittel;480000;;51.320251;6.536653;fa-graduation-cap;blue
+224;Gießerpfad 2-10;Grundschule;Lindenschule;Einbau BS-Tür bei Milchausgabe;Brandschutz;2022;;480000;;51.320251;6.536653;fa-graduation-cap;blue
+226;Gießerpfad 2-10;Grundschule;Lindenschule;Sanierung Klassenräume;Sanierung;2022;Gute Schule 2020-Mittel;480000;;51.320251;6.536653;fa-graduation-cap;blue
+227;Gießerpfad 2-10;Grundschule;Lindenschule;Sanierung Sanitäranlagen;Sanierung;2022;;480000;;51.320251;6.536653;fa-graduation-cap;blue
+228;Gießerpfad 2-10;Grundschule;Lindenschule;Bauunterhalt< 10.000 Euro;Sanierung;2022;;480000;;51.320251;6.536653;fa-graduation-cap;blue
+230;Gießerpfad 2-10b;Grundschule;St. Michael Schule;Schulhofsanierung ;Außenanlagen;2022;Gute Schule 2020-Mittel;315000;;51.319832;6.535928;fa-graduation-cap;blue
+236;Gießerpfad 2-10b;Grundschule;St. Michael Schule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;315000;;51.319832;6.535928;fa-graduation-cap;blue
+248;Mariannenstr. 29;Grundschule;Mariannenschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;775000;;51.329765;6.570988;fa-graduation-cap;blue
+252;Hofstr. 45;Grundschule;Mosaikschule;Schottung Treppenhäuser inkl. Ausgänge;Brandschutz;2022;;585500;;51.338849;6.553821;fa-graduation-cap;blue
+262;Hofstr. 45;Grundschule;Mosaikschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;585500;;51.338849;6.553821;fa-graduation-cap;blue
+269;Joseph-Görres-Str. 20;Grundschule;Paul-Gerhardt-Schule;Hauptgebäude/Fluchttreppenturm 1. OG;Brandschutz;2022;;555000;;51.352301;6.645455;fa-graduation-cap;blue
+271;Joseph-Görres-Str. 20;Grundschule;Paul-Gerhardt-Schule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;555000;;51.352301;6.645455;fa-graduation-cap;blue
+278;Hülser Str. 449;Grundschule;Pestalozzischule;Altbau, Treppenhaus, BS-Türen, Schottung UG;Brandschutz;2022;;420000;;51.351859;6.537767;fa-graduation-cap;blue
+280;Hülser Str. 449;Grundschule;Pestalozzischule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;420000;;51.351859;6.537767;fa-graduation-cap;blue
+283;Gladbacher Str. 277;Grundschule;Regenbogenschule;Austausch RWA;Brandschutz;2022;;5185000;;51.315677;6.558698;fa-graduation-cap;blue
+291;Gladbacher Str. 277;Grundschule;Regenbogenschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;5185000;;51.315677;6.558698;fa-graduation-cap;blue
+295;Thielenstr. 40;Grundschule;Schönwasserschule;Sanierung Klassenräume;Sanierung;2022;;560000;;51.331845;6.610782;fa-graduation-cap;blue
+297;Thielenstr. 40;Grundschule;Schönwasserschule;Sanierung Treppenhäuser u. Flure;Sanierung;2022;;560000;;51.331845;6.610782;fa-graduation-cap;blue
+302;Thielenstr. 40;Grundschule;Schönwasserschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;560000;;51.331845;6.610782;fa-graduation-cap;blue
+304;Herrenweg 10-14;Grundschule;GS an der Burg;Sanierung Sanitäranlagen;Sanierung;2022;;575000;;51.374774;6.511297;fa-graduation-cap;blue
+306;Herrenweg 10-14;Grundschule;GS an der Burg;Sanierung Klassenräume;Sanierung;2022;;575000;;51.374774;6.511297;fa-graduation-cap;blue
+308;Herrenweg 10-14;Grundschule;GS an der Burg;Sanierung Flurbereiche;Sanierung;2022;;575000;;51.374774;6.511297;fa-graduation-cap;blue
+310;Herrenweg 10-14;Grundschule;GS an der Burg;Bauunterhalt < 10.000 Euro;Sanierung;2022;;575000;;51.374774;6.511297;fa-graduation-cap;blue
+312;Neukirchener Str. 3;Grundschule;Schule an Haus Rath;Turnhalle, Ant. Modernisierung HZ/RLT/WWB (SWK);Energetische Sanierung;2022;;890000;;51.370269;6.617085;fa-graduation-cap;blue
+317;Neukirchener Str. 3;Grundschule;Schule an Haus Rath;Sanierung Klassenräume;Sanierung;2022;;890000;;51.370269;6.617085;fa-graduation-cap;blue
+320;Neukirchener Str. 3;Grundschule;Schule an Haus Rath;Sanierung Flure u. Treppenhaus;Sanierung;2022;;890000;;51.370269;6.617085;fa-graduation-cap;blue
+321;Neukirchener Str. 3;Grundschule;Schule an Haus Rath;Bauunterhalt < 10.000 Euro;Sanierung;2022;;890000;;51.370269;6.617085;fa-graduation-cap;blue
+329;Sollbrüggenstr. 81;Grundschule;Sollbrüggenschule;Neubau, Austausch Eingangstüren;Sanierung;2022;;4240000;;51.346608;6.612757;fa-graduation-cap;blue
+332;Sollbrüggenstr. 81;Grundschule;Sollbrüggenschule;Erneuerung der Fenster;Gebäudehülle;2022;;4240000;;51.346608;6.612757;fa-graduation-cap;blue
+333;Sollbrüggenstr. 81;Grundschule;Sollbrüggenschule;Altbau, Dachsanierung;Gebäudehülle;2022;;4240000;;51.346608;6.612757;fa-graduation-cap;blue
+337;Sollbrüggenstr. 81;Grundschule;Sollbrüggenschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;4240000;;51.346608;6.612757;fa-graduation-cap;blue
+340;Vulkanstr. 264;Grundschule;GS Am Stadtpark-Fi;Neue Zaunanlage;Außenanlagen;2022;;1490000;;51.30829;6.556808;fa-graduation-cap;blue
+348;Vulkanstr. 264;Grundschule;GS Am Stadtpark-Fi;Nebengebäude, Fluchttreppenturm für 1. OG;Brandschutz;2022;;1490000;;51.30829;6.556808;fa-graduation-cap;blue
+352;Vulkanstr. 264;Grundschule;GS Am Stadtpark-Fi;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1490000;;51.30829;6.556808;fa-graduation-cap;blue
+372;Wimmersweg 21;Grundschule;GS Am Stadtpark-Fi;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1490000;;51.304266;6.582063;fa-graduation-cap;blue
+374;Kölner Str. 667;Grundschule;Südschule;Errichtung Überdachung Bt. A + B;Gebäudehülle;2022;;560000;;51.299440;6.592936;fa-graduation-cap;blue
+376;Kölner Str. 667;Grundschule;Südschule;Digitalisierung;Digitalisierung;2022;Gute Schule 2020-Mittel;560000;;51.299440;6.592936;fa-graduation-cap;blue
+377;Kölner Str. 667;Grundschule;Südschule;BT C Keller, Trockenlegung;Sanierung;2022;;560000;;51.299440;6.592936;fa-graduation-cap;blue
+379;Kölner Str. 667;Grundschule;Südschule;Sanierung Sanitäranlagen;Sanierung;2022;;560000;;51.299440;6.592936;fa-graduation-cap;blue
+380;Kölner Str. 667;Grundschule;Südschule;Sanierung Klassenräume;Sanierung;2022;;560000;;51.299440;6.592936;fa-graduation-cap;blue
+382;Kölner Str. 667;Grundschule;Südschule;Sanierung Flure;Sanierung;2022;;560000;;51.299440;6.592936;fa-graduation-cap;blue
+383;Kölner Str. 667;Grundschule;Südschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;560000;;51.299440;6.592936;fa-graduation-cap;blue
+386;Breslauer Str. 280;Hauptschule;Gartenstadtschule;Digitalisierung;Digitalisierung/SEP;2022;Gute Schule 2020-Mittel;1765000;Abhängig von weiterer Nutzung;51.366158;6.617466;fa-graduation-cap;blue
+389;Breslauer Str. 280;Hauptschule;Gartenstadtschule;Austausch Flurdecken;Sanierung/SEP;2022;;1765000;Abhängig von weiterer Nutzung;51.366158;6.617466;fa-graduation-cap;blue
+390;Breslauer Str. 280;Hauptschule;Gartenstadtschule;Anbau Außentreppen;Brandschutz/SEP;2022;;1765000;Abhängig von weiterer Nutzung;51.366158;6.617466;fa-graduation-cap;blue
+391;Breslauer Str. 280;Hauptschule;Gartenstadtschule;Turnhalle, Sanierung;Sanierung/SEP;2022;;1765000;Abhängig von weiterer Nutzung;51.366158;6.617466;fa-graduation-cap;blue
+393;Breslauer Str. 280;Hauptschule;Gartenstadtschule;Bauunterhalt < 10.000 Euro;Sanierung/SEP;2022;;1765000;Abhängig von weiterer Nutzung;51.366158;6.617466;fa-graduation-cap;blue
+397;Hafelsstr. 41;Hauptschule;Josef-Hafels-Schule;Digitalisierung;Digitalisierung;2022;Gute Schule 2020-Mittel;1100000;Abhängig von weiterer Nutzung;51.307656;6.589413;fa-graduation-cap;blue
+399;Hafelsstr. 41;Hauptschule;Josef-Hafels-Schule;Schottung 1. Rettungsweg bei Hausmeisterloge;Brandschutz;2022;;1100000;;51.307656;6.589413;fa-graduation-cap;blue
+403;Hafelsstr. 41;Hauptschule;Josef-Hafels-Schule;Sanierung Klassenräume;Sanierung;2022;;1100000;;51.307656;6.589413;fa-graduation-cap;blue
+404;Hafelsstr. 41;Hauptschule;Josef-Hafels-Schule;Sanierung Abflussrinne Parkplatz;Sanierung;2022;;1100000;;51.307656;6.589413;fa-graduation-cap;blue
+408;Hafelsstr. 41;Hauptschule;Josef-Hafels-Schule;Schulhofsanierung;Außenanlagen;2022;;1100000;;51.307656;6.589413;fa-graduation-cap;blue
+414;Hafelsstr. 41;Hauptschule;Josef-Hafels-Schule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1100000;;51.307656;6.589413;fa-graduation-cap;blue
+416;Prinz-Ferdinand-Strasse 155;Sonstige Nutzung;Prinz-Ferdinand-Schule;Sanierung Sanitäranlagen;Sanierung;2022;;895000;;51.333176;6.551460;fa-graduation-cap;blue
+417;Prinz-Ferdinand-Strasse 155;Sonstige Nutzung;Prinz-Ferdinand-Schule;Dämmung oberste Geschossdecke;Energetische Sanierung;2022;;895000;;51.333176;6.551460;fa-graduation-cap;blue
+418;Prinz-Ferdinand-Strasse 155;Sonstige Nutzung;Prinz-Ferdinand-Schule;Digitalisierung;Digitalisierung;2022;Gute Schule 2020-Mittel;895000;;51.333176;6.551460;fa-graduation-cap;blue
+419;Prinz-Ferdinand-Strasse 155;Sonstige Nutzung;Prinz-Ferdinand-Schule;Erneuerung naturwisschenschafltiche Räume;Sanierung;2022;;895000;;51.333176;6.551460;fa-graduation-cap;blue
+420;Prinz-Ferdinand-Strasse 155;Sonstige Nutzung;Prinz-Ferdinand-Schule;zwei Fluchttreppen;Brandschutz;2022;;895000;;51.333176;6.551460;fa-graduation-cap;blue
+421;Prinz-Ferdinand-Strasse 155;Sonstige Nutzung;Prinz-Ferdinand-Schule;Einbau HAZ mit Schulnutzung;Brandschutz;2022;;895000;;51.333176;6.551460;fa-graduation-cap;blue
+422;Prinz-Ferdinand-Strasse 155;Sonstige Nutzung;Prinz-Ferdinand-Schule;Turnhalle, Abklebung Dach;Gebäudehülle;2022;;895000;;51.333176;6.551460;fa-graduation-cap;blue
+424;Prinz-Ferdinand-Strasse 155;Sonstige Nutzung;Prinz-Ferdinand-Schule;Turnhalle, Sanierung Sanitäranlagen;Sanierung;2022;;895000;;51.333176;6.551460;fa-graduation-cap;blue
+427;Prinz-Ferdinand-Strasse 155;Sonstige Nutzung;Prinz-Ferdinand-Schule;Turnhalle, Erneuerung Lüftungsschaltschrank;Sanierung;2022;;895000;;51.333176;6.551460;fa-graduation-cap;blue
+429;Prinz-Ferdinand-Strasse 155;Sonstige NutzungPrinz-Ferdinand-Schule;Prinz-Ferdinand-Schule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;895000;;51.333176;6.551460;fa-graduation-cap;blue
+434;Rote-Kreuz-Str. 25;Realschule;Realschule Oppum;Digitalisierung;Digitalisierung;2022;Gute Schule 2020-Mittel;1100000;;51.335365;6.591459;fa-graduation-cap;blue
+435;Rote-Kreuz-Str. 25;Realschule;Realschule Oppum;Sanierung Klassenräume;Sanierung;2022;;1100000;;51.335365;6.591459;fa-graduation-cap;blue
+436;Rote-Kreuz-Str. 25;Realschule;Realschule Oppum;Außentreppe als 2. Rettungsweg;Brandschutz;2022;;1100000;;51.335365;6.591459;fa-graduation-cap;blue
+437;Rote-Kreuz-Str. 25;Realschule;Realschule Oppum;Austausch hölzerner Flur- u. Treppenhausdecken etc.;Sanierung;2022;;1100000;;51.335365;6.591459;fa-graduation-cap;blue
+438;Rote-Kreuz-Str. 25;Realschule;Realschule Oppum;Sanierung Flurbereiche;Sanierung;2022;;1100000;;51.335365;6.591459;fa-graduation-cap;blue
+439;Rote-Kreuz-Str. 25;Realschule;Realschule Oppum;Erneuerung naturwisschenschafltiche Räume;Sanierung;2022;;1100000;;51.335365;6.591459;fa-graduation-cap;blue
+441;Rote-Kreuz-Str. 25;Realschule;Realschule Oppum;Turnhalle, Sanierung Sportboden;Sanierung;2022;;1100000;;51.335365;6.591459;fa-graduation-cap;blue
+443;Rote-Kreuz-Str. 25;Realschule;Realschule Oppum;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1100000;;51.335365;6.591459;fa-graduation-cap;blue
+448;Lewerentzstr. 136;Realschule;Albert-Schweitzer-Schule;Rauchmeldertausch;Brandschutz;2022;;790000;;51.325570;6.557354;fa-graduation-cap;blue
+449;Lewerentzstr. 136;Realschule;Albert-Schweitzer-Schule;Übergang Hauptgebäude Klassentrakt;Sanierung;2022;;790000;;51.325570;6.557354;fa-graduation-cap;blue
+450;Lewerentzstr. 136;Realschule;Albert-Schweitzer-Schule;Sanierung Sanitäranlagen;Sanierung;2022;;790000;;51.325570;6.557354;fa-graduation-cap;blue
+456;Lewerentzstr. 136;Realschule;Albert-Schweitzer-Schule;Versammlungsstätte/Mensa/Aula      Überprüfung/Ertüchtigung;Verkehrssicherheit;2022;;790000;;51.325570;6.557354;fa-graduation-cap;blue
+476;Von Ketteler-Str. 31;Realschule;Freiherr-vom-Stein-Schule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;2625000;;51.313011;6.583335;fa-graduation-cap;blue
+488;Schmiedestr. 90;Gesamtschule;Gesamtschule Oppum;Bauunterhalt < 10.000 Euro;Sanierung;2022;;17955000;;51.331475;6.605328;fa-graduation-cap;blue
+491;Lübecker Weg 56;Gesamtschule;Gesamtschule Uerdingen;Erneuerung Gasleitung;Verkehrssicherheit;2022;;20515000;;51.355144;6.634433;fa-graduation-cap;blue
+494;Lübecker Weg 56;Gesamtschule;Gesamtschule Uerdingen;Sanierung Klassenräume;Sanierung;2022;;20515000;;51.355144;6.634433;fa-graduation-cap;blue
+495;Lübecker Weg 56;Gesamtschule;Gesamtschule Uerdingen;Umnutzung ehemaliges Schüler-WC;Nutzung;2022;;20515000;;51.355144;6.634433;fa-graduation-cap;blue
+496;Lübecker Weg 56;Gesamtschule;Gesamtschule Uerdingen;Sanierung Flure;Sanierung;2022;;20515000;;51.355144;6.634433;fa-graduation-cap;blue
+499;Lübecker Weg 56;Gesamtschule;Gesamtschule Uerdingen;Ersatz Pavillon (im Rahmen des Neubaus);Neubau/SEP;2022;;20515000;;51.355144;6.634433;fa-graduation-cap;blue
+505;Lübecker Weg 56;Gesamtschule ;Gesamtschule Uerdingen;Digitalisierung;Digitalisierung;2022;;20515000;;51.355144;6.634433;fa-graduation-cap;blue
+515;Uerdinger Str. 783;Gesamtschule;Gesamtschule Uerdingen;Einbau BS-Tür zur Verwaltung;Brandschutz;2022;;20515000;;51.349754;6.632974;fa-graduation-cap;blue
+516;Uerdinger Str. 783;Gesamtschule;Gesamtschule Uerdingen;Herrichtung Verwaltungspavillons;Sanierung;2022;;20515000;;51.349754;6.632974;fa-graduation-cap;blue
+518;Uerdinger Str. 783;Gesamtschule;Gesamtschule Uerdingen;Sanierung Sanitäranlagen;Sanierung;2022;;20515000;;51.349754;6.632974;fa-graduation-cap;blue
+519;Uerdinger Str. 783;Gesamtschule;Gesamtschule Uerdingen;Erneuerung HAZ;Brandschutz;2022;;20515000;;51.349754;6.632974;fa-graduation-cap;blue
+520;Uerdinger Str. 783;Gesamtschule;Gesamtschule Uerdingen;Einbau Lehrküche;Neubau/SEP;2022;;20515000;;51.349754;6.632974;fa-graduation-cap;blue
+523;Uerdinger Str. 783;Gesamtschule;Gesamtschule Uerdingen;Turnhalle, Sanierung Sanitäranlagen;Sanierung;2022;;20515000;;51.349754;6.632974;fa-graduation-cap;blue
+526;Uerdinger Str. 783;Gesamtschule;Gesamtschule Uerdingen;Bauunterhalt < 10.000 Euro (beide Standorte);Sanierung;2022;;20515000;;51.349754;6.632974;fa-graduation-cap;blue
+538;Danziger Platz 1;Weiterb.-Kolleg;Weiterbildungskolleg;Bauunterhalt < 10.000 Euro;Sanierung;2022;;655000;;51.336055;6.643849;fa-graduation-cap;blue
+546;Dionysiusstr. 51;Gymnasium;Arndt-Gymnasium;Sanierung Sanitäranlagen;Sanierung;2022;;2355000;;51.331779;6.555485;fa-graduation-cap;blue
+550;Dionysiusstr. 51;Gymnasium;Arndt-Gymnasium;Bauunterhalt < 10.000 Euro  (altes Arndt);Sanierung;2022;;2355000;;51.331779;6.555485;fa-graduation-cap;blue
+551;Dionysiusstr. 51;Gymnasium;Arndt-Gymnasium;Turnhalle, Sanierung Sanitäranlagen;Sanierung;2022;;2355000;;51.331779;6.555485;fa-graduation-cap;blue
+554;Steinstr. 82/Turnhalle;Gymnasium;Arndt-Gymnasium;Turnhalle, Sanierung Sanitäranlagen ;Sanierung;2022;;2355000;;51.331265;6.555226;fa-graduation-cap;blue
+560;Lindenstr. 52;Gymnasium;Arndt-Gymnasium;Dachsanierung ;Gebäudehülle;2022;;2355000;;51.327749;6.560633;fa-graduation-cap;blue
+561;Lindenstr. 52;Gymnasium;Arndt-Gymnasium;Sanierung Sanitäranlagen;Sanierung;2022;;2355000;;51.327749;6.560633;fa-graduation-cap;blue
+563;Lindenstr. 52;Gymnasium;Arndt-Gymnasium;Sanierung naturwisschenschafltiche Räume;Sanierung;2022;;2355000;;51.327749;6.560633;fa-graduation-cap;blue
+566;Lindenstr. 52;Gymnasium;Arndt-Gymnasium;Bauunterhalt < 10.000 Euro  (altes Fichte);Sanierung;2022;;2355000;;51.327749;6.560633;fa-graduation-cap;blue
+581;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Fensteraustausch Turmzimmer, Treppenhaus, Eingangsbereich;Gebäudehülle;2022;;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+588;Moltkeplatz 12;Gymnasium;Am Moltkeplatz;Bauunterhalt < 10.000 Euro;Sanierung;2022;;2150000;;51.339132;6.578988;fa-graduation-cap;blue
+600;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Sanierung Sanitäranlagen;Sanierung;2022;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+605;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Turnhalle, Sanierung Sanitäranlagen;Sanierung;2022;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+607;Fabritiusstr. 15a;Gymnasium;Gymnasium Fabritianum;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1745000;;51.348963;6.642208;fa-graduation-cap;blue
+611;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Sanierung naturwisschenschafltiche Räume;Sanierung;2022;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+614;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Erneuerung Unterverteilungen;Verkehrssicherheit;2022;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+619;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Fassadensanierung, Umbau Dachüberstände, Blitzschutz;Gebäudehülle;2022;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+625;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Umsetzung Brandschutzerfordernisse;Brandschutz;2022;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+630;Nikolaus-Groß-Str. 31;Gymnasium;GY-Am Stadtpark;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1540000;;51.358193;6.637514;fa-graduation-cap;blue
+645;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Erneuerung  Aufzug ;Sanierung;2022;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+647;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Turnhalle,  Erneuerung Warmwasserbereitung;Sanierung;2022;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+649;Joh. Blum Str. 101;Gymnasium;Maria-Sybilla-Merian;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1900000;;51.313316;6.584057;fa-graduation-cap;blue
+662;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Austausch Fenster 2. BA;Gebäudehülle;2022;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+664;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Erneuerung Lüftungsschaltschrank;Sanierung;2022;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+672;Moerser Str. 36;Gymnasium;Gymnasium Ricarda-Huch;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1775000;;51.339301;6.565351;fa-graduation-cap;blue
+690;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Erneuerung Heizzentrale, Austausch WWB u. Thermostatventile;Sanierung;2022;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+693;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Turnhalle, Erneuerung Lüftungssteuerung;Sanierung;2022;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+694;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Turnhalle, Einbau LED-Beleuchtung große Turnhalle;Energetische Sanierung;2022;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+696;Kaiserplatz 31-50;Gesamtschule;Gesamtschule Kaiserplatz;Bauunterhalt < 10.000 Euro;Sanierung;2022;;6880000;;51.344476;6.590444;fa-graduation-cap;blue
+708;Alte Gladbacher Str. 10;Gesamtschule;Kurt-Tucholsky;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1180000;;51.322001;6.555582;fa-graduation-cap;blue
+714;Reepenweg 40;Gesamtschule;Robert-Jungk;Sicherheitsbeleuchtung, Austausch Batterie;Verkehrssicherheit;2022;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+717;Reepenweg 40;Gesamtschule;Robert-Jungk;Sanierung Flure;Sanierung;2022;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+724;Reepenweg 40;Gesamtschule;Robert-Jungk;Sanierung Klassenräume;Sanierung;2022;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+728;Reepenweg 40;Gesamtschule;Robert-Jungk;Turnhalle, Erneuerung Lüftungsschaltschränke;Sanierung;2022;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+729;Reepenweg 40;Gesamtschule;Robert-Jungk;Bauunterhalt < 10.000 Euro;Sanierung;2022;;8375000;;51.369625;6.496526;fa-graduation-cap;blue
+734;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Sanierung Flurbereiche;Sanierung;2022;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+735;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Sanierung Sanitäranlagen;Sanierung;2022;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+737;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Betonsanierung Fassade;Gebäudehülle;2022;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+738;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Sanierung Klassenräume;Sanierung;2022;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+740;Tulpenstr. 11;Förderschule;Franz-Stollwerck-Schule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;575000;;51.341839;6.613989;fa-graduation-cap;blue
+744;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;BS-Ertüchtigung Keller;Brandschutz;2022;;995000;;51.325181;6.600513;fa-graduation-cap;blue
+745;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Sonnenschutz Westseite u. Verwaltung;Sanierung;2022;;995000;;51.325181;6.600513;fa-graduation-cap;blue
+752;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Sanierung Sanitäranlagen;Sanierung;2022;;995000;;51.362880;6.617802;fa-graduation-cap;blue
+756;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Turnhalle, Sanierung Sanitäranlagen;Sanierung;2022;;995000;;51.362880;6.617802;fa-graduation-cap;blue
+757;Stettiner Str. 1;Förderschule;Fried.-von-Bodelschwingh;Lehrbad/Turnhalle, Einbau Fluchttüren am Pausengang;Brandschutz;2022;;995000;;51.362880;6.617802;fa-graduation-cap;blue
+760;Alte Flur 21;Förderschule;Fried.-von-Bodelschwingh;Bauunterhalt < 10.000 Euro;Sanierung;2022;;995000;;51.325181;6.600513;fa-graduation-cap;blue
+762;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Beseitigung BS-Mängel 2. OG und UG;Brandschutz;2022;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+770;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Sanierung Sanitäranlagen;Sanierung;2022;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+771;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Nutzungsänderung: Neuer Werkraum u. Büroräume;Nutzung;2022;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+772;Inrather Str. 611;Förderschule;Erich Kästner-Schule;TurnhalleSanierung Sanitäranlagen;Sanierung;2022;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+775;Inrather Str. 611;Förderschule;Erich Kästner-Schule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;730000;;51.356808;6.532884;fa-graduation-cap;blue
+778;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Digitalisierung;Digitalisierung;2022;Gute Schule 2020-Mittel;530000;;51.350651;6.640605;fa-graduation-cap;blue
+783;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Erneuerung Thermostatventile;Energetische Sanierung;2022;;530000;;51.350651;6.640605;fa-graduation-cap;blue
+784;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Dämmung oberste Geschossdecke;Energetische Sanierung;2022;;530000;;51.350651;6.640605;fa-graduation-cap;blue
+785;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Dachsanierung;Gebäudehülle;2022;;530000;;51.350651;6.640605;fa-graduation-cap;blue
+787;Rundweg 10;Förderschule;Am Uerdinger Rundweg;Bauunterhalt < 10.000 Euro;Sanierung;2022;;530000;;51.350651;6.640605;fa-graduation-cap;blue
+792;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Umsetzung BS-Konzept;Brandschutz;2022;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+799;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Anschluss Schaltschrank;Sanierung;2022;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+800;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Erneuerung RWAs;Brandschutz;2022;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+806;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Sanierung NW-Einrichtung, R. 00.17, Biologie Übung;Sanierung/SEP;2022;;7275000;Abhängig von SEP BK;51.349808;6.635723;fa-graduation-cap;blue
+815;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Turnhalle, Erneuerung Regenrohre in Zwischendecke;Sanierung;2022;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+816;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Turnhalle, Erneuerung Warmwasserbereitung;Sanierung;2022;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+817;Alte Krefelder Str. 93;Berufskolleg;BK-Uerdingen;Bauunterhalt < 10.000 Euro;Sanierung;2022;;7275000;;51.349808;6.635723;fa-graduation-cap;blue
+822;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Öffnen 2. RW-Bypasstüren in allen Etagen und Haus A + B;Brandschutz;2022;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+824;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Schreinerei, Erneuerung Funkenlöschanlage;Brandschutz;2022;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+832;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Sanierung Sanitäranlagen;Sanierung;2022;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+837;Glockenspitz 348;Berufskolleg;BK-Glockenspitz;Bauunterhalt < 10.000 Euro;Sanierung;2022;;2655000;;51.337687;6.610702;fa-graduation-cap;blue
+851;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Sanierung Sanitäranlagen;Sanierung;2022;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+853;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung Aufzug;Sanierung;2022;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+854;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Erneuerung NW-Einr., R. C 027, Chemie Übung;Sanierung;2022;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+857;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Turnhalle, Sanierung Sanitäranlagen;Sanierung;2022;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+859;Westparkstr. 92-96;Berufskolleg;BK-Vera-Beckers;NG Westparkstr. (Miwi), BS-Maßnahmen;Brandschutz;2022;;2405000;;51.338649;6.543949;fa-graduation-cap;blue
+860;Girmesgath 131;Berufskolleg;BK-Vera-Beckers;Bauunterhalt < 10.000 Euro;Sanierung;2022;;2405000;;51.340283;6.543457;fa-graduation-cap;blue
+872;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Dachdämmung HM-Haus;Energetische Sanierung;2022;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+880;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Sanierung Duschen;Sanierung;2022;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+886;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Sanierung Sanitäranlagen;Sanierung;2022;;4690000;;51.319962;6.532880;fa-graduation-cap;blue
+888;Am Konnertzfeld 19;Berufskolleg;BK-Kaufmannsschule;Turnhalle, Sanierung Sanitäranlagen;Sanierung;2022;;4690000;;51.319962;6.532880;fa-graduation-cap;blue
+890;Neuer Weg 121;Berufskolleg;BK-Kaufmannsschule;Bauunterhalt < 10.000 Euro;Sanierung;2022;;4690000;;51.337367;6.545151;fa-graduation-cap;blue
+903;Horkesgath 33r;Realschule ;Realschule Horkesgath;Erneuerung NW-Einr., R. 037, Chemie, Hörsaal, Lehrertisch;Sanierung;2022;;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+904;Horkesgath 33r;Realschule ;Realschule Horkesgath;Bauunterhalt < 10.000 Euro;Sanierung;2022;;1435000;;51.337681;6.529555;fa-graduation-cap;blue
+912;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Erneuerung NW-Einrichtung im R. 036, Physik Hörsaal, Lehrertisch;Sanierung;2022;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+923;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Austausch mobile Trennwand Aula, Entf. mobile Trennwandanlage;Sanierung;2022;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+926;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Sanierung der naturwissenschaftlichen Einrichtung im Raum Physik Sammlung ;Sanierung;2022;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+928;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Sanierung der naturwissenschaftlichen Einrichtung im Raum 036 Physik Übung;Sanierung;2022;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+930;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 2, Sanierung Hallenboden (Rest aus 2017);Sanierung;2022;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+934;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Turnhalle 1, Duschen u. WC-Anlagen;Sanierung;2022;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
+938;Horkesgath 33g;Gymnasium;Gymnasium Horkesgath;Bauunterhalt < 10.000 Euro;Sanierung;2022;;4215000;;51.336521;6.528825;fa-graduation-cap;blue
