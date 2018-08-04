@@ -230,6 +230,7 @@ var receipt = {
 
 var marker = {
 	layerGroup: null,
+	layerShapes: null,
 	cityData: null,
 
 	show: function (data, cityData, isGeoJSON) {
@@ -254,7 +255,7 @@ var marker = {
 			if (isGeoJSON) {
 				data = data.features;
 
-				L.geoJSON(data, {
+				this.layerShapes = L.geoJSON(data, {
 					style: function (feature) {
 						switch (feature.properties[cityData.marker.color]) {
 						case 'blue':
@@ -274,7 +275,8 @@ var marker = {
 						}
 						return {color: '#000'};
 					}
-				}).addTo(map);
+				});
+				this.layerShapes.addTo(map);
 			}
 
 			var that = this;
@@ -311,6 +313,10 @@ var marker = {
 			if (this.layerGroup) {
 				map.removeLayer(this.layerGroup);
 				this.layerGroup = null;
+			}
+			if (this.layerShapes) {
+				map.removeLayer(this.layerShapes);
+				this.layerShapes = null;
 			}
 		} catch (e) {
 //			console.log(e);
