@@ -136,8 +136,7 @@
 				"id": "kinvfog-streets",
 				"data": "data-kinvfog-streets",
 				"config": "config-kinvfog-streets",
-				"_type": "polygon",
-				"type": "point",
+				"type": "polygon",
 				"icon": "fa-car",
 				"color": "#3cc2ff"
 			}
