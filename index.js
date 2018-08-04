@@ -96,27 +96,25 @@ var receipt = {
 		$('#receiptClose').on('click', this.hide);
 	},
 
-	init: function (data, cityData) {
+	init: function (data, cityData, isGeoJSON) {
 		'use strict';
 
-        this.data = data;
+		if (isGeoJSON) {
+			var dataGeoJSON = data,
+				i;
+
+			data = [];
+
+			for (i = 0; i < dataGeoJSON.length; ++i) {
+				data.push(dataGeoJSON[i].properties);
+			}
+		}
+
+		this.data = data;
         this.cityData = cityData;
 
 		$('#receiptBox #receipt').html(cityData.receipt.body.join("\n"));
 		$('#receiptInfo').css('display', cityData.receipt.info ? 'block' : 'none');
-	},
-
-	initGeoJSON: function (dataGeoJSON, cityData) {
-		'use strict';
-
-		var data = [],
-			i;
-
-		for (i = 0; i < dataGeoJSON.length; ++i) {
-			data.push(dataGeoJSON[i].properties);
-		}
-
-		this.init(data, cityData);
 	},
 
 	show: function () {
@@ -234,7 +232,7 @@ var marker = {
 	layerGroup: null,
 	cityData: null,
 
-	show: function (data, cityData) {
+	show: function (data, cityData, isGeoJSON) {
 		'use strict';
 
 		try {
@@ -253,64 +251,40 @@ var marker = {
 				printerLabel.hide(evt.layer.options.data);
 			});
 
-			var that = this;
-			$.each(data, function (key, val) {
-				if ((typeof val.lat !== 'undefined') && (typeof val.lng !== 'undefined') && val.lat && val.lng) {
-					var marker = L.marker([parseFloat(val.lat), parseFloat(val.lng)], {
-							data: val,
-							format: cityData.printerlabel,
-							icon: L.AwesomeMarkers.icon({
-								icon: val[cityData.marker.icon],
-								prefix: 'fa',
-								markerColor: val[cityData.marker.color]
-							})
-						});
-					that.layerGroup.addLayer(marker);
-				}
-			});
-		} catch (e) {
-//			console.log(e);
-		}
-	},
+			if (isGeoJSON) {
+				data = data.features;
 
-	showGeoJSON: function (dataGeoJSON, cityData) {
-		'use strict';
-
-		try {
-			this.cityData = cityData;
-
-			this.layerGroup = L.featureGroup([]);
-			this.layerGroup.addTo(map);
-
-			this.layerGroup.addEventListener('click', function (evt) {
-				receipt.update(evt.layer.options.data);
-			});
-			this.layerGroup.addEventListener('mouseover', function (evt) {
-				printerLabel.show([evt.latlng.lat, evt.latlng.lng], evt.layer.options.data, evt.layer.options.format, evt.layer.options.icon);
-			});
-			this.layerGroup.addEventListener('mouseout', function (evt) {
-				printerLabel.hide(evt.layer.options.data);
-			});
-
-/*			console.log(dataGeoJSON[0]);
-			map.addLayer({
-				'id': 'foo',
-				'type': 'fill',
-				'source': {
-					'type': 'geojson',
-					'data': dataGeoJSON[0]
-				},
-				'layout': {},
-				'paint': {
-					'fill-color': '#088',
-					'fill-opacity': 0.8
-				}
-			});*/
+				L.geoJSON(data, {
+					style: function (feature) {
+						switch (feature.properties[cityData.marker.color]) {
+						case 'blue':
+							return {color: '#38aadd'};
+						case 'orange':
+							return {color: '#f69730'};
+						case 'purple':
+							return {color: '#d252b9'};
+						case 'red':
+							return {color: '#d63e2a'};
+						case 'gray':
+							return {color: '#a3a3a3'};
+						case 'green':
+							return {color: '#72b026'};
+						case 'white':
+							return {color: '#888'};
+						}
+						return {color: '#000'};
+					}
+				}).addTo(map);
+			}
 
 			var that = this;
-			$.each(dataGeoJSON, function (key, obj) {
-				var val = obj.properties,
+			$.each(data, function (key, obj) {
+				var val = obj,
 					marker;
+
+				if (isGeoJSON) {
+					val = val.properties;
+				}
 
 				if ((typeof val.lat !== 'undefined') && (typeof val.lng !== 'undefined') && val.lat && val.lng) {
 					marker = L.marker([parseFloat(val.lat), parseFloat(val.lng)], {
@@ -326,7 +300,7 @@ var marker = {
 				}
 			});
 		} catch (e) {
-			window.console.log(e);
+//			window.console.log(e);
 		}
 	},
 
@@ -376,11 +350,16 @@ var search = {
 		});
 	},
 
-	init: function (data, cityData) {
+	init: function (data, cityData, isGeoJSON) {
 		'use strict';
 
 		var that = this;
 		this.schools = [];
+
+		if (isGeoJSON) {
+			// todo: implement this feature for GeoJSON files
+			data = [];
+		}
 
 		try {
 			$.each(data, function (key, val) {
@@ -414,14 +393,6 @@ var search = {
 		});
 
 		this.show();
-	},
-
-	initGeoJSON: function (dataGeoJSON, cityData) {
-		'use strict';
-
-		var data = [];
-
-		this.init(data, cityData);
 	},
 
 	callbackOnSelect: function (suggestion) {
@@ -573,20 +544,9 @@ var data = {
 					return;
 				}
 
-				if ('polygon' === city.type) {
-					if (1 > data.features.length) {
-						window.console.error('wrong geojson format');
-						return;
-					}
-
-					receipt.initGeoJSON(data.features, cityData);
-					marker.showGeoJSON(data.features, cityData);
-					search.initGeoJSON(data.features, cityData);
-				} else {
-					receipt.init(data, cityData);
-					marker.show(data, cityData);
-					search.init(data, cityData);
-				}
+				receipt.init(data, cityData, 'polygon' === city.type);
+				marker.show(data, cityData, 'polygon' === city.type);
+				search.init(data, cityData, 'polygon' === city.type);
 			}
 		});
 	}
