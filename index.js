@@ -9,8 +9,7 @@ var map = null;
 
 //mapboxgl.accessToken = 'pk.eyJ1IjoidHVyc2ljcyIsImEiOiJjajBoN3hzZGwwMDJsMnF0YW96Y2l3OGk2In0._5BdojVYvNuR6x4fQNYZrA';
 var baseURI = 'https://tursics.github.io/map-krefeld-kinvfoeg',
-	appName = 'Krefeld <span style="font-size:.6em;text-transform:uppercase;font-weight:bold;">hier passiert was!</span>',
-	fontawesomePath = './assets/fontawesome/';
+	appName = 'Krefeld <span style="font-size:.6em;text-transform:uppercase;font-weight:bold;">hier passiert was!</span>';
 
 //-----------------------------------------------------------------------
 
@@ -299,7 +298,7 @@ var marker = {
 				'type': 'fill',
 				'source': {
 					'type': 'geojson',
-            		'data': dataGeoJSON[0]
+					'data': dataGeoJSON[0]
 				},
 				'layout': {},
 				'paint': {
@@ -310,23 +309,24 @@ var marker = {
 
 			var that = this;
 			$.each(dataGeoJSON, function (key, obj) {
-				var val = obj.properties;
+				var val = obj.properties,
+					marker;
 
 				if ((typeof val.lat !== 'undefined') && (typeof val.lng !== 'undefined') && val.lat && val.lng) {
-					var marker = L.marker([parseFloat(val.lat), parseFloat(val.lng)], {
-							data: val,
-							format: cityData.printerlabel,
-							icon: L.AwesomeMarkers.icon({
-								icon: val[cityData.marker.icon],
-								prefix: 'fa',
-								markerColor: val[cityData.marker.color]
-							})
-						});
+					marker = L.marker([parseFloat(val.lat), parseFloat(val.lng)], {
+						data: val,
+						format: cityData.printerlabel,
+						icon: L.AwesomeMarkers.icon({
+							icon: val[cityData.marker.icon],
+							prefix: 'fa',
+							markerColor: val[cityData.marker.color]
+						})
+					});
 					that.layerGroup.addLayer(marker);
 				}
 			});
 		} catch (e) {
-			console.log(e);
+			window.console.log(e);
 		}
 	},
 
@@ -569,13 +569,13 @@ var data = {
 			mimeType: 'application/json',
 			success: function (data) {
 				if (('polygon' === city.type) && ('FeatureCollection' !== data.type)) {
-					console.error('wrong geojson format');
+					window.console.error('wrong geojson format');
 					return;
 				}
 
 				if ('polygon' === city.type) {
 					if (1 > data.features.length) {
-						console.error('wrong geojson format');
+						window.console.error('wrong geojson format');
 						return;
 					}
 
@@ -666,7 +666,9 @@ function getMenuLinkSnippet(menuData, level1, level2) {
 function setCallbacksToMenu(menuData) {
 	'use strict';
 
-	var multiSelection = false;
+	var multiSelection = false,
+		div,
+		i;
 
 	function onClickMenuCB(e) {
 		var menu = document.getElementsByClassName('dropdown-toggle'),
@@ -695,7 +697,8 @@ function setCallbacksToMenu(menuData) {
 			icon = obj.dataset.icon,
 			visibility = false,
 			backgroundColor = obj.style.backgroundColor.split(','),
-			i;
+			i,
+			div;
 
 		if (('undefined' !== typeof map.getLayer) && map.getLayer(layer)) {
 			visibility = map.getLayoutProperty(layer, 'visibility');
@@ -773,8 +776,7 @@ function setCallbacksToMenu(menuData) {
 		}
 	}
 
-	var div = document.getElementsByClassName('dropdown-toggle'),
-		i;
+	div = document.getElementsByClassName('dropdown-toggle');
 
 	for (i = 0; i < div.length; ++i) {
 //		div[i].onclick = onClickMenuCB;
