@@ -1,17 +1,17 @@
 id;address;type;finished;2017;finance;costs;boundfrom;boundto;lat;lng;icon;color
 1;Bahnhofstraße;Flüsterasphalt;x;x;KInvFöG-Mittel;476200;Am Röttgen;DB-Brücke;51.357421;6.647004;fa-car;green
-2;Berliner Straße;Luftreinhaltung;x;;KInvFöG-Mittel;;Vaderstraße;Glindholzstraße;51.338479;6.609431;fa-car;green
-3;Ceresta Straße;Luftreinhaltung;x;;KInvFöG-Mittel;;Georg-C. Marsahll Straße;Weidenbruchweg;51.337457;6.657650;fa-car;green
+2;Berliner Straße;Luftreinhaltung;x;;KInvFöG-Mittel;;Vaderstraße;Glindholzstraße;51.339816;6.612918;fa-car;green
+3;Ceresta Straße;Luftreinhaltung;x;;KInvFöG-Mittel;;Georg-C. Marsahll Straße;Weidenbruchweg;51.337132;6.662931;fa-car;green
 4;Erneuerung LZA;Luftreinhaltung;x;x;KInvFöG-Mittel;120600;Kreuzung St. Anton Straße;Kreuzung Preußenring;51.331240;6.548712;fa-car;green
 5;Flünnertzdyk;Luftreinhaltung;x;x;KInvFöG-Mittel;43500;Sprudeldyk;Nieper Straße;51.364048;6.558064;fa-car;green
 7;Georg-C. Marshall Straße;Luftreinhaltung;x;;KInvFöG-Mittel;;Hafenstraße;Weidenbruchweg;51.337628;6.654007;fa-car;green
 8;Hafenstraße;Luftreinhaltung;x;;KInvFöG-Mittel;51200;Rheinbabenstraße;Georg-C. Marsahll Straße;51.336701;6.643451;fa-car;green
 10;Hökendyk;Luftreinhaltung;x;;KInvFöG-Mittel;53100;Moerser Straße;Kliedbruchstraße;51.359560;6.565991;fa-car;green
 12;Kempener Allee, östl. S.;Luftreinhaltung;x;;KInvFöG-Mittel;15300;Privatstr. H-Nr. 149;Dieselstraße;51.345237;6.524317;fa-car;green
-14;Kirschkamper Weg;Luftreinhaltung;x;x;KInvFöG-Mittel;25500;Lilienthalstraße;Flugplatz Ende;51.385972;6.577422;fa-car;green
+14;Kirschkamper Weg;Luftreinhaltung;x;x;KInvFöG-Mittel;25500;Lilienthalstraße;Flugplatz Ende;51.383120;6.581204;fa-car;green
 16;Moerser Landstraße;Flüsterasphalt;x;;KInvFöG-Mittel;141900;Buscher Holzweg;An der Elfrather Mühle;51.379235;6.594531;fa-car;green
 17;Mündelheimer Straße;Flüsterasphalt ;x;;KInvFöG-Mittel;192100;Alte Krefelder Straße;Königsberger Straße;51.349612;6.644822;fa-car;green
-18;Oppumer Straße;Luftreinhaltung;x;;KInvFöG-Mittel;;Dießemer Bruch;Viktoriastraße;51.331090;6.579472;fa-car;green
+18;Oppumer Straße;Luftreinhaltung;x;;KInvFöG-Mittel;;Dießemer Bruch;Viktoriastraße;51.332648;6.583483;fa-car;green
 19;Schütenhofstraße;Luftreinhaltung;x;;KInvFöG-Mittel;22900;Buschstraße;Uerdinger Straße;51.348436;6.615592;fa-car;green
 21;St. Töniser Straße;Luftreinhaltung;x;;KInvFöG-Mittel;;DB-Brücke;Gutenbergstraße;51.330274;6.543900;fa-car;green
 22;Steegerdyk;Luftreinhaltung;x;x;KInvFöG-Mittel;;Junkersdyk;Bruckersche Straße;51.372693;6.527015;fa-car;green

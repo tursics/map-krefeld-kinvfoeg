@@ -24,8 +24,8 @@
    "costs": null,
    "boundfrom": "Vaderstraße",
    "boundto": "Glindholzstraße",
-   "lat": 51.338479,
-   "lng": 6.609431,
+   "lat": 51.339816,
+   "lng": 6.612918,
    "icon": "fa-car",
    "color": "green"
  },
@@ -39,8 +39,8 @@
    "costs": null,
    "boundfrom": "Georg-C. Marsahll Straße",
    "boundto": "Weidenbruchweg",
-   "lat": 51.337457,
-   "lng": 6.65765,
+   "lat": 51.337132,
+   "lng": 6.662931,
    "icon": "fa-car",
    "color": "green"
  },
@@ -144,8 +144,8 @@
    "costs": 25500,
    "boundfrom": "Lilienthalstraße",
    "boundto": "Flugplatz Ende",
-   "lat": 51.385972,
-   "lng": 6.577422,
+   "lat": 51.383120,
+   "lng": 6.581204,
    "icon": "fa-car",
    "color": "green"
  },
@@ -189,8 +189,8 @@
    "costs": null,
    "boundfrom": "Dießemer Bruch",
    "boundto": "Viktoriastraße",
-   "lat": 51.33109,
-   "lng": 6.579472,
+   "lat": 51.332648,
+   "lng": 6.583483,
    "icon": "fa-car",
    "color": "green"
  },
