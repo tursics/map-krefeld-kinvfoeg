@@ -9,7 +9,9 @@ var map = null;
 
 //mapboxgl.accessToken = 'pk.eyJ1IjoidHVyc2ljcyIsImEiOiJjajBoN3hzZGwwMDJsMnF0YW96Y2l3OGk2In0._5BdojVYvNuR6x4fQNYZrA';
 var baseURI = 'https://tursics.github.io/map-krefeld-kinvfoeg',
-	appName = 'Krefeld <span style="font-size:.6em;text-transform:uppercase;font-weight:bold;">hier passiert was!</span>';
+	appName = 'Krefeld <span style="font-size:.6em;text-transform:uppercase;font-weight:bold;">hier passiert was!</span>',
+	nullPrinterLabel = '&nbsp;',
+	nullReceiptLabel = 'nicht festgelegt';
 
 //-----------------------------------------------------------------------
 
@@ -59,9 +61,13 @@ var printerLabel = {
 		if ('number' === middleFormat) {
 			middle = formatNumber(middle);
 		}
+		middle = middlePrefix + middle;
+		if ((nullPrinterLabel !== '') && (middle === '€-')) {
+			middle = nullPrinterLabel;
+		}
 
 		str += '<div class="top ' + icon.options.markerColor + '">' + top + '</div>';
-		str += '<div class="middle">' + middlePrefix + middle + '</div>';
+		str += '<div class="middle">' + middle + '</div>';
 		str += '<div class="bottom ' + icon.options.markerColor + '">' + ('' === format.bottom ? '' : data[format.bottom]) + '</div>';
 
 		this.layerPopup = L.popup(options)
@@ -137,6 +143,12 @@ var receipt = {
 
 			if (item.parent().hasClass('number')) {
 				txt = formatNumber(txt);
+			} else if (item.parent().hasClass('euro')) {
+				if ((nullReceiptLabel !== '') && (formatNumber(txt) === '-')) {
+					txt = nullReceiptLabel;
+				} else {
+					txt = formatNumber(txt) + ' EUR';
+				}
 			} else if (item.parent().hasClass('boolean')) {
 				txt = (txt === 1 ? 'ja' : (txt === 'x' ? 'ja' : 'nein'));
 			}
@@ -149,6 +161,12 @@ var receipt = {
 
             if (item.parent().hasClass('number')) {
                 txt = formatNumber(txt);
+			} else if (item.parent().hasClass('euro')) {
+				if ((nullReceiptLabel !== '') && (formatNumber(txt) === '-')) {
+					txt = nullReceiptLabel;
+				} else {
+					txt = formatNumber(txt) + ' EUR';
+				}
             } else if (item.parent().hasClass('boolean')) {
                 txt = (txt === 1 ? 'ja' : (txt === 'x' ? 'ja' : 'nein'));
             }
